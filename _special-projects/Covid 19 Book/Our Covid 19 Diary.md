@@ -100,3 +100,22 @@ third_nav_title: Covid 19 Book
 <p>During the May holidays,&nbsp;we invited Dr Ho Shen Yong to carry out &ldquo;Project Toy Car&rdquo; to engage our STEM Club students. Dr Ho is the Associate Dean (Academic) of the College of Science in NTU and Principal Lecturer in the School of Physical and Mathematical Sciences. He teaches Engineering Physics and was designated NTU Educator of the Year in 2018.</p>
 <p>Dr Ho shared, &ldquo;It was a fun experience explaining Science and Technology to primary school children. Probably until we try to create or make something, we will not see the challenges. This toy car project is an opportunity to learn about Science and also learn about learning. It is important that the children have taken a first step, as &lsquo;a journey of a thousand miles begins with a single step&rsquo; &ndash; no matter how small the first step is. We also often just look at the end product but not the hard work in the process, but &lsquo;all things are difficult before they are easy&rsquo;.&rdquo;</p>
 <p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2020/06/22/project-toy-car/"><u>here</u></a>&nbsp;to read more about the students&rsquo; experience in &ldquo;Project Toy Car&rdquo;.</p>
+
+![](/images/19-June-Resized.jpeg)
+
+<h3 style="text-align: center;"><strong>Students' Prototypes</strong></h3>
+
+![](/images/Capture.jpeg)
+
+<h3 style="text-align: center;"><strong>18 June 2020</strong></h3>
+<p style="text-align: center;"><em>I climb and I pant.</em></p>
+<p style="text-align: center;"><em>I instruct and we perspire.</em></p>
+<p style="text-align: center;"><em>We perspire and learn together.</em></p>
+<p style="text-align: center;"><em>We perspire and inspire one another.</em></p>
+<p>As students now go straight to the classroom upon arrival in school, the time in the morning before the start of the first period now becomes another prime opportunity for teachers to connect with their students.</p>
+<p>Using the poem as a hook, Mr Shang shared his personal experiences and engaged his Primary 3 students in a lively conversation. Playing the role of a Teacher Mentor, he used the language of virtues and offered companioning by listening to the students sharing their own reflections.</p>
+<p>Students were encouraged to reflect on their own Covid-19 experiences. By listening to each other&rsquo;s thoughts, feelings and experiences, they learned to empathise with their peers.</p>
+<p>&ldquo;Through the poem, we can tell our friends about our feelings,&rdquo; Xxanier said.</p>
+<p>&ldquo;We experience each other&rsquo;s thoughts and feelings,&rdquo; Sophia added.</p>
+<p>The students also used the language of virtues in sharing what they had learned. Devesh said, &ldquo;We learn to help and be kind to one another.&rdquo;</p>
+<p>Through the teacher mentoring process in the morning, we endeavour to connect with students intentionally to be their &ldquo;coach, counsellor and cheerleader&rdquo; and to help them to support one another.</p>
