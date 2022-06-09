@@ -3,6 +3,8 @@ title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
 ---
+![](/images/Ps-Message-min.jpeg)
+
 <p>We are all certainly hoping for a fresh and liberating new year where our children can have more enriching learning experiences to grow further from, with less worries about the restrictive management measures. Looking back positively however, the disruption from Covid-19 has caused us to explore new ways of learning with technology, and also heightened our sense for mental wellness and the need to help our children to continue growing their character strength.</p>
 <p>Nevertheless, having been through the pandemic for the past 2 years, we may begin to wonder if we are ever going to see a positive change and whether all the sacrifices we have made will be rewarded.</p>
 <p>I hope the story of the bamboo tree will encourage us.</p>
