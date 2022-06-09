@@ -2,4 +2,5 @@ collections:
   special-projects:
     output: true
     order:
+      - Reflections of an Overcomer/.keep
       - The Green Dragonflies and Their Swampy Friends.md
