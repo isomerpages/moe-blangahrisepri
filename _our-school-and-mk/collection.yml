@@ -2,6 +2,8 @@ collections:
   our-school-and-mk:
     output: true
     order:
+      - Our Visitors/We would like to thank Ms Indranee Rajah, Second Minister
+        for Education for visiting our school.md
       - Our Visitors/Hebei Handan Laike Primary School.md
       - Our Visitors/.keep
       - Our Staff/.keep
