@@ -85,3 +85,18 @@ third_nav_title: Covid 19 Book
 
 <h3 style="text-align: center;"><strong>22 June 2020</strong></h3>
 <h3 style="text-align: center;"><strong>Masks Sewn for a Good Cause</strong></h3>
+
+![](/images/Combined-22-June-1.jpeg)
+
+<p>Mdm Kwok Imm Mui, mother of our K2 twins, Ethan and Elza, is part of a group of volunteers across our island who are sewing face masks for foreign workers and the needy. She believes that Singaporeans should play a part to help those most affected at this time by the Covid-19 outbreak. She started sewing at home during the Circuit Breaker. Her two children helped in packing and counting the masks as Mdm Kwok thought it would be good to teach them about empathy for others.</p>
+<p>She can sew between 20 to 30 masks daily which go to CYC Made to Measure and Social Gifting. CYC started an initiative to gather volunteers to sew 300,000 masks for the migrant workers. Social Gifting is a Social Enterprise that also called for volunteers to sew reusable masks that are given to the elderly in nursing homes and the needy.</p>
+<p>To date, Mdm Kwok has sewn more than 300 masks and is still tirelessly supporting this worthy cause. She has also generously donated some masks to some of our MK children. When we asked Ethan and Elza about their mum&rsquo;s efforts, we can see that they are happy and proud of her &ldquo;labour of love&rdquo;.</p>
+<p>We laud Mdm Kwok for her act of volunteerism to help Singapore fight Covid-19!</p>
+
+![](/images/Resized_Twins-Ethan-and-Elza_E.jpeg)
+
+<h3 style="text-align: center;"><strong>19 June 2020</strong></h3>
+<p>Ever wondered how you can build a toy car using materials you can find at home? How do you design it to get it to travel the farthest?</p>
+<p>During the May holidays,&nbsp;we invited Dr Ho Shen Yong to carry out &ldquo;Project Toy Car&rdquo; to engage our STEM Club students. Dr Ho is the Associate Dean (Academic) of the College of Science in NTU and Principal Lecturer in the School of Physical and Mathematical Sciences. He teaches Engineering Physics and was designated NTU Educator of the Year in 2018.</p>
+<p>Dr Ho shared, &ldquo;It was a fun experience explaining Science and Technology to primary school children. Probably until we try to create or make something, we will not see the challenges. This toy car project is an opportunity to learn about Science and also learn about learning. It is important that the children have taken a first step, as &lsquo;a journey of a thousand miles begins with a single step&rsquo; &ndash; no matter how small the first step is. We also often just look at the end product but not the hard work in the process, but &lsquo;all things are difficult before they are easy&rsquo;.&rdquo;</p>
+<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2020/06/22/project-toy-car/"><u>here</u></a>&nbsp;to read more about the students&rsquo; experience in &ldquo;Project Toy Car&rdquo;.</p>
