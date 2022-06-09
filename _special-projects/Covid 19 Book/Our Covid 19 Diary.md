@@ -251,3 +251,32 @@ third_nav_title: Covid 19 Book
 <p>The handwritten, personalised notes had these messages for our children: we felt love in this crisis, your encouragement brings joy and cheer to us at work, and we will continue to work hard to keep you and your loved ones safe. They also contained practical reminders: remember to wash your hands, stay at home, and always listen to your parents.</p>
 <p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/05/SingHealth-ThankYou-messages-Pg-1-25-edited.pdf">here</a>&nbsp;to read the messages from SingHealth Polyclinics.</p>
 <p>Thank you, SingHealth Polyclinics!</p>
+
+![](/images/20-May.jpeg)
+
+<h3 style="text-align: center;"><strong>8 May 2020</strong></h3>
+<p>The home is where children first start learning and mothers especially play an important role in teaching their children.</p>
+<p>As Mother&rsquo;s Day is coming up, our team from MOE Kindergarten @ Blangah Rise would like to take this opportunity to salute all parents for being such amazing teachers!</p>
+<p>In light of the COVID-19 situation where children are engaged in home-based learning, parents are also trying their best to teach and support their children while juggling work and other commitments.</p>
+<p>Therefore, we would like to send our warmest wishes to you on this Mother&rsquo;s Day with a simple short video, to thank all parents (mothers and fathers) for teaching and taking care of your children at this time away from school because we know parents always do what is best for their children.</p>
+<p><a href="https://www.facebook.com/1143547012326368/videos/811909419337297/">Click here to watch the video</a>.</p>
+
+![](/images/8-May-FINAL.jpeg)
+
+<h3 style="text-align: center;"><strong>6 May 2020</strong></h3>
+<p style="text-align: center;"><strong>Masks Sewn with Love</strong></p>
+<p>In early April 2020, when the Ministry of Social and Family (MSF) called out for volunteers to sew reusable masks for their beneficiaries in the Social Service Organisations, Mdm Rozinah Binti Shamsuddin, our very own Operations Support Officer, stepped forward without any hesitation.</p>
+<p>To date, Mdm Rozinah has sewn more than 200 masks during her own free time. She forked out about S$300 from her own pocket to buy materials to make the lovely masks. The masks have been delivered to beneficiaries from Children and Young Persons Homes, Crisis Shelters, Transitional Shelters and Safe Sound Sleeping Spaces (S3Ps).</p>
+<p>Currently, Mdm Rozinah is producing about 30 masks daily, for the next beneficiary group &ndash; our foreign workers community.</p>
+<p>For Mdm Rozinah, volunteering and making masks in this Covid-19 pandemic is &ldquo;A gift of Love and a Joy forever!&rdquo;</p>
+<p>When you are back in school, and bump into Mdm Rozinah, do give her a Thumbs-Up for her love!</p>
+
+![](/images/6-May.jpeg)
+
+<h3 style="text-align: center;"><strong>5 May 2020</strong></h3>
+<p>Today is the start of the Mid-Year School Holidays! It is a different experience for most of us as we are staying home due to the Circuit Breaker.</p>
+<p>Parents and children may experience&nbsp;a range of emotions while being at home. How can we, as parents, manage them then? There are tools parents can utilise to help their children manage some of these emotions better. By focusing on the things one has control over, it facilitates a sense of composure or calmness even during uncertain times. As a result, we feel more peaceful and joyful during this trying period.</p>
+<p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/wellnessduringcircuitbreaker/home">here</a>&nbsp;for tips on how you can help your child and yourself maintain and improve your mental and emotional well-being during this Circuit Breaker!</p>
+<p>In addition,&nbsp;join us in our BRPS Circuit Breaker Challenges starting 6 May. Stay tuned to our school website and Facebook. We look forward to your participation!</p>
+
+![](/images/CB-wellness.jpeg)
