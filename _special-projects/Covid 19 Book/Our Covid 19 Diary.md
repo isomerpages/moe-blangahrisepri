@@ -72,3 +72,16 @@ third_nav_title: Covid 19 Book
 <p>Truly, learning happens everywhere, not just within the four walls of the physical classroom. Watch this space for our students&rsquo; creation of Future BRLC!</p>
 
 ![](/images/Resized_25-June.jpeg)
+
+<h3 style="text-align: center;"><strong>23 June 2020</strong></h3>
+<p>Having to learn about computational thinking and coding using the SLS platform instead of through face-to-face sessions did not dampen our students&rsquo; enthusiasm when they were participating in Code for Fun.</p>
+<p>&ldquo;I enjoyed the code.org activities a lot since the written code is shown in Javascript. I would like to learn more about other types of code, such as VBS. Although Javascript is easy to code, there are limitations. VBS is easier to write but it is restricted to the desktop and not compatible with browsers. I do hope I can learn about quirks in Javascript too,&rdquo; said Wunna, a Primary 5 student, who aspires to be an astronaut when he grows up.</p>
+<p>Code For Fun is a collaboration between MOE and Infocomm Media Development Authority (IMDA). It is part of the school&rsquo;s Aspiring Confident Engineers (ACE) programme. Students learn visual-based programming language using robotic kits and microcontrollers. When the Circuit Breaker started, the 10-hour face-to-face training by IMDA trainers was adjusted so that virtual lessons could go on.</p>
+<p>The students learnt how computational thinking could be applied in everyday situations. Basic programming concepts such as events, loops, variables and functions were taught to the students. Students also applied their logical thinking to solve problems which were broken down into bite sizes.</p>
+<p>Reflecting on her experience of programming a virtual robot, Aggie shared, &ldquo;I enjoyed how I was able to learn a new thing about coding in each lesson. My personal favourite was this game where I had to choose certain actions for the robot to do to overcome a certain obstacle.&rdquo;</p>
+<p>Kristelle added, &ldquo;I really enjoyed the videos provided as they taught me how to make my instructions more detailed. I want to learn how to improve my coding skills. Maybe I can do &lsquo;real&rsquo; coding in future!&rdquo;</p>
+
+![](/images/Resized_23-June.jpeg)
+
+<h3 style="text-align: center;"><strong>22 June 2020</strong></h3>
+<h3 style="text-align: center;"><strong>Masks Sewn for a Good Cause</strong></h3>
