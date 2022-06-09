@@ -19,5 +19,4 @@ Mrs Lee has been a part of Professional Learning Teams (PLT) that look into how 
 
 Indeed, Mrs Lee is a role model to all teachers in BRPS. In recognition of her efforts, she was awarded the 2019 BRPS Inspiring Teacher of Teaching and Learning. Her firm belief in her students, coupled with her passion in the teaching of the English Language, has led her to continuously think of different and interesting ways to inculcate a love for the language in her students. “When students drive their own learning, they will learn so much more,” says Mrs Lee.
 
-
-
+![](/images/msgracelee.jpg)
