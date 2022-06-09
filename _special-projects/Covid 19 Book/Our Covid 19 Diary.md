@@ -320,3 +320,57 @@ third_nav_title: Covid 19 Book
 <p>Rory from K2 Courage read &ldquo;The Giving Tree&rdquo; by Shel Silverstein with his mummy who shared with him about the importance of caring for nature. Rory shared, &ldquo;Recycle, reuse and reduce! Do not waste toilet paper, water and wood!&rdquo; He made a tree after reading the story, using egg cartons and toilet rolls.</p>
 <p>Another K2 child, Ghim Chiu, commemorated Earth Day by making a pencil holder using recycled materials. &ldquo;I used the big giant bottle cap to make the earth and the cardboard box to make the container. We used giftwrap to wrap the container.&rdquo;</p>
 <p>Indeed, protecting our earth starts with small actions and each of us can play our part. Let&rsquo;s make our earth a healthier and cleaner place!</p>
+
+![](/images/Kids_28-April.jpeg)
+
+<h3 style="text-align: center;"><strong>27 April 2020</strong></h3>
+<p>How are pre-schoolers engaged at home during the Circuit Breaker? MOE Kindergarten@Blangah Rise embarked on HBL to ensure that the MK children are engaged with learning. The activities were planned with clear instructions on what to do, so that parents can carry them out easily at home.</p>
+<p>One of the activities, &ldquo;I&rsquo;m A Little Helper at Home&rdquo;, aims to have children develop a sense of responsibility in caring for their family. Parents work with their children to create a duty roster for household chores. As parents are working hard to juggle working from home and supervising home-based learning, sharing household chores will help families cope better. Doing chores also helps the children to improve their motor skills.</p>
+<p>Ms Rona Berdin Anduyan, the parent of a K1 child, said, &ldquo;Dinaish wakes up early every day, even on Saturday mornings, asking to do his HBL like his brother. After doing the activity, &ldquo;I&rsquo;m a Little Helper at Home&rdquo;, Dinaish helped me today by changing the bed and pillow covers.&rdquo;</p>
+<p>Another K1 child, Antonia, is also enjoying her HBL very much. &ldquo;I like to follow my duty roster and water the plants! I like to bake the circle cookies and make letters with the playdough!&rdquo;</p>
+<p>Antonia&rsquo;s mother, Ms Corina Quek, said, &ldquo;The HBL ideas are good and Antonia enjoys doing the activities. She will look at the roster and know what she has to do and when.&rdquo;</p>
+<p>MK teachers will continue to monitor and review the children&rsquo;s learning progress during this Covid-19 period through phone calls and emails. In addition, the teachers also check in on the children&rsquo;s well-being. We hope our children will Stay Home, Stay Safe and Stay Engaged!</p>
+
+![](/images/27-April.jpeg)
+
+<h3 style="text-align: center;"><strong>24 April 2020</strong></h3>
+<p style="text-align: center;"><strong>Teacher @ Home</strong></p>
+<p style="text-align: center;">I used to know the boundary<br />of the classroom I teach in<br />the inside is where I influence<br />outside do not interfere<br />you knock to enter<br />ask for permission to exit.</p>
+<p style="text-align: center;">Now it seems unclear<br />who is also in my class<br />a parent who&rsquo;s supervising<br />curious siblings at a distance<br />or a helper cleaning up the room</p>
+<p style="text-align: center;">I used to engage<br />those dreaming away in class<br />able to prompt those pupils<br />who are not on task<br />also recognize the few<br />whose eyes are pleading to ask</p>
+<p style="text-align: center;">Though now we see close-up<br />the detachment seems more evident<br />the presence i used to spark<br />is lost in the gizmos<br />out in cyberspace<br />support beyond reach at the utmost</p>
+<p style="text-align: center;">Despite the doubts which arise<br />the fear of trying new techniques<br />the clumsy handling of gadgets<br />scurrying for suitable tools<br />to supplement lessons to execute<br />tedious planning undertook</p>
+<p style="text-align: center;">The satisfaction is undeniable<br />when teaching and learning are made possible<br />especially when enthusiasm is shown<br />learning with technology is done<br />at the comfort of one&rsquo;s own home</p>
+<p style="text-align: center;">Without which it will be<br />knowledge not able to be sought<br />out of touch with rules and routines<br />cordiality and etiquette forgotten<br />amongst peers and teachers abound</p>
+<p style="text-align: center;">Would not want such a position<br />when our young generation<br />deprived of education<br />during this &lsquo;stay home&rsquo; situation</p>
+<p style="text-align: center;">Salute to all teachers<br />whose contribution seems meagre<br />but the impact is bountiful<br />for the future of our nation!</p>
+<p style="text-align: center;">Mr Zaini, Form Teacher of 5 Topaz</p>
+
+![](/images/24-April.jpeg)
+
+<h3 style="text-align: center;">23 April 2020</h3>
+<p>Hello Everyone!</p>
+<p>My name is Aarav and I am from Primary 6 Topaz.</p>
+<p>Last Wednesday, a lesson package was assigned to all students on SLS. Many strategies were shared on how to manage ourselves better during Full Home-Based Learning. It recommended various coping strategies or activities for us to carry out to spend our time at home more purposefully.</p>
+<p>For me, whenever I feel stressed, I would either read a good book or play music. These activities calm my nerves and relax my mind. They make me feel better and I would then be able to continue with my daily activities and studies more effectively.</p>
+<p>A book that I have read recently is &ldquo;Story Thieves: Pick the Plot&rdquo; by James Riley. Its engaging and suspenseful storyline enticed me to pick it up and start reading it. This book is highly recommended!</p>
+<p>I have also learnt how to play the guitar, and if I have the chance, I would like to strum you a song!</p>
+<p>I would like to end with the following message: amidst these hard times, let us play our parts responsibly, practise good hygiene and always be happy!</p>
+<p>See you soon!</p>
+
+![](/images/23-April.jpeg)
+
+<h3 style="text-align: center;"><strong>22 April 2020</strong></h3>
+<p>Today, we commemorate Earth Day. The theme for this year is Climate Action. It is extra special as Earth Day turns 50 this year. With the current situation in hand, wherever we might be, let us not forget to commemorate Earth Day even in our small actions to do our part to save the planet that we share living on.</p>
+<p>Every year, Blangah Rise Primary School, has been commemorating this annual event with assembly talks, class activities, recess activities and our annual Project GAIA where we, as a family, collect recyclables from our neighbours around Telok Blangah Heights. However, this year, the COVID-19 pandemic has forced everyone to stay home but that does not dampen our commemorative spirit for Earth Day.</p>
+<p>Our LLP team of teachers have also come up with two special Earth Day lesson packages for our students via SLS. The first package was rolled out to the students earlier this month. We are also taking this opportunity to share with our students how they can turn recyclable items into useful items that they may use at home. This is to promote upcycling to help cut down on the items for recycling or disposing as the current circuit breaker has indirectly generated quite a fair amount of items for disposal. The second lesson package will be dispatched to the students later this month. Indeed, it is a month-long commemoration of Earth Day at Blangah Rise Primary School.</p>
+<p>Our teacher, Mr Mohan, who has been one of the voices behind the lesson packages, is excited by this new approach of reaching out to students instead of having a physical assembly programme. He said, &ldquo;This is something new but we are sure we can reach out to the students to make a difference to our planet Earth even in the comfort of their homes.&rdquo; Mrs Jenny Quek, another teacher who also did voice over for the lesson packages, added, &ldquo;The intent of the commemoration is still kept intact for the students. That is important.&rdquo;</p>
+<p>From the first package, one of the Primary 6 students, Mohamed Afiq, mentioned that &ldquo;Earth is a special planet since it is the only planet which can serve as home for humans and we need to take care of it,&rdquo; as his reflection for the lesson. Another P3 student, Ghim Suan reflected, &ldquo;I have learnt we need to save the earth by reducing waste.&rdquo;</p>
+<p>Click&nbsp;<a href="https://youtu.be/O-QpomTM-GU">here</a>&nbsp;to watch a video containing a special message from all of us at Blangah Rise Primary School on this year&rsquo;s Earth Day.</p>
+<p>We will also be sharing some beautiful ideas for our students to try out at home to make a difference in the world while each one of us commemorate Earth Day safely.</p>
+<p>If you have any ideas to share with our students, feel free to #earthday2020 or #earthday@brps in your post and we will share with our students.</p>
+<p>Let&rsquo;s continue to think of creative ways to come together at home to celebrate and honour our Planet Earth.</p>
+<p>Stay safe. Stay home.</p>
+
+![](/images/Earth-Day.jpeg)
+
