@@ -141,3 +141,55 @@ third_nav_title: Covid 19 Book
 <p>Ms Sharon Ismail, author of their STELLAR text,&nbsp;<em>What Sallamah Didn't Know<strong>,</strong>&nbsp;</em>kindly consented to an e-interview. Ms Sharon Ismail had been engaging our students for the past few years and it was always a pleasure working with her. We collated the questions from the students, which included "Is Sallamah a real person?", "What is your next book?", and "What inspires you?&rdquo; Ms Sharon Ismail patiently replied to the students&rsquo; questions via a recorded segment. At the end of the interview, Sharon Ismail encouraged the students to continue working hard and she hoped to see them physically in 2021.</p>
 <p>Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/06/Thank-you-Ms-Sharon-Ismail.pdf">here</a></strong>&nbsp;to view the thank you notes.</p>
 <p>Our students had definitely gained a new perspective to their STELLAR text and we hope that some will be inspired to be an author in future!</p>
+
+![](/images/Resized_15-June.jpeg)
+
+<h3 style="text-align: center;"><strong>11 June 2020</strong></h3>
+<p>BRPS organised our very own Circuit Breaker Challenge during the month-long May school holidays! The challenge enabled students to explore and learn new things. A number of challenges also empowered students to plan interesting activities with their family.</p>
+<p>Neharika, who is in Primary 5, had a lot of fun trying out the Tongue Twister Challenge. &ldquo;I find words that rhyme very interesting. I enjoyed creating my own tongue twister, and even asked my parents to say it aloud with me!&rdquo;</p>
+<p>Meanwhile, Jayden from Primary 4 shared that he was very excited to see a leopard up close through AR Google. It had given him greater insights into how it looks and what he had learnt in Science lessons.</p>
+<p>With the Circuit Breaker in place, our students stayed home and had extended time to bond with their families. Chiaki, another Primary 4 student, said, &ldquo;I played games with my family and we had a wonderful time together.&rdquo;</p>
+<p>We are heartened to see our students&rsquo; creative works. May they continue to stay curious and experience the joy of learning.</p>
+<p>Click<strong>&nbsp;<a href="https://blangahrisepri.moe.edu.sg/brps-circuit-breaker-challenges/">here</a></strong>&nbsp;to find out more about the Challenges.</p>
+
+![](/images/Resized_11-June-2.jpeg)
+
+<h3 style="text-align: center;"><strong>10 June 2020</strong></h3>
+<p>As students get use the Safety Management Measures (SMM), they also get used to doing Physical Education (PE) differently.</p>
+<p>During PE, we ensure safe distancing and self-management. Each student will exercise within their personal space and place their personal items (for example, water bottle, hand sanitiser, mask and Ziploc bag) on their right.</p>
+<p>Students will remove their mask and safe keep it in their Ziploc bag before PE starts and wear their mask when the lesson ends. Throughout the physical activity, students can stop and drink water, ask to refill their water bottle or go to the restroom, one student at a time. As students are guided to practise self-management, physical activity time is optimised and the lesson is able to proceed smoothly.</p>
+<p>From their feedback, we know that the students enjoy and appreciate PE. After a 30-minute workout of crunches, push-ups and jumping jacks, Jeanette from Primary 6 Sapphire was perspiring and smiling. She said, &ldquo;That was a good workout.&rdquo;</p>
+
+![](/images/Resize_10-June-1.jpeg)
+
+<h3 style="text-align: center;"><strong>9 June 2020</strong></h3>
+<p>To support students returning to school after the Circuit Breaker, Form Teachers brought students through a &ldquo;Back-to-School Stronger Together&rdquo; Package. The package aimed to support students to develop personal resilience, social and community resilience, and build up resilience as a nation.</p>
+<p>The package provided information that helped students understand that the changes in the last 2 months might not have been easy but everyone did their best and overcame some of the difficulties and challenges. Besides checking in with students on their feelings about coming back to school, teachers also reviewed the safe measures that students had to adhere to. Students were also taught different ways they could show care and support to their friends in school without compromising the safety measures.</p>
+<p>&ldquo;The package provided me with a lot of useful information that I needed to know for my daily school routines. Knowing what to expect also helped me to be less anxious and calm down,&rdquo; said Jia Wei, Primary 6 student.</p>
+<p>Irina, another Primary 6 student, commented, &ldquo;We were given opportunities to share what we had done during the Circuit Breaker. It was very interesting to hear from my friends!&rdquo;</p>
+<p>This Back-to-School Stronger Together package will be conducted over the four weeks in June during the weekly Form Teacher Guidance Period (FTGP) as students adjust to this new phase of their school experience.</p>
+
+![](/images/Resize_9-June.jpeg)
+
+<h3 style="text-align: center;"><strong>8 June 2020</strong></h3>
+<p>This week, it was our Primary 1 to 3 students&rsquo; turn to return to school.</p>
+<p>Aaron from Primary 3 Topaz exclaimed, &ldquo;I really miss my classroom and the canteen. They feel so spacious and airy.&rdquo;</p>
+<p>The students came to school fully prepared with their face masks and excited to learn in a safe environment. For a start, the Form Teachers welcomed the students with a Back-To-School package and conducted a quick check-in with everyone. They guided their students on the safe handling of masks. Students had their fixed exam-style seating arrangements and were reminded about safe distancing and personal hygiene routines.</p>
+<p>While Vivian from Primary 1 Topaz shared that it was uncomfortable to wear the mask for the whole day, she valiantly explained, &ldquo;The mask helps to keep me safe. I am just so happy to come back to school because I can see my teachers and friends!&rdquo; Vivian&rsquo;s sentiment was shared by many of her friends.</p>
+<p>What else did our younger students miss other than their peers and teachers?</p>
+<p>Marvell from P1 Opal squealed in delight, &ldquo;Bee hoon! I miss the SATS food. I had bee hoon and fishballs today.&rdquo; Syahmina from P1 Sapphire shared with her friends that she missed the recess food too. She had chosen Cheesy Hawaiian Wrap for herself.</p>
+<p>With staggered recesses in place, our lower primary students were led to their fixed positions at the canteen benches. After putting down their belongings, they washed their hands in an orderly manner before consuming their food. At the end of recess, they did a complete wipe-down of the tables.</p>
+<p>We look forward to the week with our Primary 1 to 3 students before they start on another week of HBL.</p>
+
+![](/images/2.jpeg)
+
+<h3 style="text-align: center;"><strong>4 June 2020</strong></h3>
+<p>Ella from K2 Integrity could not wait for Term 3 to start. &ldquo;I am so happy to come back to school! I miss my friends and teachers,&rdquo; she said. Indeed, many children could not conceal their excitement when they saw their friends and teachers again, and you could see their eyes light up as they caught sight of familiar faces.</p>
+<p>The MK staff have put in place safe management measures to ensure that our kindergarten is clean and safe for the children to return. Tape markings spaced one metre apart are placed along the corridors and outside the toilet. Posters are put up on the walls to remind children of safe distancing.</p>
+<p>Ms Marina Ho, our Centre Head, says, &ldquo;All our staff will be extra vigilant in looking out for the well-being of the children. We will practise safe measures to overcome Covid-19 together.&rdquo;</p>
+<p>Children are advised to bring their own stationery to school and not share it. Those who do not have their own stationery are provided clean stationery in a Ziploc bag. Learning Centre toys and manipulatives are regularly disinfected and placed in Ziploc bags. Children play with these items in their own small groups. No cross sharing between groups or classes is allowed. Outdoor activities like sand and water play have been suspended as they involve physical contact.</p>
+<p>Children practise social distancing when queuing for the toilet or snacks. Teachers supervise the children in washing and disinfecting their hands more frequently, such as before and after snack and going outdoors. Face masks are also worn during outdoor playtime as children are most excited then and converse with their friends frequently.</p>
+<p>In class, the children have &ldquo;safe&rdquo; places to sit. Teachers wear a face shield when teaching in front of the class and switch back to the face mask during small group activities. Mini microphones may be used by the teachers so that the children can still hear their teachers clearly.</p>
+<p>At arrival and dismissal, parents also have to adhere to safe distancing when they line up outside the side gate to drop off and pick up their children. In the canteen, where children wait for the rest of their friends to arrive before proceeding to their classrooms, they sit in their own groupings at designated seats.</p>
+<p>Our MK teachers are indeed happy to see the children after almost 8 weeks of school closure and are eager to ensure that our children catch up on key concepts so that learning in Term 3 can continue seamlessly once more. Teacher Jas says, &ldquo;We really miss the children and will do our best to connect with each child. We will show our care and warmth so that they can enjoy coming to school to learn again.&rdquo;</p>
+<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/06/4-June.pdf"><strong>here</strong></a>for more photos on our safe management measures.</p>
