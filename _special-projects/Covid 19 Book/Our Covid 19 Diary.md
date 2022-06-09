@@ -37,3 +37,5 @@ third_nav_title: Covid 19 Book
 <p>Isha, a Primary 2 student, shared, &ldquo;It&rsquo;s fun. I get to use the badminton racket to control the shuttlecock.&rdquo;</p>
 <p>Camille, another Primary 2 student, said appreciatively, &ldquo;At least I get to play. It&rsquo;s better than not being able to play at all.&rdquo;</p>
 <p>In Phase 2, we will continue to support our students&rsquo; holistic learning and design positive school experiences. Stay safe, stay active, stay happy.</p>
+
+![](/images/Resized_7-July.jpeg)
