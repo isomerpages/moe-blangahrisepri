@@ -2,6 +2,7 @@ collections:
   our-visitors:
     output: true
     order:
+      - Visit by Teachers from Hainan, China.md
       - Professional Exchange with Tanglin Trust School.md
       - Shandong Normal University.md
       - We would like to thank Ms Indranee Rajah, Second Minister for Education
