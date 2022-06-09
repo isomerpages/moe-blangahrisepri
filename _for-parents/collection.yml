@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - SATS School Meals Programme.md
       - The Growing Years.md
       - Our School Rules and Regulations.md
       - MOE FAS Application.md
