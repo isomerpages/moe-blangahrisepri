@@ -2,6 +2,7 @@ collections:
   our-school-and-mk:
     output: true
     order:
+      - "Our Alumni: Making a Difference in Society.md"
       - Our History.md
       - Special Feature on Educators/.keep
       - Our Staff.md
