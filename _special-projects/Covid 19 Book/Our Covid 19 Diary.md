@@ -412,3 +412,5 @@ third_nav_title: Covid 19 Book
 <p>Aarav said, &ldquo;I found the video conferencing session very efficient and useful. Mr Leow clarified my doubts immediately. I understood my misconceptions and knew how to progress on. I did not have to wait for Mr Leow to reply to my messages.&rdquo;</p>
 <p>Wern Yang also shared that the interaction with his peers was beneficial to his learning. &ldquo;I was able to log in to the session easily without any problems. While listening to my peers&rsquo; responses, I picked up new ideas.&rdquo;</p>
 <p>Our teachers will continue to harness the affordances of technology to engage students in their learning.</p>
+
+![](/images/17-April.jpeg)
