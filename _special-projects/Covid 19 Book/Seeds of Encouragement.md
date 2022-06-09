@@ -20,7 +20,15 @@ third_nav_title: Covid 19 Book
 
 <h2 style="text-align: center;">Series 2: Hope</h2>
 
+![](/images/set2_1.jpg)
+
+![](/images/set2_2.jpg)
+
+![](/images/set2_3.jpg)
 
 
 <h2 style="text-align: center;">Series 1: Cheer</h2>
 
+![](/images/set%201_1.jpg)
+
+![](/images/set%201_2.jpg)
