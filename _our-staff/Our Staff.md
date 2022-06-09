@@ -5,6 +5,8 @@ description: ""
 ---
 ![](/images/Staff-photo.jpeg)
 
+<a href="https://moe-blangahrisepri-staging.netlify.app/our-school/special-feature-on-our-educators/"><h2 style="text-align: center;"><strong>Special Feature on Our Educators</strong></h2></a>
+
 <p><a href="https://moe-blangahrisepri-staging.netlify.app/our-school/our-staff/english-teachers/">
 <img src="/images/Blangah-Rise-Departments1.jpeg" 
      style="width:50%">
