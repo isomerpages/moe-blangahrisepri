@@ -2,5 +2,7 @@ collections:
   special-projects:
     output: true
     order:
+      - "Reflections of an Overcomer/Reflections of an Overcomer: Life Lessons
+        from our SG Sports Heroes.md"
       - Reflections of an Overcomer/.keep
       - The Green Dragonflies and Their Swampy Friends.md
