@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Our Staff.md
       - English Department.md
       - Mother Tongue Department.md
       - Mathematics Department.md
@@ -10,4 +11,3 @@ collections:
       - PE, CCA, Art and Music Department.md
       - MOE Kindergarten.md
       - Administration and Operations Team.md
-      - Our Staff.md
