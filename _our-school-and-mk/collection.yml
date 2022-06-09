@@ -2,6 +2,7 @@ collections:
   our-school-and-mk:
     output: true
     order:
+      - Our Staff/Science Department.md
       - Our Staff/Character & Citizenship Education Department.md
       - Our Staff/Information Communications Technology Department.md
       - Our Staff/PE, CCA, Art and Music Department.md
