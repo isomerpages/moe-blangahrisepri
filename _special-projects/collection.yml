@@ -2,6 +2,8 @@ collections:
   special-projects:
     output: true
     order:
+      - "Bicentennial Coffee Table Book/The Making of: Singapore Through
+        Children's Eyes.md"
       - "Bicentennial Coffee Table Book/Telok Blangah Song: Our Bicentennial
         Version.md"
       - Bicentennial Coffee Table Book/Bicentennial Coffee Table Book.md
