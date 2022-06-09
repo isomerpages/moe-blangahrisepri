@@ -27,5 +27,4 @@ description: ""
 </ul>
 <p>Nurturing the unseen stage of growth may not be the most rewarding action to take, but it can be the most important one.</p>
 <p>Wishing you and your family a good year of growth ahead!</p>
-<p>Francis Foo</p>
-<p>Principal</p>
+<p>Francis Foo</br>Principal</p>
