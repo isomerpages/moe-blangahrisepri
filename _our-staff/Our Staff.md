@@ -37,7 +37,12 @@ description: ""
 <img src="/images/Blangah-Rise-Departments8.jpeg" width="100" height="132">
 </a></p>
 
-![](/images/Blangah-Rise-Departments9-1.jpeg)
+<p><a href="https://moe-blangahrisepri-staging.netlify.app/our-school/our-staff/moe-kindergarten-teachers/">
+<img src="/images/Blangah-Rise-Departments9-1.jpeg" width="100" height="132">
+</a></p>
 
+<p><a href="https://moe-blangahrisepri-staging.netlify.app/our-community/administrative-and-operations-team/">
+<img src="/images/Blangah-Rise-Departments10.jpeg" width="100" height="132">
+</a></p>
 
 
