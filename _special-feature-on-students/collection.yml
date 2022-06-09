@@ -1,0 +1,4 @@
+collections:
+  special-feature-on-students:
+    output: true
+    order: []
