@@ -2,5 +2,5 @@ collections:
   our-visitors:
     output: true
     order:
-      - Example Title.md
+      - Hebei Handan Laike Primary School.md
       - Our Visitors.md
