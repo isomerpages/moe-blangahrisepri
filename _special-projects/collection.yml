@@ -2,6 +2,7 @@ collections:
   special-projects:
     output: true
     order:
+      - Covid 19 Book/.keep
       - Reflections of an Overcomer/Stories.md
       - Reflections of an Overcomer/Video.md
       - Reflections of an Overcomer/Postcards.md
