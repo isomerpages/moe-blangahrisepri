@@ -1,4 +1,5 @@
 collections:
   special-projects:
     output: true
-    order: []
+    order:
+      - The Green Dragonflies and Their Swampy Friends.md
