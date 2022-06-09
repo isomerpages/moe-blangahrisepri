@@ -1,7 +1,21 @@
 logo: /images/new-logo-110px (1).png
 links:
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: Our School and MK
+    url: /our-school/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /our-school/principals-message/
+      - title: Our Leadership
+        url: /our-school/our-leadership/
+      - title: Our Staff
+        url: /our-school/our-staff/
+      - title: School Advisory Committee
+        url: /our-school/school-advisory-committee/
+      - title: Our Alumni
+        url: /our-school/alumni/
+      - title: Our Visitors
+        url: /news/our-visitors/
+      - title: Our Identity
+        url: /our-school/our-identity/
   - title: Contact Us
     url: /contact-us/
