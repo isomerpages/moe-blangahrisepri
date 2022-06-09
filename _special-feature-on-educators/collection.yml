@@ -2,6 +2,7 @@ collections:
   special-feature-on-educators:
     output: true
     order:
+      - "Sparking learning through technology infused lessons: Mr Dinesh.md"
       - "Championing Cyberwellness, Digital Literacy and EdTech: Miss Athena
         Tang.md"
       - "Winner of the Arif Budiman Malay Language Teacher Award: Mdm Azlin.md"
