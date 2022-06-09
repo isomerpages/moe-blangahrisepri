@@ -2,6 +2,7 @@ collections:
   special-projects:
     output: true
     order:
+      - Bicentennial Coffee Table Book/Bicentennial Coffee Table Book.md
       - Bicentennial Coffee Table Book/.keep
       - Covid 19 Book/Seeds of Encouragement.md
       - Covid 19 Book/Our Covid 19 Diary.md
