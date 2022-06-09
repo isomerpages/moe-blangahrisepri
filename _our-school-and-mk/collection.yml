@@ -2,10 +2,10 @@ collections:
   our-school-and-mk:
     output: true
     order:
-      - Our Staff.md
-      - Our Identity.md
       - Principal's Message.md
       - Our Leadership.md
+      - Our Staff.md
       - School Advisory Committee.md
       - "Our Alumni: Making a Difference in Society.md"
+      - Our Identity.md
       - Our History.md
