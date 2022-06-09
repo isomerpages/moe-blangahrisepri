@@ -14,4 +14,3 @@ third_nav_title: Reflections of an Overcomer
 ![](/images/stories3.jpg)
 
 ![](/images/stories4.jpg)
-
