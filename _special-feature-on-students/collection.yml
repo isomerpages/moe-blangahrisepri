@@ -1,4 +1,5 @@
 collections:
   special-feature-on-students:
     output: true
-    order: []
+    order:
+      - Special Feature on Our Students.md
