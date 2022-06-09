@@ -2,7 +2,6 @@ collections:
   our-school-and-mk:
     output: true
     order:
-      - Special Feature on Educators/Special Feature on Our Educators.md
       - Special Feature on Educators/.keep
       - Our Staff.md
       - Our Leadership.md
