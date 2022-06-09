@@ -2,6 +2,8 @@ collections:
   special-feature-on-students:
     output: true
     order:
+      - A special feature on Richie, a quiet student blossoms into powerful
+        speaker through debate.md
       - Two BRPS students advance to finals of 2021 Scrabble Tournament For
         Beginners by Mattel.md
       - Special Feature on Our Students.md
