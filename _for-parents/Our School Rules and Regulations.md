@@ -26,8 +26,11 @@ description: ""
 			
 <p><strong>ACCEPTABLE HAIRSTYLES</strong><br>For Boys</p>
 			
-
-    </div>
+![](/images/boyshair.jpg)
+<p>For Girls</p>
+			
+![](/images/girlshair.jpg)
+</div>
   </li>
 	<li>
     <input type="checkbox" id="accordion2">
@@ -56,5 +59,3 @@ description: ""
         This is line 3</p>
     </div>
   </li>
-	
-	
