@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff.md
-      - Mathematics Department.md
       - Science Department.md
       - Character & Citizenship Education Department.md
       - Information Communications Technology Department.md
