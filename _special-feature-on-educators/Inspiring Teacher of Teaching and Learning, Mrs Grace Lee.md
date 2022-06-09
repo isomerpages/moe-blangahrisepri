@@ -18,3 +18,6 @@ Even while she mentors others, Mrs Lee is committed to her own continued profess
 Mrs Lee has been a part of Professional Learning Teams (PLT) that look into how to improve literacy among students. Since the start of 2020, Mrs Lee has been working with her PLT in collaboration with a Master Teacher, Mr William Grosse, on how to enhance reading comprehension in Primary 6 students. Besides reading comprehension, Mrs Lee is also working on improving the school’s Oral Booster package to help our students develop their oral communication skills and share their personal thoughts and anecdotes.
 
 Indeed, Mrs Lee is a role model to all teachers in BRPS. In recognition of her efforts, she was awarded the 2019 BRPS Inspiring Teacher of Teaching and Learning. Her firm belief in her students, coupled with her passion in the teaching of the English Language, has led her to continuously think of different and interesting ways to inculcate a love for the language in her students. “When students drive their own learning, they will learn so much more,” says Mrs Lee.
+
+
+
