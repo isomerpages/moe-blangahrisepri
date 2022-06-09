@@ -2,5 +2,6 @@ collections:
   our-school-and-mk:
     output: true
     order:
+      - Our Staff.md
       - Our Leadership.md
       - Principal's Message.md
