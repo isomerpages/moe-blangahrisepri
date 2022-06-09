@@ -2,6 +2,7 @@ collections:
   special-projects:
     output: true
     order:
+      - Covid 19 Book/Seeds of Encouragement.md
       - Covid 19 Book/Our Covid 19 Diary.md
       - "Covid 19 Book/Here Comes The Storm Now: Our Covid 19 Diary.md"
       - Covid 19 Book/.keep
