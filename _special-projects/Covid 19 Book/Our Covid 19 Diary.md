@@ -280,3 +280,43 @@ third_nav_title: Covid 19 Book
 <p>In addition,&nbsp;join us in our BRPS Circuit Breaker Challenges starting 6 May. Stay tuned to our school website and Facebook. We look forward to your participation!</p>
 
 ![](/images/CB-wellness.jpeg)
+
+<h3 style="text-align: center;"><strong>4 May 2020</strong></h3>
+<p style="text-align: center;">Connect &bull;Cheerlead &bull;Coach</p>
+<p>Since the start of Term 2, CCA has been suspended as part of the precautionary measures against Covid-19. As CCA provides significant learning experiences for students, we decided to connect with our CCA students online during full HBL to cheerlead and coach them during this period.</p>
+<p>We designed a CCA lesson on SLS and connected with our students. In this lesson, we asked the students what they missed most about CCA and invited them to reflect upon the relevance of 7 Habits in their daily lives during full HBL. We also encouraged them to teach one Habit to a family member and share why this is important. To pique students&rsquo; interest in CCA, we created an interactive CCA board using Padlet where specific CCA activities were posted to encourage students&rsquo; participation. Students&rsquo; responses were positive and they appreciated their CCA teachers&rsquo; efforts to connect, cheerlead and coach them.</p>
+<p>Christiano from STEM Club shared that he would coach his sister to &ldquo;begin with the end in mind&rdquo; to help her be focused and complete her HBL on time.</p>
+<p>Kate from Art &amp; Design Club shared that she would coach her brother to &ldquo;put first things first&rdquo; so that he can learn to finish his work first before going to play.</p>
+<p>We are encouraged to know that our students have caught the spirit of cheerleading and coaching others even as their CCA teacher intentionally mentors them. We will continue to connect with them on SLS during the May school holidays and engage them meaningfully with activities that they can do at home.</p>
+
+![](/images/4-May.jpeg)
+
+<h3 style="text-align: center;"><strong>30 April 2020</strong></h3>
+<p>"Full HBL? What is going to happen to my Primary 6 graduating class?&rdquo; Mrs Grace Lee, Form Teacher of Primary 6 Topaz, asked. Mdm Stephanie Song, Year Head for Senior Primary, quickly added, &ldquo;Is it real? How am I going to complete my teaching before PSLE?&rdquo; These were the real conversations going on in the staff room when our Prime Minister made the announcement on 3 April.</p>
+<p>The fear of Covid-19 disrupting the lessons is very real, especially so for the Primary 6 graduating classes.&nbsp;&nbsp;With the national examination in less than six months, there were many questions floating in the minds of students, teachers and parents.&nbsp;&nbsp;How are the teachers going to cope with HBL, make them interesting and help students to continue learning? Our teachers rose to the occasion and leveraged on the affordances of technology. They designed interesting and engaging lessons with videos, activities for Formative Assessment and video conferences to keep students engaged in their learning from home.</p>
+<p>Teaching and educating a child holistically can never be done by a teacher alone. It is a partnership between three parties &ndash; the parent, the child and the teacher. We decided to bring forward the mid-year Parent-Teacher-Child Conference (PTCC). In fact, with full HBL, when most parents are at home, we realised that it would be an ideal time to carry out the PTCC. Teachers started to schedule Zoom meetings to meet parents and students &lsquo;face-to-face&rsquo; to discuss the student&rsquo;s learning progress.</p>
+<p>Ms Ivy Teo, Form Teacher of Primary 5 Opal, said, &ldquo;I have conducted Zoom lessons with my students but never with parents, therefore I did not really know what to expect and how it would turn out. However, the positive comments from the parents spurred me on and I was gladly surprised by the outcome.&rdquo;</p>
+<p>This new platform for PTCC was warmly received by teachers, parents and students. &ldquo;We continued to share and exchange information among colleagues on how to support each student. As such, this enabled us to provide parents with more accurate information and engage them in deeper conversations,&rdquo; said Ms Magdalene Ho, Form Teacher of Primary 6 Sapphire.</p>
+<p>Covid-19 will not deter the teachers&rsquo; determination to engage parents and students. We will continue to find ways to be creative and innovate!</p>
+
+![](/images/30-April.jpeg)
+
+<h3 style="text-align: center;"><strong>29 April 2020</strong></h3>
+<p>What a &lsquo;Zoom&rsquo; day for our students from Primary 3 Topaz today! They started with a Math SLS lesson at 9.00 a.m. followed by Chinese at 10.00 a.m. Best of all, the moment they had all been waiting for &ndash; a lesson using Zoom at 12.45 p.m.</p>
+<p>&ldquo;Hello Josephina!&rdquo; &ldquo;Hello Amelia!&rdquo; &ldquo;Hello Ian&rdquo;&hellip; The students joined the online lesson one by one and greeted one another with wide grins on their faces.</p>
+<p>Chi Fung squealed in delight, &ldquo;I have not seen Aaron for so long!&rdquo;</p>
+<p>Another student asked, &ldquo;Where&rsquo;s Akeno?&rdquo;</p>
+<p>The incessant chatter over this platform invoked a strong sense of emotions in the students. They expressed excitement in seeing their classmates during this extended period of time away from school.</p>
+<p>&ldquo;This is so fun! We can play a &lsquo;live&rsquo; Math game together as a class even when we are in our own homes!&rdquo; exclaimed Gail as she and her classmates participated in the &lsquo;live&rsquo; game on multiplication tables hosted on Kahoot (an online quiz platform).</p>
+<p>The Zoom session meant the most to Jiayi who would be leaving Singapore to return to her home country for good on 30 April. &ldquo;I am so happy to be able to see all my teachers and classmates for the last time,&rdquo; said Jiayi. Despite being unable to bid farewell to her classmates in person, she was at the very least able to attend a final online lesson with them.</p>
+<p>As the video conferencing came to a close, Ms Phang, the form teacher, asked, &ldquo;Jiayi, would you like to say something to your friends?&rdquo; It was a bittersweet yet heart-warming moment to witness. Jiayi waved goodbye to her classmates on screen and tears welled up in her eyes. Reluctantly, her classmates waved back. They promised that they would keep in touch with Jiayi through email or video conferencing, just like what they had experienced today. May their friendships continue to grow.</p>
+<p>&ldquo;There is magic in long-distance friendships. They let you relate to other human beings in a way that goes beyond being physically together and is often more profound.&rdquo; &ndash; Diana Cortes</p>
+
+![](/images/28-April-Final.jpeg)
+
+<h3 style="text-align: center;"><strong>28 April 2020</strong></h3>
+<p>The earth needs everyone! Saving and protecting the earth must start from young.</p>
+<p>MOE Kindergarten teachers emailed parents some Home Based Activities to commemorate Earth Day. Parents were encouraged to talk to their children about the importance of saving earth&rsquo;s resources and caring for the environment. A video clip about Earth Day was shared with the children. The children used recyclable materials to make craft items.</p>
+<p>Rory from K2 Courage read &ldquo;The Giving Tree&rdquo; by Shel Silverstein with his mummy who shared with him about the importance of caring for nature. Rory shared, &ldquo;Recycle, reuse and reduce! Do not waste toilet paper, water and wood!&rdquo; He made a tree after reading the story, using egg cartons and toilet rolls.</p>
+<p>Another K2 child, Ghim Chiu, commemorated Earth Day by making a pencil holder using recycled materials. &ldquo;I used the big giant bottle cap to make the earth and the cardboard box to make the container. We used giftwrap to wrap the container.&rdquo;</p>
+<p>Indeed, protecting our earth starts with small actions and each of us can play our part. Let&rsquo;s make our earth a healthier and cleaner place!</p>
