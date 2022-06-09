@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff.md
-      - English Department.md
       - Mother Tongue Department.md
       - Mathematics Department.md
       - Science Department.md
