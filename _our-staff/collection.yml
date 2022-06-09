@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Science Department.md
       - Information Communications Technology Department.md
       - PE, CCA, Art and Music Department.md
       - MOE Kindergarten.md
