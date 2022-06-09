@@ -17,6 +17,5 @@ description: ""
 
 ![](/images/moredragonfly.jpg)
 
-<p><strong>Let's make a craft dragonfly</strong></p>
-<div>Page 35 of The Green Dragonflies and Their Swampy Friends</div>
+<p><strong>Let's make a craft dragonfly</strong><br>Page 35 of The Green Dragonflies and Their Swampy Friends</p>
 <div><iframe title="YouTube video player" src="https://www.youtube.com/embed/9t9VuyTg2wU" name="fitvid0" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
