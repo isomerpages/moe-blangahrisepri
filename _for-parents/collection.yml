@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - MOE FAS Application.md
       - FAQs.md
