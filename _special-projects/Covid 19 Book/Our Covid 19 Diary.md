@@ -414,3 +414,61 @@ third_nav_title: Covid 19 Book
 <p>Our teachers will continue to harness the affordances of technology to engage students in their learning.</p>
 
 ![](/images/17-April.jpeg)
+
+<h3 style="text-align: center;"><strong>16 April 2020</strong></h3>
+<p><strong>What&rsquo;s for lunch today when everybody is at home?</strong></p>
+<p>Our Primary 1 students participated in a bento making workshop on 13&nbsp;March. You can now re-create the bento with your child at home!&nbsp;With a few simple ingredients you can easily find at home, unleash your creativity and create your own healthy plate.</p>
+<p><strong>Ingredients (1 adult portion)</strong></p>
+<ol>
+<li>200g of cooked rice</li>
+<li>Vegetables &ndash; the more the better!</li>
+<li>90g of protein (we very much prefer a simple egg omelette)</li>
+<li>Some garnish like sesame seeds and ketchup for decoration</li>
+</ol>
+<p>For your child&rsquo;s portion, we advise&nbsp;halving the adult&rsquo;s portion.</p>
+<p>Let your creative juices flow and create the most fun meal your family can ever have!</p>
+
+![](/images/16-April.jpeg)
+
+<h3 style="text-align: center;"><strong>15 April 2020</strong></h3>
+<p>Before full HBL started, some of our students went on Leave of Absence (LOA). When they returned to school, we presented them with a &ldquo;welcome back&rdquo; card. It was also a card to thank them for being &ldquo;heroes&rdquo; who stayed at home during their LOA to help prevent the spread of Covid-19. The card helped the students to know that their teachers and classmates cared for them.</p>
+<p>Now that our students are on full HBL, we would like to acknowledge each and every one of them, because by staying at home, they are &ldquo;heroes&rdquo; in our fight against the spread of COVID-19. Students, continue learning with your teachers from home, who are working equally hard to ensure that your learning remains rich and meaningful!</p>
+
+![](/images/Banner-Photo.jpeg)
+
+<h3 style="text-align: center;"><strong>14 April 2020</strong></h3>
+<p>Although the opportunities for face to face learning has decreased during full HBL, our teachers have tried to maintain the quality of learning. Miss Phang Seow Ling, Form Teacher of Primary 3 Topaz, shares, &ldquo;I use the annotation feature on SLS to explain concepts to my students and provide feedback to them.&rdquo; One of her students, Amelia, feels that Miss Phang&rsquo;s feedback reminds her of being physically in class even though there is less face to face interaction online. Amelia&rsquo;s mother shares that the videos on SLS help her daughter to refresh her learning when needed. &ldquo;If Amelia has doubts, she repeats the video to learn the concepts again.&rdquo; Callis&rsquo; parent shares a similar sentiment. &ldquo;The Science, English and Chinese videos are interesting and Maths lessons are very detailed. Thank you, teachers, for all the hard work!&rdquo;</p>
+
+![](/images/Untitled.jpeg)
+
+<h3 style="text-align: center;"><strong>13 April 2020</strong></h3>
+<p>&ldquo;My main focus going into full HBL was to continually hold my students&rsquo; hearts while ensuring that they grasp concepts with confidence. Over the past few sessions, I have tried a couple of things to maintain the relationships with students that drive engagement as well as learning.</p>
+<p>I start most of my mornings by calling groups of pupils in my different classes. I let them know that I am thinking of them and that I miss going into lessons with them. I believe the connection for my students is greater when we get to hear each other&rsquo;s voices. The pupils are usually very active and excited during the phone conversations, always eager to share more. For students without handphones, I call or text their parents or guardians instead to make sure that no child is left out.&nbsp;I also work closely with my other form teachers to rotate through small groups of students to monitor their well-being.</p>
+<p>I find that routines that foster connection are an essential part of classroom life. It is important to find ways for students to communicate and express their thoughts, be it on school work or personal experiences. Hence, I check-in on them around the same time each day to make certain that I clarify their doubts and they are feeling emotionally well at the same time. It is heartening to see missed calls from my pupils when I am late on my check-ins with them.</p>
+<p>I have also reiterated to my students that they can choose to either talk, email to me, or share their doubts or fears via the Student&rsquo;s Learning Space platform. This has helped the introverted ones to share their feelings in confidence. Connect time is essential whether done in person or online.</p>
+<p>In all, my students are slowly accepting that we are in this together and have even taken the initiative to check on their peers who have difficulty catching up just so that they can update me during my calls to them. That to me is a successful classroom relationship.&rdquo;</p>
+
+![](/images/Muni.jpeg)
+
+<h3 style="text-align: center;"><strong>9 April 2020</strong></h3>
+<p>Today, we commemorate International Friendship Day (IFD) to encourage our students to understand the cultural diversities in our region and to nurture&nbsp;the spirit&nbsp;of friendship among different people.</p>
+<p>Miss Guo Yawen, the teacher in charge, shares, &ldquo;In the past, students would come together for an IFD assembly programme in the school hall. However, this year, as we are playing our part to fight the battle against Covid-19, students are staying at home and learning online. We have therefore shifted the commemoration from the school hall to an online platform, the Student Learning Space (SLS). On SLS, students will watch an IFD video narrated by their peers and answer interactive questions. Just like the usual assembly talk, quiz questions are prepared for students to answer and they can also win attractive prizes!&rdquo;</p>
+<p>Let learning continue beyond the classroom and let us continue to enrich our students' appreciation of the cultures around us.</p>
+
+![](/images/Friendship.jpeg)
+
+<h3 style="text-align: center;"><strong>8 April 2020</strong></h3>
+<p>Parents, what can you do to help your child take stretch breaks in between HBL activities? Mr Eugene Tan, Form Teacher of Primary 3 Sapphire and a trained PE teacher, taught his class some stretching exercises before the start of full HBL. He shares these great tips.</p>
+<p>&ldquo;When I sense that the class energy is low, I will engage the class in a stretching cum breathing exercise. It is a great way to invigorate as well as motivate the child! I try not to repeat my stretching routines so that the children are always inquisitive and will remain engaged. The objective is to get them to stretch the shoulder and neck muscles and do some breathing exercises.</p>
+<p>&ldquo;I will usually get the students to stand up, feet shoulder width apart. Hands stretch up to the ceiling, as high as they can reach! Then with each blow of my whistle, each arm position is changed, from pointing to the side, to pointing forward. Arm positions may change individually (left then right) or change together. While doing that, I like to add descriptions, for example, &lsquo;Like an air traffic controller guiding a plane to land!&rsquo; or, &lsquo;We are doing air swimming!&rsquo;</p>
+<p>&ldquo;I will end off with breathing exercises, where I will get the children to shrug their shoulders, squeeze the shoulders as high as possible and rotate them back. This will cause the chest to expand, and that is when I will ask them to take a deep breath. Do this 3 times and we are done!&rdquo;</p>
+
+![](/images/8-APRIL-IN-SCHOOL-1.jpeg)
+
+<h3 style="text-align: center;"><strong>7 April 2020</strong></h3>
+<p>To prepare students for full home-based learning (HBL) which starts tomorrow, teachers have been giving instructions to ensure that their students know their HBL schedules, how to access Student Learning Space (SLS) and what they need to do to keep well. Miss Norparissah, Form Teacher of Primary 2 Sapphire, says, &ldquo;I look forward to my students learning independently and interacting with them online. Like other teachers, I will be on standby should they have any questions or need any guidance.&rdquo;</p>
+<p>Her students certainly feel assured that their teachers are still supporting them, even though they will not be seeing them. Chong Kai says confidently, &ldquo;I am ready for the one month of home-based learning. My teachers have already given us all the instructions, so I know what to do at home.&rdquo;</p>
+<p>His classmate, Zheng Hao, adds, &ldquo;I feel excited about the upcoming home-based learning. I can use my laptop to learn and it is going to be very fun. But I will miss my friends and teachers.&rdquo;</p>
+<p>We will miss seeing our students in school, but your teachers will continue to stay connected with you through phone calls or SLS. We will be able to go through this together!</p>
+
+![](/images/Ms-Paris-giving-out-instructions-1.jpeg)
