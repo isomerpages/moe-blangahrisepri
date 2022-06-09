@@ -2,5 +2,6 @@ collections:
   our-staff:
     output: true
     order:
+      - MOE Kindergarten.md
       - Administration and Operations Team.md
       - Our Staff.md
