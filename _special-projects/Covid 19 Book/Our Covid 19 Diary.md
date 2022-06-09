@@ -241,3 +241,13 @@ third_nav_title: Covid 19 Book
 <p>On the first day of the face-to-face consultation on 19 May, after going through the safety procedures of ensuring that everyone was wearing a mask and had no fever or flu-like symptoms, students and teachers proceeded to the classrooms. We could still see the smiles on everyone&rsquo;s faces behind the masks and even though everyone was at least 1 metre apart!</p>
 <p>&ldquo;I was able to monitor the students&rsquo; understanding and learning a lot more closely. We were able to discuss questions as a class and listen to different perspectives. Such engagement led to more fruitful learning. Students also appreciated face-to-face learning more because I was able to clarify their doubts and misconceptions and provide immediate feedback,&rdquo; Cikgu Azlin added.</p>
 <p>Ms Eileen Puah asked her students what they missed most in school. Unanimously all the students said, &ldquo;Friends and teachers!&rdquo; Not only were the students happy to see their friends and teachers again, they also showed eagerness to learn.</p>
+<p>Together, we will overcome all challenges in this difficult time and continue to deliver engaging lessons to help our students be ready for the national examinations.</p>
+
+![](/images/21-May-2020.jpeg)
+
+<h3 style="text-align: center;"><strong>20 May 2020</strong></h3>
+<p>On 6 March, the children, parents and staff of Blangah Rise Learning Campus showed our appreciation to SingHealth Polyclinics for being at the frontline in the fight against Covid-19. Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">here</a>&nbsp;to read more about it</p>
+<p>We were very touched when the staff of SingHealth Polyclinics then wrote appreciation notes to our children to thank them for bringing them sunshine. Dr Adrian Ee, CEO of SingHealth Polyclinics, wrote, &ldquo;Your thoughtful and meaningful gifts have brought Sunshine to our staff, as well as given us the strength and determination to rise above the challenges to continue to provide the best care for our patients.&rdquo;</p>
+<p>The handwritten, personalised notes had these messages for our children: we felt love in this crisis, your encouragement brings joy and cheer to us at work, and we will continue to work hard to keep you and your loved ones safe. They also contained practical reminders: remember to wash your hands, stay at home, and always listen to your parents.</p>
+<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/05/SingHealth-ThankYou-messages-Pg-1-25-edited.pdf">here</a>&nbsp;to read the messages from SingHealth Polyclinics.</p>
+<p>Thank you, SingHealth Polyclinics!</p>
