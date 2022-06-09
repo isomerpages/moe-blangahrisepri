@@ -193,3 +193,24 @@ third_nav_title: Covid 19 Book
 <p>At arrival and dismissal, parents also have to adhere to safe distancing when they line up outside the side gate to drop off and pick up their children. In the canteen, where children wait for the rest of their friends to arrive before proceeding to their classrooms, they sit in their own groupings at designated seats.</p>
 <p>Our MK teachers are indeed happy to see the children after almost 8 weeks of school closure and are eager to ensure that our children catch up on key concepts so that learning in Term 3 can continue seamlessly once more. Teacher Jas says, &ldquo;We really miss the children and will do our best to connect with each child. We will show our care and warmth so that they can enjoy coming to school to learn again.&rdquo;</p>
 <p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/06/4-June.pdf"><strong>here</strong></a>for more photos on our safe management measures.</p>
+
+![](/images/4-June.jpeg)
+
+<h3 style="text-align: center;"><strong>3 June 2020</strong></h3>
+<p>To support the foreign workers who are re-located outside their dormitories as part of the circuit breaker measures, SATS has been appointed as one of assigned caterers by the government to provide nearly 180,000 healthy balanced meals to these foreign workers.</p>
+<p>Transport Minister Khaw Boon Wan commented, &ldquo;We have many professional central kitchens fully equipped and resourced to churn out large quantities of healthy and balanced meals on time and in line with specific dietary requests. SATS is one example, where SATS kitchen is now busy serving our dorms. Feedback from their new customers has been very positive.&rdquo;</p>
+<p>SATS Catering provides up to 20,000 meals a day to the foreign workers dormitories. To fulfil the large consumption of rice by the foreign workers, SATS Catering uses 12 huge ovens instead of its usual 4 ovens to prepare the rice. This is on top of the large automated rice line which can cook up to 600kg of rice in one hour, which helps to ensure that warm meals are served on time to the foreign workers.</p>
+<p>Mr Khaw shared pictures of the meals prepared by SATS Catering which comprised fish curry with seasoned vegetables (non-veg halal); fish and hot bean sauce with seasoned vegetables (oriental); and biryani with vegetables (vegetarian).</p>
+<p>From preparing inflight meals for planes 20,000 feet above the ground to bento boxes for our migrant workers, SATS truly lives up to its brand promise of Passion to Delight!</p>
+<p>Kudos to our BRPS partner in these challenging times!</p>
+
+![](/images/3-June-2.jpeg)
+
+<h3 style="text-align: center;"><strong>2 June 2020</strong></h3>
+<p>Students were excited to return to school on the first day of Term 3. While the Primary 6 students had returned to school earlier for lessons, the Primary 4 and 5 students were happy to be able to see their teachers and friends again after two months!</p>
+<p>Recognising that students would need time to transit back to school, teachers did not rush back into curriculum recovery but spent time checking on their students&rsquo; well-being. They discussed the safety measures that everyone should adhere to in school.</p>
+<p>Our Primary 5 student, Kechester said, &ldquo;When we line up, we make sure we are one metre apart. Therefore, our line is longer than usual. This is important because we want to stop the virus from spreading!&rdquo;</p>
+<p>During recess, the students were seated in a fixed alternate seating arrangement. They did not sit where the benches were marked out with an &ldquo;X&rdquo;. Quraisha, a Primary 6 student, shared, &ldquo;Each table can only have three students each. We were also advised not to mingle with students from other classes.&rdquo;</p>
+<p>Her classmate, Naqiu, said, &ldquo;It is inconvenient to talk to our friends because our voices cannot be projected clearly through the mask. But I know that it is important for everyone to play our part and wear a mask properly.&rdquo;</p>
+<p>To minimise congestion at the school gates and bus-stops, dismissal was staggered for the different levels. Students taking the school bus remembered their assigned seats and that they should minimise talking while in the school bus.</p>
+<p>Together as a school community, we will continue to be proactive in keeping school safe for everyone.</p>
