@@ -374,3 +374,41 @@ third_nav_title: Covid 19 Book
 
 ![](/images/Earth-Day.jpeg)
 
+<h3 style="text-align: center;"><strong>21 April 2020</strong></h3>
+<p style="text-align: center;">Rain or shine,</p>
+<p style="text-align: center;">let our children's artworks plant seeds of hope.</p>
+<p style="text-align: center;">Where our roots of courage and determination grow deep and grow together.</p>
+<p style="text-align: center;">May this unshakable tree bring shelter whenever trouble comes again.</p>
+<p style="text-align: center;">Poem written by Mrs Esther Loh, Ms Lee Sok Lai, Ms Sharon Lee, Mdm Sa&rsquo;adah and Ms Yanti</p>
+<p>Art plays an important role in helping students process what is going on around them. Drawing offers the students opportunities to express their appreciation and encouragement to others.</p>
+<p>Seeds of Encouragement is an art project led by our teachers, Mrs Esther Loh, Ms Lee Sok Lai, Ms Sharon Lee, Mdm Sa&rsquo;adah and Ms Yanti, to support the frontliners and others by creating messages of hope. This project promotes individual creativity and gives students the opportunity to draw and write inspirational messages of hope for individuals and families facing difficulties from the Covid-19 situation.</p>
+<p>Illustrating a picture of a big yellow flower, Nur Daisara from 6 Sapphire said, &ldquo;You can cheer someone up by giving them sunflowers! I hope my drawing will lift the spirits of our frontliners.&rdquo;</p>
+<p>At the end of the session, Muhd Naqiu from 6 Opal said, &ldquo;I feel sad that I can&rsquo;t meet my friends outside to play. Drawing this artwork gives me hope that the situation will get better if we do our part to stop the spread of Covid-19.&rdquo;</p>
+
+![](/images/Rainbow-Bunny.jpeg)
+
+<h3 style="text-align: center;"><strong>20 April 2020</strong></h3>
+<p style="text-align: center;">This is a reverse poem that can be read forwards (top to bottom) and have one meaning, but<br />can also be read backwards (bottom to top) and have a different or opposite meaning.</p>
+<p style="text-align: center;"><strong>Circuit Breaker (Blangah Rise Primary School)</strong></p>
+<p style="text-align: center;">During Circuit Breaker<br />Blangah Rise Primary School</p>
+<p style="text-align: center;">Empty<br />No more</p>
+<p style="text-align: center;">Students and teachers around</p>
+<p style="text-align: center;">Now<br />Empty corridors<br />No more</p>
+<p style="text-align: center;">Footsteps and joyful chatter abound</p>
+<p style="text-align: center;">Now<br />Empty classrooms<br />No more</p>
+<p style="text-align: center;">Sounds of teaching and learning resound</p>
+<p style="text-align: center;">Now<br />After Circuit Breaker<br />Staff and Students return</p>
+<p style="text-align: center;"><strong>Now read the Poem from Bottom to Top</strong></p>
+<p style="text-align: center;">Written by Mr James Han, School Staff Developer.</p>
+<p style="text-align: center;">Photograph taken by Mrs Teresa Tay, HOD ICT</p>
+
+![](/images/20-April.jpeg)
+
+<h3 style="text-align: center;"><strong>17 April 2020</strong></h3>
+<p>There are multiple functions in Student Learning Space (SLS) that facilitate Formative Assessment. Teachers can get immediate information on students&rsquo; learning progress so that they can plan their next lesson to move learning forward.</p>
+<p>Our teachers also wanted to hear more from their students personally to address their questions in an interactive way. Mr Leow Qinjin, Science Teacher of Primary 6 Topaz, used Google Meet to hold a consultation session for his students. His students raised questions and clarified their doubts on the topic &ldquo;Living Together&rdquo;.</p>
+<p>The students booked their consultation slots through a Google Document in SLS. To keep the session engaging and fruitful, Mr Leow kept to a maximum of five students for each consultation session.</p>
+<p>Mr Leow shared, &ldquo;The students were very excited about being able to ask questions through video conferencing. They were able to get immediate feedback to their questions, and they further built on their knowledge by asking more questions!&rdquo;</p>
+<p>Aarav said, &ldquo;I found the video conferencing session very efficient and useful. Mr Leow clarified my doubts immediately. I understood my misconceptions and knew how to progress on. I did not have to wait for Mr Leow to reply to my messages.&rdquo;</p>
+<p>Wern Yang also shared that the interaction with his peers was beneficial to his learning. &ldquo;I was able to log in to the session easily without any problems. While listening to my peers&rsquo; responses, I picked up new ideas.&rdquo;</p>
+<p>Our teachers will continue to harness the affordances of technology to engage students in their learning.</p>
