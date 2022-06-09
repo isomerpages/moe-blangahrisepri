@@ -2,6 +2,7 @@ collections:
   special-projects:
     output: true
     order:
+      - Reflections of an Overcomer/Postcards.md
       - Reflections of an Overcomer/Posters.md
       - Reflections of an Overcomer/Menu.md
       - Reflections of an Overcomer/.keep
