@@ -2,4 +2,5 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - Viewpoints.md
       - Young Photographers.md
