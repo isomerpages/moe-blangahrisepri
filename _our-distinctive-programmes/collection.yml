@@ -2,11 +2,11 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - The Green Snapshots/.keep
+      - The Green Snapshots/The Green Snapshots (TGS).md
       - The Green Snapshots/Learning about Science.md
       - The Green Snapshots/Animals & Plants in Telok Blangah Hill Park.md
       - The Green Snapshots/Build A Bridge Challenge.md
-      - The Green Snapshots/The Green Snapshots (TGS).md
-      - The Green Snapshots/.keep
       - The Leader in Me.md
       - Viewpoints.md
       - Young Photographers/.keep
