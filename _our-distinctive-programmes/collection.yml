@@ -2,6 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - Singapore National Youth Orchestra (SNYO).md
       - The Green Snapshots/.keep
       - The Green Snapshots/The Green Snapshots (TGS).md
       - The Green Snapshots/Learning about Science.md
