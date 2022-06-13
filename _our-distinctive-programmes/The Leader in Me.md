@@ -58,3 +58,21 @@ description: ""
 <p>To think win-win is to have the belief that everyone can win. It is not about you or me, but it is about the both of us. It is a belief that there are enough good things for everyone; it is an abundant way of thinking. To think win-win is to be happy for others when good things happen to them. A win-win mindset will lead to less resistance between the parties involved.</p>
 
 ![](/images/4w.jpg)
+
+<p><strong>Habit 5: Seek First To Understand, Then To Be Understood&nbsp;</strong>&ndash; Listen Before You Talk</p>
+<p><em>I listen to the ideas and feelings of others. I try to see things from their viewpoints. I listen to others without interrupting. I am confident in voicing my ideas. I look people in the eye when talking.</em></p>
+<p>To seek first to understand, then to be understood means it is better to listen first and talk later. By taking the time to listen to another person, you reach a higher level of communication. Learning to listen without interrupting and learning to listen with your ears, your eyes and your heart will help us to build a foundation for Habit 5. Simply put, we have two ears and one mouth so that we can spend more time listening with the intent to understand.</p>
+
+![](/images/5w.jpg)
+
+<p><strong>Habit 6: Synergise</strong>&nbsp;&ndash; Together is Better</p>
+<p><em>I value the strengths of others and learn from them. I get along well with others, even people who are different from me. I work well in groups. I seek out other ideas to solve problems because I know that by working with others we can create better solutions than anyone of us can alone. I am humble.</em></p>
+<p>To synergise is to have two or more people working together to create a solution that is better than one person would have thought of alone. It is not your way or my way, but a better way. When there is synergy, 1 + 1 = 3 (or more). Synergy is taking good ideas and making them better by working together.</p>
+
+![](/images/6w.jpg)
+
+<p><strong>Habit&nbsp;7: Sharpen The Saw</strong>&nbsp;&ndash; Balance Feels Best</p>
+<p><em>I take care of my body by eating right, exercising and getting sleep. I spend time with family and friends. I learn in lots of different ways and in different places, not just in school. I find meaningful ways to help others.</em></p>
+<p>To sharpen the saw means to have balance in life. There was a story of a man who was sawing down a tree and not making a lot of progress. When a passer-by asked him why he did not stop to sharpen his saw, he remarked he was too busy sawing. Habit 7 reminds us that we are more productive when we are in balance &ndash; body, mind, heart and soul. Just like the four tyres of a car, if one is being ignored or overused, the rest of the tyres will feel the results. Just like the car, it is important to take care of all parts of our human body to make them all work better.</p>
+
+![](/images/7w.jpg)
