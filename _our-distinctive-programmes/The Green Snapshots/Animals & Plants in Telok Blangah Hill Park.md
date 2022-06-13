@@ -23,5 +23,5 @@ third_nav_title: The Green Snapshots
 ![](/images/7-1.jpg)
 
 <h4><strong>Online games that you and your child can play together!</strong></h4>
-<p>Click&nbsp;<strong><a href="https://www.flippity.net/mg.php?k=1MZl_Jhp4ClU3FuhC6veiVHgMbXzOnTWMX_teXgrKvu0"><u>here</u>&nbsp;</a></strong>to mix and match animals and plants that you may find in the park!</p>
-<p>Click&nbsp;<a href="https://www.turacogames.com/games/living-non-living/"><strong>here</strong></a>&nbsp;to identify living and non-living things</p>
+<p>Click&nbsp;<strong><a href="https://www.flippity.net/mg.php?k=1MZl_Jhp4ClU3FuhC6veiVHgMbXzOnTWMX_teXgrKvu0"><u>here</u>&nbsp;</a></strong>to mix and match animals and plants that you may find in the park!
+<br>Click&nbsp;<a href="https://www.turacogames.com/games/living-non-living/"><strong>here</strong></a>&nbsp;to identify living and non-living things</p>
