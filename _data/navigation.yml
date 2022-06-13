@@ -53,8 +53,6 @@ links:
         url: /moe-fas-application/
       - title: FAQs
         url: /parent-support-group/faq/
-  - title: Contact Us
-    url: /contact-us/
   - title: Our Distinctive Programmes
     url: /our-distinctive-programmes/applied-learning-programme-alp/
     sublinks:
@@ -76,3 +74,5 @@ links:
         url: /viewpoints/
       - title: Young Photographers
         url: /our-distinctive-programmes/young-photographers/
+  - title: Contact Us
+    url: /contact-us/
