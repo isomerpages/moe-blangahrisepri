@@ -2,6 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - Young Photographers/Young Photographers.md
       - Young Photographers/.keep
       - Photographer of the Year.md
       - Viewpoints.md
