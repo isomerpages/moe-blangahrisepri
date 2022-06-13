@@ -2,6 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - The Green Snapshots/Build A Bridge Challenge.md
       - The Green Snapshots/The Green Snapshots (TGS).md
       - The Green Snapshots/.keep
       - The Leader in Me.md
