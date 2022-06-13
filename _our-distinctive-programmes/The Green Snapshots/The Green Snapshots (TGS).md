@@ -10,3 +10,19 @@ third_nav_title: The Green Snapshots
 <div><iframe title="YouTube video player" src="https://www.youtube.com/embed/qCCfMmtjEiY" name="fitvid0" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p>TGS returns with a science-themed e-version, where parents and their children can independently explore the beauty of nature and heritage. Check out the area map below!</p>
 
+![](/images/1-Map-for-TGS-Website-v3-1024x589.png)
+
+<p>Before you and your family begin the TGS Trail, do remember to check everyone&rsquo;s well-being. Wear a mask, comfortable walking shoes and bring along essentials like water bottles, caps and insect repellent. Practise social distancing and good self-hygiene at all times. Please adhere to prevailing Safe Management Measures (SMM).</p>
+<p><strong><u>Outdoor Safety Tips &amp; Being Green</u></strong></p>
+<ul>
+<li>Keep to designated trails and pathways. Do stay on the trails so as not to destroy natural vegetation or disturb wildlife.</li>
+<li>Watch out for falling tree branches, especially during windy and rainy weather. Do not stay under trees with heavy fruit during the fruiting season.</li>
+<li>Seek shelter when there is thunder and lightning.</li>
+<li>Help conserve nature. Do not pluck any plant or harm or capture any animal. Leave wildflowers for others to enjoy.</li>
+<li>Do not taste any part of a plant.</li>
+<li>Do not feed the wild animals. Feeding them our food will make them sick. It may also tame them and make them unable to fend for themselves. They may become aggressive towards humans.</li>
+<li>Do not capture any wildlife to take back home so that others may also enjoy the excitement and experience of searching for and studying them.</li>
+<li>Do not pollute our environment. Use the litter bins for any disposal of waste.</li>
+</ul>
+
+![](/images/1-1-1024x207.jpg)
