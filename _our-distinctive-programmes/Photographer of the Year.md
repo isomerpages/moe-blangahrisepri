@@ -141,3 +141,44 @@ description: ""
 <p style="text-align: center;">During this pandemic where we are mostly at home, this view gives me comfort.</p>
 
 ![](/images/Anika.jpg)
+
+<p style="text-align: center;"><strong>ANIKA LYKA BINTE JAYAKASUMA</strong></p>
+<p style="text-align: center;"><strong>5 Sapphire</strong></p>
+<p>The bus driver helps to get us home safely. The bus drivers are helpful and are always there to help people when they need help, like the old folks or the disabled. Whenever I board a bus, it reminds me of home, where it&rsquo;s safe and secure, and where I can depend and trust my parents and siblings when I need help.&nbsp;</p>
+
+![](/images/Wai-Yin.jpg)
+
+<p style="text-align: center;"><strong>KOK WAI YIN</strong></p>
+<p style="text-align: center;"><strong>5 Sapphire</strong></p>
+<p>It reminds me of home because being around nature makes me very happy as keeping it clean is like keeping my own home clean.</p>
+
+![](/images/Minh-Dat.jpg)
+
+<p style="text-align: center;"><strong>NGUYEN MINH DAT</strong></p>
+<p style="text-align: center;"><strong>5 Sapphire</strong></p>
+<p style="text-align: center;">Singapore is our home!&nbsp;</p>
+<p style="text-align: center;">Stay UNITED as one.&nbsp;</p>
+
+![](/images/Jayden.jpg)
+
+<p style="text-align: center;"><strong>TAN RUI HONG JAYDEN</strong></p>
+<p style="text-align: center;"><strong>5 Sapphire</strong></p>
+<p>What I think about this picture is that it represents home. People will look out of the window after a hard day's of work. The flag makes us remember that we are very fortunate that we have a home to stay in.</p>
+
+![](/images/Mikhael.jpg)
+
+<p style="text-align: center;"><strong>MIKHAEL RIYO CHAN</strong></p>
+<p style="text-align: center;"><strong>5 Topaz</strong></p>
+<p>Many see them as just the National Day Parade's helicopters. However, it reminds me of the safety my family gives me. We should be grateful we have a family and not take our loved ones for granted.&nbsp;</p>
+
+![](/images/Enrique.jpg)
+
+<p style="text-align: center;"><strong>ANDY ALOYSIUS ENRIQUE</strong></p>
+<p style="text-align: center;"><strong>6 Topaz</strong></p>
+<p>The picture reminds me of togetherness. I trust everyone and I feel secure at home. In my home, I feel that there is love and that makes me feel grateful.</p>
+
+![](/images/Xin-Ru.jpg)
+
+<p style="text-align: center;"><strong>BAN XIN RU</strong></p>
+<p style="text-align: center;"><strong>6 Opal</strong></p>
+<p>Home is where I learnt how to be creative. There is love in the family and that helps me to be creative with my art, so that I am not afraid of making mistakes. This picture of art reminds me of my home and how my creativity was nurtured there.&nbsp;</p>
