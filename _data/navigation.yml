@@ -55,3 +55,24 @@ links:
         url: /parent-support-group/faq/
   - title: Contact Us
     url: /contact-us/
+  - title: Our Distinctive Programmes
+    url: /our-distinctive-programmes/applied-learning-programme-alp/
+    sublinks:
+      - title: Applied Learning Programme
+        url: /our-distinctive-programmes/applied-learning-programme-alp/
+      - title: APEX Programme
+        url: /our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/
+      - title: Chinese Junior Reporters
+        url: /our-distinctive-programmes/chinese-junior-reporters/
+      - title: Learning for Life Programme
+        url: /our-distinctive-programmes/learning-for-life-programme/
+      - title: SYNO
+        url: /our-distinctive-programmes/singapore-national-youth-orchestra-snyo/
+      - title: The Green Snapshots (TGS)
+        url: /the-green-snapshots-tgs/
+      - title: The Leader in Me
+        url: /our-distinctive-programmes/the-leader-in-me/
+      - title: Viewpoints
+        url: /viewpoints/
+      - title: Young Photographers
+        url: /our-distinctive-programmes/young-photographers/
