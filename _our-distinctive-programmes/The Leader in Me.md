@@ -32,3 +32,29 @@ description: ""
 <p><strong>Renewal</strong></p>
 <p>Above the tree are the things that nurture the tree, like rain and sunshine. Habit 7 is the habit of renewal. It breathes life and vitality into all the other habits.</p>
 <p><strong>Habit&nbsp;7: Sharpen The Saw</strong>&nbsp;&ndash; Balance Feels Best</p>
+
+![](/images/Tree.jpg)
+
+<p><strong>Habit 1: Be Proactive</strong>&nbsp;&ndash; You&rsquo;re in Charge</p>
+<p><em>I am a responsible person. I take initiative. I choose my actions, attitudes, and moods. I do not blame others for my actions. I make good, responsible choices without being asked, even when no one is looking.</em></p>
+<p>To be proactive means to take responsibility for our choices and behaviours. Habit 1 is the key to all of the other habits; that is why it comes first. Young children can easily learn to understand that different choices yield different results. The goal for them will be to think about those results before they decide what to do.</p>
+
+![](/images/1-1024x287.jpg)
+
+<p><strong>Habit 2: Begin With The End In Mind&nbsp;</strong>&ndash; Have a Plan</p>
+<p><em>I plan ahead and set goals. I do things that have meaning and make a difference. I am an important part of my classroom and contribute to my school&rsquo;s mission and vision. I look for ways to be a good citizen.</em></p>
+<p>To begin with the end in mind means to think about how we would like something to turn out before we get started. Looking at a map before leaving on a trip or looking at the picture before going on to solve a jigsaw puzzle is beginning with the end in mind.</p>
+
+![](/images/2w.jpg)
+
+<p><strong>Habit 3: Put First Things First&nbsp;</strong>&ndash; Work First, Then Play</p>
+<p><em>I spend my time on things that are most important. This means I say no to things I know I should not do. I set priorities, make a schedule, and follow my plan. I am disciplined and organised.</em></p>
+<p>To put first things first means to decide what is most important and to take care of that first. Learning to think of which things are the most important and taking care of them first allows us to be less stressed and more settled. We can write down our responsibilities and plan ahead to put this habit into practise.</p>
+
+![](/images/3w.jpg)
+
+<p><strong>Habit 4: Think Win-Win</strong>&nbsp;&ndash; Everyone Can Win</p>
+<p><em>I balance courage for getting what I want with consideration for what others want. I make deposits in others&rsquo; Emotional Bank Accounts. When conflicts arise, I look for third alternatives.</em></p>
+<p>To think win-win is to have the belief that everyone can win. It is not about you or me, but it is about the both of us. It is a belief that there are enough good things for everyone; it is an abundant way of thinking. To think win-win is to be happy for others when good things happen to them. A win-win mindset will lead to less resistance between the parties involved.</p>
+
+![](/images/4w.jpg)
