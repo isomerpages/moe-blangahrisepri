@@ -14,6 +14,7 @@ third_nav_title: The Green Snapshots
 <h4><strong>(2) Cannonball Tree</strong></h4>
 <div><iframe title="YouTube video player" src="https://www.youtube.com/embed/GDMcvaD22nI" name="fitvid1" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 
+![](/images/2-Cannonball-Tree-Photo-by-Andrew-Tay-1024x816.jpg)
 
 <p style="text-align: center;">Close-up image of the flowers and fruits of a Cannonball Tree.<br /><em>(Photo taken by Andrew Tay)</em></p>
 
