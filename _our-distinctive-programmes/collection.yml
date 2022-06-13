@@ -2,6 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - Accelerated Programme to Enhance Students' eXperience (APEX).md
       - Chinese Junior Reporters.md
       - Learning for Life Programme (LLP).md
       - Singapore National Youth Orchestra (SNYO).md
