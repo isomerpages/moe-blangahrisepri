@@ -63,3 +63,81 @@ description: ""
 
 ![](/images/Natalie.jpg)
 
+<p style="text-align: center;"><strong>NATALIE ELISE GARDE LAWENKO</strong></p>
+<p style="text-align: center;"><strong>2 Topaz</strong></p>
+<p>My photo has two monkeys. One is on the branch and the other monkey is on the grass. I picked this photo because these monkeys are commonly found in Singapore. They are found in parks and forests, which are home for the monkeys. We cannot litter or throw things at the monkeys. We have to respect their homes and keep them safe.</p>
+
+![](/images/Marvell.jpg)
+
+<p style="text-align: center;"><strong>MARVELL NATHANIEL TJONG</strong></p>
+<p style="text-align: center;"><strong>2 Opal</strong></p>
+<p style="text-align: center;">Home is where your heart is. Where you can be yourself, feel safe and secure. Home is where family members eat together, sleep together, and laugh together. There is just no other place like home!</p>
+
+![](/images/Shigeyasu.jpg)
+
+<p style="text-align: center;"><strong>SHIGEYASU SUFI FUJINO</strong></p>
+<p style="text-align: center;"><strong>2 Opal</strong></p>
+<p>This photo is like 'Home' to me. The playground has something that reminds me of the Japanese torii. This Japanese torii is in the Singapore Garden City. As I am half Japanese and half Singaporean-Malay, the torii is something that my Daddy showed me before of Japan. I looked at lines and patterns to take the photo.</p>
+
+![](/images/Velmurugan.jpg)
+
+<p style="text-align: center;"><strong>VELMURUGAN SAATHVIKA</strong></p>
+<p style="text-align: center;"><strong>2 Opal</strong></p>
+<p>The nest is home for birds and little ones to sleep and rest. The birds built nest to protect their little ones. It is a place where the little ones feel safe. Similarly, our parents and teachers make our homes and school a safe place. Let us thank them for nurturing us too.</p>
+
+![](/images/Cheryl.jpg)
+
+<p style="text-align: center;"><strong>CHERYL LEI XUAN</strong></p>
+<p style="text-align: center;"><strong>3 Sapphire</strong></p>
+<p>This view reminds me of where I live and my neighbours. It is warm, beautiful and I love it.</p>
+
+![](/images/Viet-Long.jpg)
+
+<p style="text-align: center;"><strong>LE VIET LONG</strong></p>
+<p style="text-align: center;"><strong>3 Sapphire</strong></p>
+<p>Singapore is a garden city. It's relaxing when I walk past this green area on the way to school everyday. I love that Singapore has a lot of greenery which makes our environment beautiful. Seeing the trees make me feels relaxed and it is like I am at home.</p>
+
+![](/images/Amber.jpg)
+
+<p style="text-align: center;"><strong>AMBER TAY KAI HUI</strong></p>
+<p style="text-align: center;"><strong>3 Topaz</strong></p>
+<p>I am very happy today. I baked cookies with my Mum at home. I enjoy spending time with my family at home. I used the Rule of thirds and patterns in my photograph.</p>
+
+![](/images/Shahan.jpg)
+
+<p style="text-align: center;"><strong>MOHAMED SHAHAN SHAH BIN MOHAMED RAFIECK</strong></p>
+<p style="text-align: center;"><strong>3 Topaz</strong></p>
+<p>This is the night view taken at the corridor. It was a very dark night. I could still see the beautiful lights from my home. I love my home because it has a very nice view and I get to create many special memories with my family.</p>
+
+![](/images/Mills.jpg)
+
+<p style="text-align: center;"><strong>CHEN XINBO MILLS</strong></p>
+<p style="text-align: center;"><strong>3 Opal</strong></p>
+<p>This photograph reminds me of how warm it is. Home is a very important thing to us because if we do not have a home, we will not live very well and we would starve if we cannot find food. Home is where I like to be.</p>
+
+![](/images/Nathan.jpg)
+
+<p style="text-align: center;"><strong>THAM XUAN YI NATHAN</strong></p>
+<p style="text-align: center;"><strong>4 Sapphire</strong></p>
+<p>The photograph I submitted was taken from my bedroom window during National Day. I was so proud to see the Singapore flag flying on a military helicopter right outside my window. After living overseas for many years, it is good to be back in my home country where I feel safe and protected. The helicopter and the flag makes me have a feeling of safety, peace and happiness. This is why I like living in Singapore, because of the great security that makes my parents less worried when I go out by myself and the beautiful country it is.</p>
+
+![](/images/Gail.jpg)
+
+<p style="text-align: center;"><strong>GAIL LIEN ZHAO XIN</strong></p>
+<p style="text-align: center;"><strong>4 Topaz</strong></p>
+<p>Even during the COVID-19 pandemic period, the lights are shining brightly for visitors to Gardens by the Bay and other viewers. This is our "Home" shining brightly like a beacon in the sky. Whether people are on staycation or if the rooms are simply lit as a sign of beauty, it reminds me of when Singapore was full of tourists.&nbsp;</p>
+
+![](/images/Ethan.jpg)
+
+<p style="text-align: center;"><strong>PHUA ZHI EN ATHAN</strong></p>
+<p style="text-align: center;"><strong>4 Topaz</strong></p>
+<p>This is the picture of the national flag hung by the helicopters during the NDP. I have used the rule of thirds in this picture. This picture symbolizes pride. Singapore is my home and always will be.&nbsp;</p>
+
+![](/images/Josephina.jpg)
+
+<p style="text-align: center;"><strong>VO JOSEPHINA TU</strong></p>
+<p style="text-align: center;"><strong>4 Topaz</strong></p>
+<p style="text-align: center;">This is the view from my home.&nbsp;</p>
+<p style="text-align: center;">During this pandemic where we are mostly at home, this view gives me comfort.</p>
+
+![](/images/Anika.jpg)
