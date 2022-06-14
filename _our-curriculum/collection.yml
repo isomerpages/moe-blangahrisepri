@@ -2,4 +2,5 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Modular CCA (House)/Modular CCA (House).md
       - Modular CCA (House)/.keep
