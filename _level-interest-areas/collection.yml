@@ -2,5 +2,6 @@ collections:
   level-interest-areas:
     output: true
     order:
+      - Senior Primary – Recyclable Art and Corridor Gardening.md
       - Middle Primary – Makerspace and Visual Arts.md
       - Junior Primary – Drama and Choir.md
