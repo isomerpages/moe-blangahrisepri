@@ -36,6 +36,4 @@ third_nav_title: Mother Tongue
 
 ![](/images/tamil4.png)
 
-<p><strong>Quote from student:</strong></p>
-<p>&ldquo;தமிழ் கற்பதற்கு மகிழ்ச்சியாக இருப்பதால் எனக்குத் தமிழ் மொழி மிகவும் பிடிக்கும்!&rdquo;</p>
-<p>&ldquo;I like Tamil because it is so much fun!&rdquo; &ndash; Velmurugan Saathvika, Primary</p>
+<p><strong>Quote from student:</strong><br>&ldquo;தமிழ் கற்பதற்கு மகிழ்ச்சியாக இருப்பதால் எனக்குத் தமிழ் மொழி மிகவும் பிடிக்கும்!&rdquo;<br>&ldquo;I like Tamil because it is so much fun!&rdquo; &ndash; Velmurugan Saathvika, Primary</p>
