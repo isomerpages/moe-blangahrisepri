@@ -19,3 +19,5 @@ third_nav_title: Mother Tongue
 
 <p>In Blangah Rise Primary School, blended lessons incorporating self-directed and collaborative learning, are carried out during Tamil lessons. Our students use the iPad, Student Learning Space (SLS) and other apps such as Kahoot and Nearpod for online activities.</p>
 <p><strong><em>Tamil Language Fortnight<br /></em></strong>The Tamil Language Fortnight is a platform to promote the use of the Tamil language and to instil passion in the language and culture. Our students gain new experiences through a variety of language and cultural activities. These activities help to motivate students to use the language in their daily lives.</p>
+
+![](/images/Fortnight.jpg)
