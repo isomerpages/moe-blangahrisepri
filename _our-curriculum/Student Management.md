@@ -57,3 +57,17 @@ description: ""
 ![](/images/student3.png)
 
 <p>Storytelling Sessions at library@harbourfront and Singapore Botanical Gardens &ndash; Blangah Rise&rsquo;s self-written storybook came alive when a group of student-leaders and teachers narrated the book to members of the public. Read the full story via the following&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/05/13/the-green-dragonflies-and-their-swampy-friends-gets-a-read-at-libraryhabourfront/">here</a>&nbsp;and&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/05/23/the-green-dragonflies-and-their-swampy-friends-at-the-festival-of-biodiversity-2022/">here</a>.</p>
+
+![](/images/student4.png)
+
+<p><strong>The Green Snapshots &ndash; A Nature &amp; Heritage Trail</strong></p>
+
+![](/images/Photo-17-1-724x1024.jpg)
+
+<p><a href="https://blangahrisepri.moe.edu.sg/the-green-snapshots-tgs/"><strong>TGS</strong></a>&nbsp;finally makes its return after a two-year hiatus due to the COVID-19 pandemic. For this year&rsquo;s edition, student-docents will bring participants on a learning journey around Telok Blangah and Berlayer Creek.&nbsp;&nbsp;</p>
+
+![](/images/student5.png)
+
+<p>The award-winning trail is built on the school&rsquo;s Learning for&nbsp;<a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/learning-for-life-programme/"><strong>Life (LLP) programme</strong></a>,&nbsp;which weaves nature into the curriculum and provides experiential learning activities for our students. Originally, It was a learning journey that shared the rich nature and heritage of Telok Blangah and Mount Faber.&nbsp;</p>
+
+![](/images/student6.png)
