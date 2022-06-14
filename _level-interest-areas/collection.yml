@@ -1,0 +1,4 @@
+collections:
+  level-interest-areas:
+    output: true
+    order: []
