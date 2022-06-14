@@ -2,4 +2,5 @@ collections:
   level-interest-areas:
     output: true
     order:
+      - Middle Primary – Makerspace and Visual Arts.md
       - Junior Primary – Drama and Choir.md
