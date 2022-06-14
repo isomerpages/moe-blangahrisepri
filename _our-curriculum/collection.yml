@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Management.md
       - Infocomm Technology.md
       - PE & Aesthetics Education.md
       - CCA/Badminton.md
