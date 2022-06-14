@@ -6,11 +6,11 @@ description: ""
 ![](/images/01-Main-Banner-Picture-Crop-Grow-Caring-Leaders-Nurture-reflective-learners-Serve-the-community.png)
 
 <p>We envision ourselves as a joyful school of confident learners and caring leaders. We have a customized Character and Citizenship curriculum for holistic development of students.</p>
+<h4><span style="text-decoration: underline;"><strong>GROW</strong></span></h4>
 <blockquote>
-<h4>GROW</h4>
-<h4>&ldquo;Plant a seed so your heart will grow&rdquo;</h4>
-<h4>Hafez</h4>
+<p><em>&ldquo;Plant a seed so your heart will grow&rdquo;</em></p>
 </blockquote>
+<p style="text-align: right;"><em>Hafez</em></p>
 <p>In Blangah Rise Primary School, we grow caring leaders who support others and are deeply rooted to Singapore. We help every student see the &ldquo;Leader in Me'' and also the power of peer support through the &ldquo;Leader in Us&rdquo;. These efforts are woven intentionally into every aspect of school life in BRPS, from the classroom to CCAs and after school programmes.</p>
 
 ![](/images/cce1.png)
@@ -52,3 +52,9 @@ description: ""
 ![](/images/07-Rootedness-to-SG-Picture-2.png)
 	
 ![](/images/cce6.png)
+	
+<h4><strong><u>LEARN</u></strong></h4>
+<blockquote>
+<p><strong><em>"True education does not consist merely in the acquiring of a few facts of science, history, literature, or art, but in the development of character."</em></strong></p>
+</blockquote>
+<p style="text-align: right;"><em>-David O. Mckay-</em></p>
