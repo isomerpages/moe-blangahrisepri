@@ -21,3 +21,11 @@ third_nav_title: Mother Tongue
 <p><strong><em>Tamil Language Fortnight<br /></em></strong>The Tamil Language Fortnight is a platform to promote the use of the Tamil language and to instil passion in the language and culture. Our students gain new experiences through a variety of language and cultural activities. These activities help to motivate students to use the language in their daily lives.</p>
 
 ![](/images/Fortnight.jpg)
+
+<p>&ldquo;நான் தமிழ் மொழியைப் பற்றி அறிந்துகொண்டேன். எனக்கு விடுகதை பிடித்திருந்தது. பூக்கள் செய்வது வித்தியாசமான அனுபவமாக இருந்தது.&rdquo;</p>
+<p>&ldquo;I&rsquo;ve learnt about Tamil Language. I liked solving the riddles. Making paper flower was a new experience for me.&rdquo; &ndash; Amelia Sudha, Primary 5</p>
+<p><strong>Tamil Language Camps<br /></strong>Our Tamil Language Camps provide a fun environment for our P4 and P6 students to learn and use the Tamil language more frequently. During the language camps, students go through various learning experiences, which enable them to better appreciate the Tamil language and culture.</p>
+
+![](/images/tamil2.png)
+
+<p><strong><em>Tamil Language Touch Typing<br /></em></strong>Tamil Language touch typing classes are conducted for our P3 students in Semester 1 annually. Students from P3 to P6 classes use their Tamil Language touch typing skills during Tamil lessons and in activities carried out annually during the Tamil Language Fortnight.</p>
