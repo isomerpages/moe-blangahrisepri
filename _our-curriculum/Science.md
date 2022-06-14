@@ -92,3 +92,20 @@ description: ""
 
 <p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p>
 <p><strong>STEM Programme - APEX</strong><br>Our students in the Accelerated Programme to Enhance students&rsquo; eXperience (APEX) attend the STEM Programme. These include Robotics, Innovation Programme, Toy-making, Design Thinking, E2K and Project Work where students conduct research in areas such as aerodynamism and water conservation for group projects. We aim to help our students develop skills, habits of mind and attitudes necessary for scientific inquiry.</p>
+
+![](/images/Photo-18-1024x735.jpg)
+
+![](/images/Photo-19.jpg)
+
+<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/"><strong>here</strong></a>&nbsp;to find out more about our APEX (MA &amp; SC)</p>
+<p><strong>Science Olympiad Training<br /></strong>We provide opportunities for P4 and P5 high progress students to develop their skills in creative thinking, problem solving and analytical thinking. The training sessions are based on broad science themes in the elementary science curriculum. These lessons focus on introducing Physics, Chemistry and Biology to students as well as enhance their general knowledge.</p>
+
+![](/images/science8.png)
+
+<p><strong>The Singapore Primary Science Olympiad (SPSO)@ NUS High School and Raffles Science Olympiad (RSO)<br /></strong>High progress students are given opportunities to participate in Science-related competitions. They are selected to represent the school in external competitions such as the Singapore Primary Science Olympiad (SPSO) and the Raffles Science Olympiad (RSO). Through these platforms, students develop a greater interest in Biology, Chemistry and Physics and become more enthusiastic and passionate about Science.</p>
+
+![](/images/science9.png)
+
+<p><strong>Young Einstein Award<br /></strong>Each year, we recognize the effort of our budding scientists who have demonstrated good work attitude such as diligence, motivation, perseverance, and enthusiasm in the learning of Science. Students from each level get to select&nbsp;from a list of curated projects to complete. Each awardee receives a Young Einstein certificate from the Science Department based on their number of completed projects.</p>
+
+![](/images/Photo-22.jpg)
