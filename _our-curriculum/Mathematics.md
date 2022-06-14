@@ -30,3 +30,23 @@ description: ""
 <p><strong>Mathematics Olympiad<br /></strong>Mathematics Olympiad workshops are organised for Primary 4 to 6 students who are keen to enrich and enhance their learning in Mathematics. Students who perform well are selected to represent the school in external competitions such as the National Mathematical Olympiad of Singapore (NMOS) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</p>
 <p>Brandon, a Primary 5 student who had taken part in the annual Mathlympics competition, said, &ldquo;We ask questions to help us understand the questions better. We persevere in our efforts to solve the questions.&rdquo;</p>
 <p><strong>Use of ICT<br /></strong>To motivate and engage our students in learning, ICT is infused into Mathematics lessons. Students use the &lsquo;See, Think, Wonder&rsquo; thinking routine to apply the mathematical concepts they have learnt to real-life situations. The Student Learning Space (SLS) and ICT tools (such as Microsoft Excel and GeoGebra) provide opportunities for students to work collaboratively, deepen their understanding and be self-directed learners.</p>
+
+![](/images/New-Photo-3.jpg)
+
+<p><strong>Math Challenge<br /></strong>Students have the opportunities to take part in math challenge activities every term. These activities include magic number, sudoku, secret codes and multiplication tables. The aims of the math challenge are to build students&rsquo; factual fluency, strengthen their mathematical skills and nurture an intrinsic motivation towards learning mathematics in our students. The results are displayed on the level board to celebrate students&rsquo; success. A class certificate is given to affirm the good work and team effort. Learning is made joyful and fun.</p>
+
+![](/images/science10.png)
+
+![](/images/Photo6-1024x719.jpg)
+
+<p><strong>Math Star Award</strong></p>
+<p style="text-align: center;"><strong><em>Hard work&nbsp;</em><em>&nbsp;Perseverance = Success</em></strong></p>
+<p>We recognise the excellent work and good effort put in by our students in learning Mathematics. We equip students with problem-solving skills and importantly instill in them the virtues of perseverance, determination and confidence when they solve problems. &ldquo;I love to solve problems and I do my work well. I am so happy to receive the Math Star certificate this term.&rdquo; says Min En, a Primary 1 student, proudly.</p>
+
+![](/images/Photo-7-rotated.jpg)
+
+<p><strong>STEM Programme - ALP<br /></strong>This programme aims to leverage on STEM to create more meaningful and engaging activities that integrate engineering and technology in Mathematics and Science to fuel students&rsquo; enthusiasm in learning as well as to promote 21<sup>st</sup>&nbsp;century skills &ndash; critical thinking, decision-making, collaboration, communication and creativity. It provides students with opportunities to innovate and apply content knowledge to bridge the gap between key theoretical concepts and real-world applications.</p>
+
+![](/images/science11.png)
+
+<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/learning-for-life-programme/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p>
