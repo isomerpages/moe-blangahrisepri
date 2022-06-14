@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Modular CCA (House)/Redhill.md
       - Modular CCA (House)/Inter House Games.md
       - Modular CCA (House)/Modular CCA (House).md
       - Modular CCA (House)/.keep
