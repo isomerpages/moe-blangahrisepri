@@ -1,4 +1,5 @@
 collections:
   level-interest-areas:
     output: true
-    order: []
+    order:
+      - Junior Primary – Drama and Choir.md
