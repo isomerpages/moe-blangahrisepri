@@ -29,3 +29,31 @@ description: ""
 ![](/images/1-3.png)
 <p style="text-align: center;">To be more purposeful in their planning of activities beyond school hours, students are mentored by their teachers to plan a schedule that not only consists of homework &amp; revision, but one that also champions a good practice of self-care.</p>
 
+![](/images/1-4.png)
+
+<p style="text-align: center;">Having a growth mindset requires one to think positively and calmly. Through the &ldquo;Healthy Minds, Healthy Blangahnites&rdquo; initiative, students are taught ways to calm themselves better and manage their stress more effectively. The image on the left is a screengrab from one of the videos that was shared with students.</p>
+
+<p><strong>Leader in Us! &ndash; A Peer Support &amp; Relationships (PSR) Programme</strong></p>
+
+![](/images/studentmanagement.png)
+
+<p>Leveraging on Blangah Rise&rsquo;s distinctive&nbsp;<strong><em><a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/the-leader-in-me/">Leader in Me</a></em></strong>&nbsp;programme, we further enhance students&rsquo; application of the 7 Habits of Happy Kids for personal and inter-personal effectiveness through the implementation of the&nbsp;<strong><em>Leader in Us</em></strong>&nbsp;Programme.&nbsp;</p>
+<p>Students contribute to the caring and positive peer culture in school when they look out for one another, provide support to their peers in need and build positive relationships with one another.&nbsp;</p>
+<p>To better narrate the stories and excerpts pertaining to Peer Support in Blangah Rise, five characters have been created to represent our students. Students are able to relate to these characters and learn about peer support in concrete ways.&nbsp;</p>
+<p>Collectively, these five characters are known as&nbsp;<strong>The Fabulous Five</strong>. Together,&nbsp;<strong>The Fabulous Five</strong>&nbsp;will embark on a meaningful journey with the students as they equip themselves with useful skills and knowledge to support their peers better!&nbsp; .</p>
+
+![](/images/ff.png)
+
+<p><strong>Friends of The Month (FoTM) Initiative<br /></strong>Affirmation of students by students is a key feature of the Friends of The Month initiative. Every month, students will nominate their peers for the kind acts the latter have sincerely carried out. This initiative recognises and affirms students who display good social skills and/or virtues in their relationship with their peers.&nbsp;</p>
+<p>Good stories are also collated to inspire our students to learn from these exemplary behaviours. Past FoTM winners include the following students:</p>
+
+![](/images/student2.png)
+
+<p><strong>Student Leadership<br /></strong>In Blangah Rise Primary School, there are many opportunities for students to hone their leadership skills. Within the classrooms, students are appointed to be a part of their class committee. Furthermore, for students who have consistently demonstrated exemplary behaviour and practise virtues through their actions and words, they can serve the school and community through roles such as the Prefects, House Leaders and Peer Support Leaders.</p>
+
+<p><strong>School activities led by student-leaders</strong></p>
+<p>EAS Day &ndash; The annual event acknowledges, affirms and appreciates the work and support of the school&rsquo;s non-teaching staff. Facilitated by the teachers, the prefects plan and execute various activities to make this day a meaningful one for the school&rsquo;s non-teaching staff.</p>
+
+![](/images/student3.png)
+
+<p>Storytelling Sessions at library@harbourfront and Singapore Botanical Gardens &ndash; Blangah Rise&rsquo;s self-written storybook came alive when a group of student-leaders and teachers narrated the book to members of the public. Read the full story via the following&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/05/13/the-green-dragonflies-and-their-swampy-friends-gets-a-read-at-libraryhabourfront/">here</a>&nbsp;and&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/05/23/the-green-dragonflies-and-their-swampy-friends-at-the-festival-of-biodiversity-2022/">here</a>.</p>
