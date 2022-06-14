@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA/STEM.md
       - CCA/Art and Design Club.md
       - CCA/Scout.md
       - CCA/Red Cross.md
