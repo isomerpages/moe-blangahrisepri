@@ -21,6 +21,29 @@ links:
         url: /our-school/special-feature-on-our-educators/
       - title: Feature on Our Students
         url: our-school/special-feature-on-our-students/
+  - title: Our Curriculum
+    url: /departments/english-language/
+    sublinks:
+      - title: English Language
+        url: /departments/english-language/
+      - title: Mother Tongue
+        url: /departments/mother-tongue/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: C&C Education
+        url: /departments/character-citizenship-education/
+      - title: Student Management
+        url: /departments/student-management/
+      - title: Infocomm Technology
+        url: /departments/infocomm-technology/
+      - title: PE & Aesthetics Education
+        url: /departments/pe-aesthetics-education/
+      - title: CCAs
+        url: /departments/ccas/
+      - title: Modular CCA (House)
+        url: /modular-cca-house/
   - title: Our Distinctive Programmes
     url: /our-distinctive-programmes/applied-learning-programme-alp/
     sublinks:
