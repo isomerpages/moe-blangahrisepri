@@ -48,3 +48,7 @@ description: ""
 <p>In our LLP, students take care of the green gardens in the school, and participate actively in environmental conservation. From young, our students learn the importance of how they can do their part to conserve and protect the environment in Singapore.</p>
 <p><em>I have learnt how to recycle and make use of old things. Upcycling is when you make something better out of something that is not needed anymore. I like the activity and I am going to use what I made to store my pencils. I like that you can recycle things.</em></p>
 <p style="text-align: right;"><em>Gail, Primary 5</em></p>
+	
+![](/images/07-Rootedness-to-SG-Picture-2.png)
+	
+![](/images/cce6.png)
