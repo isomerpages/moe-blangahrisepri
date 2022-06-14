@@ -82,3 +82,13 @@ description: ""
 ![](/images/science5.png)
 
 <p><strong>Go&nbsp;<a href="mailto:Green@BRPS">Green@BRPS</a><br /></strong>Going green is an integral part of being a Blangahnite. It teaches our students to respect self, others and the environment. Events such as Earth Week, World Water Day and practices such as the 4Rs (Reduce, Reuse, Recycle and Refuse) are emphasised by our Green Ambassadors and Science teachers. Selected students are also given leadership opportunities to work with organisations such as NEA and Sembwaste to provide authentic platforms for them to explore environmental issues. Through such partnerships, they learn to take action to improve the environment around them and achieve awards that accredit the school&rsquo;s green practices. These activities include conducting recycling drives in the school, taking part in environmental challenges and creating educational posters for both the school community and neighbourhood.</p>
+
+![](/images/science6.png)
+
+<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/learning-for-life-programme/"><strong>here</strong></a>&nbsp;to find out more about our Learning for Life Programme (LLP)</p>
+<p><strong>STEM Programme - ALP</strong><br>This programme aims to leverage on STEM to create more meaningful and engaging activities that integrate engineering and technology in Mathematics and Science to fuel students&rsquo; enthusiasm in learning as well as to promote 21st&nbsp;century skills - critical thinking, decision-making, collaboration, communication and creativity. It provides students with opportunities to innovate and apply content knowledge to bridge the gap between key theoretical concepts and their real-world applications.</p>
+
+![](/images/science7.png)
+
+<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p>
+<p><strong>STEM Programme - APEX</strong><br>Our students in the Accelerated Programme to Enhance students&rsquo; eXperience (APEX) attend the STEM Programme. These include Robotics, Innovation Programme, Toy-making, Design Thinking, E2K and Project Work where students conduct research in areas such as aerodynamism and water conservation for group projects. We aim to help our students develop skills, habits of mind and attitudes necessary for scientific inquiry.</p>
