@@ -29,3 +29,13 @@ third_nav_title: Mother Tongue
 ![](/images/tamil2.png)
 
 <p><strong><em>Tamil Language Touch Typing<br /></em></strong>Tamil Language touch typing classes are conducted for our P3 students in Semester 1 annually. Students from P3 to P6 classes use their Tamil Language touch typing skills during Tamil lessons and in activities carried out annually during the Tamil Language Fortnight.</p>
+
+![](/images/tamil3.png)
+
+<p><strong>Inquiry Based Learning in Tamil<br /></strong>Inquiry Based Learning (IBL) engaged our students in self-directed and collaborative learning. With the authentic learning experience, IBL also promotes critical and inventive thinking skills in our students to solve real-world problems. In Tamil lessons, students carry out Inquiry-Based Learning in Tamil on a given topic. They gather information and data, based on the topic, and discuss with their peers to gain a better understanding. Teachers, as facilitators, provide the platform and guidance for students to ensure they head in the right direction with their data collection and discussions.</p>
+
+![](/images/tamil4.png)
+
+<p><strong>Quote from student:</strong></p>
+<p>&ldquo;தமிழ் கற்பதற்கு மகிழ்ச்சியாக இருப்பதால் எனக்குத் தமிழ் மொழி மிகவும் பிடிக்கும்!&rdquo;</p>
+<p>&ldquo;I like Tamil because it is so much fun!&rdquo; &ndash; Velmurugan Saathvika, Primary</p>
