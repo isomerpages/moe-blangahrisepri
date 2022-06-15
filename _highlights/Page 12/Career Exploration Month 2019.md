@@ -6,9 +6,7 @@ third_nav_title: Page 12
 ---
 ![](/images/Career-1024x683.jpg)
 
-<p style="text-align: center;"><em>What are my strengths and interests?</em></p>
-<p style="text-align: center;"><em>What would I like to be when you grow up?</em></p>
-<p style="text-align: center;"><em>What habits and attitudes do I need to develop to help me achieve my future goals?</em></p>
+<p style="text-align: center;"><em>What are my strengths and interests?</em><br><em>What would I like to be when you grow up?</em></br><em>What habits and attitudes do I need to develop to help me achieve my future goals?</em></p>
 <p>During our Career Exploration Month in May 2019, our primary school and MOE Kindergarten children were exposed to different careers. They had opportunities to interact with professionals from various fields and learn more about future career options.</p>
 <p>Singapore Police Force and SBS Transit gave assembly talks and set up recess booths to help our children learn about the different careers available in their organizations.</p>
 <p>Our school alumni lent their strong support! Dr Chai Siang Chew, a cardiologist, Ms Ashley Woo, an entrepreneur who develops board games, and Ms Gokki and Ms Punitha, a pair of sisters who have set up their own audit firm, gave a talk to our Primary 3 to 6 students and engaged our children in hands-on activities.</p>
