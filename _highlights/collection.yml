@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Page 13/Highlights.md
       - Page 13/.keep
