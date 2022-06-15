@@ -16,10 +16,6 @@ third_nav_title: Page 1
 
 ![](/images/IMG20220522152241-1024x462.jpg)
 
-<p>Besides the booth activities, our Student Leaders also conducted storytelling and craft sessions on both days at Singapore Botanic Gardens, and library@harbourfront on 21 May. Both sessions were well-received. One of the storytellers, Devesh shared that he was more confident in his storytelling on 21 May, as compared to the first session held on 7 May. He no longer had stage fright and was confident in putting forth his thoughts from then on. Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/05/13/the-green-dragonflies-and-their-swampy-friends-gets-a-read-at-libraryhabourfront/"><strong>here</strong></a>&nbsp;to find out more about our first storytelling session held on 7 May at library@harbourfront</p>
-<p>Would you like to join us for our storytelling and learn more about the environment? Join us at our&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/05/10/join-us-at-our-storytelling-sessions-the-green-dragonflies-and-their-swampy-friends/"><strong>Open House: Our Green Fiesta</strong></a>, on 28 May from 9am to 1230pm. There are many other exciting learning experiences that await you. We hope to see you then!</p>
-
-
 <p>Our Student Leaders had an enriching experience at Singapore Botanic Gardens. Gail, Primary 5, shared, &ldquo;I had not managed a booth before and this was a new experience for me. I was nervous at the beginning but I overcame that. After interacting with more people, my confidence level grew! I enjoyed sharing my knowledge about dragonflies and the environment with the visitors. This was an enriching learning experience that took place out of the classroom. I will always remember this day!&rdquo;</p>
 <p>Ruvanthigaa, a Student Leader who managed the booth with Gail, reflected, &ldquo;I have learnt more about the environment and biodiversity when preparing for the booth and interacting with the visitors. I would like to do more research on dragonflies so that I can extend my learning!&rdquo;&nbsp;</p>
 
@@ -28,3 +24,6 @@ third_nav_title: Page 1
 <p>This platform has given our Student Leaders a platform to hone their oral communication skills in an authentic platform. It has also sparked their interest to learn more about the environment and biodiversity and how they can play a part in caring for Mother Earth.&nbsp;</p>
 
 ![](/images/dragon3.png)
+
+<p>Besides the booth activities, our Student Leaders also conducted storytelling and craft sessions on both days at Singapore Botanic Gardens, and library@harbourfront on 21 May. Both sessions were well-received. One of the storytellers, Devesh shared that he was more confident in his storytelling on 21 May, as compared to the first session held on 7 May. He no longer had stage fright and was confident in putting forth his thoughts from then on. Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/05/13/the-green-dragonflies-and-their-swampy-friends-gets-a-read-at-libraryhabourfront/"><strong>here</strong></a>&nbsp;to find out more about our first storytelling session held on 7 May at library@harbourfront</p>
+<p>Would you like to join us for our storytelling and learn more about the environment? Join us at our&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/05/10/join-us-at-our-storytelling-sessions-the-green-dragonflies-and-their-swampy-friends/"><strong>Open House: Our Green Fiesta</strong></a>, on 28 May from 9am to 1230pm. There are many other exciting learning experiences that await you. We hope to see you then!</p>
