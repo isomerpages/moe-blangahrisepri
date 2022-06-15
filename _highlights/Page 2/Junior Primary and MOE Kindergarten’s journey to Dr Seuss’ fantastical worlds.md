@@ -6,7 +6,6 @@ third_nav_title: Page 2
 ---
 ![](/images/Seuss-1-Banner-2048x1286.jpg)
 
-<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Junior Primary and MOE Kindergarten&rsquo;s journey to Dr Seuss&rsquo; fantastical worlds</strong></span></p>
 <p>Our Junior School celebrated Dr Seuss Day on 1<sup>st</sup>&nbsp;March 2022, a day shy of his birthday. What better way to commemorate the author&rsquo;s illustrious works than to explore his writings?</p>
 <p>Throughout Term 1, our teachers introduced Dr Seuss&rsquo;s oeuvre to our Blangahnites and engaged our students with language learning activities. The Primary Ones came up with their own versions of&nbsp;<em>Dr Seuss&rsquo;s ABC</em>&nbsp;by emulating his alliterative style. The Primary Twos rehearsed their readings of a couple of the writer&rsquo;s texts, including&nbsp;<em>The Foot Book</em>,&nbsp;<em>Ten Apples Up On Top</em>,&nbsp;<em>Hop On Pop</em>&nbsp;and the famous&nbsp;<em>Green Eggs And Ham</em>, which the author cleverly used only 50 different words to compose!</p>
 <p>On the day of celebration, the students eagerly put on their Cat-in-the-Hat headpieces and like adoring fans, waited for their idol. The Cat-in-the-Hat mascot eventually dropped by for a visit and shared that he could read with his eyes shut! Amazing! Even the MOE Kindergarten preschoolers were entertained by The-Cat-in-the-Hat via a pre-recorded video as they learnt about their left and right feet.</p>
