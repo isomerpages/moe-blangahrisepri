@@ -6,7 +6,6 @@ third_nav_title: Page 2
 ---
 ![](/images/Dr-Zheng-1-2_crop.jpg)
 
-<p style="text-align: center;"><strong>Parents Webinar: How to Cultivate the Love for MTL in Children</strong></p>
 <p><em>&ldquo;I will start to ask my son open-ended questions: What do you see? How do you say that in English? How do you say that in Chinese?&rdquo;</em></p>
 <p>These questions are some of the tips which parents took out from a Webinar organized by our BRLC team on the topic &ldquo;How to Cultivate the Love for Mother Tongue Language in Children&rdquo;. Through the webinar, parents from our neighbouring preschools learnt the importance of nurturing a love for their mother tongue languages from a young age, and how to go about doing so.</p>
 <p>Our speaker was Dr Zheng Yingjiang, Master Teacher at the Singapore Centre for Chinese Language (SCCL) and Blangah Rise Learning Campus. Dr Zheng has a keen interest and actively contributes to the teaching and learning of Chinese Language in the field of local early childhood education. During the webinar, she shared her personal life experience as a mother and imparted advice to more than 30 attendees. With her involvement in publications that encourage a love for the Chinese language through lessons and tools, Dr Zheng engaged the attendees through the use of story-telling, role-playing and language games.</p>
