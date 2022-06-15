@@ -14,4 +14,6 @@ third_nav_title: Page 9
 <p>Kadyon See Kai from K2 Integrity said, &ldquo;I do some exercise and I sing our Singapore song. It was fun because I get myself healthy. I eat fruit cup and bread.&rdquo;</p>
 <p>At the end of the week, Aqeel Qushairy from 4 Sapphire said, &ldquo;I learned to exercise regularly and eat healthily. Exercising is good for me and I like it. I also learn to stay safe from the coronavirus situation &ndash; I can exercise at home, try not to go out and eat healthily if possible.&rdquo;</p>
 
+![](/images/activelifestyle.png)
+
 ![](/images/lifestyleactive.jpg)
