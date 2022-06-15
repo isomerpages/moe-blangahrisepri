@@ -6,7 +6,6 @@ third_nav_title: Page 2
 ---
 ![](/images/20220210_091905-2048x1536.jpg)
 
-<p style="text-align: center;"><strong><u>MOE Kindergarten K2 Students Learn Simple Coding</u></strong></p>
 <p>&ldquo;We want to play this game again!&rdquo;, the K2 Integrity pre-schoolers exclaimed after a unique robotics lesson.</p>
 <p>Our K2 students had an opportunity to learn simple coding through a fun collaborative activity with Blangah Rise Primary School (BRPS). Junior Primary Year Head, Mdm Kimberly Koh, taught our pre-schoolers how to use the Scratch Junior app on the iPad. As part of the school&rsquo;s Applied Learning Programme (STEM), we introduce all our students to coding &mdash; the process of creating instructions for computers using programming languages.</p>
 <p>Our pre-schoolers were fully attentive during the session, they learnt how to tap in the commands to get their character to move forward, jump, dance and even sing! This is the first of a number of activities planned for our K2 pre-schoolers as part of our unique BRLC K2 Transition programme, which gives our MK pre-schoolers a taster of distinctive BRPS programmes.</p>
