@@ -10,4 +10,5 @@ third_nav_title: Page 7
 <p>After the celebration, teachers attended a workshop conducted by Mr Bottles. Laughter was heard throughout the various breakout rooms as Mr Bottles led the teachers to learn magic acts that could be applied in the classroom to engage and motivate students. It was indeed a meaningful and magical day to appreciate BRLC teachers for their hard work.</p>
 
 ![](/images/tdc1.png)
+
 ![](/images/tdc2.png)
