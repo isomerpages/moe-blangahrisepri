@@ -1,5 +1,0 @@
-collections:
-  our-staff:
-    output: true
-    order:
-      - Our Staff.md
