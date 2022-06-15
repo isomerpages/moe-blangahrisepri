@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Page 9/.keep
       - Page 10/Highlights Through the eyes of our students.md
       - Page 10/Clean Up SouthWest CDC.md
       - Page 10/Keeping school safe and healthy for all.md
