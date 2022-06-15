@@ -12,4 +12,5 @@ third_nav_title: Page 7
 <p>&ldquo;I have many patients who are determined to get well and they teach me never to give up. They help me to improve in my practice and try new techniques, even after 28 years.&rdquo;</p>
 <p>Thank you, Ms Thilaga, for inspiring us to live a purpose driven life of serving, learning and growing.</p>
 
-![](/images/Ms-Thilaga.jpg)
+<img src="/images/Ms-Thilaga.jpg" 
+     style="width:50%">
