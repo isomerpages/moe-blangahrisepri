@@ -2,4 +2,5 @@ collections:
   publications:
     output: true
     order:
+      - Parents Post.md
       - BRAVO!.md
