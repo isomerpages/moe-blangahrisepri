@@ -35,3 +35,7 @@ third_nav_title: Our MOE Kindergarten
 ![](/images/middle4.png)
 
 <p><strong>Applied Learning Programme (ALP) &ndash; Robotics and STEM<br /></strong>Our students explore, investigate and ask questions through analysing problems and solving it through real world examples when they are working on STEM-related projects. P3 students work on the theme &ldquo;Let&rsquo;s Cool It!&rdquo; and Aerospace Engineering. P4 students work on the theme &ldquo;Let&rsquo;s Recycle!&rdquo; and Environmental Engineering.</p>
+
+![](/images/11-1-1024x768.jpg)
+
+![](/images/middle5.png)
