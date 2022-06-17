@@ -3,7 +3,7 @@ title: Our Achievements
 permalink: /news/our-achievements/
 description: ""
 ---
-
+![](/images/Life-In-Blangah-Rise-Our-Achievements2.png)
 
 <h4><strong>2022</strong></h4>
 <ul>
