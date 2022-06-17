@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Staff Bulletin/BRLC Staff Bulletin Vol 2 – 2020.md
       - Staff Bulletin/BRLC Staff Bulletin Vol 1 – 2020.md
       - Staff Bulletin/BRLC Staff Bulletin Vol 1 – SEP & OCT 2019.md
       - Staff Bulletin/Staff Bulletin.md
