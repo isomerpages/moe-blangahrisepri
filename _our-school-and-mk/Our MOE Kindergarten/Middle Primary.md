@@ -53,3 +53,31 @@ third_nav_title: Our MOE Kindergarten
 ![](/images/25-1-1024x683.jpg)
 
 ![](/images/21-1024x768.jpg)
+
+![](/images/middle8.png)
+
+![](/images/24-1024x683.jpg)
+
+<p><strong>Outdoor Education &ndash; P4 Adventure Camp<br /></strong>Our P4 students take part in a P4 Adventure Camp that builds their confidence and resilience and forges team spirit. Through this learning experience, our students feel enriched and have adopted a greater positive self-belief that they can overcome any difficulty no matter how tough it gets, as long as they set their minds to wanting to achieve their intended goals. We strongly believe that this camp will form an important memory of their primary schooling years.</p>
+
+![](/images/29-1024x576.jpg)
+
+![](/images/middle9.png)
+
+<p><strong>Learning Journeys<br /></strong>Our P3 students were immersed in a multi-media sensory experience at The Bicentennial Experience at Fort Canning as part of our nation&rsquo;s commemoration of Singapore's Bicentennial. This learning journey has created a deep and meaningful impact in our students as they &lsquo;travelled&rsquo; through time to learn about Singapore&rsquo;s history. Through that, they grew in their sense of belonging to Singapore and their pride of being Singaporean!</p>
+
+![](/images/33-1024x768.jpg)
+
+![](/images/middle10.png)
+
+<p>Our P4 students went to the National Gallery, Singapore to experience the arts through an array of activities.</p>
+
+![](/images/38-1024x768.jpg)
+
+![](/images/middle11.png)
+
+![](/images/36-1024x768.jpg)
+
+<p><strong>Student Leadership<br /></strong>Our student leaders act as role models to their peers. They provide peer support and influence their peers positively by living out the Seven Habits.</p>
+
+![](/images/40-1024x768.jpg)
