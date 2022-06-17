@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Dian Dian Di Di/Dian Dian Di Di.md
       - Dian Dian Di Di/.keep
       - Healthy Kids.md
       - Parents Post.md
