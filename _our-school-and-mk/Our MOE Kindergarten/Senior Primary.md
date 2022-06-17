@@ -129,3 +129,20 @@ third_nav_title: Our MOE Kindergarten
 <p>Eunice shared, &ldquo;I really enjoyed the trip as I get to see the animals living in their natural habitats! After all, it&rsquo;s not every day that we get to see mudskippers crawling in the mud!&rdquo;</p>
 <p>Bennett added, &ldquo;The thing I enjoyed most during my Sungei Buloh trip is being able to learn about the mangrove environment and being in nature itself.&rdquo;</p>
 <p>After the trip, Lynyan could now appreciate that &ldquo;in a mangrove eco-system, there is a diversity of organisms that co-exist with one another in order to survive.&rdquo;</p>
+
+![](/images/Pic-13-1024x498.jpg)
+
+![](/images/Pic-14-1024x498.jpg)
+
+![](/images/senior7.png)
+
+<p><strong>P6 Post-PSLE Programme<br /></strong>This is a 4-week programme that consists of a variety of different activities to engage our students physically and cognitively! This year, the highlights of the programme include Kidzania, Behind the Scenes in the Zoo and many more!</p>
+<p><strong>Code for FUN Programme<br /></strong>&ldquo;Yes! It&rsquo;s moving and turning around!&rdquo; was a common refrain when our students experimented with robots during the Code for Fun Programme specially arranged for our P6 students. This programme aims to expose students to coding and computational thinking, and excite them with new technologies.</p>
+<p>Khaizuran shared, &ldquo;This programme gives me an opportunity to work together with my friends. Together we use technology to create and control robots!&rdquo;</p>
+<p>Dominic also learnt the importance of teamwork. &ldquo;All of us have differences but as long as we work together as a team, we can still achieve our goals!&rdquo;</p>
+
+![](/images/Pic-16-1024x768.jpg)
+
+![](/images/Pic-17-768x1024.jpg)<p><strong>Interclass Games<br /></strong>After all the hard work in preparing for the PSLE, it is time to enjoy an exciting time of sports and games with our friends! The whole P6 cohort came together to participate in team building games as well as friendly matches of basketball and Frisbee. Through our participation in the activities, we can demonstrate teamwork and sportsmanship.</p>
+
+![](/images/Pic-19-1024x768.jpg)
