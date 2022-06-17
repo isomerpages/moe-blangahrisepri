@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Staff Bulletin/BRLC Staff Bulletin Vol 1 – SEP & OCT 2019.md
       - Staff Bulletin/Staff Bulletin.md
       - Staff Bulletin/.keep
       - Dian Dian Di Di/.keep
