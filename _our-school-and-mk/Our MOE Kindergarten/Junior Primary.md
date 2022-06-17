@@ -24,3 +24,22 @@ third_nav_title: Our MOE Kindergarten
 <div><iframe title="YouTube video player" src="https://www.youtube.com/embed/BMrVSX2Qe7Y" name="fitvid0" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p><strong>A Taste of Robotics &amp; Engineering for our Primary 1!<br /></strong>Building a smart nation is one of Singapore&rsquo;s top priorities in a bid to keep the city-state relevant in the digital age. STEM education imparts knowledge to students in the disciplines of Science, Technology, Engineering, and Mathematics. Our Primary 1 students got to take part in STEM activities which consist of Robotics and Engineering-related Learning Activities (ERLA).</p>
 <p>To equip our students with coding literacy and computational thinking skills, students took part in the KUBO Robotics and ScratchJr Program. Through this program, students learnt about coding with KUBO. Each student had a hands-on experience using the Kubo kit which consists of a small robot (KUBO) and a set of puzzle pieces (Tagtiles) that fit together to create programming chains. Students explored different coding functions and programmed their robots to move. Putting on their thinking caps, students successfully navigated KUBO through a map and avoided given obstacles. Students also got creative and designed costumes for their KUBO robots and programmed them to move in a KUBO Costume Parade!</p>
+
+![](/images/junior11.png)
+
+<p>On the other hand, students were engaged in a coding application called ScratchJr. With ScratchJr, students learnt to program their own interactive stories. In the process, they learn to solve problems, design characters, and express themselves creatively. Students unleashed their imagination as they made their characters come to life. They programmed their characters to move, jump, dance and speak using programming blocks. Students especially enjoyed how they could customise characters and backgrounds using the paint editor.</p>
+
+![](/images/junior12.png)
+
+<p>Through ERLA, our students had the experience of becoming young aerospace engineers. Students were briefed about NASA plans to explore the surface of Mars using a rover in combination with a lightweight helicopter. To explore how helicopters operate, students built their very own paper helicopters. They learnt that as air flows over a spinning helicopter blade, it generates a net upward push, called lift. Moreover, students experimented on factors that can also influence lift such as changing the shape or length of the blades. They reflected on how they could improve the design like NASA engineers did when making the first helicopter for planet Mars.</p>
+
+![](/images/junior13.png)
+
+<p><strong>P2 ERLA Activity: Parachute Making<br /></strong>Our P2 students were taken back in time to 1969 where astronauts first landed on the moon but with a twist: The astronauts are stranded on the moon! Our students bravely took up the challenge as aerospace engineers on a mission to bring these astronauts back to Earth safely.</p>
+<p>Students went through the Engineering Design Process Cycle where they worked with their peers to brainstorm possible solutions and planned out their ideas. Next, they designed their parachutes using given materials. Students had to decide on materials which can help land objects safely. Students were most excited when the time came to test out their parachutes. Indeed, it was a fun and engaging learning process for our students where they were given opportunities to explore and reflect on improvements they could make on their parachute design.</p>
+<p>On her experience, Heidi, from Primary 2 Sapphire said, &ldquo;It was fun making our own parachutes! I was excited to test if our parachutes worked!&rdquo;</p>
+<p>Jayden from Primary 2 Topaz had a similar experience shared, &ldquo;We brought the astronauts safely back to Earth! I am proud of our parachute design!&rdquo;</p>
+
+![](/images/junior14.png)
+
+<p><strong>BRPS Commemorates Total Day Defence</strong></p>
