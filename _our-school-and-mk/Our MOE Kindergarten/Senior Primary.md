@@ -92,3 +92,13 @@ third_nav_title: Our MOE Kindergarten
 ![](/images/3-e1585296441187.jpg)
 
 <p>&ldquo;At around noon, a friend of mine guessed that the shoebox everybody was told to bring was to be used to construct an oven box. I did not think that her guess was right until the camp started. The teacher shared about the story of a girl who wanted to cook for her family with limited tools. After the presentation was over, the teacher encouraged us to create our own oven boxes. I instantly thought of three designs and I shared with my group. We got to test if the oven boxes worked by attempting to melt bars of chocolate under the sun in the parade square. It was really fun as we got to dip marshmallows in the chocolate that we had melted.&rdquo;<br /><em>Maureen, 6 Topaz.</em></p>
+
+![](/images/4-e1585296431979.jpg)
+
+![](/images/5-e1585296419251.jpg)
+
+![](/images/6-e1585296484402.jpg)
+
+![](/images/7-e1585296472779.jpg)
+
+![](/images/8-e1585296404751.jpg)
