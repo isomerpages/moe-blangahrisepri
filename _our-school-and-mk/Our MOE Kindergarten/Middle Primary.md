@@ -39,3 +39,17 @@ third_nav_title: Our MOE Kindergarten
 ![](/images/11-1-1024x768.jpg)
 
 ![](/images/middle5.png)
+
+<p><strong>Learning for Life Programme (LLP) &ndash; Project GAIA<br /></strong>Our students seek support from the residents in the school&rsquo;s neighbourhood to donate their recyclable items. Through this project, they gather data based on the recyclables collected to recommend ways to relevant organisations to promote recycling and raise awareness of the importance of caring for and protecting the environment.</p>
+
+![](/images/18-1024x576.jpg)
+
+![](/images/middle6.png)
+
+![](/images/middle7.png)
+
+<p><strong>Digital Literacy &ndash; Young Photographers Programme<br /></strong>Our P3 students learn how to use an Advanced Compact Camera and our P4 students learn about Tablet Photography in the Young Photographers Programme. Our students communicate compelling stories and share their perspectives as they analyse their own photographs that they have taken using Thinking Routines to deepen their learning.</p>
+
+![](/images/25-1-1024x683.jpg)
+
+![](/images/21-1024x768.jpg)
