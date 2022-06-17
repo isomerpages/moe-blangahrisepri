@@ -43,3 +43,40 @@ third_nav_title: Our MOE Kindergarten
 ![](/images/junior14.png)
 
 <p><strong>BRPS Commemorates Total Day Defence</strong></p>
+
+![](/images/Photo-2-4-1024x700.jpg)
+
+![](/images/Photo-3-4-1024x735.jpg)
+
+![](/images/Photo-4-7-1024x683.jpg)
+
+<p>Do you know that a sixth pillar of&nbsp;<em>Digital Defence has been added</em><em>&nbsp;</em>to the existing five pillars of<em>&nbsp;Military, Civil, Economic, Social, Digital and Psychological Defence?</em></p>
+<p><em>Our Junior Primary students learnt about Singapore&rsquo;s past and how they can be proactive in playing their part&nbsp;</em>to help strengthen our country against future threats and challenges. Ameer, our P1 student, was inspired through the activities. He said, &ldquo;I want to be a policeman when I grow up so that I can keep Singapore safe.&rdquo;</p>
+<p><strong>Zoo Goes to School</strong></p>
+
+![](/images/Photo-5-3.jpg)
+
+![](/images/Photo-6-2.jpg)
+
+<p>Ranger Ooz visited BRPS and took our P1 students on a journey to discover amazing wild animals big and small. Students also had a chance to come up close and personal to discover nature. Qistina exclaimed, &ldquo;It was the first time I got to see and touch a stick insect!&rdquo;</p>
+<p><strong>Learning for Life Programme at Singapore Zoo</strong></p>
+
+![](/images/Photo-9-2.jpg)
+
+![](/images/Photo-10-1.jpg)
+
+![](/images/Photo-12-1.jpg)
+
+![](/images/Photo-11-1.jpg)
+
+<p>Following &ldquo;Zoo Goes to School&rdquo;, our P1 students went on the Fragile Forest Guided Tour at the Singapore Zoo for a multi-dimensional experience of life in a rainforest ecosystem. They walked amidst fascinating flora and came face to face with lemurs, butterflies, birds, snails and more. As part of our Learning for Life Programme, our students also learnt about the importance of rainforests to mankind and thought about ways we could save them.</p>
+<p>The visit ended with the exciting Animal Friends Show which opened the eyes of our students to the special skills and important roles that domesticated animals play in our lives. Camille recalled, &ldquo;It was fun to represent my school and see the animals up close!&rdquo;</p>
+<p><strong>Career Exploration Month</strong></p>
+
+![](/images/Photo-7-4-1024x683.jpg)
+
+![](/images/Photo-8-1-1024x683.jpg)
+
+<p>BRPS invited professionals including an accountant, a chef and a dietician, a doctor and an engineer to provide authentic hands-on experiences for our students. Our students became more aware of different careers and learnt about their own interests and strengths.</p>
+<p>Zheng Hao, a P1 student, recounted, &ldquo;Now I know what the doctors are listening to when they check me. I want to be like them when I grow up.&rdquo;</p>
+<p><strong>BRPS Commemorates Racial Harmony Day</strong></p>
