@@ -2,11 +2,6 @@ collections:
   our-school-and-mk:
     output: true
     order:
-      - Our MOE Kindergarten/MOE Kindergarten @ Blangah Rise.md
-      - Our MOE Kindergarten/Junior Primary.md
-      - Our MOE Kindergarten/Middle Primary.md
-      - Our MOE Kindergarten/Senior Primary.md
-      - Our MOE Kindergarten/.keep
       - Our Staff/.keep
       - Our Staff/Our Staff.md
       - Our Staff/English Department.md
@@ -33,4 +28,9 @@ collections:
       - Our Visitors/Hebei Handan Laike Primary School.md
       - Our Identity.md
       - Our History.md
+      - Our MOE Kindergarten/.keep
+      - Our MOE Kindergarten/MOE Kindergarten @ Blangah Rise.md
+      - Our MOE Kindergarten/Junior Primary.md
+      - Our MOE Kindergarten/Middle Primary.md
+      - Our MOE Kindergarten/Senior Primary.md
       - Special Feature on Our Educators.md
