@@ -4,14 +4,13 @@ title: Blangah Rise Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: The Green Snapshots with Pepper Green and Friends, a Nature
+  Heritage Trail around Telok Blangah and Berlayer Creek on 16 and 23 July 2022,
+  8:00 AM - 10:30 AM
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      subtitle: https://www.youtube.com/watch?v=GBCbE_lJU60
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -22,12 +21,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: Announcements
 ---
-
-
