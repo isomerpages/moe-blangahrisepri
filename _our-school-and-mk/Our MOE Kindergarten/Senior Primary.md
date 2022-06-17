@@ -146,3 +146,7 @@ third_nav_title: Our MOE Kindergarten
 ![](/images/Pic-17-768x1024.jpg)<p><strong>Interclass Games<br /></strong>After all the hard work in preparing for the PSLE, it is time to enjoy an exciting time of sports and games with our friends! The whole P6 cohort came together to participate in team building games as well as friendly matches of basketball and Frisbee. Through our participation in the activities, we can demonstrate teamwork and sportsmanship.</p>
 
 ![](/images/Pic-19-1024x768.jpg)
+
+![](/images/Pic-20-1024x768.jpg)
+
+![](/images/Pic-18-768x1024.jpg)
