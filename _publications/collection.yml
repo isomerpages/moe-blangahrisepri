@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - BRoadcast/BRoadcast Vol 1 – 2019.md
       - BRoadcast/BRoadcast.md
       - BRoadcast/.keep
       - Staff Bulletin/BRLC Staff Bulletin Vol 2 – 2021.md
