@@ -102,3 +102,30 @@ third_nav_title: Our MOE Kindergarten
 ![](/images/7-e1585296472779.jpg)
 
 ![](/images/8-e1585296404751.jpg)
+
+<p><strong>BRPS LOVES SINGAPORE: National Education Show<br /></strong>A P5 student&rsquo;s dream comes true! What could be more satisfying than to celebrate our country&rsquo;s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! Aarav shared, &ldquo;I really enjoyed the NE show and learnt about Singapore&rsquo;s history and the bicentennial year. My favourite part was when the Red Lions skydived from the helicopter, hovering over us. It was certainly a memorable experience!&rdquo;</p>
+
+![](/images/Pic-2.jpg)
+
+![](/images/Pic-3-1024x768.jpg)
+
+![](/images/Pic-1-768x1024.jpg)
+
+![](/images/Pic-4.jpg)
+
+<p><strong>P5 Young Photographers Programme<br /></strong>This is a structured 4-day programme that allows students to learn about the different skills needed in photography to take excellent pictures. After going through the theory lessons, our students are given the opportunity to do an outdoor shoot at Marina Barrage!</p>
+
+![](/images/senior5.png)
+
+<p><strong>P5 STEM Activities<br /></strong>Students worked together and used their creativity to programme and prototype a beach cleaner to remove trash found on the shore.</p>
+
+![](/images/senior6.png)
+
+![](/images/Pic-11.jpg)
+
+<p><strong>P6 Programmes</strong></p>
+<p><strong>A Nature trail to Sungei Buloh<br /></strong>&ldquo;Nothing beats learning Science in an authentic environment. If we can&rsquo;t bring nature into the classrooms, we bring our students into the nature,&rdquo; says Mrs Jenny Quek, Head of Department for Science.</p>
+<p>Sungei Buloh Nature Reserve is a place students must visit when they learn about &ldquo;Adaptation&rdquo;. They learn about nature in the most natural setting. Untouched by modern urbanisation, students get to observe animals and plants in close proximity.</p>
+<p>Eunice shared, &ldquo;I really enjoyed the trip as I get to see the animals living in their natural habitats! After all, it&rsquo;s not every day that we get to see mudskippers crawling in the mud!&rdquo;</p>
+<p>Bennett added, &ldquo;The thing I enjoyed most during my Sungei Buloh trip is being able to learn about the mangrove environment and being in nature itself.&rdquo;</p>
+<p>After the trip, Lynyan could now appreciate that &ldquo;in a mangrove eco-system, there is a diversity of organisms that co-exist with one another in order to survive.&rdquo;</p>
