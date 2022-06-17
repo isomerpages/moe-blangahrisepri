@@ -2,5 +2,6 @@ collections:
   publications:
     output: true
     order:
+      - Healthy Kids.md
       - Parents Post.md
       - BRAVO!.md
