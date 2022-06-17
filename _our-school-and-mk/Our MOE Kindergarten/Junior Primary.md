@@ -80,3 +80,26 @@ third_nav_title: Our MOE Kindergarten
 <p>BRPS invited professionals including an accountant, a chef and a dietician, a doctor and an engineer to provide authentic hands-on experiences for our students. Our students became more aware of different careers and learnt about their own interests and strengths.</p>
 <p>Zheng Hao, a P1 student, recounted, &ldquo;Now I know what the doctors are listening to when they check me. I want to be like them when I grow up.&rdquo;</p>
 <p><strong>BRPS Commemorates Racial Harmony Day</strong></p>
+
+![](/images/Photo-13-1024x683.jpg)
+
+<p>Our Junior Primary students came dressed in their traditional ethnic costumes and learnt the importance of maintaining&nbsp;racial&nbsp;and religious&nbsp;harmony&nbsp;in Singapore's multicultural and multi-ethnic society. They practised the habit of &ldquo;seeking first to understand, then to be understood&rdquo; through the assembly show and games.</p>
+<p>Nurgazyz, a P2 student, reflected, &ldquo;I am from another country and I am impressed to see how the different races in Singapore get along well with one another.&rdquo;</p>
+<p><strong>Readers&rsquo; Theatre</strong></p>
+
+![](/images/Photo-14-2.jpg)
+
+![](/images/Photo-15-1.jpg)
+
+<p>A play by students for students. Our P2 students came together to decide on a play which they would like to perform to our P1 students. Through the process, our P2 students learned to work together with their peers and continued to improve on their play after each performance.</p>
+<p>Lucas, a P2 student, recounted, &ldquo;It was not easy to speak slowly when I played the role of the tortoise because my friends had to wait for me.&rdquo;</p>
+<p>Drayson, a P1 student, shared, &ldquo;I know the story and it was funny when the Primary 2 students acted it out.&rdquo;</p>
+<p><strong>MOE Kindergarten Transition Programme</strong></p>
+
+![](/images/Photo-16.jpg)
+
+![](/images/Photo-17.jpg)
+
+<p>We are privileged to be one of the 18 primary schools with an MOE Kindergarten. In Term 4, we have an array of activities lined up for our MOE Kindergarten children, from going on a school tour around the &ldquo;big&rdquo; primary school, to classroom experiences as well as conducting interviews with our primary school Principal and staff.</p>
+<p>Our P1 student, Kashia, said, &ldquo;I am happy I can help my K2 friend know more about my class.&rdquo;</p>
+<p>Stay tuned for more exciting updates!</p>
