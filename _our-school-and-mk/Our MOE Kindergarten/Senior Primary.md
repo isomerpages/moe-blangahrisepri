@@ -28,3 +28,49 @@ third_nav_title: Our MOE Kindergarten
 <p>&ldquo;I enjoyed the program very much. I learnt how to code the Sphero, make it light up with different flash lights and control its movement. I think that learning coding will make our lives easier in the future!&rdquo;&nbsp;<em>(Rian Hong, 5 Topaz)</em></p>
 <p>&ldquo;I had so much fun! I was able to control the robot&rsquo;s movement. I hope that in the future I am able to program robots to help my family with housework!&rdquo; <em>(Lin Zesheng, 5 Topaz)</em></p>
 <p>&ldquo;It was fun and engaging! I get to play with robots and I learnt how to programme them. I aspire to be a game developer when I grow up!&rdquo;&nbsp;<em>(Tam Chi Fung, 5 Sapphire)</em></p>
+
+![](/images/senior1.png)
+
+<p><strong>Morning Conversations in Senior Primary<br /></strong>Teachers start a typical school day right by interacting with their students during Morning Conversations. These conversations take place before the first period of the day and focuses on different sets of virtues weekly. During Morning Conversations, teachers not only take the opportunity to bond with their students, they also create opportunities for students to build camaraderie amongst themselves. Teachers highlight positive behaviour displayed by pupils and affirmed their actions through a mixture of fun activities and conversations during this time.</p>
+<p>&lsquo;Morning conversation is a great way to build meaningful relationships with my students. I am able to strengthen my bond with my class before the lesson and am able to interact freely with them. Most of all, it starts the day on a chirpy and engaging tone that keeps them motivated for the day&rsquo;, quoted Ms Munirah!</p>
+
+![](/images/senior2.png)
+
+![](/images/Pic-5-2048x1536.jpg)
+
+<p><strong>P6 Motivation Camp<br /></strong>Our annual Primary 6 Motivation camp kicked off on 24 March 2022 with the theme, &ldquo;I Can&rsquo;t, I Can, I Will&rdquo;. The camp aimed not only to provide opportunities for the students to build camaraderie among one another, it was also designed to incorporate activities that would help build confidence.</p>
+<p>On the first day of the camp, our students worked in their groups and used their Science knowledge to build a solar oven made of recycled materials. At the end of the project, they tested out their solar oven and even managed to melt some chocolate that they dipped with marshmallow. &ldquo;I enjoyed the experiment on chocolate because I got to learn more about Science and material engineering during the experiment,&rdquo; shared Kate from Primary 6 Topaz.</p>
+<p>On the second day of the camp, our students continued to challenge themselves and worked together to overcome many challenges in five different stations. The theme, &ldquo;Reach For Your Goal&rdquo;, put their teamwork skills to a test as they overcame challenges encountered in the five stations located around the school compound. The students relied on their strong bonds with their friends to overcome potential obstacles, even as the tasks provided opportunities for students to solve problems creatively.</p>
+<p>&ldquo;The camp was fun but we also get to learn things like making a solar oven using concepts from Science. The most interesting activity was the &lsquo;Ready, Aim, Shoot!&rsquo; on Day 2 because we had to score points which required skills and more importantly, teamwork,&rdquo; reflected Aqeel from Primary 6 Topaz. It was heartening to see the students demonstrating virtues learnt throughout the camp! These are life skills that they would take them a long way even as they leave our gates.</p>
+
+![](/images/senior3.png)
+
+![](/images/senior4.png)
+
+<p><strong>A glimpse into our Primary 5 and 6 classrooms<br /></strong>A large amount of the student&rsquo;s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
+<p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let&rsquo;s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
+
+![](/images/20220131_090200-2048x1536.jpg)
+
+![](/images/20220131_094926-1-2048x1536.jpg)
+
+![](/images/20220131_095223-1937x2048.jpg)
+
+![](/images/PXL_20220128_003441169MP_-scaled.jpg)
+
+![](/images/PXL_20220128_003532615MP_-scaled.jpg)
+
+![](/images/PXL_20220128_040453154MP_-scaled.jpg)
+
+![](/images/PXL_20220128_040513008MP_-scaled.jpg)
+
+<p><strong>P5 Programmes</strong></p>
+<p><strong>Level Bonding Day<br /></strong>This year, our Level Bonding Day takes place very differently from previous years. With COVID 19, many activities have to be carried out innovatively to achieve their objectives. However, this does not deter us from having fun together! With the safety management measures in place, all of us had fun together even when we are 1 m apart! (*Disclaimer: pupils were not wearing masks as they were doing physical activities)</p>
+
+![](/images/LBD-_-A.jpg)
+
+![](/images/LBD-_-B.jpg)
+
+![](/images/LBD-_-C.jpg)
+
+![](/images/LBD-_-D-e1605618413726.jpg)
