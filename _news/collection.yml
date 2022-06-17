@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Highlights/.keep
-      - Our Achievements.md
+      - Achievements.md
       - Our Visitors.md
