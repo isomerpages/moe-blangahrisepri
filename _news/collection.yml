@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Gallery/.keep
-      - Gallery.md
       - Our Achievements.md
       - Our Visitors.md
