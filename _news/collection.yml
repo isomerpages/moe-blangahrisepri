@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Gallery/Gallery.md
       - Gallery/.keep
       - Our Achievements.md
       - Our Visitors.md
