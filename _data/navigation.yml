@@ -114,5 +114,6 @@ links:
         url: /2021/02/10/parents-post/
       - title: BRAVO!
         url: /2021/02/10/bravo/
-  - title: Contact Us
-    url: /contact-us/
+  - title: News
+    url: /permalink
+    sublinks: []
