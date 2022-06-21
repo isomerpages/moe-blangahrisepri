@@ -50,7 +50,7 @@ description: ""
 </a></p>
 <p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">P6 Motivation Camp 2022</span></strong></p>
 
-<p><a href="https://www.facebook.com/media/set/?set=a.5763254583688898&type=3">
-<img style="width: 35%;" src="/images/1g.png" />
+<p><a href="https://www.facebook.com/media/set/?set=a.5733224510025239&type=3">
+<img style="width: 35%;" src="/images/1-14-1536x1152.jpg" />
 </a></p>
-<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Parents Webinar: How to Cultivate the Love for MTL in Children</span></strong></p>![]
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Tongue twisters by MK teachers engage pre-schoolers</span></strong></p>
