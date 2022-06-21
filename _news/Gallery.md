@@ -44,3 +44,13 @@ description: ""
 <img style="width: 35%;" src="/images/1-16.jpg" />
 </a></p>
 <p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Robotics and Engineering Fun with BRPS Applied Learning Programme</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5776987852315571&type=3">
+<img style="width: 35%;" src="/images/1-15.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">P6 Motivation Camp 2022</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5763254583688898&type=3">
+<img style="width: 35%;" src="/images/1g.png" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Parents Webinar: How to Cultivate the Love for MTL in Children</span></strong></p>![]
