@@ -60,7 +60,32 @@ description: ""
 </a></p>
 <p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">P4 Students Clinch First Place at Rentas Pantas 2022</span></strong></p>
 
-<p><a href="https://www.facebook.com/media/set/?set=a.5733220243358999&type=3">
-<img style="width: 35%;" src="/images/1-13-1536x1152.jpg" />
+<p><a href="https://www.facebook.com/media/set/?set=a.5719456341402056&type=3">
+<img style="width: 35%;" src="/images/1-12.jpg" />
 </a></p>
-<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">P4 Students Clinch First Place at Rentas Pantas 2022</span></strong></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Our journey to Dr Seuss’ fantastical worlds</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5705418512805839&type=3">
+<img style="width: 35%;" src="/images/1-11-1536x864.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Gold Award for Excellent Unit Award Year 2021</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5681897018491322&type=3">
+<img style="width: 35%;" src="/images/1-10.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Debate Team advances to Quarterfinals at Wits & Words Competition</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5676653692348988&type=3">
+<img style="width: 35%;" src="/images/1-9.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">MOE Kindergarten K2 Students Learn Simple Coding</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5673321372682220&type=3">
+<img style="width: 35%;" src="/images/1-8.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">BRPS commemorates a very special Total Defence Day</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5595730707107954&type=3">
+<img style="width: 35%;" src="/images/1-7.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">BRLC ushers in the Year of the Tiger!</span></strong></p>
