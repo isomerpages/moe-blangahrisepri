@@ -54,3 +54,13 @@ description: ""
 <img style="width: 35%;" src="/images/1-14-1536x1152.jpg" />
 </a></p>
 <p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Tongue twisters by MK teachers engage pre-schoolers</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5733220243358999&type=3">
+<img style="width: 35%;" src="/images/1-13-1536x1152.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">P4 Students Clinch First Place at Rentas Pantas 2022</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5733220243358999&type=3">
+<img style="width: 35%;" src="/images/1-13-1536x1152.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">P4 Students Clinch First Place at Rentas Pantas 2022</span></strong></p>
