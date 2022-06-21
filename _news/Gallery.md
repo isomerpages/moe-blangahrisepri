@@ -39,3 +39,8 @@ description: ""
 <img style="width: 35%;" src="/images/1-17.jpg" />
 </a></p>
 <p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Exploring technology through BRPS’s Applied Learning Program</span></strong></p>
+
+<p><a href="https://www.facebook.com/media/set/?set=a.5783177228363300&type=3">
+<img style="width: 35%;" src="/images/1-16.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Robotics and Engineering Fun with BRPS Applied Learning Programme</span></strong></p>
