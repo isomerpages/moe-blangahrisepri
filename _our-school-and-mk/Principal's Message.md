@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-
 ![](/images/Ps-Message-min.jpeg)
 
 <p>We are all certainly hoping for a fresh and liberating new year where our children can have more enriching learning experiences to grow further from, with less worries about the restrictive management measures. Looking back positively however, the disruption from Covid-19 has caused us to explore new ways of learning with technology, and also heightened our sense for mental wellness and the need to help our children to continue growing their character strength.</p>
@@ -30,4 +29,4 @@ description: ""
 </ul>
 <p>Nurturing the unseen stage of growth may not be the most rewarding action to take, but it can be the most important one.</p>
 <p>Wishing you and your family a good year of growth ahead!</p>
-<p>Francis Foo</br>Principal</p>
+<p>Francis Foo<br>Principal</p>
