@@ -45,13 +45,8 @@ third_nav_title: Our MOE Kindergarten
 <img src="/images/33-1024x768.jpg">
 <img src="/images/middle10.png">
 <p>Our P4 students went to the National Gallery, Singapore to experience the arts through an array of activities.</p>
-
-![](/images/38-1024x768.jpg)
-
-![](/images/middle11.png)
-
-![](/images/36-1024x768.jpg)
-
+<img src="/images/38-1024x768.jpg">
+<img src="/images/middle11.png">
+<img src="/images/36-1024x768.jpg">
 <p><strong>Student Leadership<br /></strong>Our student leaders act as role models to their peers. They provide peer support and influence their peers positively by living out the Seven Habits.</p>
-
-![](/images/40-1024x768.jpg)
+<img src="/images/40-1024x768.jpg">
