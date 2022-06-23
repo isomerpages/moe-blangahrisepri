@@ -2,7 +2,6 @@ collections:
   special-feature-on-educators:
     output: true
     order:
-      - Special Feature on Our Educators.md
       - "Leveraging epedagogy to impart 21st CC skills: Miss Seow Wen Yi.md"
       - "Sparking learning through technology infused lessons: Mr Dinesh.md"
       - "Championing Cyberwellness, Digital Literacy and EdTech: Miss Athena
