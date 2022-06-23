@@ -4,9 +4,8 @@ permalink: /departments/middle-primary/
 description: ""
 third_nav_title: Our MOE Kindergarten
 ---
-![](/images/IMG_8407E-min.jpg)
-
-![](/images/YH-Patrick-AYH-Victor_2020_8398-Final-min.jpg)
+<img src="/images/IMG_8407E-min.jpg">
+<img src="/images/YH-Patrick-AYH-Victor_2020_8398-Final-min.jpg">
 
 <h4 style="text-align: center;"><strong><em>Children live up to what we believe of them.<br /></em></strong><strong><em>We believe that every child wants to learn and can learn.</em></strong></h4>
 <p><strong>A note from the Year Head, Mr Patrick Goh and Assistant Year Head, Mr Victor Lim<br /></strong>The Middle Primary is a robust team formed by talented and creative teachers who will combine their strengths, skills and ideas to work together to enrich your child&rsquo;s time in school. My colleagues and I aim to nurture your child to the best of our abilities. We believe in establishing a strong partnership and an open communication with parents.</p>
@@ -20,56 +19,31 @@ third_nav_title: Our MOE Kindergarten
 <li><a href="https://youtu.be/zciUA4uToso" target="_blank" rel="noopener">P4 Level Video</a></li>
 </ol>
 <p><strong>LEARNING ENVIRONMENT<br /></strong>Our students love to come to school and enjoy learning because our teachers create a non-threatening and conducive environment that welcomes them. Our students beam with pride when the teachers regularly put up their good work done in class!</p>
-
-![](/images/middle1.png)
-
+<img src="/images/middle1.png">
 <p><strong>LEVEL PROGRAMMES IN 2020</strong></p>
 <p><strong>Supervised Study Programme (SSP)<br /></strong>Our teachers and student-leaders from secondary schools, junior colleges and polytechnics mentor our students by providing after-school academic support and conducting values-based activities to strengthen character-building.</p>
-
-![](/images/middle2.png)
-
+<img src="/images/middle2.png">
 <p><strong>Project SPARK<br /></strong>In our continuous effort to support our students holistically through meaningful activities and enjoyable school experiences, our creative teachers designed an after-school interest club programme &ndash; Project SPARK. This programme aims to ignite our students&rsquo; interests in indoor and outdoor sports, experiential activities such as art, music and dance, robotics and gardening, and activities that enhance our students&rsquo; general knowledge in civic literacy and global awareness. Most importantly, we would like to build our students&rsquo; sense of belonging to the school and team spirit with their schoolmates.</p>
-
-![](/images/middle3.png)
-
-![](/images/middle4.png)
-
+<img src="/images/middle3.png">
+<img src="/images/middle4.png">
 <p><strong>Applied Learning Programme (ALP) &ndash; Robotics and STEM<br /></strong>Our students explore, investigate and ask questions through analysing problems and solving it through real world examples when they are working on STEM-related projects. P3 students work on the theme &ldquo;Let&rsquo;s Cool It!&rdquo; and Aerospace Engineering. P4 students work on the theme &ldquo;Let&rsquo;s Recycle!&rdquo; and Environmental Engineering.</p>
-
-![](/images/11-1-1024x768.jpg)
-
-![](/images/middle5.png)
-
+<img src="/images/11-1-1024x768.jpg">
+<img src="/images/middle5.png">
 <p><strong>Learning for Life Programme (LLP) &ndash; Project GAIA<br /></strong>Our students seek support from the residents in the school&rsquo;s neighbourhood to donate their recyclable items. Through this project, they gather data based on the recyclables collected to recommend ways to relevant organisations to promote recycling and raise awareness of the importance of caring for and protecting the environment.</p>
-
-![](/images/18-1024x576.jpg)
-
-![](/images/middle6.png)
-
-![](/images/middle7.png)
-
+<img src="/images/18-1024x576.jpg">
+<img src="/images/middle6.png">
+<img src="/images/middle7.png">
 <p><strong>Digital Literacy &ndash; Young Photographers Programme<br /></strong>Our P3 students learn how to use an Advanced Compact Camera and our P4 students learn about Tablet Photography in the Young Photographers Programme. Our students communicate compelling stories and share their perspectives as they analyse their own photographs that they have taken using Thinking Routines to deepen their learning.</p>
-
-![](/images/25-1-1024x683.jpg)
-
-![](/images/21-1024x768.jpg)
-
-![](/images/middle8.png)
-
-![](/images/24-1024x683.jpg)
-
+<img src="/images/25-1-1024x683.jpg">
+<img src="/images/21-1024x768.jpg">
+<img src="/images/middle8.png">
+<img src="/images/24-1024x683.jpg">
 <p><strong>Outdoor Education &ndash; P4 Adventure Camp<br /></strong>Our P4 students take part in a P4 Adventure Camp that builds their confidence and resilience and forges team spirit. Through this learning experience, our students feel enriched and have adopted a greater positive self-belief that they can overcome any difficulty no matter how tough it gets, as long as they set their minds to wanting to achieve their intended goals. We strongly believe that this camp will form an important memory of their primary schooling years.</p>
-
-![](/images/29-1024x576.jpg)
-
-![](/images/middle9.png)
-
+<img src="/images/29-1024x576.jpg">
+<img src="/images/middle9.png">
 <p><strong>Learning Journeys<br /></strong>Our P3 students were immersed in a multi-media sensory experience at The Bicentennial Experience at Fort Canning as part of our nation&rsquo;s commemoration of Singapore's Bicentennial. This learning journey has created a deep and meaningful impact in our students as they &lsquo;travelled&rsquo; through time to learn about Singapore&rsquo;s history. Through that, they grew in their sense of belonging to Singapore and their pride of being Singaporean!</p>
-
-![](/images/33-1024x768.jpg)
-
-![](/images/middle10.png)
-
+<img src="/images/33-1024x768.jpg">
+<img src="/images/middle10.png">
 <p>Our P4 students went to the National Gallery, Singapore to experience the arts through an array of activities.</p>
 
 ![](/images/38-1024x768.jpg)
