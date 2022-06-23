@@ -2,6 +2,8 @@ collections:
   our-school-and-mk:
     output: true
     order:
+      - Principal's Message.md
+      - Our Leadership.md
       - Our Staff/.keep
       - Our Staff/Our Staff.md
       - Our Staff/English Department.md
@@ -14,8 +16,6 @@ collections:
       - Our Staff/Student Management Department.md
       - Our Staff/MOE Kindergarten.md
       - Our Staff/Administration and Operations Team.md
-      - Principal's Message.md
-      - Our Leadership.md
       - School Advisory Committee.md
       - "Our Alumni: Making a Difference in Society.md"
       - Our Identity.md
