@@ -90,15 +90,10 @@ third_nav_title: Our MOE Kindergarten
 <img src="/images/7-e1585296472779.jpg">
 <img src="/images/8-e1585296404751.jpg">
 <p><strong>BRPS LOVES SINGAPORE: National Education Show<br /></strong>A P5 student&rsquo;s dream comes true! What could be more satisfying than to celebrate our country&rsquo;s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! Aarav shared, &ldquo;I really enjoyed the NE show and learnt about Singapore&rsquo;s history and the bicentennial year. My favourite part was when the Red Lions skydived from the helicopter, hovering over us. It was certainly a memorable experience!&rdquo;</p>
-
-![](/images/Pic-2.jpg)
-
-![](/images/Pic-3-1024x768.jpg)
-
-![](/images/Pic-1-768x1024.jpg)
-
-![](/images/Pic-4.jpg)
-
+<img src="/images/Pic-2.jpg">
+<img src="/images/Pic-3-1024x768.jpg">
+<img src="/images/Pic-1-768x1024.jpg">
+<img src="/images/Pic-4.jpg">
 <p><strong>P5 Young Photographers Programme<br /></strong>This is a structured 4-day programme that allows students to learn about the different skills needed in photography to take excellent pictures. After going through the theory lessons, our students are given the opportunity to do an outdoor shoot at Marina Barrage!</p>
 
 ![](/images/senior5.png)
@@ -126,10 +121,9 @@ third_nav_title: Our MOE Kindergarten
 <p><strong>Code for FUN Programme<br /></strong>&ldquo;Yes! It&rsquo;s moving and turning around!&rdquo; was a common refrain when our students experimented with robots during the Code for Fun Programme specially arranged for our P6 students. This programme aims to expose students to coding and computational thinking, and excite them with new technologies.</p>
 <p>Khaizuran shared, &ldquo;This programme gives me an opportunity to work together with my friends. Together we use technology to create and control robots!&rdquo;</p>
 <p>Dominic also learnt the importance of teamwork. &ldquo;All of us have differences but as long as we work together as a team, we can still achieve our goals!&rdquo;</p>
-
-![](/images/Pic-16-1024x768.jpg)
-
-![](/images/Pic-17-768x1024.jpg)<p><strong>Interclass Games<br /></strong>After all the hard work in preparing for the PSLE, it is time to enjoy an exciting time of sports and games with our friends! The whole P6 cohort came together to participate in team building games as well as friendly matches of basketball and Frisbee. Through our participation in the activities, we can demonstrate teamwork and sportsmanship.</p>
+<img src="/images/Pic-16-1024x768.jpg">
+<img src="/images/Pic-17-768x1024.jpg">
+<p><strong>Interclass Games</strong><br/>After all the hard work in preparing for the PSLE, it is time to enjoy an exciting time of sports and games with our friends! The whole P6 cohort came together to participate in team building games as well as friendly matches of basketball and Frisbee. Through our participation in the activities, we can demonstrate teamwork and sportsmanship.</p>
 
 ![](/images/Pic-19-1024x768.jpg)
 
