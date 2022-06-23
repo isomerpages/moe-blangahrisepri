@@ -2,6 +2,8 @@ collections:
   news:
     output: true
     order:
+      - Gallery/.keep
+      - Gallery/2022.md
       - Gallery/2021.md
       - Gallery/2020.md
       - Gallery/2019.md
@@ -9,7 +11,5 @@ collections:
       - Gallery/2017.md
       - Gallery/2016.md
       - Gallery/2015.md
-      - Gallery/2022.md
-      - Gallery/.keep
       - Our Achievements.md
       - Our Visitors.md
