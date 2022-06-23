@@ -4,8 +4,7 @@ permalink: /moe-kindergarten-blangah-rise/
 description: ""
 third_nav_title: Our MOE Kindergarten
 ---
-![](/images/BRPS-and-MK-Banner-Photo2.jpg)
-
+<img src="/images/BRPS-and-MK-Banner-Photo2.jpg" >
 <img src="/images/Marina-Ho_MK-CH-Website-683-x1024-96dpi-200x300.png" 
      style="width:25%" align = "left">
 <p><strong>A note from our Centre Head</strong><br>At MOE Kindergarten @ Blangah Rise we believe that children are curious and active learners. Our teachers seek to engage children to make discoveries and explore the world around them. We help our children to learn concepts and develop good learning dispositions.</p>
