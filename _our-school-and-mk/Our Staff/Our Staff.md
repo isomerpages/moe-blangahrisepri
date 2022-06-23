@@ -4,12 +4,10 @@ permalink: /our-school/our-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-
 ![](/images/Staff-photo.jpeg)
 
-<a href="https://moe-blangahrisepri-staging.netlify.app/our-school/special-feature-on-our-educators/"><h2 style="text-align: center;"><strong>Special Feature on Our Educators</strong></h2></a>
+<h2 style="text-align: center;"><a href="https://moe-blangahrisepri-staging.netlify.app/2022/05/12/leveraging-e-pedagogy-to-impart-21st-cc-skills-miss-seow-wen-yi/">Special Feature on our Educators</a></h2>
 
-<p><a href="https://moe-blangahrisepri-staging.netlify.app/our-school/our-staff/english-teachers/">
 <img src="/images/Blangah-Rise-Departments1.jpeg" 
      style="width:50%">
 </a></p>
