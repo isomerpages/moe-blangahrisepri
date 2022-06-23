@@ -3,9 +3,8 @@ title: "Our Alumni: Making a Difference in Society"
 permalink: /our-school/alumni/
 description: ""
 ---
-
-<p><em>In conjunction with our Educational and Career Guidance programme, we are featuring a series of stories from our BRPS Alumni. As our students read about how our alumni members have contributed to society, we hope they will learn to begin with the end in mind and be inspired to give of their best to achieve their goals and dreams!</em></p>
-<p>Reflect on the following questions as you read the stories.</p>
+<p><strong><em>In conjunction with our Educational and Career Guidance programme, we are featuring a series of stories from our BRPS Alumni. As our students read about how our alumni members have contributed to society, we hope they will learn to begin with the end in mind and be inspired to give of their best to achieve their goals and dreams!</em></strong></p>
+<p><strong>Reflect on the following questions as you read the stories.</strong></p>
 <ol>
 <li>What do I want to be when I grow up?</li>
 <li>What are my strengths and interests?</li>
@@ -13,7 +12,7 @@ description: ""
 <li>What skills do I need for the career that I am interested in?</li>
 <li>What is my next step after PSLE?</li>
 </ol>
-<h4 style="text-align: center;">Our Alumni Stories</h4>
+<h4 style="text-align: center;"><strong>Our Alumni Stories</strong></h4>
 
 ![](/images/alumniboard-05-2.jpeg)
 
