@@ -56,7 +56,6 @@ third_nav_title: Our MOE Kindergarten
 <img src="/images/PXL_20220128_003532615MP_-scaled.jpg">
 <img src="/images/PXL_20220128_040453154MP_-scaled.jpg">
 <img src="/images/PXL_20220128_040513008MP_-scaled.jpg">
-
 <p><strong>P5 Programmes</strong></p>
 <p><strong>Level Bonding Day<br /></strong>This year, our Level Bonding Day takes place very differently from previous years. With COVID 19, many activities have to be carried out innovatively to achieve their objectives. However, this does not deter us from having fun together! With the safety management measures in place, all of us had fun together even when we are 1 m apart! (*Disclaimer: pupils were not wearing masks as they were doing physical activities)</p>
 
@@ -85,17 +84,11 @@ third_nav_title: Our MOE Kindergarten
 ![](/images/3-e1585296441187.jpg)
 
 <p>&ldquo;At around noon, a friend of mine guessed that the shoebox everybody was told to bring was to be used to construct an oven box. I did not think that her guess was right until the camp started. The teacher shared about the story of a girl who wanted to cook for her family with limited tools. After the presentation was over, the teacher encouraged us to create our own oven boxes. I instantly thought of three designs and I shared with my group. We got to test if the oven boxes worked by attempting to melt bars of chocolate under the sun in the parade square. It was really fun as we got to dip marshmallows in the chocolate that we had melted.&rdquo;<br /><em>Maureen, 6 Topaz.</em></p>
-
-![](/images/4-e1585296431979.jpg)
-
-![](/images/5-e1585296419251.jpg)
-
-![](/images/6-e1585296484402.jpg)
-
-![](/images/7-e1585296472779.jpg)
-
-![](/images/8-e1585296404751.jpg)
-
+<img src="/images/4-e1585296431979.jpg">
+<img src="/images/5-e1585296419251.jpg">
+<img src="/images/6-e1585296484402.jpg">
+<img src="/images/7-e1585296472779.jpg">
+<img src="/images/8-e1585296404751.jpg">
 <p><strong>BRPS LOVES SINGAPORE: National Education Show<br /></strong>A P5 student&rsquo;s dream comes true! What could be more satisfying than to celebrate our country&rsquo;s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! Aarav shared, &ldquo;I really enjoyed the NE show and learnt about Singapore&rsquo;s history and the bicentennial year. My favourite part was when the Red Lions skydived from the helicopter, hovering over us. It was certainly a memorable experience!&rdquo;</p>
 
 ![](/images/Pic-2.jpg)
