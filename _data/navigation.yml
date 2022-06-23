@@ -86,6 +86,17 @@ links:
         url: /moe-fas-application/
       - title: FAQs
         url: /parent-support-group/faq/
+  - title: News
+    url: /news/our-achievements/
+    sublinks:
+      - title: Our Achievements
+        url: /news/our-achievements/
+      - title: Highlights
+        url: /2022/05/25/junior-reporters-workshop-with-sph-reporters/
+      - title: Photo Gallery
+        url: /news/gallery/2022
+      - title: Our Visitors
+        url: /2019/10/10/visit-by-teachers-from-hainan-china/
   - title: Special Projects
     url: /our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/
     sublinks:
@@ -112,14 +123,3 @@ links:
         url: /2021/02/10/parents-post/
       - title: BRAVO!
         url: /2021/02/10/bravo/
-  - title: News
-    url: /news/our-achievements/
-    sublinks:
-      - title: Our Achievements
-        url: /news/our-achievements/
-      - title: Highlights
-        url: /2022/05/25/junior-reporters-workshop-with-sph-reporters/
-      - title: Photo Gallery
-        url: /news/gallery/2022
-      - title: Our Visitors
-        url: /2019/10/10/visit-by-teachers-from-hainan-china/
