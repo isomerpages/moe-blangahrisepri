@@ -3,7 +3,7 @@ url: ""
 favicon: /images/BRPS-logo-2019-Final_png-740x1024.png
 colors:
   primary-color: "#047a19"
-  secondary-color: "#060606"
+  secondary-color: "#f8f3f3"
   media-colors:
     - title: media-color-one
       color: "#6bf483"
