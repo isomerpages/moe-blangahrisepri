@@ -2,13 +2,6 @@ collections:
   news:
     output: true
     order:
-      - Our Visitors/Professional Exchange with Tanglin Trust School.md
-      - Our Visitors/Shandong Normal University.md
-      - Our Visitors/We would like to thank Ms Indranee Rajah, Second Minister
-        for Education for visiting our school.md
-      - Our Visitors/Hebei Handan Laike Primary School.md
-      - Our Visitors/Visit by Teachers from Hainan, China.md
-      - Our Visitors/.keep
       - Our Achievements.md
       - Gallery/.keep
       - Gallery/2022.md
@@ -19,3 +12,10 @@ collections:
       - Gallery/2017.md
       - Gallery/2016.md
       - Gallery/2015.md
+      - Our Visitors/.keep
+      - Our Visitors/Professional Exchange with Tanglin Trust School.md
+      - Our Visitors/Shandong Normal University.md
+      - Our Visitors/We would like to thank Ms Indranee Rajah, Second Minister
+        for Education for visiting our school.md
+      - Our Visitors/Hebei Handan Laike Primary School.md
+      - Our Visitors/Visit by Teachers from Hainan, China.md
