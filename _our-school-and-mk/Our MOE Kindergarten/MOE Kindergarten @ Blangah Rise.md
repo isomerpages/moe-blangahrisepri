@@ -44,7 +44,7 @@ third_nav_title: Our MOE Kindergarten
 
 ![](/images/Slide13.jpg)
 
-<h3><a role="button" href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/02/2020-MK-Open-House-Presentation-Upload-1.pdf" target="_self">MOE Kindergarten: On to A Strong Start!</a></h3>
+<h3><a role="button" href="https://moe-blangahrisepri-staging.netlify.app/files/2020-MK-Open-House-Presentation-Upload-1_compressed.pdf" target="_self">MOE Kindergarten: On to A Strong Start!</a></h3>
 <p><strong>Vision</strong> : A Strong Start for Every Child<br /><strong>Mission</strong> : To nurture active and confident explorers with positive values, through a holistic curriculum and in a safe, supportive and caring environment<br /><strong>Values </strong> : Love, Respect, Courage, Integrity</p>
 
 <img src="/images/MK-BR-Logo.jpg" 
