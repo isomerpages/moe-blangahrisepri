@@ -9,8 +9,7 @@ notification: The Green Snapshots with Pepper Green and Friends, a Nature
   8:00 AM - 10:30 AM
 sections:
   - hero:
-      subtitle: https://www.youtube.com/watch?v=GBCbE_lJU60
-      background: /images/hero-banner.png
+      background: /images/Contact-Us-School-Front-Porch.jpg
       key_highlights:
         - title: Moe Kindergarten
           description: ""
@@ -24,6 +23,8 @@ sections:
         - title: Senior Primary
           description: ""
           url: https://moe-blangahrisepri-staging.netlify.app/departments/senior-primary/
+      button: Youtube Link
+      url: https://www.youtube.com/watch?v=GBCbE_lJU60
   - resources:
       title: Announcements
 ---
