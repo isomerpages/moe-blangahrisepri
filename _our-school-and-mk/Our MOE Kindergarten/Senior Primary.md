@@ -49,20 +49,13 @@ third_nav_title: Our MOE Kindergarten
 
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br /></strong>A large amount of the student&rsquo;s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
 <p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let&rsquo;s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
-
-![](/images/20220131_090200-2048x1536.jpg)
-
-![](/images/20220131_094926-1-2048x1536.jpg)
-
-![](/images/20220131_095223-1937x2048.jpg)
-
-![](/images/PXL_20220128_003441169MP_-scaled.jpg)
-
-![](/images/PXL_20220128_003532615MP_-scaled.jpg)
-
-![](/images/PXL_20220128_040453154MP_-scaled.jpg)
-
-![](/images/PXL_20220128_040513008MP_-scaled.jpg)
+<img src="/images/20220131_090200-2048x1536.jpg">
+<img src="/images/20220131_094926-1-2048x1536.jpg">
+<img src="/images/20220131_095223-1937x2048.jpg">
+<img src="/images/PXL_20220128_003441169MP_-scaled.jpg">
+<img src="/images/PXL_20220128_003532615MP_-scaled.jpg">
+<img src="/images/PXL_20220128_040453154MP_-scaled.jpg">
+<img src="/images/PXL_20220128_040513008MP_-scaled.jpg">
 
 <p><strong>P5 Programmes</strong></p>
 <p><strong>Level Bonding Day<br /></strong>This year, our Level Bonding Day takes place very differently from previous years. With COVID 19, many activities have to be carried out innovatively to achieve their objectives. However, this does not deter us from having fun together! With the safety management measures in place, all of us had fun together even when we are 1 m apart! (*Disclaimer: pupils were not wearing masks as they were doing physical activities)</p>
