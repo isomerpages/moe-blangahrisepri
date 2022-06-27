@@ -3,6 +3,7 @@ title: School Letters & Information
 permalink: /parent-support-group/school-letters-information/
 description: ""
 ---
+<img src="/images/For-Parents-General-Information2.png">
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
