@@ -4,8 +4,7 @@ title: A special feature on Richie, a quiet student blossoms into powerful
 permalink: /a-special-feature-on-nyguen-minh-dat-a-quiet-student-blossoms-into-powerful-speaker-through-debate/
 description: ""
 ---
-![](/images/Richie.jpeg)
-
+<img src="/images/Richie.jpeg">
 <p>&ldquo;I really love the experience of a debate match, it is so adrenaline-filled! I enjoy the feeling of presenting my speech, the feeling of rebutting the opponent, answering Points of Information and defending my team's substantives. Working together as a team to get to VICTORY was awesome and I will never forget it!&rdquo; shared Richie.</p>
 <p>Prior to being fielded as a school debater for the Wits &amp; Words 2021 Inter-School Debate Competition, Primary 5 student Richie was a quiet and reserved student who often did his work well and rarely spoke up in class. In fact, he was not initially selected to be part of the school debate team. Determined to be part of the school team, he worked hard to prepare a speech for the class debate in order to prove that he can make the cut. That speech impressed his teacher, and she decided to give him a chance to join the school team.</p>
 <p>Eventually, the grueling competition schedule sharpened his debate acumen and confidence, so much so that he was able to help his team obtain straight wins to get through to the semi-finals and bagged three Best Speaker Awards in the preliminary and quarter-final rounds. By the end of the debate competition, Richie had developed into a confident speaker and formidable opponent on the debate floor.</p>
@@ -43,5 +42,4 @@ description: ""
 <p>Richie attributes his success to his teachers, coach and teammates Mikhael Chan, Choo Zhi Lin, Liu Yi Kai, Michael Ratemo and Chris Ong. He reflects that the journey has allowed him to develop the virtues of responsibility, courage, teamwork and determination. In particular, the team also developed a strong sense of sportsmanship, as they had learnt from their more experienced opponents in the circuit, and how to embrace and bounce back from their failure to win at semi-finals round.</p>
 <p>&ldquo;It has been a real pleasure to witness the growth in all the school debaters since embarking on the competition. In particular, Richie has really found his voice and grown into a marvelous debater. It is always a pleasure to watch him in action,&rdquo; shared Ms Aprilene Goh, Head of Department of English Language and teacher-in-charge of the school debating team.</p>
 <p>The BRPS debate team closed off the Wits &amp; Words 2021 Inter-School Debate competition as a semi-finalist, a historic first for the school, and a real achievement for a team of rookie debaters who had no prior competition experience. Moving forward, the debate school team, led by Richie, have developed a set of resources to impart their learning to the next generation of debaters in the school. They hope to be able to share their love of verbal sparring with their juniors.</p>
-
-![](/images/debate.jpg)
+<img src="/images/debate.jpg">
