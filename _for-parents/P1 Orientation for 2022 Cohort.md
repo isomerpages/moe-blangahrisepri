@@ -13,8 +13,6 @@ description: ""
 <p>Please click&nbsp;<a href="https://go.gov.sg/brpsstudentparticulars"><strong>here</strong></a>&nbsp;to fill in details for your child/ward.</p>
 </div>
 </li>
-	
-<ul class="jekyllcodex\_accordion">
 <li>
 <input type="checkbox" id="accordion2">
  <label for="accordion2">Application for Interbank GIRO</label>
@@ -27,11 +25,9 @@ description: ""
 </ul>
 <p>2.Use your child's student ID as the direct debit authorization reference number.</p>
 <p>3.Do not set any deduction limit.</p>
-<p>Alternatively, DBS/POSB account holders can join the GIRO scheme through our&nbsp;<strong><a href="https://www.form.gov.sg/#!/5d95490c7f5cfb0013133875">online form&nbsp;</a></strong>.&nbsp;You will need to log in using your SingPass.<br /><br />Other bank account holders can complete a&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/D.pdf">GIRO Application Form</a></strong>. For hardcopy submission, please submit the original form to school by 17 Dec 2021&nbsp;</p>
+<p>Alternatively, DBS/POSB account holders can join the GIRO scheme through our&nbsp;<strong><a href="https://www.form.gov.sg/#!/5d95490c7f5cfb0013133875">online form&nbsp;</a></strong>.&nbsp;You will need to log in using your SingPass.<br /><br />Other bank account holders can complete a&nbsp;<strong><a href="files/GIRO.pdf">GIRO Application Form</a></strong>. For hardcopy submission, please submit the original form to school by 17 Dec 2021&nbsp;</p>
 </div>
 </li>
-	
-<ul class="jekyllcodex\_accordion">
 <li>
 <input type="checkbox" id="accordion3">
  <label for="accordion3">Edusave Scheme (Applicable to Singapore Citizen students only)</label>
@@ -41,7 +37,7 @@ description: ""
 <p>Please submit the application by 7 Jan 2022.&nbsp;</p>
 </div>
 </li>
-	
+
 <h4><strong>Other Resources</strong></h4>
 <ul class="jekyllcodex\_accordion">
 <li>
@@ -49,14 +45,14 @@ description: ""
  <label for="accordion4">Purchase of textbooks and uniforms</label>
 <div>
 <p><strong>Textbooks</strong></p>
-<p>Please click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/BR-Booklist-2022-P1.pdf"><strong>here</strong></a>&nbsp;to view/download P1 Book list 2022</p>
+<p>Please click&nbsp;<a href="/files/BR-Booklist-2022-P1.pdf"><strong>here</strong></a>&nbsp;to view/download P1 Book list 2022</p>
 <p>Mode of Purchase</p>
 <ol>
 <li aria-level="1">Online order:&nbsp;<a href="http://www.ihuntforbooks.com/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://www.ihuntforbooks.com&amp;source=gmail&amp;ust=1636259069532000&amp;usg=AFQjCNHBOr2XCgS8d1aCT123KdRavelCrw">www.ihuntforbooks.com</a>&nbsp;from 2 Dec 2021</li>
 <li aria-level="1">Walk in purchase in school: 9 &ndash; 10 Dec &amp; 16 - 17 Dec &amp; 29 Dec</li>
 <li aria-level="1">Cash/Paynow accepted</li>
 </ol>
-<p><strong>Uniforms</strong></p>
+<p><strong>Uniforms</strong></p>[](/files/SIZING_compressed.pdf)
 <p>Please click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/A.pdf"><strong>here</strong></a>&nbsp;to view/download Sizing chart.</p>
 <p>Mode of purchase</p>
 <ol>
@@ -68,8 +64,6 @@ description: ""
 <p>There is no refund for purchase of books and PE attire. Upon approval of the MOE FAS, you will be entitled to free books and PE attire.</p>
 </div>
 </li>
-	
-<ul class="jekyllcodex\_accordion">
 <li>
 <input type="checkbox" id="accordion5">
  <label for="accordion5">School Bus Service Provider</label>
@@ -78,8 +72,6 @@ description: ""
 <p>Kindly scan the QR code or click&nbsp;<a href="https://forms.gle/SykpTzg4FV7Nisnh7"><strong>here</strong></a>&nbsp;to enroll your kid for our school bus service in year 2022. Our friendly staff will contact you in the beginning of Dec 2021 for sharing the transport information in year 2022 with you. Stay safe!</p>
 </div>
 </li>
-	
-<ul class="jekyllcodex\_accordion">
 <li>
 <input type="checkbox" id="accordion6">
  <label for="accordion6">Student Care Centre</label>
@@ -93,8 +85,6 @@ description: ""
 <p>Should you have any enquiries, do reach us at brscc@nascans.com or 9459 6376.</p>
 </div>
 </li>
-	
-<ul class="jekyllcodex\_accordion">
 <li>
 <input type="checkbox" id="accordion7">
  <label for="accordion7">Useful Links</label>
@@ -102,8 +92,6 @@ description: ""
 <p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/C.pdf">Transition from Preschool to Primary School</a></p>
 </div>
 </li>
-
-<ul class="jekyllcodex\_accordion">
 <li>
 <input type="checkbox" id="accordion8">
  <label for="accordion8">Webinar Materials</label>
