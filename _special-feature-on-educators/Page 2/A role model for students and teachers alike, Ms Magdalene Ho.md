@@ -4,8 +4,6 @@ permalink: /2020/01/21/a-role-model-for-students-and-teachers-alike-ms-magdalene
 description: ""
 third_nav_title: Page 2
 ---
-
-
 <p>When Ms Magdalene Ho was appointed Senior Teacher for Mathematics in 2018, it offered her the opportunity to work with her colleagues to do what she had always been passionate about ̶ to help her students appreciate the role of Mathematics in their daily life.</p>
 <p>&ldquo;My personal belief is that all students can learn and achieve some form of academic success. Having the right classroom climate and culture is necessary for effective teaching and learning to take place. This includes establishing a respectful, safe and trusting environment to give all learners a feeling of acceptance and a place to grow at their own pace.&rdquo;</p>
 <h3><strong>Helping students own their learning</strong></h3>
@@ -22,5 +20,4 @@ third_nav_title: Page 2
 <p>Ms Ho&rsquo;s strong relationship with her students is evident from the many notes she receives from students and parents every Teachers&rsquo; Day. One student has this to say to her, &ldquo;Thank you for teaching us Math. You have worked hard to plan lessons for us. Your effort makes a difference!&rdquo;</p>
 <p>A parent wrote, &ldquo;I really appreciate your effort and time spent in guiding my child.&rdquo;</p>
 <p>Just as her students are thankful for her, Ms Ho says, &ldquo;I&rsquo;m thankful to my students and their parents for motivating me to give of my best as an educator.&rdquo;</p>
-
-![](/images/IMG_9716.jpeg)
+<img src="/images/IMG_9716.jpeg">
