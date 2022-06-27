@@ -17,19 +17,13 @@ description: ""
 <p><strong>6. Jewellery<br /></strong>6.1 Girls may wear plain and simple stud earrings. Multiple earrings are not allowed.<br />6.2 No other jewellery and any form of adornment is to be worn in school.</p>
 <p><strong>7. Others<br /></strong>7.1 Students must not have visible tattoos and must not wear any make-up except when they are performing in a concert.</p>
 <p><strong>OUR SCHOOL UNIFORM</strong></p>
-
-![](/images/capture1.jpeg)
-			
+<img src="/images/capture1.jpeg">
 <p><strong>OUR P.E. ATTIRE</strong></p>
-
-![](/images/capture2.jpeg)
-			
+<img src="/images/capture2.jpeg">
 <p><strong>ACCEPTABLE HAIRSTYLES</strong><br>For Boys</p>
-			
-![](/images/boyshair.jpg)
+<img src="/images/boyshair.jpg">
 <p>For Girls</p>
-			
-![](/images/girlshair.jpg)
+<img src="/images/girlshair.jpg">
 </div>
 </li>
 <li>
