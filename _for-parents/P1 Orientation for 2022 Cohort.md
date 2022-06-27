@@ -40,7 +40,7 @@ description: ""
 </ul>
 
 <h4><strong>Other Resources</strong></h4>
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion4">
  <label for="accordion4">Purchase of textbooks and uniforms</label>
