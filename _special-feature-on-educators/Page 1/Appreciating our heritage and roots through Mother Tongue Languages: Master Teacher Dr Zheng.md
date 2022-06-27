@@ -5,7 +5,6 @@ permalink: /2022/05/06/appreciating-our-heritage-and-roots-through-mother-tongue
 description: ""
 third_nav_title: Page 1
 ---
-
 ![](/images/Dr-Zheng-1-Banner-scaled.jpeg)
 
 <p>Dr Zheng Yingjiang, resident Master Teacher of BRPS, supports teachers in our Mother Tongue Language department. She is deeply driven to make the teaching and learning of MTL enjoyable and relevant. &ldquo;I firmly believe that our children can be motivated to become proficient MTL users when they are happily and meaningfully engaged in a safe and conducive learning environment, and in which they will see and understand that learning a MTL offers them an edge in an increasing globalised economy,&rdquo; she shared. Importantly, Dr Zheng believes that our children will develop a positive sense of identity and retain our Asian roots and values if they developed a love for MTL since young.</p>
