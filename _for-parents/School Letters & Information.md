@@ -4,6 +4,7 @@ permalink: /parent-support-group/school-letters-information/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
+<li>
 <input type="checkbox" id="accordion1">
 <label for="accordion1">2022</label>
 <div>
@@ -21,6 +22,7 @@ description: ""
 </li>
 </ul>
 <input type="checkbox" id="accordion2">
+<li>
 <label for="accordion2">2021</label>
 <div>
 <p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/10/Letter_11-Oct-2021_Final.pdf">Updates on Phased Resumption of Face-to-Face Lessons and Cancellation of End-of-Year<br />Examinations</a></p>
