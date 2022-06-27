@@ -14,4 +14,4 @@ third_nav_title: Page 1
 <p>To read the book which contains Ms Usha Rani's story, please go to:&nbsp;<a href="https://www.singhealth.com.sg/Documents/IPCA-2021-Commemorative-Book.pdf">https://www.singhealth.com.sg/Documents/IPCA-2021-Commemorative-Book.pdf</a></p>
 <p>To read the Straits Times article, please go to:&nbsp;<a href="https://www.straitstimes.com/singapore/health/awards-for-2-volunteers-who-mentored-others-despite-own-setbacks">https://www.straitstimes.com/singapore/health/awards-for-2-volunteers-who-mentored-others-despite-own-setbacks</a></p>
 <img src="/images/ms%20usha.jpg"><br>
-<img src="/images/IMG-20190110-WA0015.jpeg">
+<img style="width: 75%;" src="/images/IMG-20190110-WA0015.jpeg" />
