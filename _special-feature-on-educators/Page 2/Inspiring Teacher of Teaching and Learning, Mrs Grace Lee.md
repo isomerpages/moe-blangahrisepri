@@ -4,9 +4,7 @@ permalink: /2020/05/22/inspiring-teacher-of-teaching-and-learning-mrs-grace-lee/
 description: ""
 third_nav_title: Page 2
 ---
-
-![](/images/IMG_20200110_130027-1024x768.jpeg)
-
+<img src="/images/IMG_20200110_130027-1024x768.jpeg">
 Possessing a passion for teaching English, Mrs Grace Lee’s classes are fun-filled and exciting. Inspired by her Secondary Four Teacher, who lit up her passion with class discussions on current affairs, Mrs Lee aspires to develop a thirst for knowledge in her own students as well. Every week, Mrs Lee’s students look forward to her class discussions on current affairs. Taking the news articles from the Little Red Dot, a publication from The Straits Times for primary school students, Mrs Lee engages her students in discussions about the world at large.
 
 By engaging her students in deep discussions, Mrs Lee encourages her students to use the English Language to communicate effectively with one another. “Knowing what is evolving around the world is important. My students love the current affairs and inspiring stories from Little Red Dot, which provide a context and platform for enthusiastic discussions,” says Mrs Lee.
@@ -20,5 +18,4 @@ Even while she mentors others, Mrs Lee is committed to her own continued profess
 Mrs Lee has been a part of Professional Learning Teams (PLT) that look into how to improve literacy among students. Since the start of 2020, Mrs Lee has been working with her PLT in collaboration with a Master Teacher, Mr William Grosse, on how to enhance reading comprehension in Primary 6 students. Besides reading comprehension, Mrs Lee is also working on improving the school’s Oral Booster package to help our students develop their oral communication skills and share their personal thoughts and anecdotes.
 
 Indeed, Mrs Lee is a role model to all teachers in BRPS. In recognition of her efforts, she was awarded the 2019 BRPS Inspiring Teacher of Teaching and Learning. Her firm belief in her students, coupled with her passion in the teaching of the English Language, has led her to continuously think of different and interesting ways to inculcate a love for the language in her students. “When students drive their own learning, they will learn so much more,” says Mrs Lee.
-
-![](/images/msgracelee.jpg)
+<img src="/images/msgracelee.jpg">
