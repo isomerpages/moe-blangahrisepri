@@ -4,9 +4,7 @@ permalink: /2020/06/26/depositing-into-every-students-emotional-bank-account-mdm
 description: ""
 third_nav_title: Page 2
 ---
-
-![](/images/Chay-Yee3.jpeg)
-
+<img src="/images/Chay-Yee3.jpeg">
 <p>How do we spark the joy of learning in our students? To do that, Mdm Yeo Chay Yee, who believes that her Primary 2 students are innately curious and hungry to learn, constantly explores and tries a variety of ways to make her lessons fun and interesting. For example, for Mathematics, she uses the See, Think, Wonder thinking routine to identify her students&rsquo; prior knowledge and get them curious and excited.</p>
 <p>Her pride in her students is evident.</p>
 <p>&ldquo;The students are passionate about acquiring knowledge. They show enthusiasm in sharing their ideas with their classmates. They are able to make connections from what they have learnt in class to real-life examples,&rdquo; she says.</p>
@@ -18,7 +16,5 @@ third_nav_title: Page 2
 <p>A firm believer that it takes a village to raise a child, Mdm Yeo works hard to create strong school-home partnerships. She builds trust with parents and works closely with them to help her students grow and maximise their potential. She provides regular feedback to parents on their child&rsquo;s work and behavior in school. One way that she does so is by sharing her students&rsquo; achievements with their parents so that they can celebrate and recognise the efforts of the child together.</p>
 <p>Parents appreciate her support and efforts to engage them. A grateful parent said, &ldquo;Thank you for the photo of my child in class and for being such a loving and caring teacher.&rdquo;</p>
 <p>Another parent wrote, &ldquo;Thank you for your encouragement, support and advice. It will motivate my child to work hard the next time.&rdquo;</p>
-
-![](/images/Chay-Yee4.jpeg)
-
-![](/images/Chay-Yee5.jpeg)
+<img src="/images/Chay-Yee4.jpeg"><br>
+<img src="/images/Chay-Yee5.jpeg">
