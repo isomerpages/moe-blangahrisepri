@@ -5,7 +5,7 @@ description: ""
 ---
 <h4><strong>ADMINISTRATIVE MATTERS (COMPULSORY FOR SUBMISSION)</strong></h4>
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
  <label for="accordion1">Student Particulars Form</label>
