@@ -3,7 +3,6 @@ title: The Growing Years
 permalink: /parent-support-group/the-growing-years-programme/
 description: ""
 ---
-
 <h2 style="text-align: center;"><strong>The Growing Years Programme</strong></h2>
 <p><strong>BLANGAH RISE PRIMARY SCHOOL</strong></p>
 <p><strong>Moe Sexua</strong><strong>l</strong><strong>ity Education in Schools</strong></p>
@@ -362,7 +361,7 @@ description: ""
 <p><strong>Information for Parents</strong></p>
 <ol start="8">
 <li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
-<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2022/01/img20220111_19373534-converted.pdf">here</a></strong>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>31/01/2022</strong>.</li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<strong><a href="/files/img20220111_19373534-converted.pdf">here</a></strong>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>31/01/2022</strong>.</li>
 <li>Parents can contact the school at&nbsp;<strong>brps@moe.edu.sg&nbsp;</strong>or&nbsp;<strong>6271 7387</strong>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</li>
 <li>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</li>
 </ol>
