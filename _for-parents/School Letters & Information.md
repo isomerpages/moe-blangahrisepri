@@ -20,7 +20,6 @@ description: ""
 <p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2022/01/P6-PTM-14-Jan-2022.pdf">Primary 6 Parent Teacher Meeting Slides</a></p>
 </div>
 </li>
-</ul>
 <li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">2021</label>
