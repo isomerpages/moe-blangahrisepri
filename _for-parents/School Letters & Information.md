@@ -21,6 +21,7 @@ description: ""
 </div>
 </li>
 </ul>
+<ul class="jekyllcodex_accordion">
 <input type="checkbox" id="accordion2">
 <li>
 <label for="accordion2">2021</label>
