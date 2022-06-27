@@ -5,8 +5,7 @@ permalink: /2022/05/06/appreciating-our-heritage-and-roots-through-mother-tongue
 description: ""
 third_nav_title: Page 1
 ---
-![](/images/Dr-Zheng-1-Banner-scaled.jpeg)
-
+<img src="/images/Dr-Zheng-1-Banner-scaled.jpeg">
 <p>Dr Zheng Yingjiang, resident Master Teacher of BRPS, supports teachers in our Mother Tongue Language department. She is deeply driven to make the teaching and learning of MTL enjoyable and relevant. &ldquo;I firmly believe that our children can be motivated to become proficient MTL users when they are happily and meaningfully engaged in a safe and conducive learning environment, and in which they will see and understand that learning a MTL offers them an edge in an increasing globalised economy,&rdquo; she shared. Importantly, Dr Zheng believes that our children will develop a positive sense of identity and retain our Asian roots and values if they developed a love for MTL since young.</p>
 <p><strong><u>Cultivating a love of MTL in the young</u></strong></p>
 <p>Dr Zheng hopes to be able to encourage more parents and teachers to nurture a love for MTL in children. &ldquo;With support and encouragement from us, our children will enjoy using MTL with their friends, family and community and grows in appreciation of its culture.&rdquo; Today, many of our young children come from predominantly English-speaking background. This comes with new challenges and demands.</p>
@@ -23,9 +22,6 @@ third_nav_title: Page 1
 <p><em>Leveraging an inquiry-based approach </em></p>
 <p>&ldquo;When planning a lesson, I would always think about how to design meaningful learning experiences through technology-enhanced activities and assessment tasks. For example, in one of my recent inquiry-based lessons, I had planned to ask the children to explore the growing process of green beans. However, by allowing them to develop a curiosity for the subject, I amassed multiple authentic questions raised by the children themselves. Through this inquiry session, we proposed hypotheses to an authentic question, &ldquo;The greater the amount of water given to the green bean plant, the better it will grow.&rdquo; The children are encouraged to use two different methods to record their observations, a diary used to record the growth of the green bean as well as a life cycle diagram of the green bean plant, both in their MTL. After that, they would make a comparison between the diary and the diagram. Finally, they are given the opportunity to present their findings through the SLS portal. I am happy to see my students to do oral and written presentation confidently after experiencing the co-constructed learning process.&rdquo;</p>
 <p>Dr Zheng shared her a personal aspiration that has guided her education journey. &ldquo;I hope that my students are able to become independent, self-directed learners and will continue to grow a love towards lifelong learning of their MTL.&rdquo;</p>
-
-![](/images/Dr-Zheng-2-2048x1536.jpeg)
-
-![](/images/Dr-Zheng-3.jpeg)
-
-![](/images/Dr-Zheng-4.jpeg)
+<img src="/images/Dr-Zheng-2-2048x1536.jpeg">
+<img src="/images/Dr-Zheng-3.jpeg">
+<img src="/images/Dr-Zheng-4.jpeg">
