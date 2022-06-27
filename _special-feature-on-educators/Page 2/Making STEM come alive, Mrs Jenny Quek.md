@@ -4,9 +4,7 @@ permalink: /2020/05/19/making-stem-come-alive-mrs-jenny-quek/
 description: ""
 third_nav_title: Page 2
 ---
-
-![](/images/IMG-20200316-WA0006.jpeg)
-
+<img src="/images/IMG-20200316-WA0006.jpeg">
 <p>In Mrs Jenny Quek&rsquo;s class, it is common to see students raising questions, seeking explanations to phenomena which they have observed and sharing ideas. She engages students in the process of thinking, questioning and problem solving, allowing them to build their experience through hands-on investigations which help to lay the foundation for understanding basic STEM concepts and making connections to current events and everyday phenomena.</p>
 <p>Mrs Quek won the 2019 Outstanding STEM Teacher Award, which is co-organised by Science Teachers Association of Singapore (STAS) and Singapore Association for the Advancement of Science (SAAS) to recognise teachers who ignite a passion for STEM in their students and use innovative methods to engage students in the learning of STEM.&nbsp;&ldquo;I strongly believe that all students have the natural curiosity to explore things around them,&rdquo; says Mrs Quek.</p>
 <p>As the Head of Department for Science, she is passionate about helping her students apply what they are learning in Mathematics and Science to real-world contexts. For example, in Mathematics, students learn about length, time and speed while in Science, they learn about magnets, electrical systems, heat and temperature, and diversity of materials. The STEM-related activities enable the students to apply what they have learnt in these topics to help them to innovate and solve problems.</p>
