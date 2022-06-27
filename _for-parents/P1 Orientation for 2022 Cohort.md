@@ -52,8 +52,8 @@ description: ""
 <li aria-level="1">Walk in purchase in school: 9 &ndash; 10 Dec &amp; 16 - 17 Dec &amp; 29 Dec</li>
 <li aria-level="1">Cash/Paynow accepted</li>
 </ol>
-<p><strong>Uniforms</strong></p>[](/files/SIZING_compressed.pdf)
-<p>Please click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/A.pdf"><strong>here</strong></a>&nbsp;to view/download Sizing chart.</p>
+<p><strong>Uniforms</strong></p>
+<p>Please click&nbsp;<a href="/files/SIZING_compressed.pdf"><strong>here</strong></a>&nbsp;to view/download Sizing chart.</p>
 <p>Mode of purchase</p>
 <ol>
 <li aria-level="1">Online order:&nbsp;<a href="https://beauvoix.com/">Beau Voix</a></li>
@@ -66,7 +66,7 @@ description: ""
 </li>
 <li>
 <input type="checkbox" id="accordion5">
- <label for="accordion5">School Bus Service Provider</label>
+<label for="accordion5">School Bus Service Provider</label>
 <div>
 <p><strong>DKJ</strong></p>
 <p>Kindly scan the QR code or click&nbsp;<a href="https://forms.gle/SykpTzg4FV7Nisnh7"><strong>here</strong></a>&nbsp;to enroll your kid for our school bus service in year 2022. Our friendly staff will contact you in the beginning of Dec 2021 for sharing the transport information in year 2022 with you. Stay safe!</p>
@@ -89,7 +89,7 @@ description: ""
 <input type="checkbox" id="accordion7">
  <label for="accordion7">Useful Links</label>
 <div>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/C.pdf">Transition from Preschool to Primary School</a></p>
+<p><a href="/files/TRANSITION_compressed.pdf">Transition from Preschool to Primary School</a></p>
 </div>
 </li>
 <li>
