@@ -3,7 +3,7 @@ title: School Letters & Information
 permalink: /parent-support-group/school-letters-information/
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 <input type="checkbox" id="accordion1">
 <label for="accordion1">2022</label>
 <div>
