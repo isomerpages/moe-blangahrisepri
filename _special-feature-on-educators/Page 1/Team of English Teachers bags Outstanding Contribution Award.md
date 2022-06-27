@@ -4,10 +4,7 @@ permalink: /2022/02/09/team-of-english-teachers-bags-outstanding-contribution-aw
 description: ""
 third_nav_title: Page 1
 ---
-
-
-![](/images/OCA-Oracy-v2.png)
-
+<img src="/images/OCA-Oracy-v2.png">
 <p><strong>Team of English Teachers bags Outstanding Contribution Award for their Design of the EL Oracy Curriculum</strong></p>
 <p>Imagine a classroom of confident speakers who love to speak and share their views and thoughts with their classmates. This is a classroom which a team of teachers envisioned in the design of the BRPS English Language (EL) Oracy Curriculum.</p>
 <p>In 2021, the English Team came together as a Professional Learning Team to develop a more coherent and comprehensive EL Oracy Curriculum, taking into account three anchor curricular and pedagogical principles: spiral progression, formative assessment and differentiated curriculum. In the process, the teachers developed and implemented alternative assessments according to the above mentioned three pedagogical principles. Show and Tell, Literature Dramatisation, Broadcast Journalism, Debate, and Oral Exam Booster are just some of the few oracy interventions designed across Primary 1 to Primary 6 levels by the team of English Teachers comprising Miss April Goh, Mdm Kimberly Koh, Ms Usha Rani, Mr Zaini Daud, Ms Uuchi Mashida, Mrs Janice Tho, and Ms Esther Teo.</p>
