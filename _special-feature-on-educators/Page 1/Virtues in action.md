@@ -4,9 +4,7 @@ permalink: /2021/11/08/virtues-in-action/
 description: ""
 third_nav_title: Page 1
 ---
-
-![](/images/361A3792-2048x1365.jpeg)
-
+<img src="/images/361A3792-2048x1365.jpeg">
 <h3><strong>Virtues in action</strong></h3>
 <p>Through an international character-building framework developed in the 1990s, James Han has turned everyday student-teacher interactions into opportunities for learning.</p>
 <p><em>James Han Choon Boon,&nbsp;Blangah Rise Primary School,&nbsp;President's Award for Teachers 2021 Finalist</em></p>
@@ -47,5 +45,4 @@ third_nav_title: Page 1
 <p>While accolades are affirming, nothing is as satisfying as witnessing the growth of his charges. Last year, James ran into former students who are now in polytechnics, who said they never forgot how he had encouraged them not to give up. His encouragement was enough for them to act on his words.</p>
 <p>James mused, &ldquo;That reaffirmed to me that it is through the passage of time that we see changes. It was really a moment to savour.&rdquo;</p>
 <p>Article reproduced from:&nbsp;<a href="https://www.schoolbag.edu.sg/story/virtues-in-action">https://www.schoolbag.edu.sg/story/virtues-in-action</a></p>
-
-![](/images/scaled.jpg)
+<img src="/images/scaled.jpg">
