@@ -8,8 +8,8 @@ description: ""
 <label for="accordion1">2022</label>
 <div>
 <p><strong>Principal's Letter</strong></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2022/01/2022-01-Principal.pdf">Principal&rsquo;s January Letter 2022&nbsp;</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2022/03/2022-02-Principal.pdf">Principal's March Letter 2022</a></p>
+<p><a href="/files/2022-01-Principal.pdf">Principal&rsquo;s January Letter 2022&nbsp;</a></p>
+<p><a href="/files/2022-02-Principal.pdf">Principal's March Letter 2022</a></p>
 <p><strong>Meet the Parents</strong></p>
 <p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2022/01/BRPS_-P1_Parent-Teacher-Meeting.pdf">Primary 1 Parent Teacher Meeting Slides</a></p>
 <p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2022/01/BRPS_P2_Parent-Teacher-Meeting.pdf">Primary 2 Parent Teacher Meeting Slides</a></p>
