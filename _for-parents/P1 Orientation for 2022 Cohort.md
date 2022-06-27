@@ -107,7 +107,7 @@ description: ""
 <tr>
 <td>Welcome and Introduction</td>
 <td>Principal, Mr. Francis Foo</td>
-<td><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/1.-2021-P1-Orientation-Briefing_Ps-intro.pdf">1. Welcome and Introduction Slides</a>
+<td><a href="/files/1-2021-P1-Orientation-Briefing_Ps-intro.pdf">1. Welcome and Introduction Slides</a>
 <p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/1.-BRPS-Key-Programmes-and-Introduction-to-our-Key-Personnel.mp4">2. Welcome and Introduction Video</a></p>
 </td>
 </tr>
@@ -119,7 +119,7 @@ description: ""
 <tr>
 <td>Student Care Centre Briefing</td>
 <td>Mr Dickson Ng</td>
-<td><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/4.-NASCANS.pdf">1. NASCANS @ Blangah Rise Primary&nbsp;</a>
+<td><a href="/files/4-NASCANS.pdf">1. NASCANS @ Blangah Rise Primary&nbsp;</a>
 <p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/11/4.-NASCANS.mp4">2. NASCANS Video</a></p>
 </td>
 </tr>
