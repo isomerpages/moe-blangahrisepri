@@ -4,9 +4,7 @@ permalink: /2021/03/17/high-expectations-high-support-mr-patrick-goh/
 description: ""
 third_nav_title: Page 2
 ---
-
-![](/images/Photo-taken-in-2019_E-1536x2048.jpeg)
-
+<img style="width: 60%;" src="/images/Photo-taken-in-2019_E-1536x2048.jpeg" />
 <p>Mr Patrick Goh is constantly on the lookout to recognise student&rsquo;s efforts and positive behaviours. Each time he hears a good story of a student exhibiting virtues or the 7 Habits, he would put up the story on the level&rsquo;s noticeboard to motivate other students to emulate the behaviour. Together with the Assistant Year Head, Mr Victor Lim, he also started the 7 Habits Excellence Awards to recognise his students with a unique collar pin and a certificate.</p>
 <p>As Year Head for Middle Primary, Mr Goh sets high expectations for his students by requiring high standards of work, behaviour and self-discipline. At the same time, he provides a high level of support to ensure that his students are able to meet up to the expectations.</p>
 <p>&ldquo;Each morning, I check on the students&rsquo; attendance, follow up closely on those who are absent and check on their well-being when they return to school. During recess and lunchtime, I go down to the canteen to connect with the students. Such frequent conversations help to build stronger teacher-student relationships.&rdquo;</p>
