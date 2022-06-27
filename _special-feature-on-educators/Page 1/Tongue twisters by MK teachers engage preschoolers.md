@@ -4,7 +4,6 @@ permalink: /2022/03/21/tongue-twisters-by-mk-teachers-engage-pre-schoolers/
 description: ""
 third_nav_title: Page 1
 ---
-![](/images/tonguetwisties.jpg)
 <img src="/images/tonguetwisties.jpg">
 <p>In our PLC (Professional Learning Community) discussions, our Mother Tongue Language teachers wanted to improve the students&rsquo; language pronunciation. As research has shown that the use of &ldquo;Tongue Twisters&rdquo; (TT) helps to improve language articulation, our MTL teachers decided to use this strategy in their classes.</p>
 <p>Different compositions of TT were put together and recited at the beginning of lessons on a bi-weekly routine. This was done over a period of five weeks, and our teachers made careful observations to track the progress of the students. Three key areas were noted; pronunciation of vocabulary, understanding of the language, and pronunciation when reading our big books. Pre and post observations carried out showed that our children had made improvement in these 3 areas.</p>
