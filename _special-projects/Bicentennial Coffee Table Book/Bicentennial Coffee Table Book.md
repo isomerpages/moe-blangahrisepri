@@ -4,7 +4,6 @@ permalink: /our-distinctive-programmes/special-projects/bicentennial-coffee-tabl
 description: ""
 third_nav_title: Bicentennial Coffee Table Book
 ---
-
 ![](/images/Special-Projects-Bicentennial-Coffee-Table-Book.png)
 
 <h3 style="text-align: center;"><strong>Singapore Through Children's Eyes: Coffee Table Book</strong></h3>
@@ -40,4 +39,4 @@ third_nav_title: Bicentennial Coffee Table Book
 ![](/images/12.png)
 
 <p style="text-align: center;"><strong>Click&nbsp;<a href="https://www.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&amp;album_id=2896784993669219&amp;ref=page_internal"><u>here</u></a>&nbsp;to view hopes and dreams of other children around Singapore.</strong></p>
-<p style="text-align: center;"><strong>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/telok-blangah-song-our-bicentennial-version/">here</a>&nbsp;to listen to our children sing the Bicentennial version of the "Telok Blangah" song</strong></p>
+<p style="text-align: center;"><strong>Click&nbsp;<a href="/telok-blangah-song-our-bicentennial-version/">here</a>&nbsp;to listen to our children sing the Bicentennial version of the "Telok Blangah" song</strong></p>
