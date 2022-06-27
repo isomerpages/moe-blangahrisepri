@@ -42,5 +42,5 @@ description: ""
 <p>Please submit the filled 2022 MOE FAS application forms with required documents to the school&rsquo;s General Office if you wish to apply for the financial assistance by 22 Oct 2021.</p>
 <p>Upon successful application, you can also apply for Info-communications Media Development Authority&rsquo;s NEU PC Plus Programme, which offers students the opportunity to own a new computer at an affordable price.</p>
 <p>If you have any enquiries, please contact the school General Office at 6721 7387.</p>
-<p>To view the MOE FAS Pamphlet 2022, click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/09/MOE-FAS-pamphlet-2022.pdf">here</a></strong></p>
-<p>To download the MOE FAS Application Form 2022, click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/09/MOE-FAS-Application-Form-2022.pdf">here</a></strong></p>
+<p>To view the MOE FAS Pamphlet 2022, click&nbsp;<strong><a href="/files/MOE-FAS-pamphlet-2022_compressed.pdf">here</a></strong></p>
+<p>To download the MOE FAS Application Form 2022, click&nbsp;<strong><a href="/files/MOE-FAS-Application-Form-2022.pdf">here</a></strong></p>
