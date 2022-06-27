@@ -37,6 +37,7 @@ description: ""
 <p>Please submit the application by 7 Jan 2022.&nbsp;</p>
 </div>
 </li>
+</ul>
 
 <h4><strong>Other Resources</strong></h4>
 <ul class="jekyllcodex\_accordion">
@@ -132,3 +133,4 @@ description: ""
 </table>
 </div>
 </li>
+</ul>
