@@ -52,9 +52,7 @@ third_nav_title: Covid 19 Book
 <p>Jeffrey ended the interview by wishing Mr Look &ldquo;工作顺利&rdquo; (may everything go smoothly at work) and &ldquo;身体健康&rdquo; (good health).</p>
 <p>To view our Junior Reporters&rsquo; broadcast of the interview, click&nbsp;<strong><a href="https://youtu.be/S4_lE27SMNA"><u>here</u></a></strong>.</p>
 <p>#staysafe #stayhealthy</p>
-
-![](/images/Resized_26-JUNE.jpeg)
-
+<img src="/images/Resized_26-JUNE.jpeg">
 <h3 style="text-align: center;"><strong>25 June 2020</strong></h3>
 <p>&ldquo;You have been selected to work on a MISSION to create a FUTURE&nbsp;<strong>Blangah Rise Learning Campus</strong>.&rdquo;</p>
 <p>Our P4 APEX students received this note at the start of Term 3. They were being invited to participate in a Design Thinking Programme facilitated by Mr Raziff Lau, a Service Designer from GovTech, and our very own teachers, Mr Patrick Goh and Ms Athena Tang.</p>
@@ -63,9 +61,7 @@ third_nav_title: Covid 19 Book
 <p>Yi Kai commented, &ldquo;I learned how to connect with other people and understand their needs.&rdquo;</p>
 <p>Through multiple rounds of feedback to refine their ideas, students learned the true meaning of resilience and the importance of not giving up when their first ideas fail. Zhi Lin said, &ldquo;I have learnt ways to improve on something and make it much better.&rdquo;</p>
 <p>Truly, learning happens everywhere, not just within the four walls of the physical classroom. Watch this space for our students&rsquo; creation of Future BRLC!</p>
-
-![](/images/Resized_25-June.jpeg)
-
+<img src="/images/Resized_25-June.jpeg">
 <h3 style="text-align: center;"><strong>23 June 2020</strong></h3>
 <p>Having to learn about computational thinking and coding using the SLS platform instead of through face-to-face sessions did not dampen our students&rsquo; enthusiasm when they were participating in Code for Fun.</p>
 <p>&ldquo;I enjoyed the code.org activities a lot since the written code is shown in Javascript. I would like to learn more about other types of code, such as VBS. Although Javascript is easy to code, there are limitations. VBS is easier to write but it is restricted to the desktop and not compatible with browsers. I do hope I can learn about quirks in Javascript too,&rdquo; said Wunna, a Primary 5 student, who aspires to be an astronaut when he grows up.</p>
@@ -73,21 +69,15 @@ third_nav_title: Covid 19 Book
 <p>The students learnt how computational thinking could be applied in everyday situations. Basic programming concepts such as events, loops, variables and functions were taught to the students. Students also applied their logical thinking to solve problems which were broken down into bite sizes.</p>
 <p>Reflecting on her experience of programming a virtual robot, Aggie shared, &ldquo;I enjoyed how I was able to learn a new thing about coding in each lesson. My personal favourite was this game where I had to choose certain actions for the robot to do to overcome a certain obstacle.&rdquo;</p>
 <p>Kristelle added, &ldquo;I really enjoyed the videos provided as they taught me how to make my instructions more detailed. I want to learn how to improve my coding skills. Maybe I can do &lsquo;real&rsquo; coding in future!&rdquo;</p>
-
-![](/images/Resized_23-June.jpeg)
-
+<img src="/images/Resized_23-June.jpeg">
 <h3 style="text-align: center;"><strong>22 June 2020</strong></h3>
 <h3 style="text-align: center;"><strong>Masks Sewn for a Good Cause</strong></h3>
-
-![](/images/Combined-22-June-1.jpeg)
-
+<img src="/images/Combined-22-June-1.jpeg">
 <p>Mdm Kwok Imm Mui, mother of our K2 twins, Ethan and Elza, is part of a group of volunteers across our island who are sewing face masks for foreign workers and the needy. She believes that Singaporeans should play a part to help those most affected at this time by the Covid-19 outbreak. She started sewing at home during the Circuit Breaker. Her two children helped in packing and counting the masks as Mdm Kwok thought it would be good to teach them about empathy for others.</p>
 <p>She can sew between 20 to 30 masks daily which go to CYC Made to Measure and Social Gifting. CYC started an initiative to gather volunteers to sew 300,000 masks for the migrant workers. Social Gifting is a Social Enterprise that also called for volunteers to sew reusable masks that are given to the elderly in nursing homes and the needy.</p>
 <p>To date, Mdm Kwok has sewn more than 300 masks and is still tirelessly supporting this worthy cause. She has also generously donated some masks to some of our MK children. When we asked Ethan and Elza about their mum&rsquo;s efforts, we can see that they are happy and proud of her &ldquo;labour of love&rdquo;.</p>
 <p>We laud Mdm Kwok for her act of volunteerism to help Singapore fight Covid-19!</p>
-
-![](/images/Resized_Twins-Ethan-and-Elza_E.jpeg)
-
+<img src="/images/Resized_Twins-Ethan-and-Elza_E.jpeg">
 <h3 style="text-align: center;"><strong>19 June 2020</strong></h3>
 <p>Ever wondered how you can build a toy car using materials you can find at home? How do you design it to get it to travel the farthest?</p>
 <p>During the May holidays,&nbsp;we invited Dr Ho Shen Yong to carry out &ldquo;Project Toy Car&rdquo; to engage our STEM Club students. Dr Ho is the Associate Dean (Academic) of the College of Science in NTU and Principal Lecturer in the School of Physical and Mathematical Sciences. He teaches Engineering Physics and was designated NTU Educator of the Year in 2018.</p>
