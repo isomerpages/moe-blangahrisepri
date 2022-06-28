@@ -12,4 +12,4 @@ third_nav_title: Page 9
 <p>The data gathered from this food tasting session will be used by SATS in the planning of the Term 2 menu, so our children can continue to look forward to meals with great taste and attractive presentation!</p>
 
 <img src="/images/SATS-Food-Tasting-1-225x300.jpg" 
-     style="width:35%">
+     style="width:45%">
