@@ -4,8 +4,7 @@ permalink: /2019/10/08/character-education-gotcha/
 description: ""
 third_nav_title: Page 12
 ---
-![](/images/IMG_6100-1024x683.jpg)
-
+<img src="/images/IMG_6100-1024x683.jpg">
 <p>&lsquo;GOTCHA! Caught you doing good&rsquo; recognises students who are caught doing good deeds and exhibiting the RISE values in their everyday actions. Every term, the good acts are shared with the rest of the student population so as to motivate more students to do similar deeds.</p>
 <p>For Term 1, these are our GOTCHA! winners.</p>
 <table>
