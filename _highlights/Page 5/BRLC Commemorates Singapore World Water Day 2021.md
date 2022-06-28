@@ -11,9 +11,6 @@ third_nav_title: Page 5
 <p>All in all, it was a holistic commemoration of World Water Day, as our Blangahnites came to appreciate why we should waste no drop!</p>
 <p><em>&nbsp;&ldquo;World Water Day is meant to be a call to action. Responsibility lies with all of us. Governments, associations, private partners: we must all recognize the multifold value of water and take action to conserve this basic resource, the resource which gives our planet its unique colour.&rdquo;</em></p>
 <p><strong>&mdash;&nbsp;Audrey Azoulay, Director-General, on the occasion of World Water Day 2021</strong></p>
-
-![](/images/wwd1.png)
-
-![](/images/wwd2.png)
-
-![](/images/wwd3.png)
+<img src="/images/wwd1.png">
+<img src="/images/wwd2.png">
+<img src="/images/wwd3.png">
