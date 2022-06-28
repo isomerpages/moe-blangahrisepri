@@ -12,5 +12,4 @@ third_nav_title: Page 5
 <p>At the end of the session, Clarence had the following words of wisdom for the young ones in attendance: &ldquo;Always have a little faith and belief. When you are facing defeat and tough times, always believe in yourself. Only with that belief can you work harder and turn defeat into success.&rdquo;</p>
 <p>Our students left the session inspired to persevere in the face of challenges and to overcome difficulties in pursuit of their dreams. Amelia, a Primary 4 student, shared &ldquo;The talk was really motivating, and it was really fun to watch all the different videos about the Olympics!&rdquo; Following the session, students will pen postcards to convey their heartfelt support to the local athletes bearing the Singapore Flag at the Tokyo Olympics.</p>
 <p>BRPS wishes Clarence all the very best at the upcoming Tokyo Olympics, flying our Singapore flag high!</p>
-
-![](/images/mrclarence1.png)
+<img src="/images/mrclarence1.png">
