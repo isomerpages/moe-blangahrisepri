@@ -18,12 +18,11 @@ description: ""
 <p>High Ability Learners of the English and Mother Tongue Languages are also selected for our Accelerated Programme to Enhance students&rsquo; eXperience (APEX), and Chinese Junior Reporter programme respectively, where we further impart the craft of journalism to them.</p>
 <p>Under the Chinese Junior Reporters Programme, students are equipped with basic news-reporting skills and play the role of a junior reporter to conduct interviews and write news reports. Students are also given opportunities to act as a columnist to tell their personal stories and express their opinions. Click&nbsp;<strong><a href="/2020/11/11/chinese-junior-reporters-dian-dian-di-di-vol-2-2020/">here</a></strong>&nbsp;to read our Dian Dian Di Di student newsletter, and watch one of the videos produced by our Chinese Junior Reports below!</p>
 <img src="/images/Dian-Dian-Di-Di-1.jpg">
+<br>
 <div><iframe title="YouTube video player" src="https://www.youtube.com/embed/1QXlpIo1TJ8" name="fitvid1" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p>English APEX offers a platform for our High Ability Learners of English to come together to brainstorm content and pen their very own student newsletter. BRavo! Is our BRPS student e-newsletter, written for students, by students. Guided by Mr Roger Jenkins, a renowned Singaporean storyteller and drama coach, our English APEX students shared tips on surviving HBL, lessons learnt from Covid-19, anecdotes of their fondest memories of the unprecedented year and creative acoustic poems of a pandemic. Read the first issue of BRavo!&nbsp;<strong><a href="/files/BRAVO_final_13Jan2020_FINAL-1.pdf">here</a></strong>!</p>
 <img src="/images/Bravo-1.png">
 <p>Finally, a special cadre of young photographers also continue to deepen their photography skills at the MediaKids CCA. Through the CCA, they acquire advanced skills through authentic photography experiences. Their writing skills are also augmented through training to express themselves through creative writing and poetry alongside their photography. The MediaKids are the official photographers for school events and even national events such as the Singapore Youth Festival. Visit our Young Photographers’ webpage<a href="/our-distinctive-programmes/young-photographers/"><strong>here</strong></a> and MediaKids’ webpage<a href="/departments/ccas/mediakids/"><strong>here</strong></a> to view our works.</p>
-
-![](/images/Jayden.png)
-
+<img src="/images/Jayden.png">
 <p>Photos taken by our Blangahnites are also captured in our school and student publications such as&nbsp;<strong><a href="/2021/02/02/here-comes-the-storm-now-our-covid-19-diary/">Here Comes the Storm Now: Our Covid-19 Diary</a></strong>&nbsp;and our student newsletters, Dian Dian Di Di and BRavo!</p>
 <p><strong>[The videos were recorded with prevailing Safe Management Measures in place.]</strong></p>
