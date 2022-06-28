@@ -8,10 +8,10 @@ description: ""
 <input type="checkbox" id="accordion1">
 <label for="accordion1"><h4>2021</h4></label>
 <div>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/03/BRPS-Healthy-Kids-Newsletter-Nov-21.pdf">BRPS Healthy Kids Newsletter - November 21</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/03/BRPS-Healthy-Kids-Newsletter-Aug-2021-1.pdf">BRPS Healthy Kids Newsletter - August 2021</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/03/BRPS-Healthy-Kids-Newsletter-MAY-2021.pdf">BRPS Healthy Kids Newsletter - May 2021</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/03/BRPS-Healthy-Kids-Newsletter-JAN-2021.pdf">BRPS Healthy Kids Newsletter - Jaunary 2021</a></p>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-Nov-21.pdf">BRPS Healthy Kids Newsletter - November 21</a></p>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-Aug-2021-1.pdf">BRPS Healthy Kids Newsletter - August 2021</a></p>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-MAY-2021.pdf">BRPS Healthy Kids Newsletter - May 2021</a></p>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-JAN-2021.pdf">BRPS Healthy Kids Newsletter - Jaunary 2021</a></p>
 </div>
 </li>  
 <li>
