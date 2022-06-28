@@ -10,10 +10,7 @@ third_nav_title: Page 8
 <p>His good friend, Chiaki, says, &ldquo;I missed learning from Coach, and I&rsquo;m happy that I saw him again today. We managed to play a small basketball match in our group of 5. But even before today, I have been playing on my own at the basketball court near my house and practising dribbling and defense drills.&rdquo;</p>
 <p>Primary 3 Alara, who is a member of Dance Club, is similarly excited about CCA starting again. &ldquo;It feels very nice to be back! I missed my friends from other classes. Even though I have been going for Hawaiian Dance lessons outside, I miss learning Chinese Dance in school. Yesterday, I heard my bones cracking when I was revising the dance moves!&rdquo;</p>
 <p>As we resume CCA with enhanced SMM in place, we purpose to support our students in a total curriculum where they continue to experience holistic learning in spite of Covid-19.</p>
-
-![](/images/resumption1.png)
-
-![](/images/resumption2.png)
-
+<img src="/images/resumption1.png"><br>
+<img src="/images/resumption2.png"><br>
 <img src="/images/basketball.jpg" 
      style="width:55%">
