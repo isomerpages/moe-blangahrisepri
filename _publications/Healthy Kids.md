@@ -18,9 +18,9 @@ description: ""
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h4>2020</h4></label>
 <div>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/03/BRPS-Healthy-Kids-Newsletter-NOV-2020.pdf">BRPS Healthy Kids Newsletter - November 2020</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/03/Update_BRPS-Healthy-Kids-Newsletter-AUG-2020-final.pdf">BRPS Healthy Kids Newsletter - August 2020</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/03/BRPS-Healthy-Kids-Newsletter-JULY-2020.pdf">BRPS Healthy Kids Newsletter - July 2020</a></p>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-NOV-2020.pdf">BRPS Healthy Kids Newsletter - November 2020</a></p>
+<p><a href="/files/Update_BRPS-Healthy-Kids-Newsletter-AUG-2020-final.pdf">BRPS Healthy Kids Newsletter - August 2020</a></p>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-JULY-2020.pdf">BRPS Healthy Kids Newsletter - July 2020</a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-June-2020-final.pdf">BRPS Healthy Kids Newsletter - June 2020</a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-March-2020.pdf">BRPS Healthy Kids Newsletter - March 2020</a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-27-Feb-2020-Final-TAPGRABGO-SATS-logo.pdf">BRPS Healthy Kids Newsletter -&nbsp; February 2020</a></p>
