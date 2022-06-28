@@ -41,6 +41,7 @@ description: ""
 <p><strong>Flying Paper Planes in Class (Primary 6)</strong></p>
 <p>Our APEX students participated in our in-house BRPS Amazing Flying Machines Competition! In the weeks leading up to the competition, students learnt more about airplanes by conducting independent research about the history and science behind these machines. Students shared what they had learnt with each other and worked collaboratively using Google Slides to present the physics of flight to their peers. Each group explored different ways to fold their paper planes to achieve the longest and farthest flight. Once that was achieved, the groups were challenged to create another paper plane that could carry the most amount of pebbles across the furthest distance. A mini-competition was then held for the teams to showcase their planes. Through the activity, our students displayed a wealth of creativity and resilience.</p>
 <img src="/images/thomas.png">
+<br>
 <blockquote>
 <p><em><strong>"You must learn to fail intelligently. Failing is one of the greatest arts in the world. One fails forward towards success.&rdquo; </strong></em></p>
 </blockquote>
