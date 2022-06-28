@@ -4,8 +4,7 @@ permalink: /2019/10/07/the-green-snapshots-bicentennial-edition/
 description: ""
 third_nav_title: Page 13
 ---
-![](/images/The-Green-Snapshots-Bicentennial-Edition2.jpg)
-
+<img src="/images/The-Green-Snapshots-Bicentennial-Edition2.jpg">
 <p>Join us in this year&rsquo;s special Bicentennial Edition of our nature and heritage trail, The Green Snapshots!</p>
 <p>The trail&nbsp;is a learning journey to appreciate the rich and&nbsp;green&nbsp;heritage of Telok Blangah District and Mount Faber. It is built on the school&rsquo;s Learning for Life (LLP) Environmental Education programme, which weaves nature into the curriculum and provides experiential learning activities for our students.</p>
 <p>As part of the guided-trail version, our student-docents will provide an in-depth and personal sharing of the history and flora &amp; fauna of Telok Blangah and the Southern Ridges.&nbsp;During the 2&frac12;-hour long guided tours, they will also share about the area&rsquo;s unique architecture and development over the years. In addition, our student-docents will engage participants in hands-on activities.</p>
