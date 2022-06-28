@@ -9,9 +9,7 @@ third_nav_title: Page 5
 <p>A lesson package was created on the Student Learning Space (SLS) for students to learn more about ASEAN cultures and traditions. Singapore Kindness Movement also conducted a virtual assembly, on the themes of care, respect and friendship, regardless of nationality.</p>
 <p>During recess, students were given the chance to experience playing different traditional games. A video screening booth was also set up in canteen for students to learn more about their schoolmates of different nationalities. In the video, International Students introduced their countries and traditions.</p>
 <p>It was indeed an engaging and meaningful week for our students. Through the various activities, they learnt to understand and develop the spirit of friendship across different nationalities.</p>
-
-![](/images/issue1.png)
-
+<img src="/images/issue1.png">
 <p>&ldquo;I enjoyed playing Capteh during recess. I learnt some techniques of playing the Capteh from my friend. I think it was really fun! I tried Kendamd as well. It was challenging but I managed to do it!&rdquo;</p>
 <p style="text-align: right;"><em>Michael, Primary 5</em></p>
 <p>&ldquo;I am happy to share about New Zealand&rsquo;s culture and traditions to my schoolmates. I felt nervous to be on camera. However, I am glad that my friends can know more about my hometown.&rdquo;</p>
