@@ -8,5 +8,4 @@ third_nav_title: Page 3
 <p>Next, we tried to have the stick insect move on to another student but it just wasn&rsquo;t ready. So we might try that next time! The stick insect crawled back to the tank on its own from Gwyneth&rsquo;s hand.</p>
 <p>P/S: No stick insect was hurt in this activity.</p>
 <p>The Animals&rsquo; Corner is part of the school&rsquo;s effort to equip students with socio-emotional skills and leadership qualities. We inculcate virtues such as care, respect and responsibility to create a lasting impact on the students&rsquo; own personal and interpersonal growth through the school&rsquo;s Learning for Life Programme (LLP). The experience also provided students the platform to put the virtues into practice.</p>
-
-![](/images/insect1.png)
+<img src="/images/insect1.png">
