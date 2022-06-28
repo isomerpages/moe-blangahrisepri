@@ -14,5 +14,5 @@ third_nav_title: Page 4
 <p>For our Primary 3 level, students learnt about magnets. Science kits were distributed to the students so that they can explore using magnets at home. They extended their learning by describing different methods to create a temporary magnet. &ldquo;When we were exploring on Magnets, I was happy to get my Science kit! It contained many materials that I could use to learn more about Magnets!&rdquo; said Fatin from 3 Opal.&nbsp;</p>
 <p>For the Primary 5 level, students dived into exploring electrical systems. They were presented with a problem and had to think of how to use circuit components to find a solution. In their exploration process, they had to conduct research and engaged in virtual collaboration of ideas to learn more about parallel and series circuits. &ldquo;I enjoyed the hands-on activity to form circuits and I now understand how the different components must be placed in order to get the bulb to light up&rdquo;, said Melody Tan from 5 Sapphire.</p>
 <p>In line with our vision to impart joyful learning experiences, our IBL Week was simply an enriching week!</p>
-<img src="/images/light1.png">
+<img src="/images/light1.png"><br>
 <img src="/images/light2.png">
