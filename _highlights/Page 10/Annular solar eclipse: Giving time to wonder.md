@@ -4,8 +4,7 @@ permalink: /2019/12/27/annular-solar-eclipse-giving-time-to-wonder/
 description: ""
 third_nav_title: Page 10
 ---
-![](/images/772b8fd6-b358-4664-b681-c89143d4608e-768x576.jpg)
-
+<img src="/images/772b8fd6-b358-4664-b681-c89143d4608e-768x576.jpg">
 <p>The School Management Committee set aside time on 26 Dec to witness the &ldquo;greatest astronomical event in Singapore&rdquo; at the National Junior College. Like curious children, we had many questions. What causes a solar eclipse? What is the difference between a solar eclipse and a lunar eclipse? How does a pinhole camera work?</p>
 <p>We stood in the field from 12.30pm, waiting in great anticipation for the &ldquo;Ring of Fire&rdquo; which would appear at 1.22pm. The weather was particularly kind to us that day, and there was even a light breeze.</p>
 <p>Mrs Jenny Quek, Head of Department for Science, was thrilled by the whole experience. &ldquo;People from all over Singapore came together for the same purpose. We tried to capture the phenomenon using different media &ndash; our solar viewing glasses, our mobile phones and the telescope.&rdquo;</p>
