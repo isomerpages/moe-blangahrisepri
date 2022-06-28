@@ -3,8 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /our-distinctive-programmes/applied-learning-programme-alp/
 description: ""
 ---
-![](/images/Photo-1-6.jpg)
-
+<img src="/images/Photo-1-6.jpg">
 <h4 style="text-align: center;"><strong>Aspiring Confident Engineers (ACE) @ BRPS</strong></h4>
 <blockquote>
 <p style="text-align: center;">"You cannot teach a man anything; you can only help him discover it in himself."</p>
