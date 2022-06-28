@@ -4,7 +4,7 @@ title: Two BRPS students advance to finals of 2021 Scrabble Tournament For
 permalink: /2021/08/20/two-brps-students-advance-to-finals-of-2021-scrabble-tournament-for-beginners-by-mattel/
 description: ""
 ---
-<img src="/Nathanael-Online-Scrabble-Competition-2021.jpeg">
+<img src="/images/Nathanael-Online-Scrabble-Competition-2021.jpeg">
 <p>This is the second year that our school participated in the 2021 Scrabble Tournament For Beginners Southeast Asia (Online), organized by by Mattel. However, unlike the previous year, this year's tournament structure was expanded to include participants of other Southeast Asia countries such as Indonesia, Malaysia, the Philippines and Thailand. The top 4 winners of each country will represent their nation at the Virtual Southeast Asian Finals.</p>
 <p>Our four students, Uthaila (4 Sapphire), Nathanael (4 Topaz), Yogitha (5 Sapphire) and Michael (5 Sapphire) were tasked with competing against students in other primary schools in the Singapore category on 14 August 2021. All four gave their best throughout their games. At the end of the day, Nathanael and Michael were placed in the top 12 and proceeded to the Grand Finals, which was held on 15 August 2021. There were 24 participants in the Grand Finals vying for the top 4 positions to represent Singapore for the Southeast Asian Finals.</p>
 <p>Both students managed to chalk up 2 wins in the finals. Overall, Nathanael and Michael did the school proud when they achieved 13th and 20th position respectively. Despite not being placed in the top 4 of the finals, we are proud of them for taking on this enriching learning experience!</p>
