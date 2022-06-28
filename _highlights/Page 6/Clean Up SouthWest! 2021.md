@@ -4,7 +4,7 @@ permalink: /2021/02/02/clean-up-southwest-2021/
 description: ""
 third_nav_title: Page 6
 ---
-<p>To all students and parents !</p>
+7<p>To all students and parents !</p>
 <p>Blangah Rise Learning Campus is taking part in the&nbsp;<strong>Clean Up SouthWest! 2021&nbsp;</strong>recycling initiative in collaboration with SouthWest CDC. Recycle your old clothes and paper for a greater cause!</p>
 <p>We accept old newspapers, magazines, paper, clothes and fabrics. This year we are also adding e-waste as a recyclable that we will be collecting. Some examples of e-waste are printers, mice, monitors, keyboards and phones. More information can be obtained by scanning the QR code on the flyer.</p>
 <p>A food donation will be made to the needy in the SouthWest District for every 4kg worth of items collected. Let us do our part to help those in need especially during this festive season.</p>
