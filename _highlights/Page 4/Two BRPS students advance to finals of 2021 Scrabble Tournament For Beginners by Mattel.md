@@ -13,4 +13,4 @@ third_nav_title: Page 4
 <p>"I feel that it was very hard and I had not thought that everyone would play so competitively. I think that if I have another opportunity like this, I will be more prepared." - Michael (5 Sapphire)</p>
 <p>"During the online Scrabble competition, I learnt many new words. Even though I did not get to the next level, I still will not give up and will do well for the next competition, I gave my best in the competition." Yogitha (5 Sapphire)</p>
 <p>"I was quite nervous because I had to think fast. It was a good experience though. I hope to take part in future online Scrabble competitions if I'm given the chance. I'll be ready!" Uthaila (4 Sapphire)</p>
-<img src="/images/scrabble.jpg)">
+<img src="/images/scrabble.jpg">
