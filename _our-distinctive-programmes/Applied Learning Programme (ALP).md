@@ -24,9 +24,7 @@ description: ""
 <p>&ldquo;I enjoyed the P5 Robotics session as it challenged me to think of how to design a robot out of Lego to clean up the beach. We had to do research on how we wanted our robot to reduce water pollution and programming it with the use of an iPad to pick up trash. I felt that the project was very meaningful as beach pollution is a real-world issue faced by many countries!&rdquo;</p>
 <p style="text-align: right;">Richie, 5 Sapphire</p>
 <p>Click&nbsp;<strong><a href="/2021/04/28/engineering-related-learning-activities-erla-and-robotics/">here</a></strong>&nbsp;to read about our Primary 5 Engineering-related Learning Activity (ERLA).</p>
-
-![](/images/ALP_2-1536x1152.jpg)
-
+<img src="/images/ALP_2-1536x1152.jpg">
 <p>&ldquo;It was fun making our own parachutes! I was excited to test if our parachutes worked!&rdquo;</p>
 <p style="text-align: right;">Heidi, 2 Saphhire.</p>
 <p>Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/departments/junior-primary/">here</a></strong>&nbsp;to read about our Primary 2 Engineering-related Learning Activity (ERLA).</p>
