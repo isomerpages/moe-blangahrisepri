@@ -10,21 +10,16 @@ description: ""
 <p>To this end,&nbsp;<em>Viewpoints</em>&nbsp;taps on department programmes from the English Language Department, Mother Tongue Language Department, and Young Photographers programme to enhance language skills and deliver an authentic learning experience for all students through Print, Broadcast, and Photo journalism. Amongst these offerings, some programmes are targeted at all students, while others at our High Ability Learners.</p>
 <p><strong>A general programme for students</strong></p>
 <p>As part of our English Language Department&rsquo;s Oracy Programmes, all Middle Primary students attend a Broadcast Journalism module, which aims to build students&rsquo; confidence in presentation. Our students go through training to present in front of the camera, including practising verbal and non-verbal cues of confidence. They then script their presentations and present their lines in front of the camera with confidence. Watch the video starring our Primary 3 students below!</p>
-
 <div><iframe title="YouTube video player" src="https://www.youtube.com/embed/lWKBZPWIADk" name="fitvid0" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p>Similarly, our primary 3 Chinese students come together to pen a level newsletter for their Mother Tongue classes, where they learn to basic news-reporting skills and to convey facts and opinions.</p>
 <p>Through our Young Photographers programme, all students are equipped with valuable skills to create and communicate stories through their lenses. From their photographic products, the learning is then extended into the language arena, as creative or poetry writing in the English or Mother Tongue languages.</p>
-
-![](/images/awt.jpg)
-
+<img src="/images/awt.jpg">
 <p><strong>Deeping the learning for our High Ability Learners</strong></p>
 <p>High Ability Learners of the English and Mother Tongue Languages are also selected for our Accelerated Programme to Enhance students&rsquo; eXperience (APEX), and Chinese Junior Reporter programme respectively, where we further impart the craft of journalism to them.</p>
 <p>Under the Chinese Junior Reporters Programme, students are equipped with basic news-reporting skills and play the role of a junior reporter to conduct interviews and write news reports. Students are also given opportunities to act as a columnist to tell their personal stories and express their opinions. Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2020/11/11/chinese-junior-reporters-dian-dian-di-di-vol-2-2020/">here</a></strong>&nbsp;to read our Dian Dian Di Di student newsletter, and watch one of the videos produced by our Chinese Junior Reports below!</p>
-
-![](/images/Dian-Dian-Di-Di-1.jpg)
-
+<img src="/images/Dian-Dian-Di-Di-1.jpg">
 <div><iframe title="YouTube video player" src="https://www.youtube.com/embed/1QXlpIo1TJ8" name="fitvid1" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
-<p>English APEX offers a platform for our High Ability Learners of English to come together to brainstorm content and pen their very own student newsletter. BRavo! Is our BRPS student e-newsletter, written for students, by students. Guided by Mr Roger Jenkins, a renowned Singaporean storyteller and drama coach, our English APEX students shared tips on surviving HBL, lessons learnt from Covid-19, anecdotes of their fondest memories of the unprecedented year and creative acoustic poems of a pandemic. Read the first issue of BRavo!&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/01/BRAVO_final_13Jan2020_FINAL-1.pdf">here</a></strong>!</p>
+<p>English APEX offers a platform for our High Ability Learners of English to come together to brainstorm content and pen their very own student newsletter. BRavo! Is our BRPS student e-newsletter, written for students, by students. Guided by Mr Roger Jenkins, a renowned Singaporean storyteller and drama coach, our English APEX students shared tips on surviving HBL, lessons learnt from Covid-19, anecdotes of their fondest memories of the unprecedented year and creative acoustic poems of a pandemic. Read the first issue of BRavo!&nbsp;<strong><a href="/files/BRAVO_final_13Jan2020_FINAL-1.pdf">here</a></strong>!</p>
 
 ![](/images/Bravo-1.png)
 
