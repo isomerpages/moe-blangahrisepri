@@ -12,5 +12,4 @@ third_nav_title: Page 6
 <p>Location : Brown boxes near school&rsquo;s guardhouse</p>
 <p>Parents/Guardians can choose to pass the recyclables to their child/ward or come in person to drop them off into the boxes positioned near the guard house (near main gate).</p>
 <p>We thank you for your support!</p>
-
-![](/images/0001-1-724x1024%20(1).jpg)
+<img style="width: 65%;" src="/images/0001-1-724x1024%20(1).jpg" />
