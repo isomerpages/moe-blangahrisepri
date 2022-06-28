@@ -5,8 +5,7 @@ permalink: /a-special-feature-on-nyguen-minh-dat-a-quiet-student-blossoms-into-p
 description: ""
 third_nav_title: Page 4
 ---
-![](/images/Richie.jpeg)
-
+<img src="/images/Richie.jpeg">
 <p>&ldquo;I really love the experience of a debate match, it is so adrenaline-filled! I enjoy the feeling of presenting my speech, the feeling of rebutting the opponent, answering Points of Information and defending my team's substantives. Working together as a team to get to VICTORY was awesome and I will never forget it!&rdquo; shared Richie.</p>
 <p>Prior to being fielded as a school debater for the Wits &amp; Words 2021 Inter-School Debate Competition, Primary 5 student Richie was a quiet and reserved student who often did his work well and rarely spoke up in class. In fact, he was not initially selected to be part of the school debate team. Determined to be part of the school team, he worked hard to prepare a speech for the class debate in order to prove that he can make the cut. That speech impressed his teacher, and she decided to give him a chance to join the school team.</p>
 <p>Eventually, the grueling competition schedule sharpened his debate acumen and confidence, so much so that he was able to help his team obtain straight wins to get through to the semi-finals and bagged three Best Speaker Awards in the preliminary and quarter-final rounds. By the end of the debate competition, Richie had developed into a confident speaker and formidable opponent on the debate floor.</p>
