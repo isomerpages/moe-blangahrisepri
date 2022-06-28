@@ -4,7 +4,6 @@ permalink: /p1-orientation/
 description: ""
 ---
 <h4><strong>ADMINISTRATIVE MATTERS (COMPULSORY FOR SUBMISSION)</strong></h4>
-
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
@@ -15,7 +14,7 @@ description: ""
 </li>
 <li>
 <input type="checkbox" id="accordion2">
- <label for="accordion2">Application for Interbank GIRO</label>
+<label for="accordion2">Application for Interbank GIRO</label>
 <div>
 <p><a href="https://internet-banking.dbs.com.sg/IB/Welcome">DBS/POSB</a>&nbsp;and&nbsp;<a href="https://internet.ocbc.com/internet-banking/Login/Login">OCBC</a>&nbsp;account holders, you can join the GIRO scheme through your respective online banking portals:</p>
 <p>1.Select billing organisation:</p>
@@ -39,7 +38,7 @@ description: ""
 </li>
 </ul>
 
-<h4><strong>Other Resources</strong></h4>
+<h4><strong>OTHER RESOURCES</strong></h4>
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion4">
