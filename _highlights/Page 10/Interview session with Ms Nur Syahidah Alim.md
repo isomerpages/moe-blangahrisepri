@@ -11,5 +11,4 @@ third_nav_title: Page 10
 <p>11-year old Aggie shared, &ldquo;Meeting Ms Syahidah personally was truly an inspiring moment! She has taught me valuable lessons which I can apply in school and life.&rdquo;</p>
 <p>11-year old Jesslyn remembered Ms Syahidah&rsquo;s encouragement to &ldquo;Dare to Dream and Dream Big&rdquo; and renewed her commitment to work hard to pursue her dreams.</p>
 <p>We are grateful to be able to meet our very own world Number 1 para archer. Watch this space for more inspiring stories on our local athletes in the lead up to 2020 Olympics!</p>
-
-![](/images/DSC_0064-1024x683.jpg)
+<img src="/images/DSC_0064-1024x683.jpg">
