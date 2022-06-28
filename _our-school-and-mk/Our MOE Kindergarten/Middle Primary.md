@@ -6,7 +6,6 @@ third_nav_title: Our MOE Kindergarten
 ---
 <img src="/images/IMG_8407E-min.jpg">
 <img src="/images/YH-Patrick-AYH-Victor_2020_8398-Final-min.jpg">
-
 <h4 style="text-align: center;"><strong><em>Children live up to what we believe of them.<br /></em></strong><strong><em>We believe that every child wants to learn and can learn.</em></strong></h4>
 <p><strong>A note from the Year Head, Mr Patrick Goh and Assistant Year Head, Mr Victor Lim<br /></strong>The Middle Primary is a robust team formed by talented and creative teachers who will combine their strengths, skills and ideas to work together to enrich your child&rsquo;s time in school. My colleagues and I aim to nurture your child to the best of our abilities. We believe in establishing a strong partnership and an open communication with parents.</p>
 <p><strong>A note to parents&nbsp;<br /></strong>We would like to welcome you and your child/ward to a brand new school year. We hope that the recent school break was enjoyable and well-utilised for you and your child/ward. We are delighted to see the students back in school, healthy and happy.</p>
