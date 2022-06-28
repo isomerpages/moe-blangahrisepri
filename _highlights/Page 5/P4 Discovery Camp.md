@@ -9,9 +9,6 @@ third_nav_title: Page 5
 <p>Another focus on the camp was on communications skills. Using games, students learnt that listening patiently, questioning respectfully, expressing their needs courageously, and cooperating harmoniously are key to understanding each other. &ldquo;It was a fun day. We learned some important skills about communication. I look forward to more mystery games and treasure hunt in future!&rdquo; George shared.</p>
 <p>The camp also unearthed some hidden talents of our Blangahnites. At the Boomwhackers Orchestra activity, students used tuned percussion tubes and synchronised with their friends to create a musical tune together. Students were intrigued by the novelty of the new experience and some showed musical talents in their quick grasp of a new musical instrument. Sophia shared, &ldquo;I like the Boomwhackers activity as we get to synchronise and create a melody. I hope for more orchestra-like activities in future!&rdquo;</p>
 <p>Working and learning together as a family was an amazing experience for our dedicated teachers and curious students. Ultimately, it is such little moments of engaged and experiential learning that creates the fondest memories of our school life.</p>
-
-![](/images/p4dc1.png)
-
+<img src="/images/p4dc1.png"><br>
 <img src="/images/3-1024x794.jpg" 
      style="width:53%">
-
