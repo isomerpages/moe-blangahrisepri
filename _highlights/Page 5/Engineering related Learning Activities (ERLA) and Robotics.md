@@ -27,8 +27,7 @@ third_nav_title: Page 5
 <tr>
 <td width="66">P3</td>
 <td width="192">Designing a Maglev System
-<p>&nbsp;</p>
-<p>(To be carried out in Term 3)</p>
+<br>(To be carried out in Term 3)
 </td>
 <td width="192">Let&rsquo;s Cool It!</td>
 </tr>
@@ -40,8 +39,7 @@ third_nav_title: Page 5
 <tr>
 <td width="66">P5</td>
 <td width="192">Making a Solar Oven
-
-<p>(To be carried out in Term 3)</p>
+<br>(To be carried out in Term 3)
 </td>
 <td width="192">Let&rsquo;s Clean Up!</td>
 </tr>
@@ -50,5 +48,4 @@ third_nav_title: Page 5
 <p>The STEM Activities required students to collaborate together in teams to solve real-world problems. During the process, students were given the platform to explore, investigate and ask questions as they analysed the problems that were given to them. Such a systems-thinking approach to problem-solving and decision-making not only help students develop their communication and social skills, but also build their self-confidence<strong>.</strong></p>
 <p>&ldquo;I got to use the laboratory thermometer to measure temperature. From the hands-on experience, I understand how heat travels from a hotter to a cooler place.&rdquo; -Naziha Binti Mohamad Nasir, 3 Sapphire</p>
 <p>&ldquo;I enjoyed the P5 Robotics session as it challenged me to think of how to design a robot out of Lego to clean up the beach. We had to do research on how we wanted our robot to reduce water pollution and prrogramme it with the use of an iPad to pick up trash. I felt that the project was very meaningful as beach pollution is a real-world issue faced by many countries!&rdquo; -Reflection by Nguyen Minh Dat (Richie), 5 Sapphire</p>
-
-![](/images/ALP-Highlights-Photo-768x917.jpg)
+<img src="/images/ALP-Highlights-Photo-768x917.jpg">
