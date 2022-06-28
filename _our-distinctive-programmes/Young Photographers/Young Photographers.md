@@ -27,9 +27,6 @@ third_nav_title: Young Photographers
 <h4><strong>Deepening Our Passion for Photography</strong></h4>
 <img src="/images/IMG_6466-1024x768.jpg">
 <p>Have a keen interest in photography? Join MediaKids CCA! You will learn more about photography and acquire advanced skills through authentic photography experiences. MediaKids have been the official photographers for school events and even national events such as the Singapore Youth Festival. In addition, MediaKids learn about creativity and teamwork when they head out to participate in competitions such as National Primary School Photography Competition.</p>
-
 <p>Click <a href="/2019/10/08/syf-2019-celebrations-in-the-community-student-photographers/">here</a> to read about our MediaKids’ participation in the 2019 Singapore Youth Festival.</p>
-
-Click <a href="/photographer-of-the-year/">here</a> to check out our winning stories from our photography competition - Photographer of the Year.
-
-Our MediaKids’ works have also been featured in our publications such as <a href="/our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/">Bicentennial Coffee Table Book</a>, <a href="/2021/02/02/here-comes-the-storm-now-our-covid-19-diary/">Covid-19 Book</a>, <a href="/reflections-of-an-overcomer-life-lessons-from-our-sg-sports-heroes/"> Reflections of an Overcomer: Life Lessons from our SG Sports Heroes</a> and <a href="/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/">The Green Dragonflies and Their Swampy Friends</a>.
+<p>Click <a href="/photographer-of-the-year/">here</a> to check out our winning stories from our photography competition - Photographer of the Year.</p>
+<p>Our MediaKids’ works have also been featured in our publications such as <a href="/our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/">Bicentennial Coffee Table Book</a>, <a href="/2021/02/02/here-comes-the-storm-now-our-covid-19-diary/">Covid-19 Book</a>, <a href="/reflections-of-an-overcomer-life-lessons-from-our-sg-sports-heroes/"> Reflections of an Overcomer: Life Lessons from our SG Sports Heroes</a> and <a href="/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/">The Green Dragonflies and Their Swampy Friends</a>.</p>
