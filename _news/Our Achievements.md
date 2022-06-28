@@ -18,7 +18,7 @@ description: ""
 <li>National Day Award (The Public Administration Medal - Bronze) - Mr Francis Foo (Principal)</li>
 <li>National Day Award (The Commendation Medal) - Mrs Teresa Tay</li>
 <li>National Day Award (The Long Service Medal) - Mr Marcus Chan</li>
-<li>President&rsquo;s Award for Teachers (PAT) - Mr James Han (Finalist) (Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2021/09/09/presidents-award-for-teachers-pat/">here</a></strong>&nbsp;to find out more)</li>
+<li>President&rsquo;s Award for Teachers (PAT) - Mr James Han (Finalist) (Click&nbsp;<strong><a href="/2021/09/09/presidents-award-for-teachers-pat/">here</a></strong>&nbsp;to find out more)</li>
 <li>Wits &amp; Words 2021 Inter-School Debate Competition - (Semi-finalist) Nyguen Minh Dat Richie (5 Sapphire), Choo Zhi Lin (5 Sapphire), Liu Yi Kai (5 Sapphire), Michael Ratemo Onyiego (5 Sapphire) Mikhael Riyo Chan (5 Topaz) and Ong Sheng Jie Chris (5 Topaz)</li>
 <li>2021 Scrabble Tournament For Beginners by Mattel - (Finalist) Nathanael Chin Chi Yi (4 Topaz), Michael Ratemo Onyiego (5 Sapphire) (Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2021/08/20/two-brps-students-advance-to-finals-of-2021-scrabble-tournament-for-beginners-by-mattel/" target="_blank" rel="noopener">here</a></strong>&nbsp;to find out more)</li>
 <li>Singapore Youth Festival 2021 Art Exhibition (Certificate of Recognition) - Koh Onwara Chloe (6 Opal), Luacan Hannah Derren De Jesus (6 Opal), Kayla Chatania Arif (6 Topaz), Qiyara Danish Akida Binte Mohamad Firdaus (6 Sapphire)</li>
