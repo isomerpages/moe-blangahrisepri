@@ -27,7 +27,7 @@ description: ""
 <img src="/images/ALP_2-1536x1152.jpg">
 <p>&ldquo;It was fun making our own parachutes! I was excited to test if our parachutes worked!&rdquo;</p>
 <p style="text-align: right;">Heidi, 2 Saphhire.</p>
-<p>Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/departments/junior-primary/">here</a></strong>&nbsp;to read about our Primary 2 Engineering-related Learning Activity (ERLA).</p>
+<p>Click&nbsp;<strong><a href="/departments/junior-primary/">here</a></strong>&nbsp;to read about our Primary 2 Engineering-related Learning Activity (ERLA).</p>
 <p>&ldquo;I got to use the laboratory thermometer to measure temperature. From the hands-on experience, I understand how heat travels from a hotter to a cooler place.&rdquo;</p>
 <p style="text-align: right;">Naziha, 3 Sapphire</p>
 <p><strong>A Taste of Robotics &amp; Engineering for our Primary 1!</strong></p>
