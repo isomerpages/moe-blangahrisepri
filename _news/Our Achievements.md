@@ -3,19 +3,18 @@ title: Our Achievements
 permalink: /news/our-achievements/
 description: ""
 ---
-![](/images/Life-In-Blangah-Rise-Our-Achievements2.png)
-
+<img src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 <h4><strong>2022</strong></h4>
 <ul>
-<li>Wits &amp; Words 2022 Inter-School Debate Competition - (Quarter-finalist) (Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/03/03/brps-debate-team-advances-to-quarterfinals-at-wits-words-competition/"><strong>here</strong></a>&nbsp;to find out more)</li>
-<li>Red Cross: Gold Award - Excellence Unit Award Year of Achievement 2021 (Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/03/11/gold-award-for-excellent-unit-award-year-2021/"><strong>here</strong></a>&nbsp;to find out more)</li>
-<li>First Place in Rentas Pantas 2022 (Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/03/21/p4-students-clinch-first-place-at-rentas-pantas-2022/"><strong>here</strong></a>&nbsp;to find out more)</li>
+<li>Wits &amp; Words 2022 Inter-School Debate Competition - (Quarter-finalist) (Click&nbsp;<a href="/2022/03/03/brps-debate-team-advances-to-quarterfinals-at-wits-words-competition/"><strong>here</strong></a>&nbsp;to find out more)</li>
+<li>Red Cross: Gold Award - Excellence Unit Award Year of Achievement 2021 (Click&nbsp;<a href="/2022/03/11/gold-award-for-excellent-unit-award-year-2021/"><strong>here</strong></a>&nbsp;to find out more)</li>
+<li>First Place in Rentas Pantas 2022 (Click&nbsp;<a href="/2022/03/21/p4-students-clinch-first-place-at-rentas-pantas-2022/"><strong>here</strong></a>&nbsp;to find out more)</li>
 </ul>
 <h4><strong>2021</strong></h4>
 <ul>
-<li>National Mathematical Olympiad of Singapore (Honourable Mention Award) - Ong Sheng Jie Chris (5 Topaz) (Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2021/11/11/national-mathematical-olympiad-of-singapore/"><strong>here</strong></a>&nbsp;to read more)</li>
-<li>National Cyberwellness Advocacy Challenge (Gold Award) - Lum Alara Lila, Sophia Risteski, Devesh Hari and Muhammad Hidayat Bin Noor Hairuzam (4 Sapphire) (Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2021/11/09/gold-award-in-this-years-national-cyberwellness-advocacy-challenge-ncac/"><strong>here</strong></a>&nbsp;to read more)</li>
-<li>Finalist of the Arif Budiman Malay Language Teacher Award 2021: Mdm Azlin&nbsp;(Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2021/10/24/mdm-azlin-finalist-of-the-arif-budiman-malay-language-teacher-award-2021/">here</a></strong>&nbsp;to find out more)</li>
+<li>National Mathematical Olympiad of Singapore (Honourable Mention Award) - Ong Sheng Jie Chris (5 Topaz) (Click&nbsp;<a href="/2021/11/11/national-mathematical-olympiad-of-singapore/"><strong>here</strong></a>&nbsp;to read more)</li>
+<li>National Cyberwellness Advocacy Challenge (Gold Award) - Lum Alara Lila, Sophia Risteski, Devesh Hari and Muhammad Hidayat Bin Noor Hairuzam (4 Sapphire) (Click&nbsp;<a href="/2021/11/09/gold-award-in-this-years-national-cyberwellness-advocacy-challenge-ncac/"><strong>here</strong></a>&nbsp;to read more)</li>
+<li>Finalist of the Arif Budiman Malay Language Teacher Award 2021: Mdm Azlin&nbsp;(Click&nbsp;<strong><a href="/2021/10/24/mdm-azlin-finalist-of-the-arif-budiman-malay-language-teacher-award-2021/">here</a></strong>&nbsp;to find out more)</li>
 <li>National Day Award (The Public Administration Medal - Bronze) - Mr Francis Foo (Principal)</li>
 <li>National Day Award (The Commendation Medal) - Mrs Teresa Tay</li>
 <li>National Day Award (The Long Service Medal) - Mr Marcus Chan</li>
