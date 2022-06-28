@@ -4,7 +4,7 @@ permalink: /2019/10/08/special-event-with-mr-fandi-ahmad/
 description: ""
 third_nav_title: Page 11
 ---
-![](/images/2fandi.jpg)
+<img src="/images/2fandi.jpg">
 <p>&ldquo;One must have a dream in life. If you are focused, everyone can achieve their dream. I enjoy playing football. I trained hard and believed in myself. We must never give up,&rdquo; said Mr Fandi Ahmad during his interview with our Student Leaders.</p>
 <p>Mr Fandi Ahmad, Singapore&rsquo;s football legend, and currently the coach of the Young Lions, visited Blangah Rise Primary School on 2 September.</p>
 <p>11-year-old Aarav shared, &ldquo;Meeting Mr Fandi Ahmad was truly an honour!&rdquo; Mr Fandi Ahmad had taught him about the 3Ds &ndash; Determination, Dedication and Discipline. Aarav added that he was inspired to practice the 3Ds and aimed to be a better footballer.</p>
