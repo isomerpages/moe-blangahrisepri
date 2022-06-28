@@ -17,7 +17,5 @@ third_nav_title: Page 8
 <p>Dr Ho shared, &ldquo;It was a fun experience explaining Science and Technology to primary school children. Probably until we try to create or make something, we will not see the challenges. This toy car project is an opportunity to learn about Science and also learn about learning.&nbsp; It is important that the children have taken a first step, as &lsquo;a journey of a thousand miles begins with a single step&rsquo; &ndash; no matter how small the first step is.&nbsp; We also often just look at the end product but not the hard work in the process, but &lsquo;all things are difficult before they are easy&rsquo;.&rdquo;</p>
 <p>To bring home the point that we should persevere and not be afraid to learn from failure, Dr Ho shared a video, &ldquo;Early Flying Failures Stock Footage&rdquo;. The airplane that we take for granted today had gone through many iterations and the early inventors did not give up despite not succeeding at first.</p>
 <p>As our students work on improving the design of their toy cars, may they also embrace the spirit of trying and improving an important part of the learning process!</p>
-
 <h4 style="text-align: center;"><strong><span class="fl-heading-text">Students' Prototypes</span></strong></h4>
-
-![](/images/Capture-1024x425.jpg)
+<img src="/images/Capture-1024x425.jpg">
