@@ -9,4 +9,4 @@ third_nav_title: Page 4
 <p>Competitions are not alien to Jonathan. As an active member of the STEM Club, Jonathan also represented our school in the National Robotics Competition and the Singapore Amazing Flying Machine Competitions that were organised by the Singapore Science Centre. In order to achieve perfection in the making of his own aeroplane, he explored multiple ways and methods. Jonathan also proved himself as an excellent team player and leader as he worked together with his team members to explore, investigate and solve real-life problems.</p>
 <p>Ms Ivy Teo shared, &ldquo;It is a joy to have Jonathan in my class. Jonathan is self-motivated and perseveres always in all that he does. He is a good role-model for the class.&rsquo;</p>
 
-![](/images/20210811_083407-scaled-e1629459628351-922x2048.jpeg)
+<img style="width: 65%;" src="/images/20210811_083407-scaled-e1629459628351-922x2048.jpeg" />
