@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Page 10
 ---
 <p>9-year-old Nathanael from Blangah Rise Primary School walks into school at 7.10am. In the past, he would have assembled with his classmates in the school hall, but since 5 Feb, he has been going directly to her classroom for the flag-raising ceremony as part of the social distancing measures for the COVID-19 situation. When he gets there, he sees that some of his friends are already taking their temperature with their oral digital thermometer, and he proceeds to take his temperature too. His teacher records his attendance and temperature in School Cockpit Mobile, an MOE-owned mobile application for attendance and temperature taking.</p>
-
-![](/images/1-Students-proceeding-to-classrooms-directly-768x576.jpg)
-
-![](/images/2-Temperature-taking-768x576.jpg)
-
+<img src="/images/1-Students-proceeding-to-classrooms-directly-768x576.jpg"><br>
+<img src="/images/2-Temperature-taking-768x576.jpg">
 <p>Nathanael and his friends will do a second temperature taking at 12.30pm. &ldquo;The teachers want to make sure that we do not have a fever or flu symptoms so that viruses cannot spread and we can all be safe and well,&rdquo; explains Nathanael.</p>
 <p>Teachers have been using videos and infographics to educate students about COVID-19 and reminding them about the importance of washing their hands and not touching their faces. The students also accessed the just-in-time lesson package on COVID-19 on the Student Learning Space (SLS), an online learning platform. Nathanael said, &ldquo;Our Science teacher showed us pictures of a coronavirus under a microscope. I went home and talked to my parents about how we can keep ourselves safe from the coronavirus, such as not touching live animals and washing our hands with soap.&rdquo;</p>
 
