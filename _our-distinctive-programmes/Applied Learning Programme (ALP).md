@@ -31,9 +31,8 @@ description: ""
 <p>&ldquo;I got to use the laboratory thermometer to measure temperature. From the hands-on experience, I understand how heat travels from a hotter to a cooler place.&rdquo;</p>
 <p style="text-align: right;">Naziha, 3 Sapphire</p>
 <p><strong>A Taste of Robotics &amp; Engineering for our Primary 1!</strong></p>
-<p>Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/">here</a></strong>&nbsp;to read about our Primary 1 Engineering-related Learning Activity (ERLA) and Robotics.</p>
+<p>Click&nbsp;<strong><a href="/2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/">here</a></strong>&nbsp;to read about our Primary 1 Engineering-related Learning Activity (ERLA) and Robotics.</p>
 <p><strong>A tiered approach</strong></p>
-
 <table style="height: 144px;">
 <tbody>
 <tr style="height: 18px;">
@@ -74,9 +73,6 @@ description: ""
 </tbody>
 </table>
 <p>ALP is structured in two tiers. Tier 1 is for all students and Tier 2 is for students who show greater aptitude and interest. For Tier 1, all students will be engaged in robotics and&nbsp;<em>engineering-related learning activities</em>-related (ERLA) project work as shown in Table 1 below. Students in Tier 2 are identified for STEM Club where they are involved in specialised training on&nbsp;<em>engineering-related learning activities</em>-related (ERLA) activities and robotics as well as participate in competitions in order to develop their creativity, critical thinking, problem-solving and decision-making skills. Learning journeys are organised to expose students to STEM. Robotics and ERLA activities are carried out in our discovery rooms - Da Vinci&rsquo;s Workbench and Edison&rsquo;s Hub.</p>
-
-![](/images/alp1.png)
-
+<img src="/images/alp1.png">
 <p>Using the thinking routine&nbsp;<em>&lsquo;See-Think-Wonder&rsquo;, our APEX teachers led students through one of the activities that aligned with the school&rsquo;s commemoration of Singapore World Water Day 2021. Students did their research on flooding in Singapore and how our government overcame the problem with the construction of Marina Barrage. Our students worked in pairs to create their own robotic floodgate and programmed it to model after the ones at Marina Barrage.</em></p>
-
-![](/images/alp2.png)
+<img src="/images/alp2.png">
