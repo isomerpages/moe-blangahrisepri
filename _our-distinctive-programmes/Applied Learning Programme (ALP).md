@@ -19,13 +19,11 @@ description: ""
 </ul>
 <p><strong>Process Cycle</strong></p>
 <p>The school uses the &lsquo;Engineering Design Process&rsquo; in STEM lessons to provide structures for learning in order to scaffold children&rsquo;s thinking. The process is adopted from the Engineering is Elementary (EiE) project that was developed by the Museum of Science in Boston.</p>
-
-![](/images/Capture-7.jpg)
-
+<img src="/images/Capture-7.jpg">
 <p>The platforms for STEM activities include Robotics and Engineering-related Learning Activities (ERLA). Learning robotics provides students with hands-on opportunities to learn STEM concepts through creating their own robots and drawing connections to what they have learnt in the classrooms. It enables students to apply content knowledge and innovate in order to bridge the gap between key theoretical concepts and their real-world applications. Learning robots programming also becomes an opportunity for students to develop their linguistic and logical skills. It is a fun and simple way to get students exposed to basic engineering concepts at an early age.</p>
 <p>&ldquo;I enjoyed the P5 Robotics session as it challenged me to think of how to design a robot out of Lego to clean up the beach. We had to do research on how we wanted our robot to reduce water pollution and programming it with the use of an iPad to pick up trash. I felt that the project was very meaningful as beach pollution is a real-world issue faced by many countries!&rdquo;</p>
 <p style="text-align: right;">Richie, 5 Sapphire</p>
-<p>Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2021/04/28/engineering-related-learning-activities-erla-and-robotics/">here</a></strong>&nbsp;to read about our Primary 5 Engineering-related Learning Activity (ERLA).</p>
+<p>Click&nbsp;<strong><a href="/2021/04/28/engineering-related-learning-activities-erla-and-robotics/">here</a></strong>&nbsp;to read about our Primary 5 Engineering-related Learning Activity (ERLA).</p>
 
 ![](/images/ALP_2-1536x1152.jpg)
 
