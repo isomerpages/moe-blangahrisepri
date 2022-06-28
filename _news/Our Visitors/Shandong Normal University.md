@@ -4,16 +4,10 @@ permalink: /2019/04/17/shandong-normal-university/
 description: ""
 third_nav_title: Our Visitors
 ---
-
-
-![](/images/IMG_8188-1024x683.jpeg)
-
+<img src="/images/IMG_8188-1024x683.jpeg">
 <p>Our school had the privilege to host students and teachers from No. 2 Middle School Attached to Shandong Normal University in China on 16 & 17 April 2019. Some of our P4 and P5 students were selected to be buddies to the students from the school. They attended lessons together, ate together during recess and took part in bonding activities. Through this meaningful and memorable cultural exchange over the two days, the students learnt many things from their new friends and had a deeper appreciation of one another’s cultures.</p>
-
-![](/images/IMG_8339-1024x683.jpeg)
-
-![](/images/shandong.jpg)
-
+<img src="/images/IMG_8339-1024x683.jpeg">
+<img src="/images/shandong.jpg">
 <p>Here are some of our students&rsquo; reflections:</p>
 <p style="text-align: center;"><strong>Students' Reflection</strong></p>
 <p>Yap Yu Lin 5 Sapphire<br>At the beginning, we were all very shy about interacting with the students from China. However after spending two days with them, I felt very happy and comfortable with them. When they left, I felt very sad. However, I am contented that I made a new friend during this cultural exchange programme.</p>
