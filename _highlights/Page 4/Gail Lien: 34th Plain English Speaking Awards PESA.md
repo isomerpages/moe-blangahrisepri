@@ -9,5 +9,4 @@ third_nav_title: Page 4
 <p>With new found confidence, Gail wrote a new script and prepared her speech for the finals within two weeks. She shared that prior to PESA, she would have seen this as an insurmountable task and would have doubted herself. However, growing in her confidence, she found her footing in public speaking and developed a personalised presentation style. In fact, Gail&rsquo;s English teacher shared with her that she was able to see Gail&rsquo;s growth as her writing has improved tremendously.</p>
 <p>In her conversations with her teacher, she shared that she has found her own style of public speaking and grown in confidence and expressiveness. Through PESA, she learned to never doubt herself. &ldquo;Regardless of the final result, the invaluable lessons from my journey is the greatest award because I am now a better vision of myself compared to two months ago,&rdquo; shared Gail.</p>
 <p>The final results for the 34<sup>th</sup>&nbsp;Plain English Speaking Awards will be released on Monday 23 August 2021 but in our eyes, Gail is already a winner.</p>
-
-![](/images/IMG_7086-1536x2048.jpeg)
+<img style="width: 65%;" src="/images/IMG_7086-1536x2048.jpeg" />
