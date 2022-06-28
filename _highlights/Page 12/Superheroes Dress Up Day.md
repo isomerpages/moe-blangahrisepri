@@ -4,8 +4,7 @@ permalink: /2019/10/08/superheroes-dress-up-day/
 description: ""
 third_nav_title: Page 12
 ---
-![](/images/3a8c3fde-aa99-4ad6-b2d4-df9f81adf94f-1024x768.jpg)
-
+<img src="/images/3a8c3fde-aa99-4ad6-b2d4-df9f81adf94f-1024x768.jpg">
 <p>Newsflash!</p>
 <p><strong>Not all Superheroes Wear Capes or Have Powers</strong>.</p>
 <p>Superheroes Came Alive on 17 May at approximately 7.30am when BRPS staff and students came dressed in costumes of heroes to celebrate the superheroes in our lives. Who is YOURS and what is your SUPERPOWER?</p>
