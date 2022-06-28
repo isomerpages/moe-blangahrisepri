@@ -9,7 +9,5 @@ third_nav_title: Page 5
 <p>Our children brought these questions home to their parents, and the parents brought their children to the library or searched the internet to seek answers. When they came back to school with the answers, the children shared the information in class with their peers.</p>
 <p>The children learnt through two simple experiments that a rainbow is formed when there is light and water. They watched a video clip that explained how when light shines through a water droplet, it bends, reflects and separates into the seven colors of the rainbow. In the first experiment, the children submerged a mirror into a bowl filled with water. Then, they went outdoors and positioned the bowl such that the sunlight shone directly at the mirror. Through this, the children observed a rainbow forming on the wall! In the second experiment, the children took turns to use a water hose to spray water up in the air. Against the strong sun rays, the preschoolers were able to see the reflected light on the ground. They were delighted to see the beautiful rainbow that formed!</p>
 <p>To cap off the learning, the K1 Love children painted their own rainbow art piece and composed a song about rainbows, which they sang proudly via zoom to their K1 Respect friends and teachers. Indeed, this WoW session was a colourful and memorable time of learning for the K1 Love preschoolers!</p>
-
-![](/images/k1loveweek1.png)
-
-![](/images/k1loveweek2.png)
+<img src="/images/k1loveweek1.png"><br>
+<img src="/images/k1loveweek2.png">
