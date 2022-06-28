@@ -11,8 +11,6 @@ third_nav_title: Page 7
 <p>The children also displayed resilience as they picked up a new skills through interesting activities such as puppet making, building a bristlebot and balloon sculpturing. Our parents also challenged our children to virtual games such as bottle flipping. No prizes for guessing who won!</p>
 <p>Thank you, children, for bringing much joy and sunshine into our lives!</p>
 <p>&ldquo;Every child is a different kind of flower and altogether make this world a beautiful garden.&rdquo; - Anonymous</p>
-
-![](/images/cd20201.png)
-
+<img src="/images/cd20201.png"><br>
 <img src="/images/IMG_20201008_080409.jpg" 
      style="width:32%">
