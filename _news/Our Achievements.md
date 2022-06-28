@@ -44,11 +44,11 @@ description: ""
 <li>Caring Teacher Award - Ms Usha Rani, Mdm Kimberly Koh, Ms Ivy Teo, Mr Muhammad Salim and Ms Magdalene Ho</li>
 <li>Red Cross: Gold Award - Excellence Unit Award Year of Achievement 2019</li>
 <li>BCA Green Mark Goldplus Award (A&nbsp;green building rating system to evaluate a building for its environmental impact and performance)</li>
-<li>Distinguished InnoChamp Award - Mr James Han (Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2020/01/22/championing-innovation-in-education-mr-james-han/">here</a></strong>&nbsp;to find out more)</li>
+<li>Distinguished InnoChamp Award - Mr James Han (Click&nbsp;<strong><a href="/2020/01/22/championing-innovation-in-education-mr-james-han/">here</a></strong>&nbsp;to find out more)</li>
 </ul>
 <h4><strong>2019</strong></h4>
 <ul>
-<li>Outstanding STEM Teacher Award - Mrs Jenny Quek (Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2020/05/19/making-stem-come-alive-mrs-jenny-quek/">here</a></strong>&nbsp;to find out more)</li>
+<li>Outstanding STEM Teacher Award - Mrs Jenny Quek (Click&nbsp;<strong><a href="/2020/05/19/making-stem-come-alive-mrs-jenny-quek/">here</a></strong>&nbsp;to find out more)</li>
 <li>National Day Award: The Commendation Medal &ndash; Mdm Stephanie Song</li>
 <li>MOE Service Excellence Award (MSEA) - Mdm Yeo Chay Yee (Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2020/06/26/depositing-into-every-students-emotional-bank-account-mdm-yeo-chay-yee/">here</a></strong>&nbsp;to find out more), Mr Saw Myint Lay, Mdm Suriyawati Binte Churaimi</li>
 <li>Outstanding Preschool Teacher Award - Ms Liu Cuixian (Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2020/04/14/liu-cuixian/">here</a></strong>&nbsp;to find out more)</li>
