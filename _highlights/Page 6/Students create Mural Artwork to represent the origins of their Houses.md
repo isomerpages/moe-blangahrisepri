@@ -9,5 +9,5 @@ third_nav_title: Page 6
 <p>Along with the launch of the Modular CCA (House System), students were given an authentic task to design and create a mural to educate their peers on the origins of their houses. Selected students were put through intensive sessions of research, before sketching and painting their canvases. It was the first time many of our students had worked on such a large-scale collaborative project.</p>
 <p>On his experience, Araasan, a Primary 5 student, mused, &ldquo;I was initially terrified of transferring the small sketch to a big canvas as I wanted it to be exactly the same. However, through the techniques taught and good teamwork displayed by my groupmates, I learnt how to draw and paint with precision.&rdquo;</p>
 <p>Richelle from Primary 4 had a similar experience working as a team. &ldquo;I found it fun working in a group as I saw how team-work allowed us to work faster. At the start, it was hard working on such a big artwork together but I have learnt how to respect my classmates&rsquo; views and seek first to understand their views.&rdquo;</p>
-<img src="/images/students1.png">
+<img src="/images/students1.png"><br>
 <img src="/images/students2.png">
