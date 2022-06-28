@@ -98,9 +98,7 @@ third_nav_title: Covid 19 Book
 <p>&ldquo;We experience each other&rsquo;s thoughts and feelings,&rdquo; Sophia added.</p>
 <p>The students also used the language of virtues in sharing what they had learned. Devesh said, &ldquo;We learn to help and be kind to one another.&rdquo;</p>
 <p>Through the teacher mentoring process in the morning, we endeavour to connect with students intentionally to be their &ldquo;coach, counsellor and cheerleader&rdquo; and to help them to support one another.</p>
-
-![](/images/Resized_18-June.jpeg)
-
+<img src="/images/Resized_18-June.jpeg">
 <h3 style="text-align: center;"><strong>17 June 2020</strong></h3>
 <p>Mdm Kimberly Koh recalls what it was like being a student. &ldquo;There was always this fear about the English language. Simply too many things to remember, such as grammar rules! Now that I am a teacher, the challenge for myself is to make lessons interesting for my students.&rdquo;</p>
 <p>Mdm Koh uses different tech tools during her English Language lessons to deepen students&rsquo; engagement and raise their interest level. The tech tools also allow formative assessment to take place so that she can check for students&rsquo; understanding, obtain data on their learning and use this data to adjust her teaching. This is particularly important as she teaches Primary One students who may not have acquired the metacognitive or language skills to express what they know or do not know.</p>
@@ -110,19 +108,15 @@ third_nav_title: Covid 19 Book
 <p>As a member of the Singapore Learning Designers Circle, Mdm Koh has also picked up tips from the community of educators, one of which is to conduct spelling tasks effectively and to track students&rsquo; learning and progress.</p>
 <p>&ldquo;I was really thrilled when I got to know of what I could do with&nbsp;<strong><em>Flippity.net</em></strong><em>.</em>&rdquo; Using a spelling strategy that is similar to&nbsp;<em>Look, Say, Cover, Write, Check</em>, words and sentences are read out to the students and the spelling results are sent to the email addresses of teachers. Students can use that platform to learn and practise their spelling independently.&rdquo;</p>
 <p>Mdm Koh summarised her experience with the new ICT tools. &ldquo;This Home-Based Learning period has opened up new opportunities for me. I have grown to be a more resourceful educator and I can carry out blended learning for my students more confidently now &ndash; anytime, anywhere. Also, I strongly encourage all of us as educators to take bold steps forward to harness technology. If we don&rsquo;t try, we will never conquer!&rdquo;</p>
-
-![](/images/Resize_17-June.jpeg)
-
+<img src="/images/Resize_17-June.jpeg">
 <h3 style="text-align: center;"><strong>15 June 2020</strong></h3>
 <p style="text-align: center;"><strong><em>&ldquo;Hang in there, jia you. These times may be tough but you are tougher and I know you will look back at 2020, and realise that it&rsquo;s been a very special year and it&rsquo;s a year you won&rsquo;t forget. Till we meet again, all my love Blangah Rise Primary and I&rsquo;ll see you next year.&rdquo;</em></strong></p>
 <p style="text-align: center;"><strong>Ms Sharon Ismail, Author</strong></p>
 <p>Authors&rsquo; Talks is an annual event where local authors are invited to share their experiences and expertise with the students. Hearing an author speak is a privilege and we thought of how we could continue with the programme while maintaining the safe distancing protocols.</p>
 <p>Ms Sharon Ismail, author of their STELLAR text,&nbsp;<em>What Sallamah Didn't Know<strong>,</strong>&nbsp;</em>kindly consented to an e-interview. Ms Sharon Ismail had been engaging our students for the past few years and it was always a pleasure working with her. We collated the questions from the students, which included "Is Sallamah a real person?", "What is your next book?", and "What inspires you?&rdquo; Ms Sharon Ismail patiently replied to the students&rsquo; questions via a recorded segment. At the end of the interview, Sharon Ismail encouraged the students to continue working hard and she hoped to see them physically in 2021.</p>
-<p>Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/06/Thank-you-Ms-Sharon-Ismail.pdf">here</a></strong>&nbsp;to view the thank you notes.</p>
+<p>Click&nbsp;<strong><a href="/files/Thank-you-Ms-Sharon-Ismail.pdf">here</a></strong>&nbsp;to view the thank you notes.</p>
 <p>Our students had definitely gained a new perspective to their STELLAR text and we hope that some will be inspired to be an author in future!</p>
-
-![](/images/Resized_15-June.jpeg)
-
+<img src="/images/Resized_15-June.jpeg">
 <h3 style="text-align: center;"><strong>11 June 2020</strong></h3>
 <p>BRPS organised our very own Circuit Breaker Challenge during the month-long May school holidays! The challenge enabled students to explore and learn new things. A number of challenges also empowered students to plan interesting activities with their family.</p>
 <p>Neharika, who is in Primary 5, had a lot of fun trying out the Tongue Twister Challenge. &ldquo;I find words that rhyme very interesting. I enjoyed creating my own tongue twister, and even asked my parents to say it aloud with me!&rdquo;</p>
