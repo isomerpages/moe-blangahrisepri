@@ -4,8 +4,7 @@ permalink: /2021/08/02/shining-the-light-on-inquiry-in-our-classrooms/
 description: ""
 third_nav_title: Page 4
 ---
-![](/images/P5-IBL-Science-7-2.jpeg)
-
+<img src="/images/P5-IBL-Science-7-2.jpeg">
 <p>&ldquo;Students enjoyed the Inquiry Based Learning (IBL) process as they were in charge of their own learning. Through inquiry, students collaborated with their peers and made new discoveries,&rdquo; said Ms Ow.&nbsp;</p>
 <p>Our students engaged in a week of Inquiry Based Learning from 7 to 14 July, and it was indeed a week of learning filled with inquiry, self-directed and collaborative learning. Prior to the IBL Week, our students engaged in flipped learning via Student Learning Space (SLS) to explore new ideas, and perform research on an assigned topic. They were then given the opportunity to explore and deepen their knowledge during the IBL Week.&nbsp;</p>
 <p>Inquiry-Based Learning (IBL) is a constructivist approach used in teaching and learning to explore a problem, an issue, a phenomenon or an idea. It aims to spark curiosity in our students by getting them to explore, investigate and find answers on their own so that they can build a strong foundation of knowledge by connecting new ideas and experiences with what they already know and to develop their capacity for inquiry.&nbsp;</p>
@@ -15,7 +14,5 @@ third_nav_title: Page 4
 <p>For our Primary 3 level, students learnt about magnets. Science kits were distributed to the students so that they can explore using magnets at home. They extended their learning by describing different methods to create a temporary magnet. &ldquo;When we were exploring on Magnets, I was happy to get my Science kit! It contained many materials that I could use to learn more about Magnets!&rdquo; said Fatin from 3 Opal.&nbsp;</p>
 <p>For the Primary 5 level, students dived into exploring electrical systems. They were presented with a problem and had to think of how to use circuit components to find a solution. In their exploration process, they had to conduct research and engaged in virtual collaboration of ideas to learn more about parallel and series circuits. &ldquo;I enjoyed the hands-on activity to form circuits and I now understand how the different components must be placed in order to get the bulb to light up&rdquo;, said Melody Tan from 5 Sapphire.</p>
 <p>In line with our vision to impart joyful learning experiences, our IBL Week was simply an enriching week!</p>
-
-![](/images/light1.png)
-
-![](/images/light2.png)
+<img src="/images/light1.png">
+<img src="/images/light2.png">
