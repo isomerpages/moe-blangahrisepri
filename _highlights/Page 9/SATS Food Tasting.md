@@ -10,6 +10,5 @@ third_nav_title: Page 9
 <p>Ms Alvina Chin, chair of the Parent Support Group, remarked, &ldquo;SATS has improved a lot in terms of variety and taste since the beginning. Hats off to SATS for taking the effort to find out what children like.&rdquo;</p>
 <p>Mr Pareek, who has a child in Primary 2, added, &ldquo;I like the fact that SATS does not compromise on nutrition and taste and is trying to find the right balance. As a parent, it puts me at ease that there are fresh and nutritious options, and even options for vegetarians.&rdquo;</p>
 <p>The data gathered from this food tasting session will be used by SATS in the planning of the Term 2 menu, so our children can continue to look forward to meals with great taste and attractive presentation!</p>
-
 <img src="/images/SATS-Food-Tasting-1-225x300.jpg" 
-     style="width:45%">
+     style="width:40%">
