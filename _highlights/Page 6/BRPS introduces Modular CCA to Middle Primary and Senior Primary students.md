@@ -9,5 +9,4 @@ third_nav_title: Page 6
 <p>Mohamed Shahan (3 Topaz, Redhill) also shared,&nbsp;<em>&ldquo;I like House Practice because I can do my homework before participating in sports and games. This is good because I can finish my homework in school. I like my House teachers and friends.&rdquo;&nbsp;</em></p>
 <img style="width: 65%;" src="/images/House-1-scaled-e1612967049855-768x1024.jpg" />
 <img style="width: 65%;" src="/images/House-2-Banner-1-768x1024.jpg" />
-
 <img src="/images/House-3-1024x768.jpg">
