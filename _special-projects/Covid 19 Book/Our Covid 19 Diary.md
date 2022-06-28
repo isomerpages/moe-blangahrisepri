@@ -123,27 +123,21 @@ third_nav_title: Covid 19 Book
 <p>Meanwhile, Jayden from Primary 4 shared that he was very excited to see a leopard up close through AR Google. It had given him greater insights into how it looks and what he had learnt in Science lessons.</p>
 <p>With the Circuit Breaker in place, our students stayed home and had extended time to bond with their families. Chiaki, another Primary 4 student, said, &ldquo;I played games with my family and we had a wonderful time together.&rdquo;</p>
 <p>We are heartened to see our students&rsquo; creative works. May they continue to stay curious and experience the joy of learning.</p>
-<p>Click<strong>&nbsp;<a href="https://blangahrisepri.moe.edu.sg/brps-circuit-breaker-challenges/">here</a></strong>&nbsp;to find out more about the Challenges.</p>
-
-![](/images/Resized_11-June-2.jpeg)
-
+<p>Click<strong>&nbsp;<a href="/brps-circuit-breaker-challenges/">here</a></strong>&nbsp;to find out more about the Challenges.</p>
+<img src="/images/Resized_11-June-2.jpeg">
 <h3 style="text-align: center;"><strong>10 June 2020</strong></h3>
 <p>As students get use the Safety Management Measures (SMM), they also get used to doing Physical Education (PE) differently.</p>
 <p>During PE, we ensure safe distancing and self-management. Each student will exercise within their personal space and place their personal items (for example, water bottle, hand sanitiser, mask and Ziploc bag) on their right.</p>
 <p>Students will remove their mask and safe keep it in their Ziploc bag before PE starts and wear their mask when the lesson ends. Throughout the physical activity, students can stop and drink water, ask to refill their water bottle or go to the restroom, one student at a time. As students are guided to practise self-management, physical activity time is optimised and the lesson is able to proceed smoothly.</p>
 <p>From their feedback, we know that the students enjoy and appreciate PE. After a 30-minute workout of crunches, push-ups and jumping jacks, Jeanette from Primary 6 Sapphire was perspiring and smiling. She said, &ldquo;That was a good workout.&rdquo;</p>
-
-![](/images/Resize_10-June-1.jpeg)
-
+<img src="/images/Resize_10-June-1.jpeg">
 <h3 style="text-align: center;"><strong>9 June 2020</strong></h3>
 <p>To support students returning to school after the Circuit Breaker, Form Teachers brought students through a &ldquo;Back-to-School Stronger Together&rdquo; Package. The package aimed to support students to develop personal resilience, social and community resilience, and build up resilience as a nation.</p>
 <p>The package provided information that helped students understand that the changes in the last 2 months might not have been easy but everyone did their best and overcame some of the difficulties and challenges. Besides checking in with students on their feelings about coming back to school, teachers also reviewed the safe measures that students had to adhere to. Students were also taught different ways they could show care and support to their friends in school without compromising the safety measures.</p>
 <p>&ldquo;The package provided me with a lot of useful information that I needed to know for my daily school routines. Knowing what to expect also helped me to be less anxious and calm down,&rdquo; said Jia Wei, Primary 6 student.</p>
 <p>Irina, another Primary 6 student, commented, &ldquo;We were given opportunities to share what we had done during the Circuit Breaker. It was very interesting to hear from my friends!&rdquo;</p>
 <p>This Back-to-School Stronger Together package will be conducted over the four weeks in June during the weekly Form Teacher Guidance Period (FTGP) as students adjust to this new phase of their school experience.</p>
-
-![](/images/Resize_9-June.jpeg)
-
+<img src="/images/Resize_9-June.jpeg">
 <h3 style="text-align: center;"><strong>8 June 2020</strong></h3>
 <p>This week, it was our Primary 1 to 3 students&rsquo; turn to return to school.</p>
 <p>Aaron from Primary 3 Topaz exclaimed, &ldquo;I really miss my classroom and the canteen. They feel so spacious and airy.&rdquo;</p>
@@ -153,9 +147,7 @@ third_nav_title: Covid 19 Book
 <p>Marvell from P1 Opal squealed in delight, &ldquo;Bee hoon! I miss the SATS food. I had bee hoon and fishballs today.&rdquo; Syahmina from P1 Sapphire shared with her friends that she missed the recess food too. She had chosen Cheesy Hawaiian Wrap for herself.</p>
 <p>With staggered recesses in place, our lower primary students were led to their fixed positions at the canteen benches. After putting down their belongings, they washed their hands in an orderly manner before consuming their food. At the end of recess, they did a complete wipe-down of the tables.</p>
 <p>We look forward to the week with our Primary 1 to 3 students before they start on another week of HBL.</p>
-
-![](/images/2.jpeg)
-
+<img src="/images/2.jpeg">
 <h3 style="text-align: center;"><strong>4 June 2020</strong></h3>
 <p>Ella from K2 Integrity could not wait for Term 3 to start. &ldquo;I am so happy to come back to school! I miss my friends and teachers,&rdquo; she said. Indeed, many children could not conceal their excitement when they saw their friends and teachers again, and you could see their eyes light up as they caught sight of familiar faces.</p>
 <p>The MK staff have put in place safe management measures to ensure that our kindergarten is clean and safe for the children to return. Tape markings spaced one metre apart are placed along the corridors and outside the toilet. Posters are put up on the walls to remind children of safe distancing.</p>
@@ -165,10 +157,8 @@ third_nav_title: Covid 19 Book
 <p>In class, the children have &ldquo;safe&rdquo; places to sit. Teachers wear a face shield when teaching in front of the class and switch back to the face mask during small group activities. Mini microphones may be used by the teachers so that the children can still hear their teachers clearly.</p>
 <p>At arrival and dismissal, parents also have to adhere to safe distancing when they line up outside the side gate to drop off and pick up their children. In the canteen, where children wait for the rest of their friends to arrive before proceeding to their classrooms, they sit in their own groupings at designated seats.</p>
 <p>Our MK teachers are indeed happy to see the children after almost 8 weeks of school closure and are eager to ensure that our children catch up on key concepts so that learning in Term 3 can continue seamlessly once more. Teacher Jas says, &ldquo;We really miss the children and will do our best to connect with each child. We will show our care and warmth so that they can enjoy coming to school to learn again.&rdquo;</p>
-<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/06/4-June.pdf"><strong>here</strong></a>for more photos on our safe management measures.</p>
-
-![](/images/4-June.jpeg)
-
+<p>Click&nbsp;<a href="files/4-June.pdf"><strong>here</strong></a> for more photos on our safe management measures.</p>
+<img src="/images/4-June.jpeg">
 <h3 style="text-align: center;"><strong>3 June 2020</strong></h3>
 <p>To support the foreign workers who are re-located outside their dormitories as part of the circuit breaker measures, SATS has been appointed as one of assigned caterers by the government to provide nearly 180,000 healthy balanced meals to these foreign workers.</p>
 <p>Transport Minister Khaw Boon Wan commented, &ldquo;We have many professional central kitchens fully equipped and resourced to churn out large quantities of healthy and balanced meals on time and in line with specific dietary requests. SATS is one example, where SATS kitchen is now busy serving our dorms. Feedback from their new customers has been very positive.&rdquo;</p>
@@ -176,9 +166,7 @@ third_nav_title: Covid 19 Book
 <p>Mr Khaw shared pictures of the meals prepared by SATS Catering which comprised fish curry with seasoned vegetables (non-veg halal); fish and hot bean sauce with seasoned vegetables (oriental); and biryani with vegetables (vegetarian).</p>
 <p>From preparing inflight meals for planes 20,000 feet above the ground to bento boxes for our migrant workers, SATS truly lives up to its brand promise of Passion to Delight!</p>
 <p>Kudos to our BRPS partner in these challenging times!</p>
-
-![](/images/3-June-2.jpeg)
-
+<img src="/images/3-June-2.jpeg">
 <h3 style="text-align: center;"><strong>2 June 2020</strong></h3>
 <p>Students were excited to return to school on the first day of Term 3. While the Primary 6 students had returned to school earlier for lessons, the Primary 4 and 5 students were happy to be able to see their teachers and friends again after two months!</p>
 <p>Recognising that students would need time to transit back to school, teachers did not rush back into curriculum recovery but spent time checking on their students&rsquo; well-being. They discussed the safety measures that everyone should adhere to in school.</p>
@@ -187,9 +175,7 @@ third_nav_title: Covid 19 Book
 <p>Her classmate, Naqiu, said, &ldquo;It is inconvenient to talk to our friends because our voices cannot be projected clearly through the mask. But I know that it is important for everyone to play our part and wear a mask properly.&rdquo;</p>
 <p>To minimise congestion at the school gates and bus-stops, dismissal was staggered for the different levels. Students taking the school bus remembered their assigned seats and that they should minimise talking while in the school bus.</p>
 <p>Together as a school community, we will continue to be proactive in keeping school safe for everyone.</p>
-
-![](/images/2-June-Resize.jpeg)
-
+<img src="/images/2-June-Resize.jpeg">
 <h3 style="text-align: center;"><strong>1 June 2020</strong></h3>
 <p>Our staff and cleaners have been working hard to get ready for the safe reopening of school tomorrow!</p>
 <p>Safety distancing notices and floor markings have been put up at the main gate and the side gate. Floor markings are placed along the walkways to help students maintain a one-metre spacing. Benches at the Parents Waiting Area outside the gate are marked with an &ldquo;X&rdquo; to allow only one person to sit.</p>
@@ -205,9 +191,7 @@ third_nav_title: Covid 19 Book
 <p>&ldquo;We will patrol around the vicinity of the parks and share with members of the public about the Safe Distancing measures. We will tell them that the playgrounds and carparks are closed, that&nbsp;members of the public should not loiter in the parks and go home after completing their exercise, and that there should be no social gathering with people from different households. For those who do not heed our advice, we will have to report them to the authorities, but I have not reported anyone so far. We also have to report our observations and the crowd status.&rdquo;</p>
 <p>She describes what she has been doing as a humbling experience. While on patrol, some will walk past them and give them a nod or say a word of thanks, while others will try to avoid them. She can see the good Samaritans of Singapore who pick up rubbish along the way, without the government calling for a &ldquo;clean-up&rdquo; campaign.</p>
 <p>Her work with NParks has helped her to grow in her pride for Singapore. &ldquo;I am proud that we have such safe and beautiful green sanctuaries in Singapore. Proud of my garden city which I call HOME.&rdquo;</p>
-
-![](/images/Updated_Volunteer-Tag.jpeg)
-
+<img src="/images/Updated_Volunteer-Tag.jpeg">
 <h3 style="text-align: center;"><strong>21 May 2020</strong></h3>
 <p>Nothing beats hearing the students&rsquo; voices and laughter back in school again. The school had been silent for the past two months since the Circuit Breaker started. Finally, our Primary 6 students were able to come back to school to meet their friends and teachers, and more importantly, to resume their learning in a classroom setting.</p>
 <p>Everyone was excited about returning to school and life slowly returning to normalcy. Mr James Han commented, &ldquo;Seeing my students in person, with the familiar morning greetings was a welcome change from HBL lessons. The students and I were both excited to be seeing each other again. It was a reminder to me that teaching is indeed a human endeavour and the classroom interaction between teachers and students is irreplaceable.&rdquo;</p>
@@ -215,27 +199,21 @@ third_nav_title: Covid 19 Book
 <p>&ldquo;I was able to monitor the students&rsquo; understanding and learning a lot more closely. We were able to discuss questions as a class and listen to different perspectives. Such engagement led to more fruitful learning. Students also appreciated face-to-face learning more because I was able to clarify their doubts and misconceptions and provide immediate feedback,&rdquo; Cikgu Azlin added.</p>
 <p>Ms Eileen Puah asked her students what they missed most in school. Unanimously all the students said, &ldquo;Friends and teachers!&rdquo; Not only were the students happy to see their friends and teachers again, they also showed eagerness to learn.</p>
 <p>Together, we will overcome all challenges in this difficult time and continue to deliver engaging lessons to help our students be ready for the national examinations.</p>
-
-![](/images/21-May-2020.jpeg)
-
+<img src="/images/21-May-2020.jpeg">
 <h3 style="text-align: center;"><strong>20 May 2020</strong></h3>
-<p>On 6 March, the children, parents and staff of Blangah Rise Learning Campus showed our appreciation to SingHealth Polyclinics for being at the frontline in the fight against Covid-19. Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">here</a>&nbsp;to read more about it</p>
+<p>On 6 March, the children, parents and staff of Blangah Rise Learning Campus showed our appreciation to SingHealth Polyclinics for being at the frontline in the fight against Covid-19. Click&nbsp;<a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">here</a>&nbsp;to read more about it</p>
 <p>We were very touched when the staff of SingHealth Polyclinics then wrote appreciation notes to our children to thank them for bringing them sunshine. Dr Adrian Ee, CEO of SingHealth Polyclinics, wrote, &ldquo;Your thoughtful and meaningful gifts have brought Sunshine to our staff, as well as given us the strength and determination to rise above the challenges to continue to provide the best care for our patients.&rdquo;</p>
 <p>The handwritten, personalised notes had these messages for our children: we felt love in this crisis, your encouragement brings joy and cheer to us at work, and we will continue to work hard to keep you and your loved ones safe. They also contained practical reminders: remember to wash your hands, stay at home, and always listen to your parents.</p>
-<p>Click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2020/05/SingHealth-ThankYou-messages-Pg-1-25-edited.pdf">here</a>&nbsp;to read the messages from SingHealth Polyclinics.</p>
+<p>Click&nbsp;<a href="/files/SingHealth-ThankYou-messages-Pg-1-25-edited_compressed.pdf">here</a>&nbsp;to read the messages from SingHealth Polyclinics.</p>
 <p>Thank you, SingHealth Polyclinics!</p>
-
-![](/images/20-May.jpeg)
-
+<img src="/images/20-May.jpeg">
 <h3 style="text-align: center;"><strong>8 May 2020</strong></h3>
 <p>The home is where children first start learning and mothers especially play an important role in teaching their children.</p>
 <p>As Mother&rsquo;s Day is coming up, our team from MOE Kindergarten @ Blangah Rise would like to take this opportunity to salute all parents for being such amazing teachers!</p>
 <p>In light of the COVID-19 situation where children are engaged in home-based learning, parents are also trying their best to teach and support their children while juggling work and other commitments.</p>
 <p>Therefore, we would like to send our warmest wishes to you on this Mother&rsquo;s Day with a simple short video, to thank all parents (mothers and fathers) for teaching and taking care of your children at this time away from school because we know parents always do what is best for their children.</p>
 <p><a href="https://www.facebook.com/1143547012326368/videos/811909419337297/">Click here to watch the video</a>.</p>
-
-![](/images/8-May-FINAL.jpeg)
-
+<img src="/images/8-May-FINAL.jpeg">
 <h3 style="text-align: center;"><strong>6 May 2020</strong></h3>
 <p style="text-align: center;"><strong>Masks Sewn with Love</strong></p>
 <p>In early April 2020, when the Ministry of Social and Family (MSF) called out for volunteers to sew reusable masks for their beneficiaries in the Social Service Organisations, Mdm Rozinah Binti Shamsuddin, our very own Operations Support Officer, stepped forward without any hesitation.</p>
@@ -243,17 +221,13 @@ third_nav_title: Covid 19 Book
 <p>Currently, Mdm Rozinah is producing about 30 masks daily, for the next beneficiary group &ndash; our foreign workers community.</p>
 <p>For Mdm Rozinah, volunteering and making masks in this Covid-19 pandemic is &ldquo;A gift of Love and a Joy forever!&rdquo;</p>
 <p>When you are back in school, and bump into Mdm Rozinah, do give her a Thumbs-Up for her love!</p>
-
-![](/images/6-May.jpeg)
-
+<img src="/images/6-May.jpeg">
 <h3 style="text-align: center;"><strong>5 May 2020</strong></h3>
 <p>Today is the start of the Mid-Year School Holidays! It is a different experience for most of us as we are staying home due to the Circuit Breaker.</p>
 <p>Parents and children may experience&nbsp;a range of emotions while being at home. How can we, as parents, manage them then? There are tools parents can utilise to help their children manage some of these emotions better. By focusing on the things one has control over, it facilitates a sense of composure or calmness even during uncertain times. As a result, we feel more peaceful and joyful during this trying period.</p>
 <p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/wellnessduringcircuitbreaker/home">here</a>&nbsp;for tips on how you can help your child and yourself maintain and improve your mental and emotional well-being during this Circuit Breaker!</p>
 <p>In addition,&nbsp;join us in our BRPS Circuit Breaker Challenges starting 6 May. Stay tuned to our school website and Facebook. We look forward to your participation!</p>
-
-![](/images/CB-wellness.jpeg)
-
+<img src="/images/CB-wellness.jpeg">
 <h3 style="text-align: center;"><strong>4 May 2020</strong></h3>
 <p style="text-align: center;">Connect &bull;Cheerlead &bull;Coach</p>
 <p>Since the start of Term 2, CCA has been suspended as part of the precautionary measures against Covid-19. As CCA provides significant learning experiences for students, we decided to connect with our CCA students online during full HBL to cheerlead and coach them during this period.</p>
@@ -261,9 +235,7 @@ third_nav_title: Covid 19 Book
 <p>Christiano from STEM Club shared that he would coach his sister to &ldquo;begin with the end in mind&rdquo; to help her be focused and complete her HBL on time.</p>
 <p>Kate from Art &amp; Design Club shared that she would coach her brother to &ldquo;put first things first&rdquo; so that he can learn to finish his work first before going to play.</p>
 <p>We are encouraged to know that our students have caught the spirit of cheerleading and coaching others even as their CCA teacher intentionally mentors them. We will continue to connect with them on SLS during the May school holidays and engage them meaningfully with activities that they can do at home.</p>
-
-![](/images/4-May.jpeg)
-
+<img src="/images/4-May.jpeg">
 <h3 style="text-align: center;"><strong>30 April 2020</strong></h3>
 <p>"Full HBL? What is going to happen to my Primary 6 graduating class?&rdquo; Mrs Grace Lee, Form Teacher of Primary 6 Topaz, asked. Mdm Stephanie Song, Year Head for Senior Primary, quickly added, &ldquo;Is it real? How am I going to complete my teaching before PSLE?&rdquo; These were the real conversations going on in the staff room when our Prime Minister made the announcement on 3 April.</p>
 <p>The fear of Covid-19 disrupting the lessons is very real, especially so for the Primary 6 graduating classes.&nbsp;&nbsp;With the national examination in less than six months, there were many questions floating in the minds of students, teachers and parents.&nbsp;&nbsp;How are the teachers going to cope with HBL, make them interesting and help students to continue learning? Our teachers rose to the occasion and leveraged on the affordances of technology. They designed interesting and engaging lessons with videos, activities for Formative Assessment and video conferences to keep students engaged in their learning from home.</p>
@@ -271,9 +243,7 @@ third_nav_title: Covid 19 Book
 <p>Ms Ivy Teo, Form Teacher of Primary 5 Opal, said, &ldquo;I have conducted Zoom lessons with my students but never with parents, therefore I did not really know what to expect and how it would turn out. However, the positive comments from the parents spurred me on and I was gladly surprised by the outcome.&rdquo;</p>
 <p>This new platform for PTCC was warmly received by teachers, parents and students. &ldquo;We continued to share and exchange information among colleagues on how to support each student. As such, this enabled us to provide parents with more accurate information and engage them in deeper conversations,&rdquo; said Ms Magdalene Ho, Form Teacher of Primary 6 Sapphire.</p>
 <p>Covid-19 will not deter the teachers&rsquo; determination to engage parents and students. We will continue to find ways to be creative and innovate!</p>
-
-![](/images/30-April.jpeg)
-
+<img src="/images/30-April.jpeg">
 <h3 style="text-align: center;"><strong>29 April 2020</strong></h3>
 <p>What a &lsquo;Zoom&rsquo; day for our students from Primary 3 Topaz today! They started with a Math SLS lesson at 9.00 a.m. followed by Chinese at 10.00 a.m. Best of all, the moment they had all been waiting for &ndash; a lesson using Zoom at 12.45 p.m.</p>
 <p>&ldquo;Hello Josephina!&rdquo; &ldquo;Hello Amelia!&rdquo; &ldquo;Hello Ian&rdquo;&hellip; The students joined the online lesson one by one and greeted one another with wide grins on their faces.</p>
@@ -284,18 +254,14 @@ third_nav_title: Covid 19 Book
 <p>The Zoom session meant the most to Jiayi who would be leaving Singapore to return to her home country for good on 30 April. &ldquo;I am so happy to be able to see all my teachers and classmates for the last time,&rdquo; said Jiayi. Despite being unable to bid farewell to her classmates in person, she was at the very least able to attend a final online lesson with them.</p>
 <p>As the video conferencing came to a close, Ms Phang, the form teacher, asked, &ldquo;Jiayi, would you like to say something to your friends?&rdquo; It was a bittersweet yet heart-warming moment to witness. Jiayi waved goodbye to her classmates on screen and tears welled up in her eyes. Reluctantly, her classmates waved back. They promised that they would keep in touch with Jiayi through email or video conferencing, just like what they had experienced today. May their friendships continue to grow.</p>
 <p>&ldquo;There is magic in long-distance friendships. They let you relate to other human beings in a way that goes beyond being physically together and is often more profound.&rdquo; &ndash; Diana Cortes</p>
-
-![](/images/28-April-Final.jpeg)
-
+<img src="/images/28-April-Final.jpeg">
 <h3 style="text-align: center;"><strong>28 April 2020</strong></h3>
 <p>The earth needs everyone! Saving and protecting the earth must start from young.</p>
 <p>MOE Kindergarten teachers emailed parents some Home Based Activities to commemorate Earth Day. Parents were encouraged to talk to their children about the importance of saving earth&rsquo;s resources and caring for the environment. A video clip about Earth Day was shared with the children. The children used recyclable materials to make craft items.</p>
 <p>Rory from K2 Courage read &ldquo;The Giving Tree&rdquo; by Shel Silverstein with his mummy who shared with him about the importance of caring for nature. Rory shared, &ldquo;Recycle, reuse and reduce! Do not waste toilet paper, water and wood!&rdquo; He made a tree after reading the story, using egg cartons and toilet rolls.</p>
 <p>Another K2 child, Ghim Chiu, commemorated Earth Day by making a pencil holder using recycled materials. &ldquo;I used the big giant bottle cap to make the earth and the cardboard box to make the container. We used giftwrap to wrap the container.&rdquo;</p>
 <p>Indeed, protecting our earth starts with small actions and each of us can play our part. Let&rsquo;s make our earth a healthier and cleaner place!</p>
-
-![](/images/Kids_28-April.jpeg)
-
+<img src="/images/Kids_28-April.jpeg">
 <h3 style="text-align: center;"><strong>27 April 2020</strong></h3>
 <p>How are pre-schoolers engaged at home during the Circuit Breaker? MOE Kindergarten@Blangah Rise embarked on HBL to ensure that the MK children are engaged with learning. The activities were planned with clear instructions on what to do, so that parents can carry them out easily at home.</p>
 <p>One of the activities, &ldquo;I&rsquo;m A Little Helper at Home&rdquo;, aims to have children develop a sense of responsibility in caring for their family. Parents work with their children to create a duty roster for household chores. As parents are working hard to juggle working from home and supervising home-based learning, sharing household chores will help families cope better. Doing chores also helps the children to improve their motor skills.</p>
@@ -303,9 +269,7 @@ third_nav_title: Covid 19 Book
 <p>Another K1 child, Antonia, is also enjoying her HBL very much. &ldquo;I like to follow my duty roster and water the plants! I like to bake the circle cookies and make letters with the playdough!&rdquo;</p>
 <p>Antonia&rsquo;s mother, Ms Corina Quek, said, &ldquo;The HBL ideas are good and Antonia enjoys doing the activities. She will look at the roster and know what she has to do and when.&rdquo;</p>
 <p>MK teachers will continue to monitor and review the children&rsquo;s learning progress during this Covid-19 period through phone calls and emails. In addition, the teachers also check in on the children&rsquo;s well-being. We hope our children will Stay Home, Stay Safe and Stay Engaged!</p>
-
-![](/images/27-April.jpeg)
-
+<img src="/images/27-April.jpeg">
 <h3 style="text-align: center;"><strong>24 April 2020</strong></h3>
 <p style="text-align: center;"><strong>Teacher @ Home</strong></p>
 <p style="text-align: center;">I used to know the boundary<br />of the classroom I teach in<br />the inside is where I influence<br />outside do not interfere<br />you knock to enter<br />ask for permission to exit.</p>
@@ -318,9 +282,7 @@ third_nav_title: Covid 19 Book
 <p style="text-align: center;">Would not want such a position<br />when our young generation<br />deprived of education<br />during this &lsquo;stay home&rsquo; situation</p>
 <p style="text-align: center;">Salute to all teachers<br />whose contribution seems meagre<br />but the impact is bountiful<br />for the future of our nation!</p>
 <p style="text-align: center;">Mr Zaini, Form Teacher of 5 Topaz</p>
-
-![](/images/24-April.jpeg)
-
+<img src="/images/24-April.jpeg">
 <h3 style="text-align: center;">23 April 2020</h3>
 <p>Hello Everyone!</p>
 <p>My name is Aarav and I am from Primary 6 Topaz.</p>
