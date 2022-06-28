@@ -4,8 +4,7 @@ permalink: /2019/10/08/a-special-event-with-singapores-swim-queen-ms-joscelin-ye
 description: ""
 third_nav_title: Page 11
 ---
-![](/images/IMG_9407-cover.jpg)
-
+<img src="/images/IMG_9407-cover.jpg">
 <p>&ldquo;Every time I lost, it made me learn and get better. It is not about how many times you fail, but how you get up.&rdquo; This piece of advice was given to the Primary 5 students by Singapore&rsquo;s Swim Queen, Ms Joscelin Yeo, when she visited the school on October 2.</p>
 <p>Ms Yeo candidly shared in her motivational talk to the Primary 5 students how she managed her herself when she was competing and schooling at the same time. Prior to that, Ms Yeo shared interesting stories about her swimming career at an interview session with Student Leaders.</p>
 <p>Ms Yeo&rsquo;s candour and humility resonated well with the students who could see how the 7 Habits were lived out in her life. Christiano said he would change his study routines to achieve his goals. Similarly, Brandon said that he would now work much closer with his friends to achieve shared goals through teamwork.</p>
