@@ -50,8 +50,8 @@ description: ""
 <ul>
 <li>Outstanding STEM Teacher Award - Mrs Jenny Quek (Click&nbsp;<strong><a href="/2020/05/19/making-stem-come-alive-mrs-jenny-quek/">here</a></strong>&nbsp;to find out more)</li>
 <li>National Day Award: The Commendation Medal &ndash; Mdm Stephanie Song</li>
-<li>MOE Service Excellence Award (MSEA) - Mdm Yeo Chay Yee (Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2020/06/26/depositing-into-every-students-emotional-bank-account-mdm-yeo-chay-yee/">here</a></strong>&nbsp;to find out more), Mr Saw Myint Lay, Mdm Suriyawati Binte Churaimi</li>
-<li>Outstanding Preschool Teacher Award - Ms Liu Cuixian (Click&nbsp;<strong><a href="https://blangahrisepri.moe.edu.sg/2020/04/14/liu-cuixian/">here</a></strong>&nbsp;to find out more)</li>
+<li>MOE Service Excellence Award (MSEA) - Mdm Yeo Chay Yee (Click&nbsp;<strong><a href="/2020/06/26/depositing-into-every-students-emotional-bank-account-mdm-yeo-chay-yee/">here</a></strong>&nbsp;to find out more), Mr Saw Myint Lay, Mdm Suriyawati Binte Churaimi</li>
+<li>Outstanding Preschool Teacher Award - Ms Liu Cuixian (Click&nbsp;<strong><a href="/2020/04/14/liu-cuixian/">here</a></strong>&nbsp;to find out more)</li>
 <li>National Cyberwellness Advocacy Challenge (NCAC) - Silver Award:&nbsp;Ban Xuan Yu, Jesslyn Tan, Nelly Neo, Kristelle Anne Brunidor Pingkian, Enoch Lin and Reeve Aw from Primary 4 Topaz</li>
 <li>National Mathematical Olympiad of Singapore (NMOPS) - Bronze Award: Brandon Adimartana (5 Sapphire)</li>
 <li>12<sup>th</sup>&nbsp;Annual Mathlympics for Primary Schools - Bronze Award:&nbsp;Brandon Adimartana (5 Sapphire)</li>
