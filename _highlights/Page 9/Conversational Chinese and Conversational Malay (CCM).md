@@ -10,5 +10,5 @@ third_nav_title: Page 9
 <p>&ldquo;I like CCM lessons because I get to learn a different language,&rdquo; said Carllh.</p>
 <p>Zhi Lin, whose parents speak Malay, exclaimed, &ldquo;I can finally speak Malay to my parents!&rdquo;</p>
 <p>We can be sure that our students are looking forward to the next few sessions of CCM!</p>
-<img src="/images/unnamed.jpg">
+<img src="/images/unnamed.jpg"><br>
 <img src="/images/unnamed-1.jpg">
