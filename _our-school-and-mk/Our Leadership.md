@@ -3,8 +3,7 @@ title: Our Leadership
 permalink: /our-school/our-leadership/
 description: ""
 ---
-![](/images/9cf19045-193c-4127-933e-2d25705b5329-1.jpeg)
-
+<img src="/images/9cf19045-193c-4127-933e-2d25705b5329-1.jpeg">
 <h3 style="text-align: center;"><strong>School Management</strong></h3>
 <p><strong>ROW 1 (FRONT)</strong>: MS LEE SOK LAI, MRS LEONG-HO HIL MAY (VICE PRINCIPAL)</p>
 <p><strong>ROW 2 (MIDDLE)</strong>: MR FRANCIS FOO (PRINCIPAL), MR JAMES HAN (HOD ENGLISH LANGUAGE, SCHOOL STAFF DEVELOPER),&nbsp;MDM KIMBERLY KOH (ACTING YEAR HEAD - JUNIOR PRIMARY),&nbsp;MDM CHONG JIE SHI (HOD MOTHER TONGUE), MRS JENNY QUEK (HOD SCIENCE),&nbsp;MRS LIU-ONG AI SIAN (VICE PRINCIPAL),&nbsp;MS EILEEN PUAH (HOD MATHEMATICS),&nbsp;MS MARY GOH (VICE PRINCIPAL &ndash; ADMIN),&nbsp;MRS TERESA TAY (HOD INFOCOMM TECHNOLOGY),&nbsp;MR PATRICK GOH (YEAR HEAD &ndash; MIDDLE PRIMARY), MDM STEPHANIE SONG (YEAR HEAD - SENIOR PRIMARY)</p>
