@@ -16,8 +16,3 @@ third_nav_title: BRoadcast
 <img src="/images/0010-scaled.jpg">
 <img src="/images/0011-scaled.jpg">
 <img src="/images/0012-scaled.jpg">
-![](/images/0010-scaled.jpg)
-
-![](/images/0011-scaled.jpg)
-
-![](/images/0012-scaled.jpg)
