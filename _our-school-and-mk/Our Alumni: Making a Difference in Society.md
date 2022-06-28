@@ -13,9 +13,6 @@ description: ""
 <li>What is my next step after PSLE?</li>
 </ol>
 <h4 style="text-align: center;"><strong>Our Alumni Stories</strong></h4>
-
-![](/images/alumniboard-05-2.jpeg)
-
-![](/images/alumniboard-04-2.jpeg)
-
-![](/images/alumniboard-06-2.jpeg)
+<img src="/images/alumniboard-05-2.jpeg">
+<img src="/images/alumniboard-04-2.jpeg">
+<img src="/images/alumniboard-06-2.jpeg">
