@@ -12,4 +12,4 @@ third_nav_title: Page 2
 <p>Student Seo El said, &ldquo;It is fun, the dog can &ldquo;talk&rdquo; and move!&rdquo; and Mohammad shared, &ldquo;I can get the dog to talk.&rdquo; Our MK teachers facilitated the two sessions and observed how easily our pre-schoolers picked-up coding skills. Teacher Candice reflected, &ldquo;The session had indeed engaged the pre-schoolers meaningfully in learning a new skill.&rdquo;</p>
 <p>This memorable experience was captured in their K2 Transition Journal so that our pre-schoolers can share them with their parents.</p>
 <p>Click&nbsp;<a href="/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to know about our Applied Learning Programme (ALP).</p>
-<img src="/images/IMG-20220211-WA0018.jpg">
+<img style="width: 65%;" src="/images/IMG-20220211-WA0018.jpg" />
