@@ -10,5 +10,4 @@ third_nav_title: Page 9
 <p>Ms Lim&rsquo;s encouragement to pursue our dreams resonated with 10-year old Gabriel. He said, &ldquo;I will definitely strive to work hard towards my goal and not give up whenever I encounter difficulties.&rdquo;</p>
 <p>The session also reinforced the value of peer support and teamwork for 12-year old Shane who shared that he could always count on his friends for support in his learning.</p>
 <p>A big THANK YOU to Ms Lim Heem Wei for spending time with our students and inspiring them!</p>
-
-![](/images/BR-Lim-Heem-Wei_20200205_3942-1024x682.jpg)
+<img src="/images/BR-Lim-Heem-Wei_20200205_3942-1024x682.jpg">
