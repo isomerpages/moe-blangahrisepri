@@ -30,11 +30,11 @@ description: ""
 <p><a href="/files/Full-Home-Based-Learning-29-Sept.pdf">Updates on HBL on 7 Oct 2021 and online Children&rsquo;s Day Celebrations</a></p>
 <p><a href="/files/Updates-on-Covid-19-Measures-21-Sep-to-6-Oct.pdf">Updates on Covid-19 Measures (21 Sep to 6 Oct)</a></p>
 <p><a href="/files/2021-04-Principal-Term-4.pdf">Principal's September Letter 2021</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/06/2021-03-Principal-1.pdf">Principal's June Letter 2021</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/05/Full-Home-Based-Learning-2021.pdf">Full Home Based Learning 2021</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/03/2021-02-Principal.pdf">Principal's March Letter 2021</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/01/Letter-on-Parents-Gateway.pdf">Letter on Parents Gateway</a></p>
-<p><a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/01/2021-01-Principal-5-Jan-2021.pdf">Principal's January Letter 2021</a></p>
+<p><a href="/files/2021-03-Principal-1.pdf">Principal's June Letter 2021</a></p>
+<p><a href="/files/Full-Home-Based-Learning-2021.pdf">Full Home Based Learning 2021</a></p>
+<p><a href="/files/2021-02-Principal.pdf">Principal's March Letter 2021</a></p>
+<p><a href="/files/Letter-on-Parents-Gateway.pdf">Letter on Parents Gateway</a></p>
+<p><a href="/files/2021-01-Principal-5-Jan-2021.pdf">Principal's January Letter 2021</a></p>
 </div>
 </li>
 </ul>
