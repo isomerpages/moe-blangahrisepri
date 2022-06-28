@@ -10,5 +10,4 @@ third_nav_title: Page 7
 <p>Ms Angela Dawson, Deputy Head Teacher, wished our children &ldquo;Happy Children&rsquo;s Day&rdquo;. She asked the children, &ldquo;If your parents let you make all the decisions for one day, what would you do?&rdquo; Ella said, &ldquo;I would eat a lot of ice cream!&rdquo; Rory added, &ldquo;I will play games the whole day!&rdquo;</p>
 <p>We started a Pen Pal project, where each MK class was paired with another class in Tanglin Trust School. Our children wrote to their new friends and had many questions for them &ndash;&nbsp;<em>What do you play at the playground? What is the tent in the corner used for? Why do you have plants in your classroom? Why type of food do you eat for lunch in school?</em>&nbsp;Our teachers then emailed the questions to the Tanglin Trust School teachers. We also packed a few traditional local games, including five stones,&nbsp;<em>chapteh</em>&nbsp;and&nbsp;<em>kuti kuti</em>, to send to our pen pals.</p>
 <p>What an exciting start to our BRLC-TTS Pen Pal friendship! We hope our children and teachers will continue to grow our friendship and learn from each other.</p>
-
-![](/images/1-3.jpg)
+<img src="/images/1-3.jpg">
