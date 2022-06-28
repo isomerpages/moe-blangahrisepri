@@ -13,10 +13,7 @@ third_nav_title: Page 7
 <p>The children also had a taste of English, Music, P.E. and Art lessons in primary school which they attended together with their Primary 1 friends via Zoom. They listened intently and participated in the activities conducted by the primary school teachers, which showed their readiness to transit to learning in primary school.</p>
 <p>All these experiences were documented in the children&rsquo;s Transition Journal which allowed them to reflect on and capture precious moments of their transition experience. Thaddeus summarised, &ldquo;I am excited to go to Primary 1. The classrooms are about the same size as my kindergarten class. I like the canteen because the food there is good. There are also different rooms in the school.&rdquo;</p>
 <p>We believe that our children will have fond memories of this period in MK and be ready for the next phase of their learning journey in primary school.</p>
-
-![](/images/blangah1.png)
-
-![](/images/blangah2.png)
-
+<img src="/images/blangah1.png"><br>
+<img src="/images/blangah2.png"><br>
 <img src="/images/Tour-of-the-primary-school-1024x768.jpg" 
      style="width:50%">
