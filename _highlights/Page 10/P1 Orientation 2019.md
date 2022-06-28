@@ -4,8 +4,7 @@ permalink: /2019/11/08/p1-orientation-2019/
 description: ""
 third_nav_title: Page 10
 ---
-![](/images/DSCN0520-1024x768.jpg)
-
+<img src="/images/DSCN0520-1024x768.jpg">
 <p>"We&rsquo;re going on a bear hunt!&rdquo; That&rsquo;s the story our new 2020 cohort students were listening to before the start of our P1 Orientation Day.</p>
 <p>On 8 November 2019, we welcomed our new Primary 1 students and families, and the students were all excited to meet their new classmates.</p>
 <p>The parents attended talks conducted by our Principal, Mr Francis Foo, and other speakers. Concurrently, our 2020 P1 students were then led to their classrooms to kickstart their first part of the primary school journey."</p>
