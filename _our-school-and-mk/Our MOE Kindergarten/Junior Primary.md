@@ -35,57 +35,38 @@ third_nav_title: Our MOE Kindergarten
 <p><strong>BRPS Commemorates Total Day Defence</strong></p>
 <img src="/images/Photo-2-4-1024x700.jpg">
 <img src="/images/Photo-3-4-1024x735.jpg">
-<img src="/images/jPhoto-4-7-1024x683.jpg">
+<img src="/images/Photo-4-7-1024x683.jpg">
 <p>Do you know that a sixth pillar of&nbsp;<em>Digital Defence has been added</em><em>&nbsp;</em>to the existing five pillars of<em>&nbsp;Military, Civil, Economic, Social, Digital and Psychological Defence?</em></p>
 <p><em>Our Junior Primary students learnt about Singapore&rsquo;s past and how they can be proactive in playing their part&nbsp;</em>to help strengthen our country against future threats and challenges. Ameer, our P1 student, was inspired through the activities. He said, &ldquo;I want to be a policeman when I grow up so that I can keep Singapore safe.&rdquo;</p>
 <p><strong>Zoo Goes to School</strong></p>
-
-![](/images/Photo-5-3.jpg)
-
-![](/images/Photo-6-2.jpg)
-
+<img src="/images/Photo-5-3.jpg">
+<img src="/images/Photo-6-2.jpg">
 <p>Ranger Ooz visited BRPS and took our P1 students on a journey to discover amazing wild animals big and small. Students also had a chance to come up close and personal to discover nature. Qistina exclaimed, &ldquo;It was the first time I got to see and touch a stick insect!&rdquo;</p>
 <p><strong>Learning for Life Programme at Singapore Zoo</strong></p>
-
-![](/images/Photo-9-2.jpg)
-
-![](/images/Photo-10-1.jpg)
-
-![](/images/Photo-12-1.jpg)
-
-![](/images/Photo-11-1.jpg)
-
+<img src="/images/Photo-9-2.jpg">
+<img src="/images/Photo-10-1.jpg">
+<img src="/images/Photo-12-1.jpg">
+<img src="/images/Photo-11-1.jpg">
 <p>Following &ldquo;Zoo Goes to School&rdquo;, our P1 students went on the Fragile Forest Guided Tour at the Singapore Zoo for a multi-dimensional experience of life in a rainforest ecosystem. They walked amidst fascinating flora and came face to face with lemurs, butterflies, birds, snails and more. As part of our Learning for Life Programme, our students also learnt about the importance of rainforests to mankind and thought about ways we could save them.</p>
 <p>The visit ended with the exciting Animal Friends Show which opened the eyes of our students to the special skills and important roles that domesticated animals play in our lives. Camille recalled, &ldquo;It was fun to represent my school and see the animals up close!&rdquo;</p>
 <p><strong>Career Exploration Month</strong></p>
-
-![](/images/Photo-7-4-1024x683.jpg)
-
-![](/images/Photo-8-1-1024x683.jpg)
-
+<img src="/images/Photo-7-4-1024x683.jpg">
+<img src="/images/Photo-8-1-1024x683.jpg">
 <p>BRPS invited professionals including an accountant, a chef and a dietician, a doctor and an engineer to provide authentic hands-on experiences for our students. Our students became more aware of different careers and learnt about their own interests and strengths.</p>
 <p>Zheng Hao, a P1 student, recounted, &ldquo;Now I know what the doctors are listening to when they check me. I want to be like them when I grow up.&rdquo;</p>
 <p><strong>BRPS Commemorates Racial Harmony Day</strong></p>
-
-![](/images/Photo-13-1024x683.jpg)
-
+<img src="/images/Photo-13-1024x683.jpg">
 <p>Our Junior Primary students came dressed in their traditional ethnic costumes and learnt the importance of maintaining&nbsp;racial&nbsp;and religious&nbsp;harmony&nbsp;in Singapore's multicultural and multi-ethnic society. They practised the habit of &ldquo;seeking first to understand, then to be understood&rdquo; through the assembly show and games.</p>
 <p>Nurgazyz, a P2 student, reflected, &ldquo;I am from another country and I am impressed to see how the different races in Singapore get along well with one another.&rdquo;</p>
 <p><strong>Readers&rsquo; Theatre</strong></p>
-
-![](/images/Photo-14-2.jpg)
-
-![](/images/Photo-15-1.jpg)
-
+<img src="/images/Photo-14-2.jpg">
+<img src="/images/Photo-15-1.jpg">
 <p>A play by students for students. Our P2 students came together to decide on a play which they would like to perform to our P1 students. Through the process, our P2 students learned to work together with their peers and continued to improve on their play after each performance.</p>
 <p>Lucas, a P2 student, recounted, &ldquo;It was not easy to speak slowly when I played the role of the tortoise because my friends had to wait for me.&rdquo;</p>
 <p>Drayson, a P1 student, shared, &ldquo;I know the story and it was funny when the Primary 2 students acted it out.&rdquo;</p>
 <p><strong>MOE Kindergarten Transition Programme</strong></p>
-
-![](/images/Photo-16.jpg)
-
-![](/images/Photo-17.jpg)
-
+<img src="/images/Photo-16.jpg">
+<img src="/images/Photo-17.jpg">
 <p>We are privileged to be one of the 18 primary schools with an MOE Kindergarten. In Term 4, we have an array of activities lined up for our MOE Kindergarten children, from going on a school tour around the &ldquo;big&rdquo; primary school, to classroom experiences as well as conducting interviews with our primary school Principal and staff.</p>
 <p>Our P1 student, Kashia, said, &ldquo;I am happy I can help my K2 friend know more about my class.&rdquo;</p>
 <p>Stay tuned for more exciting updates!</p>
