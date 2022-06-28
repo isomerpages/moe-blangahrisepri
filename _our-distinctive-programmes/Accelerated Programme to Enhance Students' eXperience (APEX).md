@@ -3,8 +3,7 @@ title: Accelerated Programme to Enhance Students' eXperience (APEX)
 permalink: /our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/
 description: ""
 ---
-![](/images/Banner-Photo.png)
-
+<img src="/images/Banner-Photo.png">
 <blockquote>
 <p>"The more I wonder, the more I love."</p>
 <p><em>-Alice Walker-</em></p>
@@ -13,7 +12,7 @@ description: ""
 <p><strong>1. English</strong><strong>&nbsp;Language</strong></p>
 <p>Students who have a love for word play are given opportunities to engage in a battle of wits through Scrabble training and competitions. Other students with strong linguistic abilities are given opportunities to build on their oral competencies in The Wits &amp; Words: Inter-school Debate Championship jointly organised by the MOE Gifted Education Branch, Debate Association (Singapore) and Raffles Institution (Secondary). These platforms motivate students to be quick and agile cognitively as they pit against one another, enhancing their love for the English language.</p>
 <p><em>Debate</em></p>
-<p>Our BRPS debaters undergo grueling training and competition schedules to sharpen their debate acumen and confidence. They are coached by students from Raffles Institution who are experienced in debate. In 2021 and 2022, they have obtained straight wins at the Wits &amp; Words tournament and advanced to the Semifinals and Quarterfinal respectively. In the process, our debaters explored issues relating to social media influencers, climate change, parenting, extrinsic rewards, as well as the production and consumption of animal meat. Read more about our debate journey&nbsp;<a href="https://blangahrisepri.moe.edu.sg/2022/03/03/brps-debate-team-advances-to-quarterfinals-at-wits-words-competition/"><strong>here</strong></a>.</p>
+<p>Our BRPS debaters undergo grueling training and competition schedules to sharpen their debate acumen and confidence. They are coached by students from Raffles Institution who are experienced in debate. In 2021 and 2022, they have obtained straight wins at the Wits &amp; Words tournament and advanced to the Semifinals and Quarterfinal respectively. In the process, our debaters explored issues relating to social media influencers, climate change, parenting, extrinsic rewards, as well as the production and consumption of animal meat. Read more about our debate journey&nbsp;<a href="/2022/03/03/brps-debate-team-advances-to-quarterfinals-at-wits-words-competition/"><strong>here</strong></a>.</p>
 <p>&ldquo;I really love the experience of a debate match, it is so adrenaline-filled! I enjoy the feeling of presenting my speech, the feeling of rebutting the opponent, answering Points of Information and defending my team's substantives. Working together as a team to get to VICTORY was awesome and I will never forget it!&rdquo; shared Nguyen Minh Dat.</p>
 
 ![](/images/Debate-1-2048x1536.jpg)
