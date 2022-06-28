@@ -11,7 +11,5 @@ third_nav_title: Page 3
 <p>Mr Zaini&rsquo;s words echoed our thoughts, &ldquo;BRLC Celebrates! was the icing on the cake on all the big events happening in our school. It was really a celebration that encompassed all parties - students, teachers &amp; non-teaching staff. The classroom decor activity lifted the celebratory atmosphere even higher. What a way to end the year! Truly explosive!&rdquo;</p>
 <p>Despite this being yet another unusual and challenging year, we were glad to be able to celebrate our spirit of learning and growing as a community. Through this event, we affirmed the achievements and resilience of our students and staff. Well done to all!</p>
 <p>We look forward to a better 2022!</p>
-
-![](/images/ending1.png)
-
-![](/images/ending2.png)
+<img src="/images/ending1.png">
+<img src="/images/ending2.png">
