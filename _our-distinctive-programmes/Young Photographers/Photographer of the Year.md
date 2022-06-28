@@ -9,9 +9,7 @@ third_nav_title: Young Photographers
 <p>Through the competition, we aim to engage our students in self-directed learning through brainstorming of ideas, extending photography composition techniques knowledge through Student Learning Space (SLS). Students can also synergise their creative skills, photography skills, and writing skills to interpret the theme &ldquo;Home&rdquo;.</p>
 <p>Check out our students&rsquo; Best Photo Story and Honourable Mention pieces.</p>
 <h3 style="text-align: center;"><strong>Best Photo Story</strong></h3>
-
-![](/images/1-2.jpg)
-
+<img style="width: 65%;" src="/images/1-2.jpg" />
 <p style="text-align: center;"><strong>SHAIKH DARWISH MUHAMMAD BIN MUHAMMAD HAEKAL MATTA</strong>
 <p style="text-align: center;"><strong>2 Opal</strong></p>
 <p>My photograph, which shows how a spider has formed a web in my neighbourhood, showcases the given theme of "home". It can be interpreted in a negative way that our homes are often neglected because everyone is so busy with school and work and not spending enough time to notice many things. It can also be viewed in a positive way where the environment we live in is peaceful enough for a living creature to make their own homes among us. With the current pandemic situation, we stay home much more and spend more time with our families and notice more nature and everything around us. We can use this time to appreciate our home and respect the homes of others by being responsible and good human beings.&nbsp;</p>
