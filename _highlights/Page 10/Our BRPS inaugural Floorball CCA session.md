@@ -10,5 +10,4 @@ third_nav_title: Page 10
 <p>Coach Lavina was full of praise for them after the first session. &ldquo;Unlike other students I have coached, who would usually dodge the ball in the first session, the students here run for the ball and move as a team as if they have played this sport for some time. They are so talented and have high energy and potential. I am so excited to be coaching them!&rdquo;</p>
 <p>The round-robin team competitions had everyone cheering. Alif, a Primary 4 student, who scored a goal, exclaimed in excitement and confidence, &ldquo;I scored a goal! It&rsquo;s my first goal. I am going to be an expert one day!&rdquo;</p>
 <p>Many of the students discovered their interest in Floorball in just that first session. Since this is a new CCA in the school, they voiced positively of their wish to train hard and play the sport competitively. As Wu Shiying, a Primary 6 student, sums up, &ldquo;It is my first time playing Floorball and I enjoyed it very much. Everyone is so happy; even though we are playing against one another, we smiled and laughed together after that. This will be a good team to represent the school for Floorball competitions and together we can make the school proud.&rdquo;</p>
-
-![](/images/Floorball-CCA-photo_updated22Jan.jpeg)
+<img src="/images/Floorball-CCA-photo_updated22Jan.jpeg">
