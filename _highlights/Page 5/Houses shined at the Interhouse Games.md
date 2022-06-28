@@ -12,5 +12,5 @@ third_nav_title: Page 5
 <p>Richelle Arnaiz Gomez (4S, Redhill)<br /><em>It was very fun because we get to work as a team together. We planned the order of runners like who should run first and tried our best to be the fastest team.</em></p>
 <p>Ibtihaj Sidqi (5S, Keppel)<br /><em>I like it. It was awesome. Richie and I had a plan and it worked. We scored 8 goals. Our plan was for me to defend and for him to attack. I will pass him the ball and he will try to score.</em></p>
 <p>Luacan Hannah (6O, Delta)<br /><em>We want to play more! I like Floorball. It is a new sport we learnt together as a House. I also enjoyed our friends cheering for us during the Games.</em></p>
-<img src="/images/houses1.png">
+<img src="/images/houses1.png"><br>
 <img src="/images/houses2.png">
