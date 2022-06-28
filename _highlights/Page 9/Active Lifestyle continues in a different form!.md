@@ -13,7 +13,5 @@ third_nav_title: Page 9
 <p>Our K1 and K2 children also participated in a workout at the class level conducted by PE teachers from the primary school. They were taught to stay active and participate in physical activity as this helps to boost their immune system and reduce their risk of falling sick. The children also learned about the importance of good nutrition such as eating more fruits and vegetables. To reinforce this message, the children enjoyed a fruit cup during their snack time.</p>
 <p>Kadyon See Kai from K2 Integrity said, &ldquo;I do some exercise and I sing our Singapore song. It was fun because I get myself healthy. I eat fruit cup and bread.&rdquo;</p>
 <p>At the end of the week, Aqeel Qushairy from 4 Sapphire said, &ldquo;I learned to exercise regularly and eat healthily. Exercising is good for me and I like it. I also learn to stay safe from the coronavirus situation &ndash; I can exercise at home, try not to go out and eat healthily if possible.&rdquo;</p>
-
-![](/images/activelifestyle.png)
-
-![](/images/lifestyleactive.jpg)
+<img src="/images/activelifestyle.png"><br>
+<img src="/images/lifestyleactive.jpg">
