@@ -4,8 +4,7 @@ permalink: /inter-house-games/
 description: ""
 third_nav_title: Modular CCA (House)
 ---
-![](/images/1-Banner-1024x768.jpg)
-
+<img src="/images/1-Banner-1024x768.jpg">
 <p>BRLC organised the Inter-House Games to celebrate students&rsquo; consistent effort and character excellence during Modular CCA (House System). Adhering to the prevailing national posture on Safe Management Measures, the Inter-House Games were organized by level where students from the 4 Houses competed against one another in Athletics and Floorball.</p>
 <p>The P3 Games was eventful as it rained heavily and we could not use the school field which was all set up for the Games. To keep the Games going, the teachers came together and transformed the Indoor Schools Hall (ISH) into the Games venue in a very short time.</p>
 <p>Our students share their reflection of the Inter-House Games.</p>
@@ -16,6 +15,4 @@ third_nav_title: Modular CCA (House)
 <p>Ibtihaj Sidqi (5S, Keppel)<br /><em>I like it. It was awesome. Richie and I had a plan and it worked. We scored 8 goals. Our plan was for me to defend and for him to attack. I will pass him the ball and he will try to score.</em></p>
 <p>Luacan Hannah (6O, Delta)</p>
 <p><em>We want to play more! I like Floorball. It is a new sport we learnt together as a House. I also enjoyed our friends cheering for us during the Games.</em></p>
-
-![](/images/intrhouse.jpg)
-	
+<img src="/images/intrhouse.jpg">
