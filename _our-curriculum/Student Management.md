@@ -3,7 +3,7 @@ title: Student Management
 permalink: /departments/student-management/
 description: ""
 ---
-<img src="/images/Student-Management-Banner-Photo-banner.png">
+<img src="/images/Student-Management-Banner-Photo-banner.png"><br>
 <blockquote>
 <p><em>"The man who moves a mountain must start by moving small stones."</em></p>
 <p style="text-align: right;"><em>-Chinese Proverb-</em></p>
