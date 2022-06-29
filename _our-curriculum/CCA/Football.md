@@ -14,5 +14,5 @@ third_nav_title: CCA
 <p><strong>Being inspired by our very own football legend<br /></strong>In September 2019, we had the privilege of having Mr Fandi Ahmad, Singapore&rsquo;s very own football legend, conduct a football clinic for us. &ldquo;One must have a dream in life. If you are focused, everyone can achieve their dream. I enjoy playing football. I trained hard and believed in myself. We must never give up,&rdquo; said Mr Fandi Ahmad. Click&nbsp;<a href="https://www.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&amp;album_id=2971006686247049&amp;ref=page_internal">here</a>&nbsp;to find out what happened!</p>
 <img src="/images/IMG_8812-min.jpg">	
 <p><strong>Developing holistically<br /></strong>To inculcate ownership of their skill development, the teachers encourage the boys to practise individual football drills on their own. To support the boys&rsquo; learning, the teachers and coach apply effective football coaching and technical drills based on sports science. Over the years, we have witnessed the fruits of our labour &ndash; students growing in confidence yet remaining humble, focused and disciplined playing as a team.</p>
-<img src="/images/Update-1a-1024x809.jpg">
+<img src="/images/Update-1a-1024x809.jpg"><br>
 <img src="/images/Update-3-768x1024.jpg">
