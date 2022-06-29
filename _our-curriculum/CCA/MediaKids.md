@@ -27,7 +27,7 @@ third_nav_title: CCA
 <p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed coffee table book, &ldquo;Singapore Through Children&rsquo;s Eyes&rdquo; which was presented to President Halimah Yacob on 28 July 2019. President Halimah had written a foreword for the book, which was supported by the Singapore Bicentennial Office. Click here&nbsp;<a href="/bicentennial-coffee-table-book/">bicentennial coffee table book</a>&nbsp;to find out more about the book.</p>
 <img src="/images/mediakids6.png">
 <p><strong>Here Comes The Storm Now: Our Covid-19 Diary</strong></p>
-<img src="/images/Covid-19-274x300.jpg">
+<img style="width: 65%;" src="/images/Covid-19-274x300.jpg" />
 <p>MediaKids&rsquo; photographs taken during their e-CCA sessions were featured in our book, &ldquo;Here Comes The Storm Now: Our Covid-19 Diary&rdquo;. It documents our Covid-19 experiences through the eyes of our educators, children and parents. This book is dedicated to frontline heroes who have kept Singapore safe so that our children can continue learning in school. Please click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/02/BRPS-Our-Covid19-Diary.pdf">here</a>&nbsp;to read our Covid-19 Diary.</p>
 <p><strong>Special Event with Local Sportsmen and Sportswomen</strong></p>
 <img src="/images/Photo-7-1.jpg">
@@ -35,6 +35,6 @@ third_nav_title: CCA
 <img src="/images/For-Website-MK-Page.jpg">
 <p>There were other platforms which gave our MediaKids opportunities to hone their photography skills. In 2020, we met our nation&rsquo;s World Number 1 Para Archer, Ms Nur Syahidah Alim. Aqeel, our Primary 4 MediaKid, not only captured the session through his lenses, but was also inspired to overcome challenges and pursue his dreams and goals.</p>
 <p><strong>Come Join Us!</strong></p>
-<img src="/images/IMG_5041-225x300.jpg">
+<img style="width: 65%;" src="/images/IMG_5041-225x300.jpg" />
 <p>Ms Ho, teacher in charge of MediaKids, shared, "I can see our MediaKids growing in confidence as they collaborate with one another to capture special moments during school and community events. One of the most memorable moments for me was when I saw them in action as student photographers during the SYF Celebrations. It was a proud moment to see them step out of their comfort zones in an unfamiliar environment and apply the photography skills that they have acquired.&rdquo;
 <p>Come join us as a MediaKid!</p>
