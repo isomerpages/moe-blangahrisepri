@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Blangah Rise Primary School
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: The Green Snapshots with Pepper Green and Friends, a Nature
@@ -28,3 +28,4 @@ sections:
   - resources:
       title: Announcements
 ---
+
