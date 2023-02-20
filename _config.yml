@@ -1,5 +1,5 @@
 title: Blangah Rise Primary School
-url: ""
+url: https://blangahrisepri.moe.edu.sg
 favicon: /images/BRPS-logo-2019-Final_png-740x1024.png
 colors:
   primary-color: "#047a19"
@@ -52,3 +52,8 @@ plugins:
 staging: https://moe-blangahrisepri-staging.netlify.app
 prod: https://moe-blangahrisepri-prod.netlify.app
 resources_name: announcements
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
