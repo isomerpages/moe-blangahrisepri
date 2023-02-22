@@ -27,5 +27,8 @@ sections:
       url: https://www.youtube.com/watch?v=GBCbE_lJU60
   - resources:
       title: Announcements
+  - infobar:
+      title: Highlights
+      button: view all highlights
+      url: /faq/
 ---
-
