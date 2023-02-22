@@ -30,5 +30,5 @@ sections:
   - infobar:
       title: Highlights
       button: view all highlights
-      url: /faq/
+      url: /2022/05/25/junior-reporters-workshop-with-sph-reporters/
 ---
