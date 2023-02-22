@@ -6,8 +6,8 @@ description: ""
 <img src="/images/Ps-Message-min.jpeg">
 <p style="align:justify">
 Someone once said that the <em>Purpose of Life is to Grow</em>. That makes sense, doesn’t it, as all living beings grow. Children grow very quickly in the early stages of their life in many dimensions – physically, mentally, socially, and emotionally. That is why the early stages of a child’s life is important for his/her growth. It is at these early stages that we want to ensure a strong foundation is built to sustain further growth ahead. This means having a healthy awareness of self and the environment. We want children to grow deep roots of character and effective habits, learn to be flexible, comfortable with being different from others, and understand that they can always change to grow.
-
-Now, if the Purpose of Life is to Grow, do you know what the Adventure of Life is? The _Adventure of Life is to Learn_. With a brand-new year ahead, we want to encourage our children to have boldness to face the challenges. if you ask me what are 2 qualities that will give a child confidence in this adventure of learning, I will say
+<br><br>
+Now, if the Purpose of Life is to Grow, do you know what the Adventure of Life is? The <em>Adventure of Life is to Learn</em>. With a brand-new year ahead, we want to encourage our children to have boldness to face the challenges. if you ask me what are 2 qualities that will give a child confidence in this adventure of learning, I will say
 	
 <ol>
 <li>Nurture his/her curiosity – because curiosity will give him/her the intrinsic motivation to discover and learn, and</li>
