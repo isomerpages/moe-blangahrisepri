@@ -6,7 +6,7 @@ third_nav_title: Our MOE Kindergarten
 ---
 <img src="/images/BRPS-and-MK-Banner-Photo2.jpg" ><br>
 <img src="/images/Marina-Ho_MK-CH-Website-683-x1024-96dpi-200x300.png" 
-     style="width:25%" align = "left">
+     style="width:25%; padding:10px" align = "left">
 <p><strong>A note from our Centre Head</strong><br>At MOE Kindergarten @ Blangah Rise we believe that children are curious and active learners. Our teachers seek to engage children to make discoveries and explore the world around them. We help our children to learn concepts and develop good learning dispositions.</p>
 <p>The preschool years are critical in laying a strong foundation for children in the 6 learning areas: language and literacy, numeracy, social emotional competencies, aesthetics and creative expression, discovery of the world, and gross motor skills. Our teachers engage children in purposeful play and quality interactions to facilitate children&rsquo;s participation and involvement in learning.</p>
 <p>We seek to involve parents as partners in centre activities and learning as we believe that parents&rsquo; involvement helps the child to feel safe and secure in the learning environment. Children also develop better social skills and show improved behaviour when their parents are involved at school.</p>
