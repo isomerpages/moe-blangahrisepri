@@ -4,28 +4,19 @@ permalink: /our-school/principals-message/
 description: ""
 ---
 <img src="/images/Ps-Message-min.jpeg">
-<p>We are all certainly hoping for a fresh and liberating new year where our children can have more enriching learning experiences to grow further from, with less worries about the restrictive management measures. Looking back positively however, the disruption from Covid-19 has caused us to explore new ways of learning with technology, and also heightened our sense for mental wellness and the need to help our children to continue growing their character strength.</p>
-<p>Nevertheless, having been through the pandemic for the past 2 years, we may begin to wonder if we are ever going to see a positive change and whether all the sacrifices we have made will be rewarded.</p>
-<p>I hope the story of the bamboo tree will encourage us.</p>
-<p>Like any plant, growth of the bamboo tree requires regular nurturing &ndash; water, fertile soil, sunshine. In its first year, we see no visible signs of activity. In the second year, again, no growth above the soil. The third, the fourth, still nothing. And finally in the fifth year &ndash; behold, a miracle! We experience growth. And what a growth it is! The bamboo tree grows 80 feet in just six weeks!</p>
-<p>Does this mean that within the first four years, nothing has happened to the bamboo? Not at all, in fact, the bamboo tree has been growing &hellip; underground, but you can&rsquo;t see it. Had the bamboo tree not grown its unseen root system for a strong foundation in the first few years, it would not have been able to sustain its miraculous growth when it was time to grow outward.</p>
-<p>There are 4 lessons we can glean from the bamboo tree:</p>
-<p>1. Success doesn't come immediately</p>
-<ul>
-<li><strong><em>Growing takes time</em></strong>. Give your goals and dreams time &ndash; the big or important ones usually take longer</li>
-</ul>
-<p>2. You need a strong foundation</p>
-<ul>
-<li>You can&rsquo;t grow high if you don&rsquo;t grow deep.&nbsp;<strong><em>Virtues</em></strong>&nbsp;are the roots that give you your character strengths for success</li>
-</ul>
-<p>3. You have to be consistent</p>
-<ul>
-<li>It is what you do every day that matters, not what you do once in a while. Make your positive efforts your habits &ndash; exercise the&nbsp;<strong><em>7 Habits</em></strong>&nbsp;regularly</li>
-</ul>
-<p>4. Have faith in your efforts</p>
-<ul>
-<li>Patience and persistence will pay off. If you give up before the change happens, you won&rsquo;t see growth. Have a&nbsp;<strong><em>Growth Mindset</em></strong>&nbsp;&ndash; believe that your efforts will make a difference.</li>
-</ul>
-<p>Nurturing the unseen stage of growth may not be the most rewarding action to take, but it can be the most important one.</p>
-<p>Wishing you and your family a good year of growth ahead!</p>
-<p>Francis Foo<br>Principal</p>
+<p style="align:justify">
+Someone once said that the <em>Purpose of Life is to Grow</em>. That makes sense, doesn’t it, as all living beings grow. Children grow very quickly in the early stages of their life in many dimensions – physically, mentally, socially, and emotionally. That is why the early stages of a child’s life is important for his/her growth. It is at these early stages that we want to ensure a strong foundation is built to sustain further growth ahead. This means having a healthy awareness of self and the environment. We want children to grow deep roots of character and effective habits, learn to be flexible, comfortable with being different from others, and understand that they can always change to grow.
+
+Now, if the Purpose of Life is to Grow, do you know what the Adventure of Life is? The _Adventure of Life is to Learn_. With a brand-new year ahead, we want to encourage our children to have boldness to face the challenges. if you ask me what are 2 qualities that will give a child confidence in this adventure of learning, I will say
+	
+<ol>
+<li>Nurture his/her curiosity – because curiosity will give him/her the intrinsic motivation to discover and learn, and</li>
+<li>Teach him/her to learn and work well with others – because a large part of effective learning is learning in a social setting.</li></ol>
+
+The Adventure of Life will bring with it the Opportunity of Life. This <em>Opportunity of Life is to Serve</em>. No one is an island, and it is important that we help our children understand that we all need a community to thrive. In the community, you can always be of service to others, and when everyone synergizes by bringing their contribution or service to the community, the community grows, and so do you personally. There are advantages that the community can give you that you can’t give yourself, such as division of effort, timely encouragement, and differing perspectives. These strengths of the community are borne from the contributions of its individuals. The opportunity to serve is an opportunity to do something worthwhile beyond yourself.
+<br><br>
+This year will bring with it its own challenges and uncertainties, but may you also discover with your child the purpose, adventure, and opportunity that comes along with it.
+<br><br>
+Francis Foo
+<br><br>
+Principal</p>
