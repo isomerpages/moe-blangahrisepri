@@ -98,4 +98,4 @@ third_nav_title: Our MOE Kindergarten
 <p>Our children have much to look forward to when they move on to primary school in Blangah Rise. They are familiar with the physical building and the routines. In addition, the primary school teachers make the effort to know the MK children before the start of the new school year.</p>
 <p>This is what we do and believe in to give our children a STRONG START!</p>
 <p>View this video to find out more about MK@ Blangah Rise through an interview with our previous Centre Head!</p>
-<div><iframe src="https://www.youtube.com/embed/yUql6C7W82s" name="fitvid0" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/yUql6C7W82s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
