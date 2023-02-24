@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/EL-DEPT2.jpg"><br>
 <blockquote>
-<p><em>"The more that you read, the more things you will know. The more that you learn, the more places you&rsquo;ll go."</em></p>
+<p style="text-align: center;"><span style="color: #000000;"><em>"The more that you read, the more things you will know. The more that you learn, the more places you&rsquo;ll go."</em></span></p>
 </blockquote>
 <p style="text-align: right;"><em>-Dr Seuss-</em></p>
 <p><strong><span style="color: #ff0000;">Mission&nbsp;</span>and&nbsp;<span style="color: #0000ff;">Vision</span>:<br /><br /></strong>We believe that every Blangahnite can and wants to excel in their learning of the English Language.<br />We want every child to develop&nbsp;<span style="color: #ff0000;">a strong foundation in the English Language.</span></p>
