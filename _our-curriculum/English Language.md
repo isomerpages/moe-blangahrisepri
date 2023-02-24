@@ -42,7 +42,7 @@ description: ""
 </tbody>
 </table>
 <p>Under Viewpoints, our Middle Primary students undergo a Broadcast Journalism enrichment module, which aims to build students&rsquo; confidence in presentation. Our students go through training on verbal and non-verbal cues of confidence. They then script their presentations and present their lines in front of a camera. Watch our little broadcasters introduce their school below:</p>
-<div class="fl-html"><iframe title="YouTube video player" src="https://www.youtube.com/embed/lWKBZPWIADk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lWKBZPWIADk" title="Our favourite places in school!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p><strong><em>The Joy of Writing<br /><br /></em></strong>Our writing curriculum focuses on writing in authentic contexts, across a variety of purposes and text types including narrative texts, information texts, procedural texts, personal responses as well as argumentative texts. At each level, we also adopt an Inquiry-Based Learning (IBL) approach to teach the features and writing of a variety of text types.</p>
 <p><strong><em>The Joy of Reading<br /><br /></em></strong>Our students are exposed to a variety of texts and reading materials. We encourage all our students to make reading their passion and increase their knowledge about the world around them.</p>
 <p>At upper primary, we provide Blangahnites with opportunities to respond to children&rsquo;s literature creatively and learn to appreciate their own as well as the culture of others. Our students learn about how authors make characters come alive. They also learn how to develop and share their opinions.</p>
@@ -51,7 +51,7 @@ description: ""
 <img src="/images/Authors-Talk.png">
 <p>Besides Sharon Ismail and A.J Low, Neil Humphreys, one of Singapore's most prolific writers, conducted an assembly talk where he shared with the school his secret to writing a good story, which was to use their personal experiences. In addition, Neil conducted a two-day book signing session where he interacted with our students during their recesses.</p>
 <p>In his parting encouragement to our students to aspire to be the best they want to be, Neil said, &ldquo;I was once you, and so anybody from any background, from any school, can become a writer or author, if they really want to.&rdquo;</p>
-<img src="/images/3%20(1).jpg"><br>
+<img src="/images/el1.jpg"><br>
 <img src="/images/english1.png">
 <p>We also organise Dr Seuss Day in March to celebrate the authorial legacy of Dr Seuss and his widely-loved children books. Our MOE Kindergarten preschoolers, primary one, two and three students are introduced to Dr. Seuss and his zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>. Read more about our Dr Seuss Day celebrations&nbsp;<a href="/2022/03/18/junior-primary-and-moe-kindergartens-journey-to-dr-seuss-fantastical-worlds/"><strong>here</strong></a>&nbsp;and&nbsp;<a href="/2021/03/26/dr-seuss-day/"><strong>here</strong></a>.</p>
 <img src="/images/english2.png">
