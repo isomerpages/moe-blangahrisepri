@@ -19,42 +19,49 @@ description: ""
 <p><em>&ldquo;It is fun to experience new things. When my Science teacher asks questions in class, I can use the experiment to remember how to answer.&rdquo;</em></p>
 <p style="text-align: right;"><em>Lucas, Primary 5</em></p>
 <p><u><strong>Outdoor Experiential Learning Experience</strong><br /></u>The outdoor classroom fosters active, hands-on, inquiry-based learning in a real world setting; making learning a multi-sensory experience to retain knowledge more effectively. Learning in a less-structured environment, students are provided with a different learning experience from that of the classroom. Learning Journeys are also integral to enriching the learning experience of students. &nbsp;They help to make real and concrete what has been learnt in the classrooms and broaden the mental horizons of our students.</p>
-<table class="table table-bordered table-responsive table-striped dark-header">
+<table class="table table-bordered table-responsive table-striped dark-header" style="border-style: solid;">
 <tbody>
 <tr>
-<th><strong>Level</strong></th>
-<th><strong>Learning Journey</strong></th>
-<th><strong>Description</strong></th>
+<th style="text-align: center;"><strong>Level</strong></th>
+<th style="text-align: center;"><strong>Learning Journey</strong></th>
+<th style="text-align: center;"><strong>Description</strong></th>
 </tr>
 <tr>
-<td>P3</td>
-<td>Gardens by the Bay</td>
-<td>Collaborating with the ICT Department&rsquo;s signature programme, Young Photographer, students delve deeper into the ecology of plants and the environment through discovery and experiential learning. At Gardens by the Bay, students get to&nbsp;apply photography skills to capture plants with different shapes and edges.&nbsp;
-<p>&nbsp;</p>
+<td style="text-align: center;">P3</td>
+<td style="text-align: center;">Gardens by the Bay</td>
+<td>
+<p style="text-align: center;">Collaborating with the ICT Department&rsquo;s signature programme, Young Photographer, students delve deeper into the ecology of plants and the environment through discovery and experiential learning. At Gardens by the Bay, students get to apply photography skills to capture plants with different shapes and edges.</p>
 <p>Click&nbsp;<a href="/our-distinctive-programmes/young-photographers/"><strong>here</strong></a>&nbsp;to find out more about our Young Photographers Programme.</p>
 </td>
 </tr>
 <tr>
-<td>P4</td>
-<td>Science Centre
-<p>&nbsp;</p>
+<td style="text-align: center;">P4</td>
+<td style="text-align: center;">Science Centre
 <p>Gardens by the bay</p>
 </td>
-<td>Students participate in hands-on activities, gallery trail and science demonstrations on energy as they embark on an experiential journey to learn how to harness energy from different sources. They will learn the fundamentals of energy and its importance. The activities also encourage character building through teamwork, time management and strategic problem solving.
-<p>&nbsp;</p>
+<td>
+<p style="text-align: center;">Students participate in hands-on activities, gallery trail and science demonstrations on energy as they embark on an experiential journey to learn how to harness energy from different sources. They will learn the fundamentals of energy and its importance. The activities also encourage character building through teamwork, time management and strategic problem solving.</p>
 <p>Collaborating with the Young Photographers programme, students took photographs of water bodies during their visit to Gardens by the Bay. This activity serves as an extension of the World Water Day activities that were conducted in school to advocate the importance of water conservation in Singapore.</p>
 <p>Click&nbsp;<a href="/our-distinctive-programmes/young-photographers/"><strong>here</strong></a>&nbsp;to find out more about our Young Photographers Programme.</p>
 </td>
 </tr>
 <tr>
-<td>P5</td>
-<td>NEWater Plant</td>
-<td>This interactive learning journey takes students through the gallery at the NEWater Education Hub. Students will learn more about water sustainability in Singapore. They will also learn how the process recycles our treated used water into ultra-clean, high-grade reclaimed water.</td>
+<td style="text-align: center;">P5</td>
+<td style="text-align: center;">
+<p>NEWater Plant</p>
+</td>
+<td style="text-align: center;">
+<p>This interactive learning journey takes students through the gallery at the NEWater Education Hub. Students will learn more about water sustainability in Singapore. They will also learn how the process recycles our treated used water into ultra-clean, high-grade reclaimed water.</p>
+</td>
 </tr>
 <tr>
-<td>P6</td>
-<td>Sungei Buloh Wetland Reserve</td>
-<td>The focus of this trip is on the diversity, ecology and dynamics of an ecosystem. Students will learn about food chains, food webs, adaptation and Man&rsquo;s impact on the environment.</td>
+<td style="text-align: center;">P6</td>
+<td style="text-align: center;">
+<p>Sungei Buloh Wetland Reserve</p>
+</td>
+<td style="text-align: center;">
+<p>The focus of this trip is on the diversity, ecology and dynamics of an ecosystem. Students will learn about food chains, food webs, adaptation and Man&rsquo;s impact on the environment.</p>
+</td>
 </tr>
 </tbody>
 </table>
