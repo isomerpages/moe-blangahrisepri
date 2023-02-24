@@ -41,44 +41,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">P1</th>
-    <th class="tg-0lax">Show-and-Tell</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">P2</td>
-    <td class="tg-0lax">Pick-and-Tell</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P3</td>
-    <td class="tg-cly1" rowspan="2">Broadcast Journalism</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P4</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5</td>
-    <td class="tg-0lax">Debate</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P6</td>
-    <td class="tg-0lax">PSLE Oral Booster Programme</td>
-  </tr>
-</tbody>
-</table>
 <p>Under Viewpoints, our Middle Primary students undergo a Broadcast Journalism enrichment module, which aims to build students&rsquo; confidence in presentation. Our students go through training on verbal and non-verbal cues of confidence. They then script their presentations and present their lines in front of a camera. Watch our little broadcasters introduce their school below:</p>
 <div class="fl-html"><iframe title="YouTube video player" src="https://www.youtube.com/embed/lWKBZPWIADk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p><strong><em>The Joy of Writing<br /><br /></em></strong>Our writing curriculum focuses on writing in authentic contexts, across a variety of purposes and text types including narrative texts, information texts, procedural texts, personal responses as well as argumentative texts. At each level, we also adopt an Inquiry-Based Learning (IBL) approach to teach the features and writing of a variety of text types.</p>
