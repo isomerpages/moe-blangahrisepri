@@ -14,7 +14,7 @@ description: ""
 <p>The school uses&nbsp;<strong>STELLAR</strong>&nbsp;(<strong>ST</strong>rategies for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L</strong>earning&nbsp;<strong>A</strong>nd&nbsp;<strong>R</strong>eading) in our curriculum. Age-appropriate materials are used together with research-based teaching strategies to engage every Blangahnite in the learning of the English Language.</p>
 <p>Our school-based curriculum is anchored in joyful learning and designed to spark the Joy of Speaking and Writing, as well as Reading in each child.</p>
 <p><strong><em>The Joy of Speaking<br /><br /></em></strong>We encourage all our students to express themselves confidently, authentically and empathetically. Our oracy curriculum nurtures basic oracy skills at the lower primary level and spiral progresses through the upper primary years to nurture more complementary skills such as performance and critical thinking skills. At the heart of our oracy curriculum is the belief that oracy development should take place through authentic and experiential learning. At each level, students will experience the following learning modules:</p>
-<table>
+<table style="border-style: solid;">
 <tbody>
 <tr>
 <td width="66">P1</td>
