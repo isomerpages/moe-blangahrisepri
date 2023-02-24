@@ -8,7 +8,7 @@ third_nav_title: CCA
 <p>CCA is part of the school&rsquo;s total curriculum to develop the child holistically. There are 4 categories of CCA in BRPS: Sports and Games, Clubs and Societies, Aesthetics, and Uniformed Groups.</p>
 <p>These CCAs provide a&nbsp;platform for our pupils to develop values, skills and knowledge&nbsp;through an area&nbsp;of their interest. In CCAs, pupils experience joyful&nbsp;learning with others, take on leadership roles and work&nbsp;together as teams to achieve common goals. Teachers facilitate pupils&rsquo; reflection&nbsp;and guide them in their development&nbsp;as confident learner and caring leaders.</p>
 <h4><strong>Sports and Games</strong></h4>
-<p><a href="/departments/ccas/badminton/"><strong>Badminton</strong></a><br /><a href="/departments/ccas/basketball/"><strong>Basketball</strong></a><br /><a href="/departments/ccas/football/"><strong>Football</strong></a></p>
+<p><strong><a href="/departments/ccas/badminton/">Badminton</strong></a><br /><strong><a href="/departments/ccas/basketball/">Basketball</strong></a><br /><strong><a href="/departments/ccas/football/">Football</strong></a></p>
 <h4><strong>Clubs and Societies</strong></h4>
 <p><strong><a href="/departments/ccas/mediakids/">MediaKids</a></strong><br /><strong><a href="/departments/ccas/stem/">STEM</a></strong><br /><strong><a href="/departments/ccas/art-and-design-club/">Art and Design Club</a></strong></p>
 <h4><strong>Uniformed Groups</strong></h4>
