@@ -3,13 +3,13 @@ title: Character & Citizenship Education
 permalink: /departments/character-citizenship-education/
 description: ""
 ---
-<img src="/images/01-Main-Banner-Picture-Crop-Grow-Caring-Leaders-Nurture-reflective-learners-Serve-the-community.png">
+<img style="width: 60%;" src="/images/cce1.jpg" />
 <p>We envision ourselves as a joyful school of confident learners and caring leaders. We have a customized Character and Citizenship curriculum for holistic development of students.</p>
-<h4><span style="text-decoration: underline;"><strong>GROW</strong></span></h4>
+<h4><strong><span style="text-decoration: underline; color: #339966;">BODY</strong></span></h4>
 <blockquote>
-<p><em>&ldquo;Plant a seed so your heart will grow&rdquo;</em></p>
+<p style="text-align: center;"><em><span style="text-decoration: underline; color: #339966;">&ldquo;Physical fitness is the first requisite of happiness.&rdquo;</span></em></p>
 </blockquote>
-<p style="text-align: right;"><em>Hafez</em></p>
+<p style="text-align: right;"><em><span style="text-decoration: ; color: #339966;">Joseph Pilates</em></p>
 <p>In Blangah Rise Primary School, we grow caring leaders who support others and are deeply rooted to Singapore. We help every student see the &ldquo;Leader in Me'' and also the power of peer support through the &ldquo;Leader in Us&rdquo;. These efforts are woven intentionally into every aspect of school life in BRPS, from the classroom to CCAs and after school programmes.</p>
 <img src="/images/cce1.png">
 <p><strong><u>School Environment<br /></u></strong>To create a school environment that is inviting, affirming and conducive to positive student experiences, students&rsquo; works are designed on the walls, decoration trees, class notice boards, and level boards. Student Leaders regularly share and encourage each other through sharing of motivational quotes and stories before the singing of the National Anthem and via various level notice and walkway boards, staircases, Art &amp; NE Heritage Galleries.</p>
