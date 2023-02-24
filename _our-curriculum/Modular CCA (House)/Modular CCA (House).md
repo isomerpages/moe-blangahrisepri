@@ -9,4 +9,4 @@ third_nav_title: Modular CCA (House)
 <p>During supervised study, students are guided by teacher mentors to be self-directed in learning. In the process of learning independently, students practise peer support to help one another in revision and learn together. Throughout the year, students also participate in sports CCA and learn new sports skills in Athletics, Floorball, Volleyball and Ultimate Frisbee.</p>
 <p>Modular CCA is organized in Houses named after Singapore&rsquo;s heritage. Each House carries a part of Singapore&rsquo;s history and embodies virtues that guide our students to grow as independent as well as inter-dependent learners.</p>
 <h4><strong>Sports and Games</strong></h4>
-<p><strong><a href="/departments/ccas/floorball/">Floorball</a></strong><br><strong><a href="/departments/ccas/frisbee/">Frisbee</a></strong></p>
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="/departments/ccas/floorball/">Floorball</a></strong></span><br /><span style="color: #000000;"><strong><a style="color: #000000;" href="/departments/ccas/frisbee/">Frisbee</a></strong></span></p>
