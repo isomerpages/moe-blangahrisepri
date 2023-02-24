@@ -50,7 +50,15 @@ description: ""
 <img src="/images/cce9.png">
 <p>It is through service that students apply their learning of virtues and habits and build connectedness with school and community.</p>
 <p>Every month, we bring the students for a wellness activity. As a class, the students discuss and come up with their own activity that lets them focus on self-care. Popular activities include walks in our gardens, picnics and fun games.</p>
-<img src="/images/11-Ending-Bamboo.png">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/cce33.png" /></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/cce44.png" /></td>
+</tr>
+</tbody>
+</table>
+<img style="width: 65%;" src="/images/11-Ending-Bamboo.png">
 <p>Developing good character does not come immediately. The story of the bamboo tree has some lessons for us. In its first four years, we may not see any bamboo growth above the soil at all. But finally in the fifth year, we can see that the bamboo tree grows 80 feet in just six weeks!</p>
 <p>This does not mean that nothing has happened to the bamboo for the first four years. It is growing its roots to nurture a strong foundation. Growing takes time. You cannot grow high if you do not grow deep. Virtues are the roots that give us the strength to grow upwards. What we do everyday matters. It is our Habits that define us.</p>
 <blockquote>
