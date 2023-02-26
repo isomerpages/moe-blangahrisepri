@@ -33,7 +33,7 @@ description: ""
 <p><strong>A Taste of Robotics &amp; Engineering for our Primary 1!</strong></p>
 <p>Click&nbsp;<strong><a href="/2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/">here</a></strong>&nbsp;to read about our Primary 1 Engineering-related Learning Activity (ERLA) and Robotics.</p>
 <p><strong>A tiered approach</strong></p>
-<table style="height: 144px;">
+<table style="height: 144px; border-style: solid;">
 <tbody>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 76px;"><strong>Level</strong></td>
@@ -68,7 +68,7 @@ description: ""
 <tr style="height: 18px;">
 <td style="height: 18px; width: 76px;"><strong>P6</strong></td>
 <td style="height: 18px; width: 246px;">&nbsp;</td>
-<td style="height: 18px; width: 246px;">&nbsp;Material &amp; Civil Engineering</td>
+<td style="height: 18px; width: 246px;">Material &amp; Civil Engineering</td>
 </tr>
 </tbody>
 </table>
