@@ -12,15 +12,55 @@ third_nav_title: Young Photographers
 <p>To capture photographs that tell a story or a concept, students first need to acquire photography skills and composition techniques such as rule of thirds, leading lines, framing and symmetry. Students acquire these composition techniques through the Flipped Classroom approach. They learn more about the composition techniques via Student Learning Space (SLS). Thereafter, all students attend face to face sessions in Young Photographers, which equip them with valuable skills to create and communicate stories through their lenses. Primary 2 and Primary 3 students build their proficiency through the use of compact cameras. Primary 4 to Primary 6 students extend their skills through DSLR cameras.</p>
 <h4><strong>Practice is Key</strong></h4>
 <p>Students are given the opportunity to apply and practise photography skills through outdoor shoots at Telok Blangah Heights, Gardens by the Bay, Labrador Park and Jurong Lake Gardens. They capture images based on the theme for each level. While doing so, students&rsquo; confidence in handling the cameras grows.</p>
-<img src="/images/yp1.jpg">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ypa1.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa2.jpg"></td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Outdoor Shoot: Some of our students' works</strong></h4>
-<img src="/images/yp2.jpg">
-<img src="/images/yp3.jpg">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ypa3.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ypa5.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ypa7.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa8.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ypa9.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa10.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ypa11.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa12.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ypa13.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa14.jpg"></td>
+</tr>
+</tbody>
+</table>
 <h4><strong>A Picture Paints a Thousand Words</strong></h4>
 <img src="/images/IMG_6346-1024x768.jpg">
 <p>After the outdoor shoots, students share compelling stories and perspectives through their own photographs. There are many enriching learning opportunities. Primary 2 students practise using rich vocabulary to describe their photographs and share their thoughts. To extend their knowledge on plants, Primary 3 students create a classification chart to list the different plants&rsquo; edges. Primary 4 to Primary 6 students hone their English Language skills through photojournalism using Google Classroom &ndash;&nbsp;<a href="/viewpoints/">Viewpoints</a></p>
 <h4><strong>Creative Photography: Some of our students' works</strong></h4>
-<img src="/images/py5.jpg">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ypa15.jpg"><br><img src="/images/ypa16.jpg"><br><img src="/images/ypa17.jpg"><br><img src="/images/ypa18.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa19.jpg"><br><img src="/images/ypa20.jpg"><br><img src="/images/ypa21.jpg"><br><img src="/images/ypa22.jpg"></td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Think Beyond What We See</strong></h4>
 <img src="/images/P2-STW-01-1024x682.jpg">
 <p>Using the Thinking Routine See-Think-Wonder in SLS, students analyse photographs so as to generate possibilities, deepen their thinking and raise questions. Jayden, a P3 student, says &ldquo;We have learnt to be more imaginative, explore different ideas and ask questions through See-Think-Wonder. We were then able to view things from different angles and apply our photography skills at the outdoor shoots.&rdquo;</p>
