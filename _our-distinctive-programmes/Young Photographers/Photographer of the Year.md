@@ -4,7 +4,6 @@ permalink: /photographer-of-the-year/
 description: ""
 third_nav_title: Young Photographers
 ---
-<h2 style="text-align: center;"><strong>Photographer of the Year 2021</strong></h2>
 <p>We organised our first photography competition this year – Photographer of the Year. The theme for this competition is “Home”. This is a platform for our students to define what “Home” mean to them, and to extend their photography skills gleaned from our distinctive programme, Young Photographers.</p>
 <p>Through the competition, we aim to engage our students in self-directed learning through brainstorming of ideas, extending photography composition techniques knowledge through Student Learning Space (SLS). Students can also synergise their creative skills, photography skills, and writing skills to interpret the theme “Home”.</p>
 <p>Check out our students’ Best Photo Story and Honourable Mention pieces.</p>
