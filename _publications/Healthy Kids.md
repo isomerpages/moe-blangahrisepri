@@ -6,7 +6,14 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
-<label for="accordion1"><h4>2021</h4></label>
+<label for="accordion1"><p><strong>2022</strong></p></label>
+<div>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-May-2022.pdf">BRPS Healthy Kids Newsletter - May 2022</a></p>
+</div>
+</li>  
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><p><strong>2021</strong></p></label>
 <div>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-Nov-21.pdf">BRPS Healthy Kids Newsletter - November 21</a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-Aug-2021-1.pdf">BRPS Healthy Kids Newsletter - August 2021</a></p>
@@ -15,8 +22,8 @@ description: ""
 </div>
 </li>  
 <li>
-<input type="checkbox" id="accordion2">
-<label for="accordion2"><h4>2020</h4></label>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><p><strong>2020</strong></p></label>
 <div>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-NOV-2020.pdf">BRPS Healthy Kids Newsletter - November 2020</a></p>
 <p><a href="/files/Update_BRPS-Healthy-Kids-Newsletter-AUG-2020-final.pdf">BRPS Healthy Kids Newsletter - August 2020</a></p>
