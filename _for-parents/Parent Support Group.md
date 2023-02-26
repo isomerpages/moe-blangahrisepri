@@ -23,4 +23,4 @@ description: ""
 <img style="width: 80%;" src="/images/3-9-1024x262.jpg">
 <img style="width: 80%;" src="/images/3-10.jpg">
 <p>Dads get connected and actively involved in their children&rsquo;s lives both at home and in school.</p>
-<img style="width: 80%;" src="/images/0001-1-724x1024.jpg">
+<img style="width: 65%;" src="/images/0001-1-724x1024.jpg">
