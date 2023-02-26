@@ -3,7 +3,6 @@ title: The Growing Years
 permalink: /parent-support-group/the-growing-years-programme/
 description: ""
 ---
-<h2 style="text-align: center;"><strong>The Growing Years Programme</strong></h2>
 <p><strong>BLANGAH RISE PRIMARY SCHOOL</strong></p>
 <p><strong>Moe Sexuality Education in Schools</strong></p>
 <ol>
