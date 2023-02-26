@@ -9,7 +9,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td rowspan="4"><strong>School Bus<br />Services</strong></td>
+<td style="text-align: center;" rowspan="4"><strong>School Bus<br />Services</strong></td>
 <td colspan="2"><strong>DKJ Transport<br />Service</strong></td>
 </tr>
 <tr>
@@ -25,7 +25,12 @@ description: ""
 <td>97723370</td>
 </tr>
 <tr>
-<td rowspan="4"><strong>School Uniform<br />Services</strong></td>
+<td style="text-align: center;"><strong>Booklist</strong></td>
+<td><strong>Booklist 2023</strong><br /><a href="/files/P2-Booklist-2023.pdf">P2 Booklist 2023</a><br /><a href="/files/P3-Booklist-2023.pdf">P3 Booklist 2023</a><br /><a href="/files/P4-Booklist-2023.pdf">P4 Booklist 2023</a><br /><a href="/files/P5-Booklist-2023.pdf">P5 Booklist 2023</a><br /><a href="/files/P6-Booklist-2023.pdf">P6 Booklist 2023</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="4"><strong>School Uniform<br />Services</strong></td>
 <td colspan="2"><strong>Beau Voix Uniform</strong></td>
 </tr>
 <tr>
@@ -54,7 +59,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td rowspan="4"><strong>Bookshop<br />Services</strong></td>
+<td style="text-align: center;" rowspan="4"><strong>Bookshop<br />Services</strong></td>
 <td colspan="2"><strong>HB Book Centre</strong></td>
 </tr>
 <tr>
@@ -70,7 +75,7 @@ description: ""
 <td><a href="mailto:hb.bk.ctr@gmail.com">hb.bk.ctr@gmail.com</a></td>
 </tr>
 <tr>
-<td rowspan="4"><strong>Student Care<br />Centre in BRPS</strong></td>
+<td style="text-align: center;" rowspan="4"><strong>Student Care<br />Centre in BRPS</strong></td>
 <td colspan="2"><strong>NASCANS@Blangah Rise Student Care Centre</strong></td>
 </tr>
 <tr>
