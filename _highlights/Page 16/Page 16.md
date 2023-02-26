@@ -4,7 +4,7 @@ permalink: /news/highlights/page/16/
 description: ""
 third_nav_title: Page 16
 ---
-<h4><strong><a title="Children&rsquo;s Day Celebration 2018" href="/2019/10/07/childrens-day-celebration-2018-2/" rel="bookmark">Children&rsquo;s Day Celebration 2018</a></strong></h4>
+<h4><strong><a href="/2019/10/07/childrens-day-celebration-2018-2/" rel="bookmark">Children&rsquo;s Day Celebration 2018</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -14,3 +14,6 @@ third_nav_title: Page 16
 </tr>
 </tbody>
 </table>
+<h4><strong><a href="/2019/04/29/the-green-snapshots-tgs/" rel="bookmark">The Green Snapshots (TGS)</a></strong></h4>
+<h4><strong><a href="/2018/10/08/we-would-like-to-thank-ms-indranee-second-minister-for-education-for-visiting-our-school/" rel="bookmark">We would like to thank Ms Indranee Rajah, Second Minister for Education for visiting our school.</a></strong></h4>
+<h4><strong><a href="/2018/07/10/hebei-handan-laike-primary-school-2/" rel="bookmark">Hebei Handan Laike Primary School</a></strong></h4>
