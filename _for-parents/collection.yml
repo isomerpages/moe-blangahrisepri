@@ -2,13 +2,13 @@ collections:
   for-parents:
     output: true
     order:
-      - Guideline On Parents Communication.md
-      - P1 Orientation for 2022 Cohort.md
       - Parent Support Group.md
+      - Guideline On Parents Communication.md
       - School Letters & Information.md
       - School Bus, Uniform & Bookshop.md
       - SATS School Meals Programme.md
       - The Growing Years.md
       - Our School Rules and Regulations.md
       - MOE FAS Application.md
+      - P1 Orientation for 2022 Cohort.md
       - FAQs.md
