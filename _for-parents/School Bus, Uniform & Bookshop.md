@@ -47,15 +47,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
-<div data-node="5da7e68a634cd">
-<div>&nbsp;</div>
-</div>
-<div data-node="5da7e65ca17f2">
-<div>
-<div>
+<br>
 <table>
 <tbody>
 <tr>
@@ -92,6 +84,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<br>
 <table>
 <tbody>
 <tr>
