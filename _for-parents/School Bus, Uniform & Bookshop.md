@@ -92,52 +92,42 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
-<div data-node="5c376032baf3c">
-<div>&nbsp;</div>
-</div>
-<div data-node="5c37603c02201">
-<div>
-<div>
 <table>
 <tbody>
 <tr>
-<td><strong>School Dental Clinic</strong></td>
-<td><strong>School Dental Clinic</strong><br>The roving dental clinic in school will be moving out on 16 March 2022 and there will be no dental service in school from Term 2 onwards. The roving dental clinic would return in 2023.<br>During the period when the dental clinic is closed, parents can call the following schools&rsquo; dental clinics for their children&rsquo;s dental appointments.
+<td style="text-align: center;"><strong>School Dental Clinic</strong></td>
+<td><strong>School Dental Clinic<br /><br /></strong>The roving dental clinic in school will be moving out on 16 March 2022 and there will be no dental service in school from Term 2 onwards. The roving dental clinic would return in 2023.<br /><br />During the period when the dental clinic is closed, parents can call the following schools&rsquo; dental clinics for their children&rsquo;s dental appointments.
 <table>
 <tbody>
 <tr>
-<td><strong>Buddy Clinic</strong></td>
-<td width="126"><strong>Telephone</strong></td>
-<td width="249"><strong>Address</strong></td>
+<td style="text-align: center;"><strong>Buddy Clinic</strong></td>
+<td style="text-align: center;" width="126"><strong>Address</strong></td>
+<td style="text-align: center;" width="249"><strong>Tel</strong></td>
 </tr>
 <tr>
-<td>CHIJ Kellock Pri</td>
-<td>625000781</td>
-<td>1 Bukit Teresa Road (0999767)</td>
+<td style="text-align: center;">CHIJ Kellock Pr School</td>
+<td style="text-align: center;">1 Bukit Teresa Road (099757)</td>
+<td style="text-align: center;">87647293</td>
 </tr>
 <tr>
-<td>Gan Eng Seng Pri</td>
-<td>64747701</td>
-<td>100 Redhill Close (158901)</td>
+<td style="text-align: center;">Gan Eng Seng Pr School</td>
+<td style="text-align: center;">100 Redhill Close (158901)</td>
+<td style="text-align: center;">87647603</td>
 </tr>
 <tr>
-<td>Zhangde Pri</td>
-<td>62757392</td>
-<td>51 Jalan Membina (169485)</td>
+<td style="text-align: center;">Zhangde Pr School</td>
+<td style="text-align: center;">51 Jalan Membina (169485)</td>
+<td style="text-align: center;">89400375</td>
 </tr>
 <tr>
-<td>Mobile Dental Clinic 18</td>
-<td>93895031</td>
+<td style="text-align: center;">Mobile Dental Clinic 18</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">93895031</td>
 </tr>
 </tbody>
 </table>
 </td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
