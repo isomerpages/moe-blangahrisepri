@@ -26,7 +26,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion3">
- <label for="accordion4">Purchase of textbooks and uniforms</label>
+ <label for="accordion3">Purchase of textbooks and uniforms</label>
 <div>
 <p><strong>Textbooks</strong></p>
 <p>Please click&nbsp;<a href="/files/D1.pdf">here</a>&nbsp;to view/download P1 Book list 2023</p>
