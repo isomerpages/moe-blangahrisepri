@@ -71,15 +71,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>2. What are the operating hours of the General Office?</strong></p>
-<p>Monday to Friday 8 am - 5 pm (Excluding weekends and public holidays)</p>
-<p><strong>3. When will the school canteen gate open?</strong></p>
-<p><strong>BRPS</strong><br />Monday to Friday: 6.30 am - 8.15 am</p>
-<p>Monday: 2.30 pm - 3.00 pm</p>
-<p>Tuesday to Friday: 1.30 pm - 2.00 pm</p>
-<p>Tuesday &amp; Thursday (Remedial Class) : 3.15 pm &ndash; 3.45 pm</p>
+<p><strong>2. What are the operating hours of the General Office?<br /></strong>Monday to Friday 8 am - 5 pm (Excluding weekends and public holidays)</p>
+<p><strong>3. When will the school canteen gate open?<br /></strong><strong>BRPS</strong><br />Monday to Friday: 6.30 am - 8.15 am<br />Monday: 2.30 pm - 3.00 pm<br />Tuesday to Friday: 1.30 pm - 2.00 pm<br />Tuesday &amp; Thursday (Remedial Class) : 3.15 pm &ndash; 3.45 pm</p>
 <p><strong>MOE Kindergarten</strong><br />Monday to Friday: 11.45 am - 12.15 pm, 12.45 pm - 1.15 pm, 4.45 pm &ndash; 5.15 pm</p>
-<p><strong>4. Are student care services available in BRPS?</strong></p>
-<p>Yes.<br /><strong>NASCANS@BRPS</strong><br />Contact: 9459 6376<br />Email:&nbsp;<a href="mailto:brscc@nascans.com">brscc@nascans.com</a></p>
-<p><strong>5. When can parents/guardians enter the school to buy things from the bookshop?</strong></p>
-<p>Monday to Friday (Except Wednesday, weekends and public holidays): 11 am - 2 pm</p>
+<p><strong>4. Are student care services available in BRPS?<br /></strong>Yes.<br /><strong>NASCANS@BRPS</strong><br />Contact: 9459 6376<br />Email:&nbsp;<a href="mailto:brscc@nascans.com">brscc@nascans.com</a></p>
+<p><strong>5. When can parents/guardians enter the school to buy things from the bookshop<br /></strong>Monday to Friday (Except Wednesday, weekends and public holidays): 11 am - 2 pm</p>
