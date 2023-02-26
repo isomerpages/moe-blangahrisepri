@@ -100,29 +100,29 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>Buddy Clinic</strong></td>
-<td style="text-align: center;" width="126"><strong>Address</strong></td>
-<td style="text-align: center;" width="249"><strong>Tel</strong></td>
+<td style="text-align: center; width: 175px;"><strong>Buddy Clinic</strong></td>
+<td style="text-align: center; width: 219px;"><strong>Address</strong></td>
+<td style="text-align: center; width: 164px;"><strong>Tel</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">CHIJ Kellock Pr School</td>
-<td style="text-align: center;">1 Bukit Teresa Road (099757)</td>
-<td style="text-align: center;">87647293</td>
+<td style="text-align: center; width: 175px;">CHIJ Kellock Pr School</td>
+<td style="text-align: center; width: 219px;">1 Bukit Teresa Road (099757)</td>
+<td style="text-align: center; width: 164px;">87647293</td>
 </tr>
 <tr>
-<td style="text-align: center;">Gan Eng Seng Pr School</td>
-<td style="text-align: center;">100 Redhill Close (158901)</td>
-<td style="text-align: center;">87647603</td>
+<td style="text-align: center; width: 175px;">Gan Eng Seng Pr School</td>
+<td style="text-align: center; width: 219px;">100 Redhill Close (158901)</td>
+<td style="text-align: center; width: 164px;">87647603</td>
 </tr>
 <tr>
-<td style="text-align: center;">Zhangde Pr School</td>
-<td style="text-align: center;">51 Jalan Membina (169485)</td>
-<td style="text-align: center;">89400375</td>
+<td style="text-align: center; width: 175px;">Zhangde Pr School</td>
+<td style="text-align: center; width: 219px;">51 Jalan Membina (169485)</td>
+<td style="text-align: center; width: 164px;">89400375</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mobile Dental Clinic 18</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">93895031</td>
+<td style="text-align: center; width: 175px;">Mobile Dental Clinic 18</td>
+<td style="text-align: center; width: 219px;">&nbsp;</td>
+<td style="text-align: center; width: 164px;">93895031</td>
 </tr>
 </tbody>
 </table>
