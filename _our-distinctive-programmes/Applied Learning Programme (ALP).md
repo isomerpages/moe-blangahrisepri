@@ -6,8 +6,8 @@ description: ""
 <img src="/images/Photo-1-6.jpg">
 <h4 style="text-align: center;"><strong>Aspiring Confident Engineers (ACE) @ BRPS</strong></h4>
 <blockquote>
-<p style="text-align: center;">"You cannot teach a man anything; you can only help him discover it in himself."</p>
-<p style="text-align: right;"><em>-Galileo Galilei-</em></p>
+<p style="text-align: center;"><span style="color: #000000;">"You cannot teach a man anything; you can only help him discover it in himself."</span></p>
+<p style="text-align: right;"><span style="color: #000000;"><em>-Galileo Galilei-</em></span></p>
 </blockquote>
 <p>Our Applied Learning Programme (ALP), also known as&nbsp;<strong>Aspiring Confident Engineers (</strong><strong><em>ACE</em></strong><strong>) @ BRPS</strong>, anchors on STEM (Science, Technology, Engineering and Mathematics) Education to provide our students with opportunities to work on STEM-related projects. Students explore, investigate and ask questions through analysing problems and solving them through real world examples.</p>
 <p>This programme aims to:</p>
