@@ -27,7 +27,7 @@ description: ""
 </ul>
 <p>They also assist the teachers to collect data to help the school community reduce waste, conserve water as well as be more energy efficient.</p>
 <img src="/images/Picture1-300x194.jpg">
-<p><strong>Biodiversity Corridor</strong></br><strong>(comprising the Animals&rsquo; Corner, Blooming Garden and Eco-pond)</strong></p>
+<p><strong>Biodiversity Corridor</strong><br><strong>(comprising the Animals&rsquo; Corner, Blooming Garden and Eco-pond)</strong></p>
 <p>The Biodiversity Corridor was created to connect and engage our school community for the conservation of Singapore&rsquo;s natural heritage. It is aligned with the Community in Nature (CIN) initiative and the objectives are to:</p>
 <ol>
 <li aria-level="1">Encourage teachers and students to learn, appreciate and support local biodiversity</li>
