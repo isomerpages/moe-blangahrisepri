@@ -6,9 +6,44 @@ description: ""
 <img src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 <h4><strong>2022</strong></h4>
 <ul>
+<li>South West Community Development Council (SWCDC) annual district award, Sustainable South West Awards 2022</li>
+<li><strong>National School Games</strong>
+<div>1) Junior Boys : Xu Botao (4 Topaz) (P4 Boy, Singles), 2nd Runner Up in&nbsp; Tier 1 group.</div>
+<div>
+<div>2) Junior Girls : Amber Tay Kai Hui (4 Topaz) and Rena Teo Jia Xin (4 Opal) (P4 Girls, Doubles), 2nd Runner Up in Tier 2 group.</div>
+</div>
+<div>3) Junior Boys: Group Champions in Tier 2 group.</div>
+<div>4) NSG Sportsmanship Award: Chua Yuan Xiang (5 Topaz)</div>
+<div>5) NSG Sportsmanship Award: Lim Yi Xuan Xxanier (5 Sapphire)</div>
+<div>6) NSG Sportsmanship Award - Mohamed Rafadil Bin Mohamed Zaid (6 Sapphire)</div>
+</li>
+<li>Bronze Medal and Merit Award in The Annual Singapore Primary Science Olympiad (SPSO) 2022 - Hong Rian (5 Topaz) and Lionel Lim (5 Sapphire) (Click&nbsp;<a href="/2022/11/12/two-primary-5s-clinch-bronze-awards-at-spso/"><strong>here</strong></a>&nbsp;to find out more)</li>
+<li>Commendation Award Primary Mathematics Project Competition (PMPC) - Gail Lien (5 Sapphire), Nathanael Chin (5 Sapphire) and Athan Phua (5 Topaz) (Click&nbsp;<strong><a href="/2022/09/29/primary-5-team-wins-commendation-award-at-the-primary-mathematics-project-competition/">here</a></strong>&nbsp;to find out more)</li>
+<li>
+<div>Bronze medal in The Annual Math Olympics for Primary Schools 2022 - Hong Rian (5 Topaz) (Click&nbsp;<strong><a href="/2022/09/19/mathematical-minds-mikhael-chan-and-hong-rian/">here</a></strong>&nbsp;to find out more)</div>
+</li>
+<li>
+<div>35th YMCA Plain English Speaking Award - Gail Lien Zhao Xin (5 Sapphire) (Semi-finalist) (Click&nbsp;<strong><a href="/2022/08/22/semi-finalist-at-the-35th-plain-speaking-english-awards-gail-lien/">here</a></strong>&nbsp;to find out more)</div>
+</li>
+<li>
+<div>National School Games for Basketball in the Junior Primary Category (South Zone Junior Division Basketball Competition Boys) - Tier 2 Champions (Click&nbsp;<strong><a href="/2022/09/19/our-basketball-boys-come-in-as-south-zones-tier-2-champions/">here</a></strong>&nbsp;to find out more)</div>
+</li>
+<li>
+<div>5th Annual Text Recital competition (Silver Award) - Kai Xiang (3 Topaz) and Liu Yi Kai (6 Sapphire)</div>
+</li>
+<li>
+<div>5th Annual Text Recital competition (Bronze Award) -&nbsp; Phua Zhi En Athan (5 Topaz)</div>
+</li>
+<li>
+<div>Listening Educator for Advancement and Progress (LEAP) Award - Ms Munirah</div>
+</li>
+<li>2nd National Schools Scrabble Game e-Series 2022 (Click&nbsp;<strong><a href="/2022/05/18/brps-scrabblers-win-bronze-medals-at-national-schools-scrabble-game-e-series-nssges-2022/">here</a></strong>&nbsp;to find out more)</li>
+<li>Bronze medal in the Junior (J1) PLATE category - Lea Stroe (4 Topaz)</li>
+<li>Bronze medal in the Junior (J2) CUP category - Yang Chenglin (Leo) (3 Opal)</li>
 <li>Wits &amp; Words 2022 Inter-School Debate Competition - (Quarter-finalist) (Click&nbsp;<a href="/2022/03/03/brps-debate-team-advances-to-quarterfinals-at-wits-words-competition/"><strong>here</strong></a>&nbsp;to find out more)</li>
 <li>Red Cross: Gold Award - Excellence Unit Award Year of Achievement 2021 (Click&nbsp;<a href="/2022/03/11/gold-award-for-excellent-unit-award-year-2021/"><strong>here</strong></a>&nbsp;to find out more)</li>
 <li>First Place in Rentas Pantas 2022 (Click&nbsp;<a href="/2022/03/21/p4-students-clinch-first-place-at-rentas-pantas-2022/"><strong>here</strong></a>&nbsp;to find out more)</li>
+<li>Bronze medal in the Singapore Mathematical Olympiad for Primary Schools 2022 - Mikhael Riyo Chan (6 Topaz) (Click&nbsp;<strong><a href="/2022/07/26/bronze-award-at-the-singapore-mathematical-olympiad-for-primary-schools-smops/">here</a></strong>&nbsp;to find out more)</li>
 </ul>
 <h4><strong>2021</strong></h4>
 <ul>
