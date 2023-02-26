@@ -29,20 +29,20 @@ description: ""
  <label for="accordion4">Purchase of textbooks and uniforms</label>
 <div>
 <p><strong>Textbooks</strong></p>
-<p>Please click&nbsp;<a href="/files/BR-Booklist-2022-P1.pdf"><strong>here</strong></a>&nbsp;to view/download P1 Book list 2022</p>
+<p>Please click&nbsp;<a href="/files/D1.pdf">here</a>&nbsp;to view/download P1 Book list 2023</p>
 <p>Mode of Purchase</p>
 <ol>
-<li aria-level="1">Online order:&nbsp;<a href="http://www.ihuntforbooks.com/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://www.ihuntforbooks.com&amp;source=gmail&amp;ust=1636259069532000&amp;usg=AFQjCNHBOr2XCgS8d1aCT123KdRavelCrw">www.ihuntforbooks.com</a>&nbsp;from 2 Dec 2021</li>
-<li aria-level="1">Walk in purchase in school: 9 &ndash; 10 Dec &amp; 16 - 17 Dec &amp; 29 Dec</li>
-<li aria-level="1">Cash/Paynow accepted</li>
+<li>Online order:&nbsp;<a href="http://www.ihuntforbooks.com/">http://www.ihuntforbooks.com</a>&nbsp;from 2nd Dec 2022</li>
+<li>Walk in purchase in school: 8-9 Dec &amp; 14-16 Dec &amp; 29 Dec</li>
+<li>Accepts Cash/Paynow</li>
 </ol>
 <p><strong>Uniforms</strong></p>
-<p>Please click&nbsp;<a href="/files/SIZING_compressed.pdf"><strong>here</strong></a>&nbsp;to view/download Sizing chart.</p>
+<p>Please click&nbsp;<a href="/files/A1.pdf"><strong>here</strong></a>&nbsp;to view/download Sizing chart.</p>
 <p>Mode of purchase</p>
 <ol>
-<li aria-level="1">Online order:&nbsp;<a href="https://beauvoix.com/">Beau Voix</a></li>
-<li aria-level="1">Walk in purchase in school: 9 &ndash; 10 Dec &amp; 16 - 17 Dec &amp; 29 Dec</li>
-<li aria-level="1">Cash/Paynow accepted</li>
+<li>Online order:&nbsp;<a href="https://beauvoix.com/">Beau Voix</a></li>
+<li>Walk in purchase in school: 8-9 Dec &amp; 14-16 Dec &amp; 29 Dec</li>
+<li>Accepts Cash/Paynow</li>
 </ol>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books and PE attire until you are updated on the outcome of the MOE FAS application.</p>
 <p>There is no refund for purchase of books and PE attire. Upon approval of the MOE FAS, you will be entitled to free books and PE attire.</p>
@@ -53,19 +53,24 @@ description: ""
 <label for="accordion5">School Bus Service Provider</label>
 <div>
 <p><strong>DKJ</strong></p>
-<p>Kindly scan the QR code or click&nbsp;<a href="https://forms.gle/SykpTzg4FV7Nisnh7"><strong>here</strong></a>&nbsp;to enroll your kid for our school bus service in year 2022. Our friendly staff will contact you in the beginning of Dec 2021 for sharing the transport information in year 2022 with you. Stay safe!</p>
+<p>Kindly scan or click&nbsp;<strong><a href="https://forms.gle/b6LvkFbpy5nT1Ls3A">here</a></strong>&nbsp;to enroll your kid for our school bus service in year 2023. Our friendly staff will contact you in the beginning of December 2022 for sharing the transport information in year 2023 with you. Stay safe!</p>
 </div>
 </li>
 <li>
 <input type="checkbox" id="accordion6">
  <label for="accordion6">Student Care Centre</label>
 <div>
-<p>NASCANS Pte Ltd is the&nbsp;SCC operator in BRPS.</p>
-<p>Our mission is&nbsp;to help children develop positive, healthy thinking habits and leadership skills, and to build strength of&nbsp;character through fun learning activities. We work closely with the school and parents to provide&nbsp;homework supervision, quality enrichment and character development programmes to help develop&nbsp;students holistically in the after-school hours.</p>
-<p>Kindly note that due to the limited vacancies, priority will be given to students under MOE Financial&nbsp;Assistance Scheme (FAS) and students without adequate home support after school hours.</p>
-<p>If you would like to place your child in NASCANS @ Blangah Rise Student Care Centre in 2022, please&nbsp;complete the link below by 21 Nov 2021.</p>
-<p>Click&nbsp;<strong><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2utFmFUZM7xdJBmRFLzQ7S9M=">here</a></strong>&nbsp;to register your interest.&nbsp;</p>
-<p>Parents will be informed of the application results by 10 Dec 2021.</p>
+<p>NASCANS Pte Ltd which has been in operations for over a decade, is the operator in SCGS.</p>
+<p>Our mission is to help children develop positive, healthy thinking habits and leadership skills, and to build strength of</p>
+<p>character through fun learning activities. We work closely with the school and parents to provide</p>
+<p>homework supervision, quality enrichment and character development programmes to help develop</p>
+<p>students holistically in the after-school hours.</p>
+<p>Kindly note that due to the limited vacancies, priority will be given to students under MOE Financial</p>
+<p>Assistance Scheme (FAS) and students without adequate home support after school hours.</p>
+<p>If you would like to place your child in NASCANS @ Blangah Rise Student Care Centre in 2023, please</p>
+<p>complete the link below by 30 November 2022.</p>
+<p>Click&nbsp;<strong><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2utFmFUZM7xdJBmRFLzQ7S9M=">here</a>&nbsp;</strong>to register your interest.</p>
+<p>Parents will be informed of the application results by 1 Dec 2022, Friday.</p>
 <p>Should you have any enquiries, do reach us at brscc@nascans.com or 9459 6376.</p>
 </div>
 </li>
