@@ -26,7 +26,7 @@ description: ""
 <li aria-level="1">Responsible - is a good role model and supports initiatives of Go Green @ BRPS</li>
 </ul>
 <p>They also assist the teachers to collect data to help the school community reduce waste, conserve water as well as be more energy efficient.</p>
-<img src="/images/Picture1-300x194.jpg">
+<img style="width: 40%;" src="/images/Picture1-300x194.jpg">
 <p><strong>Biodiversity Corridor</strong><br><strong>(comprising the Animals&rsquo; Corner, Blooming Garden and Eco-pond)</strong></p>
 <p>The Biodiversity Corridor was created to connect and engage our school community for the conservation of Singapore&rsquo;s natural heritage. It is aligned with the Community in Nature (CIN) initiative and the objectives are to:</p>
 <ol>
@@ -70,7 +70,7 @@ description: ""
 <p><strong>Commemorating Earth Day</strong></p>
 <p>Every year, we commemorate this annual event with assembly talks, class activities, recess activities and Project Green Awareness in Action (GAIA). Our Junior Primary students participate in recycling challenges such as setting up and&nbsp;decorating their classes&rsquo; recycling boxes. Our Middle Primary students use bottle caps to create pieces of art while our Senior Primary students upcycle used CDs into pledge cards. These upcycling projects are part of our ongoing efforts to commemorate Earth Day 2022.</p>
 <p>To educate our students on &lsquo;Recycling Right&rsquo;, our Parent Support Group (PSG) also created their own posters and charts. With their help, we had our students sow different types of seeds using recycled bottles. The Green Ambassadors in each class help to water and care for the seeds / seedlings. With the help of our PSG, these seedlings are then transplanted into the planters in our Blooming Garden.&nbsp;</p>
-<img src="/images/child.png">
+<img style="width: 75%;" src="/images/child.png">
 <p>Click&nbsp;<a href="/2022/05/13/brlc-commemorate-earth-day-through-upcycling-and-recycling/"><strong>here</strong></a>&nbsp;to read more about how we have commemorated Earth Day 2022.</p>
 <p><strong>Outreach Programmes &ndash; Project GAIA&nbsp;</strong></p>
 <p>For Project GAIA, we collaborate with Sembwaste (Ezi Recycling) and Clean Up! @ Southwest in our recycling efforts. Recycling drives are usually organized for the school community as well as some of the pre-schools around Telok Blangah neighbourhood. These projects are designed to raise students&rsquo; awareness and sensitivity to environmental challenges. It provides an authentic platform for students to explore environmental issues and take action to improve the environment around them.&nbsp;</p>
@@ -83,5 +83,5 @@ description: ""
 <p><strong>Outreach Programmes - The Green Snapshots Trail</strong></p>
 <p>The Green Snapshots (TGS) Nature and Heritage Trail is an environment and heritage-themed learning journey crafted by BRPS teachers. The intent of the learning journey is to provide opportunities for both the school and external communities to appreciate the rich and green history of Telok Blangah and the Southern Ridges. The trails are built on the school’s environmental education programme, which weaves nature into the curriculum and provides experiential learning activities for our students. In the guided-trail version, our Primary 4 and Primary 5 student-docents provide an in-depth and personal sharing of the history and flora and fauna of Telok Blangah and Mount Faber. During the 2½-hour long guided tours, they also share about the area’s unique architecture and development over the years.</p>
 <p>For our continued advocacy for heritage education and sustained partnership through TGS, Blangah Rise Primary School was awarded the 2019 School Heritage Champion Award (Silver) by the National Heritage Board (NHB).</p>
-<img src="/images/TGS-300x214.jpg">
+<img style="width: 40%;" src="/images/TGS-300x214.jpg">
 <p>Click&nbsp;<a href="/the-green-snapshots-tgs/"><strong>here</strong></a>&nbsp;to find out more about the TGS Nature and Heritage Trail.</p>
