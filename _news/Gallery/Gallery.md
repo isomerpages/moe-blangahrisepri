@@ -4,7 +4,6 @@ permalink: /news/gallery/
 description: ""
 third_nav_title: Gallery
 ---
-
 <h4 style="text-align: center;"><strong>2022</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -97,6 +96,103 @@ third_nav_title: Gallery
 <img style="width: 100%;" src="/images/1-7.jpg" />
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">BRLC ushers in the Year of the Tiger!</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+<h4 style="text-align: center;"><strong>2021</strong></h4><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5325015314179496&type=3">
+<img style="width: 100%;" src="/images/21jrpr.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Junior Primary students hone their green fingers at home</span></strong></p>
+</td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5317621818252179&type=3">
+<img style="width: 100%;" src="/images/21end.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Ending 2021 by celebrating our students with BRLC Celebrates!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5293872637293764&type=3">
+<img style="width: 100%;" src="/images/21poty.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Photographer of the Year</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5293783470636014&type=3">
+<img style="width: 100%;" src="/images/21ty.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Thank you Cher!</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5293783470636014&type=3">
+<img style="width: 100%;" src="/images/21nmos.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">National Mathematical Olympiad of Singapore</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5272848196062875&type=3">
+<img style="width: 100%;" src="/images/21d.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Deepavali Celebration</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5269749966372698&type=3">
+<img style="width: 100%;" src="/images/21vic.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Virtues in action</span></strong></p>
+</td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5267174279963600">
+<img style="width: 100%;" src="/images/21ncac.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">National Cyberwellness Advocacy Challenge (NCAC): Gold Award</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
