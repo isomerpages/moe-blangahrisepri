@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Page 12/.keep
-      - Page 12/Highlights Through the eyes of our students.md
+      - "Page 12/Through the eyes of our students: how they think and feel about
+        the precautionary measures.md"
       - Page 12/Clean Up SouthWest CDC.md
       - Page 12/Keeping school safe and healthy for all.md
       - Page 12/P6 Motivation Camp (Session 1).md
