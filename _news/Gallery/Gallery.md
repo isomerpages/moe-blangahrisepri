@@ -141,22 +141,58 @@ third_nav_title: Gallery
 <p class="fl-heading"><strong><span class="fl-heading-text">National Cyberwellness Advocacy Challenge (NCAC): Gold Award</span></strong></p></td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5224762827538079">
+<img style="width: 100%;" src="/images/21cd.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Children's Day 2021</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5224113494269679">
+<img style="width: 100%;" src="/images/21cibp.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Community in Bloom Programme</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5205574642790231">
+<img style="width: 100%;" src="/images/21arif.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Finalist of the Arif Budiman Malay Language Teacher Award 2021</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5061776877170009">
+<img style="width: 100%;" src="/images/21pat.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">President's Award for Teachers (PAT)</span></strong></p></td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5064576136890083">
+<img style="width: 100%;" src="/images/21insect.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Insect visitors in our Primary 2 classrooms!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5142086862472343">
+<img style="width: 100%;" src="/images/21maf.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Celebrating Mid-Autumn Festival with riddles and upcycling!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5156065087741187">
+<img style="width: 100%;" src="/images/21robo.jpeg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">A Taste of Robotics & Engineering for our Primary 1!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5002165996464431">
+<img style="width: 100%;" src="/images/21scrabble.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">2021 Scrabble Tournament For Beginners by Mattel</span></strong></p></td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5002181193129578">
+<img style="width: 100%;" src="/images/21jc.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Johnathan Chan: Determined to Dream Big and Persevere!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5011297805551250">
+<img style="width: 100%;" src="/images/21nd.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">BRPS celebrates National Day 2021</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=5044348342246196">
+<img style="width: 100%;" src="/images/21td.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Happy Teachers’ Day</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://m.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=4976999012314463">
+<img style="width: 100%;" src="/images/21rhd.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Racial Harmony Day 2021</span></strong></p></td>
 </tr>
 <tr>
 <td style="width: 25%;">&nbsp;</td>
