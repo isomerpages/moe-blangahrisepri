@@ -596,7 +596,6 @@ third_nav_title: Gallery
 <img style="width: 100%;" src="/images/19p1ptm.jpg" />
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">P1 Parent Teacher Meeting</span></strong></p></td>
-
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 </tbody>
