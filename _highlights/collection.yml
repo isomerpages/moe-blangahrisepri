@@ -2,6 +2,12 @@ collections:
   highlights:
     output: true
     order:
+      - Page 13/.keep
+      - Page 13/Let’s Read MTL Reading Programme.md
+      - Page 13/Math Competitions Achievements.md
+      - Page 13/CCA Selection Day for Primary 2 students.md
+      - Page 13/A Special Event With Singapore’s Swim Queen, Ms Joscelin Yeo.md
+      - Page 13/Special Event with Mr Fandi Ahmad.md
       - Page 14/.keep
       - Page 14/Page 14.md
       - "Page 14/APEX: Writing Workshop.md"
@@ -162,9 +168,3 @@ collections:
       - Page 10/International Students and Permanent Residents (ISPR)
         Programme.md
       - Page 10/P1 Orientation 2019.md
-      - Page 13/.keep
-      - Page 13/Let’s Read MTL Reading Programme.md
-      - Page 13/Math Competitions Achievements.md
-      - Page 13/CCA Selection Day for Primary 2 students.md
-      - Page 13/A Special Event With Singapore’s Swim Queen, Ms Joscelin Yeo.md
-      - Page 13/Special Event with Mr Fandi Ahmad.md
