@@ -382,7 +382,118 @@ third_nav_title: Gallery
 </table>
 
 <h4 style="text-align: center;"><strong>2019</strong></h4>
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=3225667230780992&ref=page_internal">
+<img style="width: 100%;" src="/images/19asc.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Annular solar eclipse: Giving time to wonder</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=3134164483264601&ref=page_internal">
+<img style="width: 100%;" src="/images/19ncac.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">National Cyberwellness Advocacy Challenge (NCAC)</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3104821629532220&ref=page_internal">
+<img style="width: 100%;" src="/images/19p1o.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">P1 Orientation</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3081077245239992&ref=page_internal">
+<img style="width: 100%;" src="/images/19p6yp.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">P6 Young Photographers</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=3030835570264160&ref=page_internal">
+<img style="width: 100%;" src="/images/19sess.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Special Event with Singapore's Swim Queen, Ms Joscelin Yeo </span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3029067507107633&ref=page_internal">
+<img style="width: 100%;" src="/images/19cd.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Childrens' Day 2019</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=2971006686247049&ref=page_internal">
+<img style="width: 100%;" src="/images/19semfa.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Special Event with Mr Fandi Ahmad</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=2907866509227734&ref=page_internal">
+<img style="width: 100%;" src="/images/19happy.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Happy 54th Birthday Singapore!</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/pg/Blangah-Rise-Primary-School-1143547012326368/photos/?tab=album&album_id=2896784993669219&ref=page_internal">
+<img style="width: 100%;" src="/images/19hopes.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Hopes and dreams of children around Singapore</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=2888979694449749&ref=page_internal">
+<img style="width: 100%;" src="/images/19st.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Singapore Through Children's Eyes: Coffee Table Book</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=2872558102758575&ref=page_internal">
+<img style="width: 100%;" src="/images/19p5ne.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">P5 NE Show</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=2870629432951442&ref=page_internal">
+<img style="width: 100%;" src="/images/19rhdtsc.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Racial Harmony Day: The Singapore Connection</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 <h4 style="text-align: center;"><strong>2018</strong></h4>
 
