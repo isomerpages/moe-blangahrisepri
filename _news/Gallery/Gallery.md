@@ -836,25 +836,64 @@ third_nav_title: Gallery
 <p class="fl-heading"><strong><span class="fl-heading-text">Games Day</span></strong></p></td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157652312755448/">
+<img style="width: 100%;" src="/images/cg15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Chingay @ Heartland</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157652258310895/">
+<img style="width: 100%;" src="/images/swim15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Swimming Competition</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157652303946839/">
+<img style="width: 100%;" src="/images/st15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Speak Takraw</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157655190267356/">
+<img style="width: 100%;" src="/images/green15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">The Green Snapshots</span></strong></p></td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/short_urls.gne?photoset=aHskf9TtAE">
+<img style="width: 100%;" src="/images/bali15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Bali Trip</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157655624451152/">
+<img style="width: 100%;" src="/images/skf15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Sentosa Kidzflea</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157655235072608/">
+<img style="width: 100%;" src="/images/yp15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Young Photographers Learning Journey</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157655785115488/">
+<img style="width: 100%;" src="/images/hrp15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Hari Raya Puasa</span></strong></p></td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157655775928019/">
+<img style="width: 100%;" src="/images/rhd15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Racial Harmony Day</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157655775976009/">
+<img style="width: 100%;" src="/images/p4trail15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">iPad Learning Trail</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157656286256509/">
+<img style="width: 100%;" src="/images/sw15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Samsui Women by The Finger Players</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157656639144076/">
+<img style="width: 100%;" src="/images/nd15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Nurses' Day</span></strong></p></td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157654845635704/">
+<img style="width: 100%;" src="/images/nd151.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">National Day</span></strong></p></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 25%;">&nbsp;</td>
