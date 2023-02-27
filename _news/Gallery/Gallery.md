@@ -304,7 +304,82 @@ third_nav_title: Gallery
 </table>
 
 <h4 style="text-align: center;"><strong>2020</strong></h4>
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=4111181838896189&ref=page_internal">
+<img style="width: 100%;" src="/images/20cd.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Children's Day 2020</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=4021430917871282&ref=page_internal">
+<img style="width: 100%;" src="/images/20td.png" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Teacher's Day 2020</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3445056052175441&ref=page_internal">
+<img style="width: 100%;" src="/images/20wwd.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Commemorating World Water Day 2020</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3445026825511697&ref=page_internal">
+<img style="width: 100%;" src="/images/20al.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Active Lifestyle continues in a different form!</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3439557252725321&ref=page_internal">
+<img style="width: 100%;" src="/images/20bca.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">BCA Green Mark Goldplus Award</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3437491739598539&ref=page_internal">
+<img style="width: 100%;" src="/images/20ccm.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Conversational Chinese and Conversational Malay (CCM)</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3437320049615708&ref=page_internal">
+<img style="width: 100%;" src="/images/20apex.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">APEX and STEM Club: BRPS Amazing Flying Competition</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3409499545731092&ref=page_internal">
+<img style="width: 100%;" src="/images/20appr.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Appreciation to the frontline workers at SingHealth Polyclinics</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3392775547403492&ref=page_internal">
+<img style="width: 100%;" src="/images/20sph.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">SPH Journalist's Sharing Session</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.3390456440968736&type=3">
+<img style="width: 100%;" src="/images/20mslim.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Interview session with Ms Lim Heem Wei</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3374512812563099&ref=page_internal">
+<img style="width: 100%;" src="/images/20sats.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Food Tasting by SATS: 10-Course Meal</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3341317812549266&ref=page_internal">
+<img style="width: 100%;" src="/images/20keep.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Keeping school safe and healthy</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3353068274707553&ref=page_internal">
+<img style="width: 100%;" src="/images/20ty.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Thank you for playing a part!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3311692405511807&ref=page_internal">
+<img style="width: 100%;" src="/images/20dia.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">2019 Distinguished InnoChamp Award</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3311685235512524&ref=page_internal">
+<img style="width: 100%;" src="/images/20stem.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Outstanding STEM Teacher Award</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/Blangah-Rise-Primary-School-1143547012326368/photos?tab=album&album_id=3287234914624223&ref=page_internal">
+<img style="width: 100%;" src="/images/20msnur.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Interview session with Ms Nur Syahidah Alim</span></strong></p></td>
+</tr>
+</tbody>
+</table>
 
 <h4 style="text-align: center;"><strong>2019</strong></h4>
 
