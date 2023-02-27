@@ -815,3 +815,49 @@ third_nav_title: Gallery
 </table>
 
 <h4 style="text-align: center;"><strong>2015</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157651383573995/">
+<img style="width: 100%;" src="/images/tdd15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Total Defence Week</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157650964945820/">
+<img style="width: 100%;" src="/images/fd15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Fire Drill</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157650959887179/">
+<img style="width: 100%;" src="/images/cny15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Chinese New Year</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157651311646936/">
+<img style="width: 100%;" src="/images/gd15.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Games Day</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
