@@ -718,9 +718,100 @@ third_nav_title: Gallery
 
 
 <h4 style="text-align: center;"><strong>2017</strong></h4>
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157690582754896/with/38373316672/">
+<img style="width: 100%;" src="/images/cny2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Chinese New Year</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157688459865381/with/37692967744/">
+<img style="width: 100%;" src="/images/hrp2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Hari Raya Puasa</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157688464379671/with/38354285776/">
+<img style="width: 100%;" src="/images/skf2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Sentosa Kids Flea</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157688464589721">
+<img style="width: 100%;" src="/images/pi2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Prefect's Investiture</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157690590176046/with/26633586489/">
+<img style="width: 100%;" src="/images/rhd2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Racial Harmony Day</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157687348308592">
+<img style="width: 100%;" src="/images/gd2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Games Day</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157689249943294">
+<img style="width: 100%;" src="/images/nd2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">National Day</span></strong></p>
+</td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157666342468519/with/38378118492/">
+<img style="width: 100%;" src="/images/cd2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Children's Day</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157666343029389/with/37695803564/">
+<img style="width: 100%;" src="/images/td2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Teachers' Day</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157688465632621/with/24539003538/">
+<img style="width: 100%;" src="/images/d2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Deepavali</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157689578286654">
+<img style="width: 100%;" src="/images/rj2017.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Rising Joyfully: 40 Years and Beyond!</span></strong></p></td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 <h4 style="text-align: center;"><strong>2016</strong></h4>
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157690581542056/with/38372446852/">
+<img style="width: 100%;" src="/images/2016-CNY-300x200.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Chinese New Year</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/sets/72157666331786689/with/26628411519/">
+<img style="width: 100%;" src="/images/26628482119_87261fc685_m.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Hari Raya Puasa</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157687339042222">
+<img style="width: 100%;" src="/images/37690081134_e8f6130747_m.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Prefects' Investiture</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157688454526751">
+<img style="width: 100%;" src="/images/38372693202_405b7125aa_m.jpg" />
+</a></p>
+<p class="fl-heading" style="text-align: center;"><strong><span class="fl-heading-text">Racial Harmony Day</span></strong></p></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/721576884548911411">
+<img style="width: 100%;" src="/images/26628849759_0534322c38_m.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Deepavali</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157662609083258/with/38372982802/">
+<img style="width: 100%;" src="/images/38372982802_6671a1344c_m.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Sports Day</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.flickr.com/photos/brpspics/albums/72157662609270938/with/38373120852/">
+<img style="width: 100%;" src="/images/38373120852_0de086d42d_m.jpg" />
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Prize Giving Ceremony</span></strong></p></td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 <h4 style="text-align: center;"><strong>2015</strong></h4>
