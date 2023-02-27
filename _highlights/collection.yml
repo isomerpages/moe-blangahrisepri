@@ -2,6 +2,13 @@ collections:
   highlights:
     output: true
     order:
+      - Page 12/.keep
+      - Page 12/Highlights Through the eyes of our students.md
+      - Page 12/Clean Up SouthWest CDC.md
+      - Page 12/Keeping school safe and healthy for all.md
+      - Page 12/P6 Motivation Camp (Session 1).md
+      - Page 12/Interview session with Ms Nur Syahidah Alim.md
+      - Page 13/.keep
       - Page 13/Page 13.md
       - Page 13/Our BRPS inaugural Floorball CCA session.md
       - "Page 13/Annular solar eclipse: Giving time to wonder.md"
@@ -9,7 +16,6 @@ collections:
       - Page 13/International Students and Permanent Residents (ISPR)
         Programme.md
       - Page 13/P1 Orientation 2019.md
-      - Page 13/.keep
       - Page 13/Let’s Read MTL Reading Programme.md
       - Page 13/Math Competitions Achievements.md
       - Page 13/CCA Selection Day for Primary 2 students.md
@@ -163,9 +169,3 @@ collections:
       - Page 9/SPH Journalist’s Sharing Session.md
       - Page 9/Interview session with Ms Lim Heem Wei.md
       - Page 9/SATS Food Tasting.md
-      - Page 12/.keep
-      - Page 12/Highlights Through the eyes of our students.md
-      - Page 12/Clean Up SouthWest CDC.md
-      - Page 12/Keeping school safe and healthy for all.md
-      - Page 12/P6 Motivation Camp (Session 1).md
-      - Page 12/Interview session with Ms Nur Syahidah Alim.md
