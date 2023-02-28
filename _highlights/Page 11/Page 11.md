@@ -8,10 +8,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/09/08/leap-award-mr-patrick-goh/"><img src="/images/111.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/09/08/leap-award-mr-patrick-goh/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -21,10 +21,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/09/08/associate-of-academy-of-singapore-teachers-award-mr-james-han/"><img src="/images/112.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/09/08/associate-of-academy-of-singapore-teachers-award-mr-james-han/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -34,10 +34,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/08/10/good-neighbourliness-movement/"><img src="/images/113.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/08/10/good-neighbourliness-movement/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -47,10 +47,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/06/24/red-cross-gold-excellent-unit-award-eua-2/"><img src="/images/114.jpeg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/06/24/red-cross-gold-excellent-unit-award-eua-2/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -60,10 +60,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/06/22/project-toy-car/"><img src="/images/115.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/06/22/project-toy-car/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -73,10 +73,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/05/01/brps-circuit-breaker-challenges-2/"><img src="/images/116.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/05/01/brps-circuit-breaker-challenges-2/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -86,10 +86,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/03/18/active-lifestyle-continues-in-a-different-form/"><img src="/images/117.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/03/18/active-lifestyle-continues-in-a-different-form/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -99,10 +99,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/03/17/appreciating-the-frontliners/"><img src="/images/118.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/03/17/appreciating-the-frontliners/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -113,10 +113,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/03/11/apex-and-stem-club-brps-amazing-flying-competition/"><img src="/images/119.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/03/11/apex-and-stem-club-brps-amazing-flying-competition/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -126,10 +126,10 @@ third_nav_title: Page 11
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/"><img src="/images/121.jpg"></a></td>
+<td style="width: 35%;"><a href="/2020/03/11/conversational-chinese-and-conversational-malay-ccm/"><img src="/images/1110.jpg"></a></td>
 <td style="width: 65%;">
 <p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
-<p><a href="/2020/03/11/appreciation-to-the-frontline-workers-at-singhealth-polyclinics/">Read More</a></p>
+<p><a href="/2020/03/11/conversational-chinese-and-conversational-malay-ccm/">Read More</a></p>
 </td>
 </tr>
 </tbody>
