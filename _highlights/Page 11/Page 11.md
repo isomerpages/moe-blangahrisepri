@@ -75,7 +75,7 @@ third_nav_title: Page 11
 <tr>
 <td style="width: 35%;"><a href="/2020/05/01/brps-circuit-breaker-challenges-2/"><img src="/images/116.jpg"></a></td>
 <td style="width: 65%;">
-<p>Active Lifestyle continues in a different form! In view of the ongoing Covid-19 situation, we modified the annual Active Lifestyle Day. Instead of hosting a mass event on one day, we spread out the activities over a week and organised them at the class level. Through a series of activities, students were encouraged to develop […]</p>
+<p>Participate in our BRPS Circuit Breaker Challenges on the following dates! Stay tuned to our website and Facebook to find out more! 28 May 2020 26 May 2020 Some entries from our students 22 May 2020 20 May 2020 18 May 2020 14 May 2020 12 May 2020 Some of our students’ works 8 May […]</p>
 <p><a href="/2020/05/01/brps-circuit-breaker-challenges-2/">Read More</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ third_nav_title: Page 11
 <tr>
 <td style="width: 35%;"><a href="/2020/03/18/active-lifestyle-continues-in-a-different-form/"><img src="/images/117.jpg"></a></td>
 <td style="width: 65%;">
-<p>Our 8-year-olds really want to say thank-you to our Covid-19 heroes…their way. Check out this video which we had produced in Term 1!</p>
+<p>Active Lifestyle continues in a different form! In view of the ongoing Covid-19 situation, we modified the annual Active Lifestyle Day. Instead of hosting a mass event on one day, we spread out the activities over a week and organised them at the class level. Through a series of activities, students were encouraged to develop […]</p>
 <p><a href="/2020/03/18/active-lifestyle-continues-in-a-different-form/">Read More</a></p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ third_nav_title: Page 11
 <tr>
 <td style="width: 35%;"><a href="/2020/03/17/appreciating-the-frontliners/"><img src="/images/118.jpg"></a></td>
 <td style="width: 65%;">
-<p>In February this year, our APEX (Mathematics and Science) students as well as students from the STEM Club participated in our in-house BRPS Amazing Flying Competition. In their teams, they researched and explored different ways to achieve the longest and farthest flight. Under the guidance of the teachers, each team designed their own plane. Students […]</p>
+<p>Our 8-year-olds really want to say thank-you to our Covid-19 heroes…their way. Check out this video which we had produced in Term 1!</p>
 <p><a href="/2020/03/17/appreciating-the-frontliners/">Read More</a></p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ third_nav_title: Page 11
 <tr>
 <td style="width: 35%;"><a href="/2020/03/11/apex-and-stem-club-brps-amazing-flying-competition/"><img src="/images/119.jpg"></a></td>
 <td style="width: 65%;">
-<p>“Selemat Tengah Hari, Cikgu Azlin!” “郭老师午安！” These would have been typical greetings, except that they were uttered by Primary 3 and Primary 4 students who were learning Chinese and Malay for the first time. Our students had the opportunity to learn a different Mother Tongue Language during the Conversational Chinese and Conversational Malay (CCM) Programme […]</p>
+<p>In February this year, our APEX (Mathematics and Science) students as well as students from the STEM Club participated in our in-house BRPS Amazing Flying Competition. In their teams, they researched and explored different ways to achieve the longest and farthest flight. Under the guidance of the teachers, each team designed their own plane. Students […]</p>
 <p><a href="/2020/03/11/apex-and-stem-club-brps-amazing-flying-competition/">Read More</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ third_nav_title: Page 11
 <tr>
 <td style="width: 35%;"><a href="/2020/03/11/conversational-chinese-and-conversational-malay-ccm/"><img src="/images/1110.jpg"></a></td>
 <td style="width: 65%;">
-<p>Blangah Rise Learning Campus shows our appreciation to the frontline workers at SingHealth @SingHealth Polyclinics! Our children, parents and staff from our primary school and MOE Kindergarten presented thank you notes to CEO Dr Adrian Ee and the management. We truly appreciate your hard work and dedication! #StrongerTogether #SGUnited #SingHealth […]</p>
+<p>“Selemat Tengah Hari, Cikgu Azlin!” “郭老师午安！” These would have been typical greetings, except that they were uttered by Primary 3 and Primary 4 students who were learning Chinese and Malay for the first time. Our students had the opportunity to learn a different Mother Tongue Language during the Conversational Chinese and Conversational Malay (CCM) Programme […]</p>
 <p><a href="/2020/03/11/conversational-chinese-and-conversational-malay-ccm/">Read More</a></p>
 </td>
 </tr>
