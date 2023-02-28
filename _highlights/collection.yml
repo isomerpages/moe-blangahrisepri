@@ -2,6 +2,13 @@ collections:
   highlights:
     output: true
     order:
+      - Page 11/.keep
+      - Page 11/BRPS Circuit Breaker Challenges.md
+      - Page 11/Active Lifestyle continues in a different form!.md
+      - Page 11/Appreciating the frontliners.md
+      - Page 11/APEX and STEM Club BRPS Amazing Flying competition.md
+      - Page 11/Conversational Chinese and Conversational Malay (CCM).md
+      - Page 12/.keep
       - Page 12/Page 12.md
       - Page 12/Appreciation to the frontline workers at SingHealth
         Polyclinics.md
@@ -9,7 +16,6 @@ collections:
       - Page 12/SPH Journalist’s Sharing Session.md
       - Page 12/Interview session with Ms Lim Heem Wei.md
       - Page 12/SATS Food Tasting.md
-      - Page 12/.keep
       - "Page 12/Through the eyes of our students: how they think and feel about
         the precautionary measures.md"
       - Page 12/Clean Up SouthWest CDC.md
@@ -166,9 +172,3 @@ collections:
       - Page 8/Good Neighbourliness Movement.md
       - "Page 8/Red Cross: Gold Excellent Unit Award (EUA).md"
       - Page 8/Project Toy Car.md
-      - Page 11/.keep
-      - Page 11/BRPS Circuit Breaker Challenges.md
-      - Page 11/Active Lifestyle continues in a different form!.md
-      - Page 11/Appreciating the frontliners.md
-      - Page 11/APEX and STEM Club BRPS Amazing Flying competition.md
-      - Page 11/Conversational Chinese and Conversational Malay (CCM).md
