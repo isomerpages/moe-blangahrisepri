@@ -18,3 +18,23 @@ third_nav_title: Page 2
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/mins3.jpg"></td>
+<td style="width: 50%;"><img src="/images/mins4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mins5.jpg"></td>
+<td style="width: 50%;"><img src="/images/mins6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mins7.jpg"></td>
+<td style="width: 50%;"><img src="/images/mins8.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mins9.jpg"></td>
+<td style="width: 50%;"><img src="/images/mins10.jpg"></td>
+</tr>
+</tbody>
+</table>
