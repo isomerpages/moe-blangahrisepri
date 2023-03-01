@@ -73,7 +73,7 @@ third_nav_title: Page 8
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/03/30/reading-comes-alive-for-our-brlc-students/"><img src="/images/86.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/03/30/reading-comes-alive-for-our-brlc-students/"><img src="/images/86.png"></a></td>
 <td style="width: 65%;">
 <p>“What do you use to draw your pictures with?”, “How long do you take to write a book?” and “What advice would you give me if I wanted to be a writer?” “Why is Sherlock Sam always wearing a shirt with ‘Ad” on it?” These were just some of the questions that Blangahnites posed to […]</p>
 <p><a href="/2021/03/30/reading-comes-alive-for-our-brlc-students/">Read More</a></p>
