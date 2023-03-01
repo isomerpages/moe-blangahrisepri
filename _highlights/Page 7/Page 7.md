@@ -8,10 +8,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/08/16/a-special-feature-on-nyguen-minh-dat-a-quiet-student-blossoms-into-powerful-speaker-through-debate/"><img src="/images/71.jpg"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/08/16/a-special-feature-on-nyguen-minh-dat-a-quiet-student-blossoms-into-powerful-speaker-through-debate/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -21,10 +21,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/08/16/our-mural-is-live-at-harbourfront-mrt-station/"><img src="/images/72.jpg"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/08/16/our-mural-is-live-at-harbourfront-mrt-station/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -34,10 +34,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/08/13/racial-harmony-day-2021/"><img src="/images/73.jpg"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/08/13/racial-harmony-day-2021/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -47,10 +47,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/08/02/shining-the-light-on-inquiry-in-our-classrooms/"><img src="/images/74.jpeg"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/08/02/shining-the-light-on-inquiry-in-our-classrooms/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -60,10 +60,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/07/12/sharing-the-art-of-shadow-puppetry/"><img src="/images/75.jpg"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/07/12/sharing-the-art-of-shadow-puppetry/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -73,10 +73,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/05/25/a-chat-with-our-olympian-mr-clarence-chew/"><img src="/images/76.png"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/05/25/a-chat-with-our-olympian-mr-clarence-chew/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -86,10 +86,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/05/24/asia-pacific-mathematical-olympiad-for-primary-schools-apmops/"><img src="/images/77.jpg"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/05/24/asia-pacific-mathematical-olympiad-for-primary-schools-apmops/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -99,10 +99,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/05/14/international-friendship-day-2021/"><img src="/images/78.png"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/05/14/international-friendship-day-2021/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -112,10 +112,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/05/07/upcycling-recycling-we-celebrate-earth-day/"><img src="/images/79.jpg"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/05/07/upcycling-recycling-we-celebrate-earth-day/">Read More</a></p>
 </td>
 </tr>
 </tbody>
@@ -125,10 +125,10 @@ third_nav_title: Page 7
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2021/02/26/prefects-investiture-2021/"><img src="/images/91.jpg"></a></td>
+<td style="width: 35%;"><a href="/2021/05/07/preparing-our-mk-pre-schoolers-through-the-k2-transition-programme/"><img src="/images/710.jpg"></a></td>
 <td style="width: 65%;">
 <p>On 2 February 2021, the school came together to congratulate our newly appointed Prefectorial Council comprising six office bearers and forty-one prefects. Our prefects underwent a thorough selection process comprising interviews and discussions with teachers. They are representatives of their fellow Blangahnites as they exemplify the best qualities that every student aspires to have. Our prefects […]</p>
-<p><a href="/2021/02/26/prefects-investiture-2021/">Read More</a></p>
+<p><a href="/2021/05/07/preparing-our-mk-pre-schoolers-through-the-k2-transition-programme/">Read More</a></p>
 </td>
 </tr>
 </tbody>
