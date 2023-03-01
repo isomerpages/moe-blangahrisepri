@@ -2,6 +2,15 @@ collections:
   highlights:
     output: true
     order:
+      - Page 3/.keep
+      - Page 3/Junior Reporters Workshop with SPH Reporters.md
+      - "Page 3/Spotlighting our Staff: Hear from Five BRPS Educators.md"
+      - Page 3/The Green Dragonflies and Their Swampy Friends at the Festival of
+        Biodiversity 2022!.md
+      - Page 3/Hari Raya Celebration.md
+      - Page 3/Robotics and Engineering Fun with BRPS Applied Learning
+        Programme.md
+      - Page 4/.keep
       - Page 4/Page 4.md
       - Page 4/BRPS Scrabblers win bronze medals at National Schools Scrabble
         Game eSeries (NSSGeS) 2022.md
@@ -12,7 +21,6 @@ collections:
         Yi.md"
       - Page 4/MOE Kindergarten students explore technology through BRPS’s
         Applied Learning Program.md
-      - Page 4/.keep
       - Page 4/P6 Motivation Camp 2022.md
       - "Page 4/Parents Webinar: How to Cultivate the Love for MTL in
         Children.md"
@@ -173,11 +181,3 @@ collections:
       - Page 16/We would like to thank Ms Indranee Rajah, Second Minister for
         Education for visiting our school.md
       - Page 16/Hebei Handan Laike Primary School.md
-      - Page 3/.keep
-      - Page 3/Junior Reporters Workshop with SPH Reporters.md
-      - "Page 3/Spotlighting our Staff: Hear from Five BRPS Educators.md"
-      - Page 3/The Green Dragonflies and Their Swampy Friends at the Festival of
-        Biodiversity 2022!.md
-      - Page 3/Hari Raya Celebration.md
-      - Page 3/Robotics and Engineering Fun with BRPS Applied Learning
-        Programme.md
