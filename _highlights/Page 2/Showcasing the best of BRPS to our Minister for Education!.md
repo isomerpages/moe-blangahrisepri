@@ -13,7 +13,7 @@ third_nav_title: Page 2
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 20%;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChanChunSing.SG%2Fvideos%2F1098111767502663%2F&amp;width=500&amp;show_text=true&amp;height=1099&amp;appId" width="300" height="1099" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></td>
+<td style="width: 20%;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChanChunSing.SG%2Fvideos%2F1098111767502663%2F&amp;width=500&amp;show_text=true&amp;height=1099&amp;appId" width="300" height="1000" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></td>
 <td style="width: 80%;"><img src="/images/mins1.jpg"><br><img src="/images/mins2.jpg"></td>
 </tr>
 </tbody>
