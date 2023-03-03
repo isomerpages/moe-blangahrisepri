@@ -63,38 +63,6 @@ links:
         url: /viewpoints/
       - title: Young Photographers
         url: /our-distinctive-programmes/young-photographers/
-  - title: For Parents
-    url: /parent-support-group/parent-group/
-    sublinks:
-      - title: Parent Support Group
-        url: /parent-support-group/parent-group/
-      - title: P1 Orientation for 2022 Cohort
-        url: /p1-orientation/
-      - title: School Letters & Information
-        url: /parent-support-group/school-letters-information/
-      - title: School Bus, Uniform & Bookshop
-        url: /parent-support-group/school-bus-uniform-bookshop/
-      - title: SATS School Meals Programme
-        url: /parent-support-group/sats-school-meals-programme/
-      - title: The Growing Years
-        url: /parent-support-group/the-growing-years-programme/
-      - title: Our School Rules & Regulations
-        url: /parent-support-group/our-school-rules-and-regulations/
-      - title: MOE FAS Application
-        url: /moe-fas-application/
-      - title: FAQs
-        url: /parent-support-group/faq/
-  - title: News
-    url: /news/our-achievements/
-    sublinks:
-      - title: Our Achievements
-        url: /news/our-achievements/
-      - title: Highlights
-        url: /news/highlights/page/1/
-      - title: Photo Gallery
-        url: /news/gallery
-      - title: Our Visitors
-        url: /2019/10/10/visit-by-teachers-from-hainan-china/
   - title: Special Projects
     url: /our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/
     sublinks:
@@ -106,18 +74,5 @@ links:
         url: /reflections-of-an-overcomer-life-lessons-from-our-sg-sports-heroes/
       - title: The Green Dragonflies & T.S.F
         url: /our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/
-  - title: Publications
-    url: /broadcast/
-    sublinks:
-      - title: BRoadcast
-        url: /broadcast/
-      - title: Staff Bulletin
-        url: /staff-bulletin/
-      - title: Dian Dian Di Di
-        url: /dian-dian-di-di/
-      - title: Healthy Kids
-        url: /2020/03/29/be-bright-eat-right/
-      - title: Parents Post
-        url: /2021/02/10/parents-post/
-      - title: BRAVO!
-        url: /2021/02/10/bravo/
+  - title: Contact Us
+    url: /contact-us/
