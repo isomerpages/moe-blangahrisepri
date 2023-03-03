@@ -32,6 +32,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      url: /announcements/
   - infopic:
       title: Announcements 2
       subtitle: Infopic Subtitle
