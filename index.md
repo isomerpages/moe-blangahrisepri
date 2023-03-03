@@ -27,8 +27,27 @@ sections:
       url: https://www.youtube.com/watch?v=GBCbE_lJU60
   - resources:
       title: Announcements
-  - infobar:
-      title: Highlights
-      button: view all highlights
+  - infopic:
+      title: Announcement 1
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Announcements 2
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Highlights 1
+      description: Infopic description
+      button: Button Text
       url: /2022/05/25/junior-reporters-workshop-with-sph-reporters/
+      alt: Image alt text
+  - infopic:
+      title: Highlights 2
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
