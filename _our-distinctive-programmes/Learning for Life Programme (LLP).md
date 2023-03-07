@@ -111,7 +111,20 @@ description: ""
 <p><strong>Commemorating Earth Day</strong></p>
 <p>Every year, we commemorate this annual event with assembly talks, class activities, recess activities and Project Green Awareness in Action (GAIA). Our Junior Primary students participate in recycling challenges such as setting up and&nbsp;decorating their classes&rsquo; recycling boxes. Our Middle Primary students use bottle caps to create pieces of art while our Senior Primary students upcycle used CDs into pledge cards. These upcycling projects are part of our ongoing efforts to commemorate Earth Day 2022.</p>
 <p>To educate our students on &lsquo;Recycling Right&rsquo;, our Parent Support Group (PSG) also created their own posters and charts. With their help, we had our students sow different types of seeds using recycled bottles. The Green Ambassadors in each class help to water and care for the seeds / seedlings. With the help of our PSG, these seedlings are then transplanted into the planters in our Blooming Garden.&nbsp;</p>
-<img style="width: 75%;" src="/images/child.png">
+<table style="border-collapse: collapse; width: 65%;" border="1">
+<tbody>
+<tr>
+<td colspan = "2"><img src="/images/p14.jpg"></td>
+</tr>
+<tr>
+<td colspan = "2"><img src="/images/p15.jpg"></td>
+</tr>
+<tr>
+<td style="width: 40%;"><img src="/images/p16.jpg"></td>
+<td style="width: 60%;"><img src="/images/p17.jpg"></td>
+</tr>
+</tbody>
+</table>
 <p>Click&nbsp;<a href="/2022/05/13/brlc-commemorate-earth-day-through-upcycling-and-recycling/"><strong>here</strong></a>&nbsp;to read more about how we have commemorated Earth Day 2022.</p>
 <p><strong>Outreach Programmes &ndash; Project GAIA&nbsp;</strong></p>
 <p>For Project GAIA, we collaborate with Sembwaste (Ezi Recycling) and Clean Up! @ Southwest in our recycling efforts. Recycling drives are usually organized for the school community as well as some of the pre-schools around Telok Blangah neighbourhood. These projects are designed to raise students&rsquo; awareness and sensitivity to environmental challenges. It provides an authentic platform for students to explore environmental issues and take action to improve the environment around them.&nbsp;</p>
