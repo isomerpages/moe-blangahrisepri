@@ -91,7 +91,7 @@ description: ""
 <p>It is through service that students apply their learning of virtues and habits and build connectedness with school and community.</p>
 <p>Every month, we bring the students for a wellness activity. As a class, the students discuss and come up with their own activity that lets them focus on self-care. Popular activities include walks in our gardens, picnics and fun games.</p>
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/cce33.png" /></td>
