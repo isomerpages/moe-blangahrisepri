@@ -7,24 +7,36 @@ description: ""
 <p>We envision ourselves as a joyful school of confident learners and caring leaders. We have a customized Character and Citizenship curriculum for holistic development of students.</p>
 
 <h4><strong><span style="text-decoration: underline; color: #339966;"></span></strong></h4>
+
 <blockquote>
 <p style="text-align: center;"><em><span style="text-decoration: underline; color: #339966;">&ldquo;Physical fitness is the first requisite of happiness.&rdquo;</span></em></p>
 </blockquote>
+
 <p style="text-align: right;"><em><span style="text-decoration: ; color: #339966;">Joseph Pilates</em></p>
 	
 <p>Blangah Rise has many platforms for our pupils to practice a healthy lifestyle through our CCAs, Sports activities and House Sessions. In these sessions, students experience joyful&nbsp;learning with their friends, and they collaborate actively to achieve team goals. SATS, Asia&rsquo;s leading airline caterer, has been engaged to provide healthy and nutritious school meals for the students. A dietician on the SATS team ensures that all meals adhere to HPB&rsquo;s Healthy Meals in School Programme and offer the optimal amount of nutrients.</p>
 
 <img style="width: 80%;" src="/images/cce2.jpg" />
+
 <p><strong><u>School Environment<br /></u></strong>To create a school environment that is inviting, affirming and conducive to positive student experiences, students&rsquo; works are designed on the walls, decoration trees, class notice boards, and level boards. Student Leaders regularly share and encourage each other through sharing of motivational quotes and stories before the singing of the National Anthem and via various level notice and walkway boards, staircases, Art &amp; NE Heritage Galleries.</p>
+
 <img src="/images/cce2.png">
+
 <p><strong><u>Student Recognition<br /></u></strong>To monitor and nurture students&rsquo; growth in the Virtues and 7 Habits, there are multiple recognition schemes that emphasize and encourage students to practice them.</p>
+
 <p>In Blangah Rise, all our students are precious gems whom we lovingly polish to shine and be the best they can be. The termly GEM Class award acknowledges students who work cooperatively and exemplify the Seven Habits and the underlying virtues as a class. The termly GEM Student award recognises students from every level who display the Seven Habits and the virtues in their everyday actions.</p>
+
 <img src="/images/cce3.png">
+
 <p><u><strong>Student Recognition</strong><br /></u>&lsquo;GOTCHA! Caught you doing good!&rsquo; is a platform for recognising students who exhibit the Seven Habits and the underlying virtues by doing good deeds. Students are caught doing these deeds in their everyday actions and routines by their teachers. We also recognize students that demonstrate good sportsmanship during CCAs and House Practice. The acts are then featured and shared with the rest of the student population, encouraging them to do similar good deeds in their daily actions.</p>
+
 <img src="/images/cce4.png">
+
 <p><strong><u>Teacher Relationships<br /></u></strong>To ensure every Blangahnite has a deep sense of belonging to his or her class and school, it is important to foster trusting relationships between teachers and students. Form teachers meet up with students every morning to speak the language of virtues and also to connect with them. Through these discussions, teachers get to know more about the student&rsquo;s life, experiences and goals. Renard, a Primary 6 student shares, &ldquo;I look forward to Connect Time as I get time to share with my Form Teachers my views and opinions on class matters.&rdquo; Mdm Sa&rsquo;adah adds, &ldquo;Connect Time gives me opportunities to get to know my students in my form class better.&rdquo;</p>
 <p>In our House System introduced in 2021, we learn and grow together as a community. Teachers connect with students and provide guidance to them. House members are engaged in games and rapport is built upon a climate of trust, care and respect. To support the students academically, Teacher Mentors guide the students in Self-Study for up to an hour before the physical activities.</p>
+
 <img src="/images/cce5.png">
+
 <p><u><strong>Rootedness to SG</strong><br /></u>Blangah Rise has many meaningful activities to help our students to be concerned citizens and active contributors to Singapore. Other than the 4 major NE events, we also have many customized activities unique to our school. In the Green Snapshots Trail, our students introduce the rich biodiversity of the Singapore&rsquo;s green areas around our school.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qCCfMmtjEiY" title="The Green Snapshots: Welcome Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p>In our LLP, students take care of the green gardens in the school, and participate actively in environmental conservation. From young, our students learn the importance of how they can do their part to conserve and protect the environment in Singapore.</p>
