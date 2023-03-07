@@ -52,8 +52,8 @@ description: ""
 
 <h4><strong><span style="color: #ff6600;"><u>MIND</u></strong></span></h4>
 
-<blockquote>
-<p style="text-align: center;"><strong><span style="color: #ff6600;"><em>"True education does not consist merely in the acquiring of a few facts of science, history, literature, or art, but in the development of character."</em></strong></span></p>
+<blockquote style="text-align: center;">
+<strong><span style="color: #ff6600;"><em>"True education does not consist merely in the acquiring of a few facts of science, history, literature, or art, but in the development of character."</em></strong></span>
 </blockquote>
 
 <p style="text-align: right;"><em><span style="color: #ff6600;">-David O. Mckay-</em></span></p>
