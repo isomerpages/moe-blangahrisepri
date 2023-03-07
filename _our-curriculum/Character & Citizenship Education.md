@@ -8,8 +8,8 @@ description: ""
 
 <h4><strong><span style="text-decoration: underline; color: #339966;"></span></strong></h4>
 
-<blockquote>
-<p style="text-align: center;"><em><span style="text-decoration: underline; color: #339966;">&ldquo;Physical fitness is the first requisite of happiness.&rdquo;</span></em></p>
+<blockquote style="text-align: center;">
+<em><span style="text-decoration: underline; color: #339966;">&ldquo;Physical fitness is the first requisite of happiness.&rdquo;</span></em>
 </blockquote>
 
 <p style="text-align: right;"><em><span style="text-decoration: ; color: #339966;">Joseph Pilates</em></p>
