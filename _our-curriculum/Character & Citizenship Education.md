@@ -50,7 +50,7 @@ description: ""
 <img src="/images/07-Rootedness-to-SG-Picture-2.png">
 <img src="/images/cce6.png">
 
-<h4><strong><span style="color: #ff6600;"><em>MIND</em></span></strong></h4>
+<h4><span style="color: #ff6600;"><strong><em>MIND</em></strong></span></h4>
 
 <blockquote style="text-align: center;">
 <strong><span style="color: #ff6600;"><em>"True education does not consist merely in the acquiring of a few facts of science, history, literature, or art, but in the development of character."</em></strong></span>
