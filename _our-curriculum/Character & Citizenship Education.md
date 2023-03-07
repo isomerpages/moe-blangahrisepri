@@ -6,13 +6,11 @@ description: ""
 <img style="width: 60%;" src="/images/cce1.jpg" />
 <p>We envision ourselves as a joyful school of confident learners and caring leaders. We have a customized Character and Citizenship curriculum for holistic development of students.</p>
 
-<h4><strong><span style="text-decoration: underline; color: #339966;"></span></strong></h4>
+<p style="color: #339966; font-weight:bold;text-decoration: underline; font-size: 20px">BODY</p>
 
 <blockquote style="text-align: center;">
 <em><span style="text-decoration: underline; color: #339966;">&ldquo;Physical fitness is the first requisite of happiness.&rdquo;</span></em>
 </blockquote>
-
-<p style="color: #339966; font-weight:bold;text-decoration: underline; font-size: 20px">BODY</p>
 
 <p style="text-align: right;"><em><span style="text-decoration: ; color: #339966;">Joseph Pilates</span></em></p>
 	
