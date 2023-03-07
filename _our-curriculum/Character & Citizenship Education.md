@@ -38,16 +38,24 @@ description: ""
 <img src="/images/cce5.png">
 
 <p><u><strong>Rootedness to SG</strong><br /></u>Blangah Rise has many meaningful activities to help our students to be concerned citizens and active contributors to Singapore. Other than the 4 major NE events, we also have many customized activities unique to our school. In the Green Snapshots Trail, our students introduce the rich biodiversity of the Singapore&rsquo;s green areas around our school.</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qCCfMmtjEiY" title="The Green Snapshots: Welcome Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <p>In our LLP, students take care of the green gardens in the school, and participate actively in environmental conservation. From young, our students learn the importance of how they can do their part to conserve and protect the environment in Singapore.</p>
+
 <p><em>I have learnt how to recycle and make use of old things. Upcycling is when you make something better out of something that is not needed anymore. I like the activity and I am going to use what I made to store my pencils. I like that you can recycle things.</em></p>
+
 <p style="text-align: right;"><em>Gail, Primary 5</em></p>
+
 <img src="/images/07-Rootedness-to-SG-Picture-2.png">
 <img src="/images/cce6.png">
+
 <h4><strong><span style="color: #ff6600;"><u>MIND</u></strong></span></h4>
+
 <blockquote>
 <p style="text-align: center;"><strong><span style="color: #ff6600;"><em>"True education does not consist merely in the acquiring of a few facts of science, history, literature, or art, but in the development of character."</em></strong></span></p>
 </blockquote>
+
 <p style="text-align: right;"><em><span style="color: #ff6600;">-David O. Mckay-</em></span></p>
 <p><u><strong>ECG and Decision-making</strong><br /></u>In Blangah Rise, we nurture our students to be reflective learners who make sound decisions. In our education career guidance programme, we help students understand their interests/strengths and to develop a growth mindset, so they can serve and contribute to society in future.</p>
 <p>In the light of the pandemic, most of our engagements have moved to online platforms. Through online conferencing, students are able to hear inspirational stories from how others have built on their strengths to overcome challenges in their lives to find their calling. Julia, a student from Primary 6, excitedly shared that: &ldquo;A barista showed us how to brew coffee online and it was cool! I also found out about some of the challenges in working in the service industry.&rdquo;</p>
@@ -76,6 +84,7 @@ description: ""
 <img style="width: 65%;" src="/images/11-Ending-Bamboo.png">
 <p>Developing good character does not come immediately. The story of the bamboo tree has some lessons for us. In its first four years, we may not see any bamboo growth above the soil at all. But finally in the fifth year, we can see that the bamboo tree grows 80 feet in just six weeks!</p>
 <p>This does not mean that nothing has happened to the bamboo for the first four years. It is growing its roots to nurture a strong foundation. Growing takes time. You cannot grow high if you do not grow deep. Virtues are the roots that give us the strength to grow upwards. What we do everyday matters. It is our Habits that define us.</p>
+
 <blockquote>
 <p style="text-align: center;"><em>Watch your words; they become actions.</em></p>
 <p style="text-align: center;"><em>Watch your actions; they become habits.</em></p>
