@@ -57,22 +57,33 @@ description: ""
 </blockquote>
 
 <p style="text-align: right;"><em><span style="color: #ff6600;">-David O. Mckay-</em></span></p>
+
 <p><u><strong>ECG and Decision-making</strong><br /></u>In Blangah Rise, we nurture our students to be reflective learners who make sound decisions. In our education career guidance programme, we help students understand their interests/strengths and to develop a growth mindset, so they can serve and contribute to society in future.</p>
+
 <p>In the light of the pandemic, most of our engagements have moved to online platforms. Through online conferencing, students are able to hear inspirational stories from how others have built on their strengths to overcome challenges in their lives to find their calling. Julia, a student from Primary 6, excitedly shared that: &ldquo;A barista showed us how to brew coffee online and it was cool! I also found out about some of the challenges in working in the service industry.&rdquo;</p>
+
 <img src="/images/cce7.png">
 <p>The school also has a programme starting with introductory FTGP lessons on Career Guidance for Middle Primary students to in-depth FTGP lessons and the introduction of the MySkillsFuture portal for Senior Primary students. MySkillsFuture is a one-stop ECG portal that empowers students to embark on a journey of self-discovery and make informed education and career choices.</p>
+
 <p><strong><u>Teacher Mentor<br /></u></strong>In Blangah Rise, Our Character Education Programme is anchored upon the 7 Habits and also the Virtues Project. In all aspects of school life, our teacher mentors speak the language of virtues to acknowledge and guide our students. This is done through catching teachable moments, and also through formal lessons. In our CCE/FTGP lessons, our teachers will engage the students through various scenarios to examine their motives and consider the values and principles they choose to uphold in making decisions.</p>
+
 <img src="/images/cce8.png">
+
 <h4><strong><span style="color: #ff0000;"><u>SPIRIT</u></strong></span></h4>
-<blockquote>
-<p style="text-align: center;"><span style="color: #ff0000;"><em>"We make a living by what we get but we make a life by what we give."</em></span></p>
-</blockquote>
+
+<blockquote style="text-align: center;">
+<span style="color: #ff0000;"><em>"We make a living by what we get but we make a life by what we give."</em></span></blockquote>
+
 <p style="text-align: right;"><span style="color: #ff0000;"><em>-Winston Churchill-</em></span></p>
+
 <p>Blangah Rise focuses on giving back to the school, the community and the environment. Every class carries out a VIA activity to benefit the school community. School programmes and activities are organised to appreciate our Pioneer Generation. Fundraising for charity takes place during festive celebrations in school.</p>
+
 <p>Students also grow and harvest plants and herbs in our gardens. This helps cultivate lifelong habits such as empathy and responsibility as well as develops self-empowerment and team harmony.</p>
+
 <img src="/images/cce9.png">
 <p>It is through service that students apply their learning of virtues and habits and build connectedness with school and community.</p>
 <p>Every month, we bring the students for a wellness activity. As a class, the students discuss and come up with their own activity that lets them focus on self-care. Popular activities include walks in our gardens, picnics and fun games.</p>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -81,15 +92,22 @@ description: ""
 </tr>
 </tbody>
 </table>
+
 <img style="width: 65%;" src="/images/11-Ending-Bamboo.png">
+
 <p>Developing good character does not come immediately. The story of the bamboo tree has some lessons for us. In its first four years, we may not see any bamboo growth above the soil at all. But finally in the fifth year, we can see that the bamboo tree grows 80 feet in just six weeks!</p>
+
 <p>This does not mean that nothing has happened to the bamboo for the first four years. It is growing its roots to nurture a strong foundation. Growing takes time. You cannot grow high if you do not grow deep. Virtues are the roots that give us the strength to grow upwards. What we do everyday matters. It is our Habits that define us.</p>
 
-<blockquote>
-<p style="text-align: center;"><em>Watch your words; they become actions.</em></p>
-<p style="text-align: center;"><em>Watch your actions; they become habits.</em></p>
-<p style="text-align: center;"><em>Watch your habits; they become character.</em></p>
-<p style="text-align: center;"><em>Watch your character; it becomes your destiny.</em></p>
+<blockquote style="text-align: center;">
+<em>Watch your words; they become actions.</em><br><br>
+<em>Watch your actions; they become habits.</em>
+<br><br>
+<em>Watch your habits; they become character.</em>
+<br><br>
+<em>Watch your character; it becomes your destiny.</em>
 </blockquote>
+
 <p style="text-align: right;"><em>Lao Tzu</em></p>
+
 <p>At Blangah Rise, we believe that every child is important. Every child can grow. Join us in our journey as we grow deep and grow high together!</p>
