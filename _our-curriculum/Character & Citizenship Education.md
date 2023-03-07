@@ -18,6 +18,14 @@ description: ""
 
 <img style="width: 80%;" src="/images/cce2.jpg" />
 
+<p style="color: #339966; font-weight:bold;text-decoration: underline; font-size: 20px">HEARTS</p>
+
+<blockquote style="text-align: center;">
+<em><span style="text-decoration: underline; color: #339966;">&ldquo;Plant a seed so your heart will grow&rdquo;</span></em>
+</blockquote>
+
+<p style="text-align: right;"><em><span style="text-decoration: ; color: #339966;">Hafez</span></em></p>
+
 <p><strong><u>School Environment<br /></u></strong>To create a school environment that is inviting, affirming and conducive to positive student experiences, students&rsquo; works are designed on the walls, decoration trees, class notice boards, and level boards. Student Leaders regularly share and encourage each other through sharing of motivational quotes and stories before the singing of the National Anthem and via various level notice and walkway boards, staircases, Art &amp; NE Heritage Galleries.</p>
 
 <img src="/images/cce2.png">
