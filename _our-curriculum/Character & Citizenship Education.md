@@ -71,8 +71,8 @@ description: ""
 
 <p style="color: #ff0000; font-weight:bold;text-decoration: underline; font-size: 20px">SPIRIT</p>
 
-<blockquote style="text-align: center;">
-<span style="color: #ff0000;"><em>"We make a living by what we get but we make a life by what we give."</em></span></blockquote>
+<blockquote style="text-align: center; color: #ff0000; font-style:italic">
+"We make a living by what we get but we make a life by what we give."</blockquote>
 
 <p style="text-align: right;"><span style="color: #ff0000;"><em>-Winston Churchill-</em></span></p>
 
