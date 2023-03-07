@@ -11,7 +11,9 @@ description: ""
 <p style="text-align: center;"><em><span style="text-decoration: underline; color: #339966;">&ldquo;Physical fitness is the first requisite of happiness.&rdquo;</span></em></p>
 </blockquote>
 <p style="text-align: right;"><em><span style="text-decoration: ; color: #339966;">Joseph Pilates</em></p>
+	
 <p>Blangah Rise has many platforms for our pupils to practice a healthy lifestyle through our CCAs, Sports activities and House Sessions. In these sessions, students experience joyful&nbsp;learning with their friends, and they collaborate actively to achieve team goals. SATS, Asia&rsquo;s leading airline caterer, has been engaged to provide healthy and nutritious school meals for the students. A dietician on the SATS team ensures that all meals adhere to HPB&rsquo;s Healthy Meals in School Programme and offer the optimal amount of nutrients.</p>
+
 <img style="width: 80%;" src="/images/cce2.jpg" />
 <p><strong><u>School Environment<br /></u></strong>To create a school environment that is inviting, affirming and conducive to positive student experiences, students&rsquo; works are designed on the walls, decoration trees, class notice boards, and level boards. Student Leaders regularly share and encourage each other through sharing of motivational quotes and stories before the singing of the National Anthem and via various level notice and walkway boards, staircases, Art &amp; NE Heritage Galleries.</p>
 <img src="/images/cce2.png">
