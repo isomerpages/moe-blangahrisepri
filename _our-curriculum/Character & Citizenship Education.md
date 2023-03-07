@@ -5,7 +5,8 @@ description: ""
 ---
 <img style="width: 60%;" src="/images/cce1.jpg" />
 <p>We envision ourselves as a joyful school of confident learners and caring leaders. We have a customized Character and Citizenship curriculum for holistic development of students.</p>
-<h4><strong><span style="text-decoration: underline; color: #339966;">BODY</strong></span></h4>
+
+<h4><strong><span style="text-decoration: underline; color: #339966;"></span></strong></h4>
 <blockquote>
 <p style="text-align: center;"><em><span style="text-decoration: underline; color: #339966;">&ldquo;Physical fitness is the first requisite of happiness.&rdquo;</span></em></p>
 </blockquote>
