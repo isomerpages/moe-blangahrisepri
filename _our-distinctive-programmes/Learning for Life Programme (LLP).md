@@ -5,8 +5,8 @@ description: ""
 ---
 <h3 style="text-align: center;"><strong>Learning for Life Programme &ndash; Leader for Life</strong></h3>
 <blockquote>
-<p><em>&ldquo;If your actions inspire others to dream more, learn more, do more and become more, you are a leader.&rdquo;</em></p>
-<p><em>-John Quincy Adams-</em></p>
+<p style="text-align: center;"><em>&ldquo;If your actions inspire others to dream more, learn more, do more and become more, you are a leader.&rdquo;</em></p>
+<p style="text-align: right;"><em>-John Quincy Adams-</em></p>
 </blockquote>
 <p><strong><em>Leader for Life</em></strong>&nbsp;aims to develop our students to become joyful and confident learners who are engaged, self-directed and have the rigour and vigour to pursue their own independent learning. Through this specially tailored 6-year programme that focuses on community service and student leadership, students will be equipped with socio-emotional skills and leadership qualities.&nbsp;<strong><em>Leader for Life</em></strong>&nbsp;seeks to enrich students by teaching them to care for themselves, the community and the environment.</p>
 <p>Built upon the school&rsquo;s curriculum on Environmental Education,&nbsp;<strong><em>Leader for Life</em></strong>&nbsp;provides opportunities for students to put&nbsp;<em>Stephen Covey&rsquo;s 7 Habits of Happy Kids</em>&nbsp;into action to become Leaders for Life. It adopts a value-based approach to inculcate virtues such as care, respect and responsibility to create a lasting impact on the students&rsquo; own personal and interpersonal growth, as well as encourage them to champion a positive change in the community and environment.</p>
@@ -42,7 +42,22 @@ description: ""
 <p>Click&nbsp;<a href="/departments/junior-primary/"><strong>here</strong></a>&nbsp;to read more about the activity.</p>
 <p><strong>Blooming Garden and Eco-pond</strong></p>
 <p>With the objectives of providing our students with outdoor experiential learning to complement the teaching and learning of Science as well as to provide our students with an authentic platform for Value-in-Action (VIA) project, classes are each assigned a garden plot to take care of the plants. This provides opportunity for students and teachers to build positive teacher-student relationships as well as imbue in students a sense of responsibility to take care of the environment. Our parents from the Parent Support Group (PSG) also provide valuable knowledge and much of their time in helping to sustain a blooming garden in the school.&nbsp;</p>
-<img src="/images/pond.jpg">
+<table style="border-collapse: collapse; width: 80%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/p1.jpg"></td>
+<td style="width: 50%;"><img src="/images/p2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/p3.jpg"></td>
+<td style="width: 50%;"><img src="/images/p4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/p5.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Project GAIA</strong></p>
 <p>One of our key programmes is Project GAIA (Green Awareness in Action). Project GAIA is a community project to enhance students&rsquo; learning beyond the classroom and promote recycling and environmental conservation in the community. Some of the programmes in Project GAIA include organizing recycling drives as well as activities to commemorate Singapore World Water Day and Earth Day.</p>
 <p><strong>Commemorating Singapore World Water Day</strong></p>
@@ -56,7 +71,18 @@ description: ""
 <li aria-level="1">Recess activities - Learning stations in the Mini Library where students had the opportunity to do hands-on activities&nbsp;</li>
 <li aria-level="1">STEM lesson - Engineering-related Learning Activity on Creating Water Filtration System&nbsp;</li>
 </ul>
-<img src="/images/bottle.png">
+<table style="border-collapse: collapse; width: 80%;" border="1">
+<tbody>
+<tr>
+<td style="width: 62%;"><img src="/images/pp6.jpg"></td>
+<td style="width: 38%;"><img src="/images/pp7.jpg"></td>
+</tr>
+<tr>
+<td style="width: 62%;"><img src="/images/pp8.jpg"></td>
+<td style="width: 38%;"><img src="/images/pp9.jpg"></td>
+</tr>
+</tbody>
+</table>
 <p>Click&nbsp;<a href="/2021/04/01/brlc-commemorates-singapore-world-water-day-2021/"><strong>here</strong></a>&nbsp;to read more about how we had also commemorated Singapore World Water Day in 2021.</p>
 <p><strong>The Garden of Hope</strong></p>
 <p>Water is a precious and scarce resource for Singapore, and our water supply remains vulnerable to factors such as climate change.&nbsp;The Garden of Hope&nbsp;is set up as a rain harvesting system, home for ecology and a space for students and staff to engage with nature.&nbsp;It is&nbsp;developed in line with three out of the five key pillars of the Singapore Green Plan 2030 on sustainable development:</p>
@@ -66,7 +92,22 @@ description: ""
 <li aria-level="1">Energy Reset: to use cleaner energy and increase our energy efficiency to lower our carbon footprint</li>
 </ol>
 <p>Transforming an empty rooftop to a luscious rain garden is an example of active green roof usage. The Garden of Hope is more than just a garden! Capturing rainwater with the PEG Trays System under the plants reduces stress on nearby drains and prevents flooding. The water is then circulated around the garden for plant irrigation. The garden&rsquo;s irrigation system is automated through a rain sensor that is powered by harnessing solar energy using a solar panel. Through our Green Ambassadors, we&nbsp;hope to educate and remind everyone to practise sustainable living.</p>
-<img src="/images/green.png">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/pp10.jpg"></td>
+<td style="width: 50%;"><img src="/images/pp11.jpg"></td>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+</tr>
+<tr>
+<td style="width: 80%;"><img src="/images/p12.jpg"></td>
+<td style="width: 20%;"><img src="/images/pp13.jpg"></td>
+</tr>
+</tbody>
+</table>
 <p><strong>Commemorating Earth Day</strong></p>
 <p>Every year, we commemorate this annual event with assembly talks, class activities, recess activities and Project Green Awareness in Action (GAIA). Our Junior Primary students participate in recycling challenges such as setting up and&nbsp;decorating their classes&rsquo; recycling boxes. Our Middle Primary students use bottle caps to create pieces of art while our Senior Primary students upcycle used CDs into pledge cards. These upcycling projects are part of our ongoing efforts to commemorate Earth Day 2022.</p>
 <p>To educate our students on &lsquo;Recycling Right&rsquo;, our Parent Support Group (PSG) also created their own posters and charts. With their help, we had our students sow different types of seeds using recycled bottles. The Green Ambassadors in each class help to water and care for the seeds / seedlings. With the help of our PSG, these seedlings are then transplanted into the planters in our Blooming Garden.&nbsp;</p>
