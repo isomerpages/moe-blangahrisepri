@@ -56,7 +56,7 @@ description: ""
 <strong><span style="color: #ff6600;"><em>"True education does not consist merely in the acquiring of a few facts of science, history, literature, or art, but in the development of character." </em></strong></span>
 </blockquote>
 
-<p style="text-align: right;"><em><span style="color: #ff6600;">-David O. Mckay-</em></span></p>
+<p style="text-align: right; color: #ff6600;"><em>-David O. Mckay-</em></p>
 
 <p><u><strong>ECG and Decision-making</strong><br /></u>In Blangah Rise, we nurture our students to be reflective learners who make sound decisions. In our education career guidance programme, we help students understand their interests/strengths and to develop a growth mindset, so they can serve and contribute to society in future.</p>
 
