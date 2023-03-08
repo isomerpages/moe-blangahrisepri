@@ -36,11 +36,12 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Highlights 1
-      description: Infopic description
-      button: Button Text
-      url: /2022/05/25/junior-reporters-workshop-with-sph-reporters/
+      title: Total Defence Day 2023
+      button: Click Here
+      url: /2023/02/27/total-defence-day-2023/
       alt: Image alt text
+      subtitle: HIGHLIGHTS
+      image: /images/Fire Dril.jpeg
   - infopic:
       title: Highlights 2
       subtitle: Infopic Subtitle
