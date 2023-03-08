@@ -43,11 +43,12 @@ sections:
       subtitle: HIGHLIGHTS
       image: /images/Fire Dril.jpeg
   - infopic:
-      title: Highlights 2
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Go Team!
+      subtitle: HIGHLIGHTS
+      button: Click here
       alt: Image alt text
+      image: /images/Go Team.jpg
+      url: /2023/02/17/go-team/
   - infobar:
       title: School Calendar
       description: '<iframe
