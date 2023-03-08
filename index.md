@@ -47,7 +47,7 @@ sections:
   - infopic:
       title: Go Team!
       subtitle: HIGHLIGHTS
-      button: Click here
+      button: Click here to read more
       alt: Image alt text
       image: /images/Go Team.jpg
       url: /2023/02/17/go-team/
