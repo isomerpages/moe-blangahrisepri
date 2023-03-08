@@ -9,7 +9,7 @@ notification: The Green Snapshots with Pepper Green and Friends, a Nature
   8:00 AM - 10:30 AM
 sections:
   - hero:
-      background: /images/Contact-Us-School-Front-Porch.jpg
+      background: /images/BR Main Page_20230308_IMG_2262.jpg
       key_highlights:
         - title: Moe Kindergarten
           description: ""
