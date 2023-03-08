@@ -37,11 +37,13 @@ sections:
       alt: Image alt text
   - infopic:
       title: Total Defence Day 2023
-      button: Click Here
+      button: Click Here to read more
       url: /2023/02/27/total-defence-day-2023/
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/Fire Dril.jpeg
+      description: "We commemorate Total Defence Day on 15 February to mark
+        Singapore’s surrender to the Japanese in World War II. "
   - infopic:
       title: Go Team!
       subtitle: HIGHLIGHTS
