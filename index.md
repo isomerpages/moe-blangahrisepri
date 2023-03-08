@@ -54,10 +54,4 @@ sections:
       description: This year, Blangah Rise Primary and First Toa Payoh Primary came
         together as a combined football team to participate in National School
         Games (NSG) 2023.
-  - infobar:
-      title: School Calendar
-      description: '<iframe
-        src="https://calendar.google.com/calendar/embed?src=brps%40moe.edu.sg&ctz=Asia%2FSingapore"
-        style="border: 0" width="800" height="600" frameborder="0"
-        scrolling="no"></iframe>'
 ---
