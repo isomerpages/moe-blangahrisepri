@@ -4,9 +4,7 @@ title: Blangah Rise Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: The Green Snapshots with Pepper Green and Friends, a Nature
-  Heritage Trail around Telok Blangah and Berlayer Creek on 16 and 23 July 2022,
-  8:00 AM - 10:30 AM
+notification: ""
 sections:
   - hero:
       background: /images/BR Main Page_20230308_IMG_2262.jpg
