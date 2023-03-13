@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BR Main Page_20230308_IMG_2262.jpg
+      background: /images/IMG_2347.jpg
       key_highlights:
         - title: Moe Kindergarten
           description: ""
