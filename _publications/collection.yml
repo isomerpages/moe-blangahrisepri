@@ -2,9 +2,9 @@ collections:
   publications:
     output: true
     order:
-      - BRoadcast/BRoadcast Vol 2 2022.md
       - BRoadcast/.keep
       - BRoadcast/BRoadcast.md
+      - BRoadcast/BRoadcast Vol 2 2022.md
       - BRoadcast/BRoadcast Vol 1 2022.md
       - BRoadcast/BRoadcast Vol 2 2021.md
       - BRoadcast/BRoadcast Vol 1 2021.md
