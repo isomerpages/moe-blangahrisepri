@@ -35,9 +35,6 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - resources:
-      title: Resources
-      button: Click here to see more
   - infopic:
       title: Total Defence Day 2023
       button: Click Here to read more
@@ -57,4 +54,7 @@ sections:
       description: This year, Blangah Rise Primary and First Toa Payoh Primary came
         together as a combined football team to participate in National School
         Games (NSG) 2023.
+  - resources:
+      title: Resources
+      button: Click here to see more
 ---
