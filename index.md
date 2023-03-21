@@ -21,6 +21,8 @@ sections:
         - title: Senior Primary
           description: ""
           url: https://moe-blangahrisepri-staging.netlify.app/departments/senior-primary/
+      url: /contact-us/
+      button: Contact us
   - resources:
       title: Resources
       button: Click here to see more
