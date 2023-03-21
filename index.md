@@ -23,9 +23,6 @@ sections:
           url: https://moe-blangahrisepri-staging.netlify.app/departments/senior-primary/
       url: /contact-us/
       button: Contact us
-  - resources:
-      title: Resources
-      button: Click here to see more
   - infopic:
       title: Announcement 1
       description: Infopic description
@@ -38,6 +35,9 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - resources:
+      title: Resources
+      button: Click here to see more
   - infopic:
       title: Total Defence Day 2023
       button: Click Here to read more
