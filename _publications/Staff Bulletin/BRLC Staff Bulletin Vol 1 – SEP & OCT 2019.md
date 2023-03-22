@@ -4,7 +4,6 @@ permalink: /2019/10/17/brps-staff-bulletin-v1-n1/1/
 description: ""
 third_nav_title: Staff Bulletin
 ---
-
 <img src="/images/BRPS-Staff-Bulletin-V1-N1-Final_Page_1.jpg">
 <img src="/images/BRPS-Staff-Bulletin-V1-N1-Final_Page_2.jpg">
 <img src="/images/BRPS-Staff-Bulletin-V1-N1-Final_Page_3.jpg">
