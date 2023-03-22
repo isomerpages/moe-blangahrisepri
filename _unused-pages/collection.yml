@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Staff Bulletin.md
       - Chinese Junior Reporters (Dian Dian Di Di) Vol 1 – 2019.md
       - Chinese Junior Reporters (Dian Dian Di Di) Vol 2 – 2019.md
       - Chinese Junior Reporters (Dian Dian Di Di) Vol 1 – 2020.md
