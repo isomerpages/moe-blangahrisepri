@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - BRoadcast/.keep
-      - BRoadcast/BRoadcast Vol 1 2021.md
       - BRoadcast/BRoadcast Vol 2 – 2020.md
       - BRoadcast/BRoadcast Vol 1 – 2020.md
       - BRoadcast/BRoadcast Vol 2 – 2019.md
