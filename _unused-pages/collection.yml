@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - BRLC Staff Bulletin Vol 1 – 2020.md
       - BRLC Staff Bulletin Vol 2 – 2020.md
       - BRLC Staff Bulletin Vol 1 – 2021.md
       - BRLC Staff Bulletin Vol 2 – 2021.md
