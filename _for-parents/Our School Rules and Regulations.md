@@ -3,6 +3,7 @@ title: Our School Rules and Regulations
 permalink: /parent-support-group/our-school-rules-and-regulations/
 description: ""
 ---
+<p><img src="/images/rr.jpg"></p>
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
