@@ -44,7 +44,7 @@ description: ""
 <ol start="7">
 <li>The Primary 5 &amp; 6 Growing Years (GY) package, &ldquo;Curious Minds (2<sup>nd</sup>Edition)&rdquo;, aims to meet students&rsquo; developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</li>
 </ol>
-<p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2022</u>:</strong></p>
+<p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2023</u>:</strong></p>
 <p style="text-align: center;"><strong>Primary 5</strong></p>
 <table>
 <thead>
@@ -114,10 +114,11 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong>Please Note:</strong></p>
+<p><strong>*For&nbsp;<u>2023</u>, the Primary 5 lesson &ldquo;<em>Did You Know</em>?&rdquo; will also be conducted for the Primary 6 cohort.&nbsp;</strong></p>
 <p><strong>Information for Parents</strong></p>
 <ol start="8">
 <li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
-<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<strong><a href="/files/img20220111_19373534-converted.pdf">here</a></strong>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>31/01/2022</strong>.</li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Parents-Letter-Opt-out-Form_2023.pdf"><strong>here</strong></a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>10/02/2023</strong>.</li>
 <li>Parents can contact the school at&nbsp;<strong>brps@moe.edu.sg&nbsp;</strong>or&nbsp;<strong>6271 7387</strong>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</li>
-<li>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</li>
 </ol>
