@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/chinese-junior-reporters-dian-dian-di-di-1.jpg">
+<img src="/images/chinese-junior-reporters-dian-dian-di-di-2.jpg">
