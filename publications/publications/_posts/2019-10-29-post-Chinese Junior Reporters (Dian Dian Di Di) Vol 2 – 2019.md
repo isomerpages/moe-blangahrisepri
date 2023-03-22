@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/BRPS-CL-Newspaper-2019-29-Oct_Page_1.jpg">
+<img src="/images/BRPS-CL-Newspaper-2019-29-Oct_Page_2.jpg">
