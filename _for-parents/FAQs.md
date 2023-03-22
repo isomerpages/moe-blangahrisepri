@@ -8,8 +8,8 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 185px;">
-<p style="text-align: center;">National Anthem and Pledge Taking</p>
-<p style="text-align: center;">Lessons start (immediately after pledge taking)</p>
+<div style="text-align: center;">National Anthem and Pledge Taking</div><br>
+<div style="text-align: center;">Lessons start (immediately after pledge taking)</div>
 </td>
 <td style="width: 232px;">7. 30 a.m.</td>
 </tr>
