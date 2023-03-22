@@ -2,5 +2,6 @@ collections:
   unused-pages:
     output: true
     order:
+      - Parents Post.md
       - BRAVO!.md
       - Singapore National Youth Orchestra (SNYO).md
