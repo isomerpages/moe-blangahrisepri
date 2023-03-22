@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Dian Dian Di Di.md
       - Healthy Kids.md
       - Parents Post.md
       - BRAVO!.md
