@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/BRPS-Junior-Reporters-Newspaper-2021-Sem-1-Final-page-001-663x1024.jpg">
+<img src="/images/BRPS-Junior-Reporters-Newspaper-2021-Sem-1-Final-page-001-663x1024.jpg">
