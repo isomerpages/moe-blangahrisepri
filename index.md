@@ -53,6 +53,6 @@ sections:
         together as a combined football team to participate in National School
         Games (NSG) 2023.
   - resources:
-      title: Resources
+      title: Publications
       button: Click here to see more
 ---
