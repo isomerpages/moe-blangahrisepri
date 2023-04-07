@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent Support Group Executive Committee.md
-      - Parent Support Group.md
       - Guideline On Parents Communication.md
       - Virtual School Tour.md
+      - Parent Support Group.md
+      - Parent Support Group Executive Committee.md
       - School Letters & Information.md
       - School Bus, Uniform & Bookshop.md
       - SATS School Meals Programme.md
