@@ -6,14 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
 <label for="accordion1"><p><strong>2022</strong></p></label>
 <div>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-May-2022.pdf">BRPS Healthy Kids Newsletter - May 2022</a></p>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-Nov-2022.pdf">BRPS Healthy Kids Newsletter - Nov 2022</a></p>
 </div>
 </li>  
 <li>
