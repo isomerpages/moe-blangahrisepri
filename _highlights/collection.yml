@@ -2,7 +2,7 @@ collections:
   highlights:
     output: true
     order:
-      - Page 17/.keep
+      - Page 1/.keep
       - Page 1/Page 1.md
       - Page 1/Total Defence Day 2023.md
       - Page 1/Go Team!.md
@@ -14,7 +14,7 @@ collections:
       - Page 1/Deepavali Celebration 2022.md
       - Page 1/Going the Distance at BRPS Children’s Day Celebrations 2022.md
       - Page 1/National School Games (NSG) 2022.md
-      - Page 1/.keep
+      - Page 2/.keep
       - Page 2/Page 2.md
       - Page 2/Join BRPS in our Clean Up SouthWest! 2022 Campaign!.md
       - Page 2/Primary 5 Team Wins Commendation Award at the Primary Mathematics
@@ -30,11 +30,10 @@ collections:
         Lien.md"
       - Page 2/TGS Returns with “The Green Snapshots with Pepper Green and
         Friends”!.md
-      - Page 2/.keep
+      - Page 3/.keep
       - Page 3/Page 3.md
       - Page 3/Our P5s head outdoors for the annual P5 Adventure Camp!.md
       - Page 3/Our P5s are back at NE Show 2022!.md
-      - Page 3/.keep
       - "Page 3/Spotlighting our Staff: Hear from Five BRPS Educators.md"
       - Page 3/Bronze Award at The Singapore Mathematical Olympiad for Primary
         Schools (SMOPS).md
@@ -218,3 +217,4 @@ collections:
       - Page 16/We would like to thank Ms Indranee Rajah, Second Minister for
         Education for visiting our school.md
       - Page 16/Hebei Handan Laike Primary School.md
+      - Page 17/.keep
