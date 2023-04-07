@@ -4,6 +4,11 @@ permalink: /news/our-achievements/
 description: ""
 ---
 <img src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
+<h4><strong>2023</strong></h4>
+<ul>
+<li>Green Schools @ South West - South West Accreditation Programme for 2022: Awarded three stars – Public Health Star, Environment Protection Star and Junior Environment Ambassador Star</li>
+<li>Best Speaker at Round 1 of Wits and Words 2023 Inter-school Debate Competition - Gail Lien Zhao Xin (6 Sapphire)</li>
+</ul>
 <h4><strong>2022</strong></h4>
 <ul>
 <li>South West Community Development Council (SWCDC) annual district award, Sustainable South West Awards 2022</li>
@@ -53,7 +58,7 @@ description: ""
 <li>National Day Award (The Public Administration Medal - Bronze) - Mr Francis Foo (Principal)</li>
 <li>National Day Award (The Commendation Medal) - Mrs Teresa Tay</li>
 <li>National Day Award (The Long Service Medal) - Mr Marcus Chan</li>
-<li>President&rsquo;s Award for Teachers (PAT) - Mr James Han (Finalist) (Click&nbsp;<strong><a href="/2021/09/09/presidents-award-for-teachers-pat/">here</a></strong>&nbsp;to find out more)</li>
+<li>President’s Award for Teachers (PAT) - Mr James Han (Finalist) (Click&nbsp;<strong><a href="/2021/09/09/presidents-award-for-teachers-pat/">here</a></strong>&nbsp;to find out more)</li>
 <li>Wits &amp; Words 2021 Inter-School Debate Competition - (Semi-finalist) Nyguen Minh Dat Richie (5 Sapphire), Choo Zhi Lin (5 Sapphire), Liu Yi Kai (5 Sapphire), Michael Ratemo Onyiego (5 Sapphire) Mikhael Riyo Chan (5 Topaz) and Ong Sheng Jie Chris (5 Topaz)</li>
 <li>2021 Scrabble Tournament For Beginners by Mattel - (Finalist) Nathanael Chin Chi Yi (4 Topaz), Michael Ratemo Onyiego (5 Sapphire) (Click&nbsp;<strong><a href="/2021/08/20/two-brps-students-advance-to-finals-of-2021-scrabble-tournament-for-beginners-by-mattel/" target="_blank" rel="noopener">here</a></strong>&nbsp;to find out more)</li>
 <li>Singapore Youth Festival 2021 Art Exhibition (Certificate of Recognition) - Koh Onwara Chloe (6 Opal), Luacan Hannah Derren De Jesus (6 Opal), Kayla Chatania Arif (6 Topaz), Qiyara Danish Akida Binte Mohamad Firdaus (6 Sapphire)</li>
@@ -61,7 +66,7 @@ description: ""
 <li>Singapore Primary Science Olympiad for Primary Schools (Merit Award) - Luacan Hannah Derren De Jesus (6 Opal)</li>
 <li>34th YMCA Plain English Speaking Award - Gail Lien Zhao Xin of 4 Topaz (Second Place) (Click&nbsp;<strong><a href="/2021/08/19/8897/">here</a></strong>&nbsp;to find out more)</li>
 <li>Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS) - Jonathan Chan Jia Wei of 6 Opal (Bronze Award) (Click&nbsp;<strong><a href="/2021/08/20/johnathan-chan-determined-to-dream-big-and-persevere/" target="_blank" rel="noopener">here</a></strong>&nbsp;to find out more)</li>
-<li>Online Inter-school Scrabble Competition organized by Mattel&nbsp;(Click&nbsp;<strong><a href="/2021/01/25/four-finalists-from-scrabble-club-brps-emerged-at-the-online-inter-school-scrabble-competition/" target="_blank" rel="noopener">here</a></strong> to find out more)<br />Mikhael (4T &ndash; 2020) &ndash; 1<sup>st</sup> Runner-up<br />Dusan (6T &ndash; 2020) &ndash; 2<sup>nd</sup> Runner-up<br />Brandon (6T &ndash; 2020) &ndash; 4<sup>th</sup> Runner-up<br />Melody (4S &ndash; 2020) &ndash; 18<sup>th</sup> Position<br />Hannah and Aggie (P5 &ndash; 2020) &ndash; Finalists</li>
+<li>Online Inter-school Scrabble Competition organized by Mattel&nbsp;(Click&nbsp;<strong><a href="/2021/01/25/four-finalists-from-scrabble-club-brps-emerged-at-the-online-inter-school-scrabble-competition/" target="_blank" rel="noopener">here</a></strong> to find out more)<br>Mikhael (4T – 2020) – 1<sup>st</sup> Runner-up<br>Dusan (6T – 2020) – 2<sup>nd</sup> Runner-up<br>Brandon (6T – 2020) – 4<sup>th</sup> Runner-up<br>Melody (4S – 2020) – 18<sup>th</sup> Position<br>Hannah and Aggie (P5 – 2020) – Finalists</li>
 </ul>
 <h4><strong>2020</strong></h4>
 <ul>
@@ -71,7 +76,7 @@ description: ""
 <li>Outstanding Contribution Awards (Team) Mathematics - Mdm Ho Mei Mei Magdalene, Ms Puah Puay Koon Eileen, Ms Junaidah Begam D/o Abdul Azeez, Ms Abigail Ow, Ms Wong Jing Theng Maddie</li>
 <li>Outstanding Contribution Awards (Individual) - Miss Siti Rabi'ah Binte Mohamad, Ms Wang Chunying, Ms Yanti Binte Rahim, Ms Seow Wen Yi, Ms Munirah Binte Talat Mahmood</li>
 <li>Outstanding Contribution Award July 2020 (Covid-19) - Mdm Koh Yen Ling Kimberly, Mr Look Wing Hong Henry, Mr Leow Qinjin, Mdm Yeo Chay Yee, Mr Chua Kah Hern, Ms Jiang Huning Luciana, Ms Lee Xunxun Sharon, Ms Leong Pui San Teresa (Click&nbsp;<strong><a href="/2020/10/27/outstanding-contribution-awards-oca-2020/">here</a></strong>&nbsp;to find out more)</li>
-<li>MOE Excellent Service Award (MSEA) (Click&nbsp;<strong><a href="/2020/10/25/moe-service-excellence-award-msea/">here</a></strong> to find out more):<br />Platinum &ndash; Ms Maddie Wong<br />Gold &ndash; Ms Liu Cuixian, Mr Chua Kah Hern<br />Silver &ndash; Ms Sophia Goh, Ms Magdalene Ho, Ms Judy Kong, Ms Munirah Binte Talat Mahmood, Ms Nelita Binte Kadmadi, Ms Eileen Puah, Mdm Stephanie Song, Ms Usha Rani</li>
+<li>MOE Excellent Service Award (MSEA) (Click&nbsp;<strong><a href="/2020/10/25/moe-service-excellence-award-msea/">here</a></strong> to find out more):<br>Platinum – Ms Maddie Wong<br>Gold – Ms Liu Cuixian, Mr Chua Kah Hern<br>Silver – Ms Sophia Goh, Ms Magdalene Ho, Ms Judy Kong, Ms Munirah Binte Talat Mahmood, Ms Nelita Binte Kadmadi, Ms Eileen Puah, Mdm Stephanie Song, Ms Usha Rani</li>
 <li>Our Schools, Our Stories (OSOS) Photo Contest: Students' entry "We Love Bentos!" - Honourable Mention for the theme, "Priceless Moments"</li>
 <li>National Day Award (The Commendation Medal) - Ms Eileen Puah</li>
 <li>LEAP Award - Mr Patrick Goh</li>
@@ -84,15 +89,15 @@ description: ""
 <h4><strong>2019</strong></h4>
 <ul>
 <li>Outstanding STEM Teacher Award - Mrs Jenny Quek (Click&nbsp;<strong><a href="/2020/05/19/making-stem-come-alive-mrs-jenny-quek/">here</a></strong>&nbsp;to find out more)</li>
-<li>National Day Award: The Commendation Medal &ndash; Mdm Stephanie Song</li>
+<li>National Day Award: The Commendation Medal – Mdm Stephanie Song</li>
 <li>MOE Service Excellence Award (MSEA) - Mdm Yeo Chay Yee (Click&nbsp;<strong><a href="/2020/06/26/depositing-into-every-students-emotional-bank-account-mdm-yeo-chay-yee/">here</a></strong>&nbsp;to find out more), Mr Saw Myint Lay, Mdm Suriyawati Binte Churaimi</li>
 <li>Outstanding Preschool Teacher Award - Ms Liu Cuixian (Click&nbsp;<strong><a href="/2020/04/14/liu-cuixian/">here</a></strong>&nbsp;to find out more)</li>
 <li>National Cyberwellness Advocacy Challenge (NCAC) - Silver Award:&nbsp;Ban Xuan Yu, Jesslyn Tan, Nelly Neo, Kristelle Anne Brunidor Pingkian, Enoch Lin and Reeve Aw from Primary 4 Topaz</li>
 <li>National Mathematical Olympiad of Singapore (NMOPS) - Bronze Award: Brandon Adimartana (5 Sapphire)</li>
 <li>12<sup>th</sup>&nbsp;Annual Mathlympics for Primary Schools - Bronze Award:&nbsp;Brandon Adimartana (5 Sapphire)</li>
 <li>School Heritage Champion Award (Silver) by the National Heritage Board (NHB)</li>
-<li>Singapore Youth Festival &ndash; artwork &ldquo;Time to Time&rdquo; selected for on-site exhibition at the National Museum of Singapore and awarded "Certificate of Recognition"</li>
-<li>Singapore Youth Festival &ndash; drama entitled &ldquo;Nian and the Old Woman&rsquo;s Orchard&rdquo; selected for performance at Celebrations in the Community &ndash; Play!</li>
+<li>Singapore Youth Festival – artwork “Time to Time” selected for on-site exhibition at the National Museum of Singapore and awarded "Certificate of Recognition"</li>
+<li>Singapore Youth Festival – drama entitled “Nian and the Old Woman’s Orchard” selected for performance at Celebrations in the Community – Play!</li>
 <li>School Heritage Champion Award 2019 (Silver) for sustained efforts in The Green Snapshots nature and heritage trail</li>
 <li>Inter-School National Scrabble Championship - Silver in Bowl Category (2nd position)</li>
 <li>Red Cross: Gold Excellent Unit Award (EUA)</li>
@@ -126,17 +131,17 @@ description: ""
 <li>International Dance: Accomplishment</li>
 <li>6 National Primary School Photography Competition: Merit Award</li>
 <li>Annual Hawazi Daipi Challenge: 4<sup>th</sup>&nbsp;Position</li>
-<li>My Dream Shop &ndash; Chinese Category: 1<sup>st</sup>&nbsp;Position, Malay Category: 2<sup>nd</sup>&nbsp;Position, Tamil Category: Consolation Prize</li>
+<li>My Dream Shop – Chinese Category: 1<sup>st</sup>&nbsp;Position, Malay Category: 2<sup>nd</sup>&nbsp;Position, Tamil Category: Consolation Prize</li>
 </ul>
 <h4><strong>2015</strong></h4>
 <ul>
-<li>Sepak Takraw - South Zone: Senior 1<sup>st</sup>&nbsp;Runner-up, Junior &ndash; 4<sup>th</sup>&nbsp;Runner-up</li>
+<li>Sepak Takraw - South Zone: Senior 1<sup>st</sup>&nbsp;Runner-up, Junior – 4<sup>th</sup>&nbsp;Runner-up</li>
 <li>Red Cross: Gold</li>
 <li>Cadet Scouts: Frank Copper Sands Award (Bronze)</li>
 <li>National Cyberwellness Advocacy Challenge: Top 5</li>
 <li>Green Audit Project: Sustained Lotus</li>
-<li>My Dream Shop &ndash; Chinese Category: 1<sup>st</sup>&nbsp;Position, Malay Category: 2<sup>nd</sup>&nbsp;Position, Tamil Category: Consolation Prize</li>
-<li>My Dream Shop &ndash; Chinese Category: 1<sup>st</sup>&nbsp;Position, Malay Category: 2<sup>nd</sup>&nbsp;Position, Tamil Category: Consolation Prize</li>
+<li>My Dream Shop – Chinese Category: 1<sup>st</sup>&nbsp;Position, Malay Category: 2<sup>nd</sup>&nbsp;Position, Tamil Category: Consolation Prize</li>
+<li>My Dream Shop – Chinese Category: 1<sup>st</sup>&nbsp;Position, Malay Category: 2<sup>nd</sup>&nbsp;Position, Tamil Category: Consolation Prize</li>
 </ul>
 <h4><strong>2014</strong></h4>
 <ul>
@@ -168,31 +173,31 @@ description: ""
 <li>National Education Award</li>
 </ul>
 <ul>
-<li><em>Sustained Achievement Award in Sports</em>&nbsp;&ndash; 2007 to 2010</li>
-<li>People Developer Standard &ndash; Mar 2007 to Mar 2010</li>
+<li><em>Sustained Achievement Award in Sports</em>&nbsp;– 2007 to 2010</li>
+<li>People Developer Standard – Mar 2007 to Mar 2010</li>
 <li>CHERISH Award</li>
 <li>Frank Cooper Sand Award (Scouts)</li>
 </ul>
 <h4><strong>2009</strong></h4>
-<p>2009 &ndash; Gold</p>
+<p>2009 – Gold</p>
 <ul>
 <li>
-<div><strong><em>MOE Award &ndash; Level 1 (2009)</em></strong></div>
+<div><strong><em>MOE Award – Level 1 (2009)</em></strong></div>
 </li>
 </ul>
-<p>Aesthetics<br />Fitness</p>
+<p>Aesthetics<br>Fitness</p>
 <ul>
 <li>
-<div><strong><em>Innergy (Schools) Award</em></strong>&nbsp;&ndash; 2009</div>
+<div><strong><em>Innergy (Schools) Award</em></strong>&nbsp;– 2009</div>
 </li>
 </ul>
-<p>Silver Award (Shoebox Theatre)<br />Bronze Award (Multi-sensory TL Big Books)</p>
+<p>Silver Award (Shoebox Theatre)<br>Bronze Award (Multi-sensory TL Big Books)</p>
 <ul>
 <li>
-<div><strong><em>SCHOOLS&rsquo; GREEN AUDIT AWARDS</em></strong>&nbsp;*</div>
+<div><strong><em>SCHOOLS’ GREEN AUDIT AWARDS</em></strong>&nbsp;*</div>
 </li>
 </ul>
-<p>Lotus Award 2009<br />Orchid Award 2008<br />Hibiscus&nbsp;Award 2007</p>
+<p>Lotus Award 2009<br>Orchid Award 2008<br>Hibiscus&nbsp;Award 2007</p>
 <h4><strong>2007</strong></h4>
 <div>
 <ul>
