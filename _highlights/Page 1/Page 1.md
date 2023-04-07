@@ -4,66 +4,66 @@ permalink: /news/highlights/page/1/
 description: ""
 third_nav_title: Page 1
 ---
-<h4><strong><a href="/2023/02/27/total-defence-day-2023/" rel="bookmark">Total Defence Day 2023</a></strong></h4>
+<h4><strong><a href="/2023/04/03/national-primary-schools-chinese-calligraphy-competition-2023/" rel="bookmark">National Primary Schools Chinese Calligraphy Competition 2023</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2023/02/27/total-defence-day-2023/"><img src="/images/1111.jpg"></a></td>
+<td style="width: 35%;"><a href="/2023/04/03/national-primary-schools-chinese-calligraphy-competition-2023/"><img src="/images/000001.jpg"></a></td>
 <td style="width: 65%;">
-<p>We commemorate Total Defence Day on 15 February to mark Singapore’s surrender to the Japanese in World War II. The theme for 2023 is “Together We Keep Singapore Strong”. Everyone in the community can do their part to keep Singapore safe and strong. The focus is on how students can put Total Defence into action […]</p>
-<p><a href="/2023/02/27/total-defence-day-2023/">Read More</a></p>
+<p>Our students had the opportunity to experience the writing of Chinese characters as an art form by participating in the National Primary Schools Chinese Calligraphy Competition 2023. The competition was jointly organised by Hong Wen School and Hong Wen Alumni. The aim of the competition was to cultivate the appreciation of Chinese culture through calligraphy, […]</p>
+<p><a href="/2023/04/03/national-primary-schools-chinese-calligraphy-competition-2023/">Read More</a></p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<h4><strong><a href="/2023/02/27/total-defence-day-2023/" rel="bookmark">Total Defence Day 2023</a></strong></h4>
+<h4><strong><a href="/2023/03/30/stem-playground-satay-stick-challenge/" rel="bookmark">STEM Playground – Satay Stick Challenge</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2023/02/27/total-defence-day-2023/"><img src="/images/1111.jpg"></a></td>
+<td style="width: 35%;"><a href="/2023/03/30/stem-playground-satay-stick-challenge/"><img src="/images/000002.jpg"></a></td>
 <td style="width: 65%;">
-<p>We commemorate Total Defence Day on 15 February to mark Singapore’s surrender to the Japanese in World War II. The theme for 2023 is “Together We Keep Singapore Strong”. Everyone in the community can do their part to keep Singapore safe and strong. The focus is on how students can put Total Defence into action […]</p>
-<p><a href="/2023/02/27/total-defence-day-2023/">Read More</a></p>
+<p>Get inspired through STEM! Our P5 students participated in the STEM Playground Challenge organised by Science Centre Singapore in Term 1. For this challenge, students were tasked to build bridges that could hold at least five books using satay sticks. Many students brainstormed on ideas to build the bridges right after the briefing as they […]</p>
+<p><a href="/2023/03/30/stem-playground-satay-stick-challenge/">Read More</a></p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<h4><strong><a href="/2023/02/27/total-defence-day-2023/" rel="bookmark">Total Defence Day 2023</a></strong></h4>
+<h4><strong><a href="/2023/03/30/singapore-amazing-flying-machine-competition-2023/" rel="bookmark">Singapore Amazing Flying Machine Competition 2023</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2023/02/27/total-defence-day-2023/"><img src="/images/1111.jpg"></a></td>
+<td style="width: 35%;"><a href="/2023/03/30/singapore-amazing-flying-machine-competition-2023/"><img src="/images/000003.jpg"></a></td>
 <td style="width: 65%;">
-<p>We commemorate Total Defence Day on 15 February to mark Singapore’s surrender to the Japanese in World War II. The theme for 2023 is “Together We Keep Singapore Strong”. Everyone in the community can do their part to keep Singapore safe and strong. The focus is on how students can put Total Defence into action […]</p>
-<p><a href="/2023/02/27/total-defence-day-2023/">Read More</a></p>
+<p>Our P4 students represented our school by taking part in the annual Singapore Amazing Flying Machine Competition on 20 March. This competition is organised by DSO National Laboratories and Science Centre Singapore to encourage students to learn more about the theories of flight and aerodynamics, and implement their creative ideas into real flying machines. Prior […]</p>
+<p><a href="/2023/03/30/singapore-amazing-flying-machine-competition-2023/">Read More</a></p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<h4><strong><a href="/2023/02/27/total-defence-day-2023/" rel="bookmark">Total Defence Day 2023</a></strong></h4>
+<h4><strong><a href="/2023/03/23/science-educational-talk-birds/" rel="bookmark">Science Educational Talk – Birds</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2023/02/27/total-defence-day-2023/"><img src="/images/1111.jpg"></a></td>
+<td style="width: 35%;"><a href="/2023/03/23/science-educational-talk-birds/"><img src="/images/000004.jpg"></a></td>
 <td style="width: 65%;">
-<p>We commemorate Total Defence Day on 15 February to mark Singapore’s surrender to the Japanese in World War II. The theme for 2023 is “Together We Keep Singapore Strong”. Everyone in the community can do their part to keep Singapore safe and strong. The focus is on how students can put Total Defence into action […]</p>
-<p><a href="/2023/02/27/total-defence-day-2023/">Read More</a></p>
+<p>A group of parrot enthusiasts visited Blangah Rise Primary to share about their experiences as owners of pet parrots! They shared with our staff and students the proper care for parrots. They also linked the educational talk to what the students have learnt in their Science textbooks. For example, the different physical adaptations that birds […]</p>
+<p><a href="/2023/03/23/science-educational-talk-birds/">Read More</a></p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<h4><strong><a href="/2023/02/27/total-defence-day-2023/" rel="bookmark">Total Defence Day 2023</a></strong></h4>
+<h4><strong><a href="/2023/03/23/science-lesson-with-k2-students-human-digestive-system/" rel="bookmark">Science Lesson with K2 students – Human Digestive System</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><a href="/2023/02/27/total-defence-day-2023/"><img src="/images/1111.jpg"></a></td>
+<td style="width: 35%;"><a href="/2023/03/23/science-lesson-with-k2-students-human-digestive-system/"><img src="/images/000005.jpg"></a></td>
 <td style="width: 65%;">
-<p>We commemorate Total Defence Day on 15 February to mark Singapore’s surrender to the Japanese in World War II. The theme for 2023 is “Together We Keep Singapore Strong”. Everyone in the community can do their part to keep Singapore safe and strong. The focus is on how students can put Total Defence into action […]</p>
-<p><a href="/2023/02/27/total-defence-day-2023/">Read More</a></p>
+<p>Teachers from the Science Department conducted a lesson for the K2 students on the Human Digestive System. They were taught how food they eat is transformed into the energy they use every day. Using visuals aids and resources like strings, tennis ball and foldable paper ball, the teachers helped students relate and understand the different […]</p>
+<p><a href="/2023/03/23/science-lesson-with-k2-students-human-digestive-system/">Read More</a></p>
 </td>
 </tr>
 </tbody>
