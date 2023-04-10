@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Publications/brps-cl-newspaper-2022-sem-2_final_page-0001.jpg)
+
+![](/images/Publications/brps-cl-newspaper-2022-sem-2_final_page-0002.jpg)
