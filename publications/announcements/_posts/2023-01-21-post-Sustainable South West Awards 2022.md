@@ -11,3 +11,18 @@ Blangah Rise Primary School received the South West Community Development Counci
 The award recognises the school for its contributions and exemplary efforts towards environmental and social sustainability in the district for 2022.
 
 
+![](/images/Announcements/clean%20up%202022%201.jpg)
+
+![](/images/Announcements/clean%20up%202022%202.jpg)
+
+![](/images/Announcements/clean%20up%202022%203.jpg)
+
+![](/images/Announcements/clean%20up%202022%204.jpg)
+
+![](/images/Announcements/clean%20up%202022%205.jpg)
+
+![](/images/Announcements/clean%20up%202022%206.jpg)
+
+![](/images/Announcements/clean%20up%202022%207.jpg)
+
+![](/images/Announcements/clean%20up%202022%208.jpg)
