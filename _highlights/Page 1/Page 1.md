@@ -4,6 +4,21 @@ permalink: /news/highlights/page/1/
 description: ""
 third_nav_title: Page 1
 ---
+<h4><strong><a href="/2023/04/06/chinese-junior-reporters-dian-dian-di-di-vol-2-2022/" rel="bookmark">Chinese Junior Reporters (Dian Dian Di Di) Vol.2 – 2022</a></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2023/04/06/chinese-junior-reporters-dian-dian-di-di-vol-2-2022/"><img src="/images/Publications/brps-cl-newspaper-2022-sem-2_final_page-0001.jpg"></a></td>
+<td style="width: 65%;">
+<p></p>
+<p><a href="/2023/04/06/chinese-junior-reporters-dian-dian-di-di-vol-2-2022/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
 <h4><strong><a href="/2023/04/03/national-primary-schools-chinese-calligraphy-competition-2023/" rel="bookmark">National Primary Schools Chinese Calligraphy Competition 2023</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
