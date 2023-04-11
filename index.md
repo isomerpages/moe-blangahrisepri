@@ -33,14 +33,14 @@ sections:
       url: /2023/01/21/sustainable-south-west-awards-2022/
       image: /images/Announcements/clean up 2022 1.jpg
   - infopic:
-      title: Total Defence Day 2023
+      title: Singapore Amazing Flying Machine Competition 2023
       button: Click Here to read more
-      url: /2023/02/27/total-defence-day-2023/
+      url: /2023/03/30/singapore-amazing-flying-machine-competition-2023/
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/Fire Dril.jpeg
-      description: "We commemorate Total Defence Day on 15 February to mark
-        Singapore’s surrender to the Japanese in World War II. "
+      description: Our P4 students represented our school by taking part in the annual
+        Singapore Amazing Flying Machine Competition on 20 March.
   - infopic:
       title: Go Team!
       subtitle: HIGHLIGHTS
