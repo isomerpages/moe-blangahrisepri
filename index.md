@@ -23,11 +23,6 @@ sections:
           url: https://moe-blangahrisepri-staging.netlify.app/departments/senior-primary/
   - infopic:
       title: Green Schools @ South West Award Ceremony 2023
-      button: READ MORE
-      url: /2023/03/23/green-schools-south-west-award-ceremony-2023/
-      image: /images/Announcements/gsa_1  .jpg
-  - infopic:
-      title: Green Schools @ South West Award Ceremony 2023
       subtitle: Infopic Subtitle
       button: READ MORE
       url: /2023/03/23/green-schools-south-west-award-ceremony-2023/
@@ -48,15 +43,14 @@ sections:
       description: Our P4 students represented our school by taking part in the annual
         Singapore Amazing Flying Machine Competition on 20 March.
   - infopic:
-      title: Go Team!
+      title: Science Educational Talk – Birds
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/Go Team.jpg
-      url: /2023/02/17/go-team/
-      description: This year, Blangah Rise Primary and First Toa Payoh Primary came
-        together as a combined football team to participate in National School
-        Games (NSG) 2023.
+      image: /images/Announcements/setb11.jpeg
+      url: /2023/03/23/science-educational-talk-birds/
+      description: "A group of parrot enthusiasts visited Blangah Rise Primary to
+        share about their experiences as owners of pet parrots! "
   - resources:
       title: Publications
       button: Click here to see more
