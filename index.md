@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Green Schools @ South West Award Ceremony 2023
       button: READ MORE
-      url: /announcements/
+      url: /2023/03/23/green-schools-south-west-award-ceremony-2023/
       image: /images/Announcements/gsa_1  .jpg
   - infopic:
       title: Announcements 2
