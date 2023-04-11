@@ -27,11 +27,11 @@ sections:
       url: /2023/03/23/green-schools-south-west-award-ceremony-2023/
       image: /images/Announcements/gsa_1  .jpg
   - infopic:
-      title: Announcements 2
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Sustainable South West Awards 2022
+      button: Read More
       alt: Image alt text
+      url: /2023/01/21/sustainable-south-west-awards-2022/
+      image: /images/Announcements/clean up 2022 1.jpg
   - infopic:
       title: Total Defence Day 2023
       button: Click Here to read more
