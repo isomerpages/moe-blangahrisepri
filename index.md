@@ -44,7 +44,7 @@ sections:
       url: /2023/03/30/singapore-amazing-flying-machine-competition-2023/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/Fire Dril.jpeg
+      image: /images/Announcements/safmc2023.jpeg
       description: Our P4 students represented our school by taking part in the annual
         Singapore Amazing Flying Machine Competition on 20 March.
   - infopic:
