@@ -22,6 +22,12 @@ sections:
           description: ""
           url: https://moe-blangahrisepri-staging.netlify.app/departments/senior-primary/
   - infopic:
+      title: Green Schools @ South West Award Ceremony 2023
+      button: READ MORE
+      url: /2023/03/23/green-schools-south-west-award-ceremony-2023/
+      image: /images/Announcements/gsa_1  .jpg
+      alt: Image alt text
+  - infopic:
       title: Sustainable South West Awards 2022
       button: Read More
       alt: Image alt text
@@ -48,10 +54,4 @@ sections:
   - resources:
       title: Publications
       button: Click here to see more
-  - infopic:
-      title: Green Schools @ South West Award Ceremony 2023
-      button: READ MORE
-      url: /2023/03/23/green-schools-south-west-award-ceremony-2023/
-      image: /images/Announcements/gsa_1  .jpg
-      alt: Image alt text
 ---
