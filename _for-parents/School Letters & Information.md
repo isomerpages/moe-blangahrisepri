@@ -1,5 +1,5 @@
 ---
-title: School Letters & Information
+title: School Letters &amp; Information
 permalink: /parent-support-group/school-letters-information/
 description: ""
 ---
@@ -10,8 +10,9 @@ description: ""
 <label for="accordion1">2023</label>
 <div>
 <p><strong>Principal's Letter</strong></p>
-<p><a href="/files/2023-01-Principal.pdf">Principal's January Letter 2023</a></p>
 <p><a href="/files/2023-02-Principal.pdf">Principal's March Letter 2023</a></p>
+<p><a href="/files/2023-01-Principal.pdf">Principal's January Letter 2023</a></p>
+
 <p><strong>Parent-Teacher Meeting (Junior Primary)</strong></p>
 <p><a href="/files/P1-PTM-1-Feb-2023.pdf">P1 Parent-Teacher Meeting Slides</a></p>
 <p><a href="/files/P2-PTM-1-Feb-2023.pdf">P2 Parent-Teacher Meeting Slides</a></p>
