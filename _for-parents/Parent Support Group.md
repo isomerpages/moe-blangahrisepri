@@ -17,10 +17,12 @@ description: ""
 <img style="width: 80%;" src="/images/3-5-1024x276.jpg">
 <img style="width: 80%;" src="/images/3-6.jpg">
 <p>Parents and students appreciating our teachers on their special day.</p>
-<img style="width: 80%;"src="/images/3-7-1024x330.jpg">
+
+<img style="width: 80%;" src="/images/3-7-1024x330.jpg">
+
 <img style="width: 80%;" src="/images/3-8.jpg">
-<p>Parents contributed their amazing talents to support the school&rsquo;s effort in celebrating Children&rsquo;s Day.</p>
+<p>Parents contributed their amazing talents to support the school’s effort in celebrating Children’s Day.</p>
 <img style="width: 80%;" src="/images/3-9-1024x262.jpg">
 <img style="width: 80%;" src="/images/3-10.jpg">
-<p>Dads get connected and actively involved in their children&rsquo;s lives both at home and in school.</p>
+<p>Dads get connected and actively involved in their children’s lives both at home and in school.</p>
 <img style="width: 65%;" src="/images/0001-1-724x1024.jpg">
