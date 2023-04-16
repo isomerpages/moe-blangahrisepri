@@ -11,16 +11,16 @@ sections:
       key_highlights:
         - title: Moe Kindergarten
           description: ""
-          url: https://moe-blangahrisepri-staging.netlify.app/moe-kindergarten-blangah-rise/
+          url: /moe-kindergarten-blangah-rise/
         - title: Junior Primary
           description: ""
-          url: https://moe-blangahrisepri-staging.netlify.app/departments/junior-primary/
+          url: /departments/junior-primary/
         - title: Middle Primary
           description: ""
-          url: https://moe-blangahrisepri-staging.netlify.app/departments/middle-primary/
+          url: /departments/middle-primary/
         - title: Senior Primary
           description: ""
-          url: https://moe-blangahrisepri-staging.netlify.app/departments/senior-primary/
+          url: /departments/senior-primary/
   - infopic:
       title: Green Schools @ South West Award Ceremony 2023
       button: READ MORE
