@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Calendar.md
       - Guideline On Parents Communication.md
       - Virtual School Tour.md
       - Parent Support Group.md
@@ -15,3 +14,4 @@ collections:
       - MOE FAS Application.md
       - P1 Orientation for 2023 Cohort.md
       - FAQs.md
+      - Calendar.md
