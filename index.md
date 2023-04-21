@@ -4,8 +4,9 @@ title: Blangah Rise Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "[Click here](https://www.youtube.com/watch?v=gQJzCkGm-yk) to view
-  video on our students sharing about their First Day of School. "
+notification: '<a href="https://www.youtube.com/watch?v=gQJzCkGm-yk">Click
+  here</a> to view video on our students sharing about their First Day of
+  School. '
 sections:
   - hero:
       background: /images/IMG_2347.jpg
