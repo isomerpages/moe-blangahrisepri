@@ -3,8 +3,6 @@ title: Healthy Kids
 permalink: /2020/03/29/be-bright-eat-right/1/
 description: ""
 ---
-
-
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
@@ -20,7 +18,7 @@ description: ""
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-Nov-21.pdf">BRPS Healthy Kids Newsletter - November 21</a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-Aug-2021-1.pdf">BRPS Healthy Kids Newsletter - August 2021</a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-MAY-2021.pdf">BRPS Healthy Kids Newsletter - May 2021</a></p>
-<p><a href="/files/BRPS-Healthy-Kids-Newsletter-JAN-2021.pdf">BRPS Healthy Kids Newsletter - Jaunary 2021</a></p>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-JAN-2021.pdf">BRPS Healthy Kids Newsletter - January 2021</a></p>
 </div>
 </li>  
 <li>
