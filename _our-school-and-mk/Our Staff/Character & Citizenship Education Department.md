@@ -4,6 +4,14 @@ permalink: /our-school/our-staff/character-citizenship-education-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-<img src="/images/Character-Citizenship-Education-Department-Informal-1.jpeg">
-<p><strong>ROW 1 (FRONT):</strong><br />MRS JENNY QUEK, MDM DONG WENYAN, MDM CHONG JIE SHI, MR MOHAN S/O SUPPIAH, MS NUR QURRATUAINI BTE MOHD ZUHRI</p>
-<p><strong>ROW 2 (BACK):</strong><br />MR JOHN CHIA, MR PATRICK GOH, MR MARCUS CHAN, MDM JOCELYN ZHU, MDM STEPHANIE SONG, MDM KIMBERLY KOH, MS GUO YAWEN, MDM UUCHI MASHAIDAH, MDM NOOR JEHAN IBRAHIM</p>
+<img src="/images/ccedept.jpg">
+
+
+**ROW 1 (FRONT):**  <br>
+Mrs Jenny Quek, Mr James Han, Mr Patrick Goh, Mr Samuel Ooi, Mdm Stephanie Song, Mdm Kimberly Koh, Ms Eileen Puah
+
+**ROW 2 (MIDDLE):**  <br>
+Mdm Dong Wenyan, Ms Elaine Heng, Ms Guo Yawen, Ms Shang Mingzhu, Ms Anjanaa Sankar, Ms Nur Qurratuaini Binte Mohd Zuhri
+
+**ROW 3 (BACK):** <br>
+Ms Maddie Wong, Mr Marcus Chan, Mr Wong Oon Hua, Mr Dinesh s/o Loganadhan, Mr Pradipdatta Puvanendran, Mr Zaini Daud, Ms Teo Mui Li
