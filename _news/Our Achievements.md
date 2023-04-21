@@ -8,6 +8,8 @@ description: ""
 <ul>
 <li>Green Schools @ South West - South West Accreditation Programme for 2022: Awarded three stars – Public Health Star, Environment Protection Star and Junior Environment Ambassador Star</li>
 <li>Best Speaker at Round 1 of Wits and Words 2023 Inter-school Debate Competition - Gail Lien Zhao Xin (6 Sapphire)</li>
+<li>Certificate of Distinction in Round 1 Open Category of Raffles Institution Primary Mathematics World Contest 2023 - Nathanael Chin Chi Yi (6 Sapphire)</li>
+<li>Certificate of Merit in Round 1 Open Category of Raffles Institution Primary Mathematics World Contest 2023 - Hong Rian (6 Topaz)</li>
 </ul>
 <h4><strong>2022</strong></h4>
 <ul>
