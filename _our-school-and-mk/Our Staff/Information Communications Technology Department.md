@@ -4,7 +4,10 @@ permalink: /our-school/our-staff/information-communications-technology-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-<img src="/images/Information-Communications-Technology-Department-Informal.jpeg">
-<p><strong>ROW 1 (FRONT):</strong><br />MR MUHAMMAD IZAM BIN SAIDI, MR ZAINI BIN DAUD</p>
-<p><strong>ROW 2: (MIDDLE):</strong><br />MS EILEEN PHUA, MRS TERESA TAY, MS YANTI BINTE RAHIM, MS NADIRAH BINTE AZMAN, MDM TAN GUAT KHIM</p>
-<p><strong>ROW 3 (BACK):</strong><br />MR URWIN NG, MR MOHAMMED&nbsp;YOUSOFF&nbsp;S/O SHAIK&nbsp;MD, MS MAGDALENE HO, MS ABIGAIL OW, MS ATHENA TANG, MDM NOOR SA'ADAH, MDM ESTHER TEO, MR JAMES HAN, MDM YEO CHAY YEE, MR YU ZHENXUE</p>
+<img src="/images/itdept.jpg">
+
+**ROW 1 (FRONT):** <br>
+Mr Muhammad Izam Bin Saidi, Mr Urwin Ng, Mrs Teresa Tay, Ms Nadirah Azman, Ms Seow Wen Yi, Ms Jasmine Gui, Ms Aprilene Goh, Mdm Kalavathy Balasubramanian, Ms Joyce Ho
+
+**ROW 2 (BACK):** <br>
+Mr Yu Zhenxue, Mr Mohammed Yousoff s/o Shaik Md, Mdm Chong Jie Shi, Ms Magdalene Ho, Ms Abigail Ow, Mdm Tan Guat Khim, Mdm Nor Azlin Abdul Aziz, Ms Athena Tang**
