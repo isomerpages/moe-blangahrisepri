@@ -4,5 +4,10 @@ permalink: /our-school/our-staff/science-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-<img src="/images/Science-Department-Informal-1.jpeg">
-<p>MDM NASOPA BINTE NAIM, MR LEOW QINJIN, MRS JENNY QUEK, MR PATRICK GOH, MDM TAN GUAT KHIM, MR MUHAMMAD SALIM AHMAD JAMIL, MS MUNIRAH BINTE TALAT MAHMOOD, MDM STEPHANIE SONG, MS ATHENA TANG, MDM JOCELYN ZHU, MR SHANG THIAN HUAT</p>
+<img src="/images/scidept.jpg">
+
+**ROW 1 (FRONT):**<br>
+Mr Patrick Goh, Ms Athena Tang, Mdm Tan Guat Khim, Mr James Han, Ms Jasmine Gui, Mdm Stephanie Song, Mrs Jenny Quek, Mdm Nasopa Binte Naim, Ms Munirah Binte Talat Mahmood, Mr Leow Qinjin
+
+**ROW 2 (BACK):** <br> 
+Mr Shang Thian Huat, Mr Muhammad Salim Ahmad Jamil
