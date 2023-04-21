@@ -4,8 +4,6 @@ permalink: /broadcast/1/
 description: ""
 ---
 
-<h3><a title="BRoadcast Vol.2 – 2020" href="/2020/11/17/broadcast-vol-2-2020/" rel="bookmark">BRoadcast Vol.2 – 2020</a></h3>
-<div>November 17, 2020</div>
 <h3><a title="BRoadcast Vol.1 – 2020" href="/2020/07/24/broadcast-vol-1-2020/" rel="bookmark">BRoadcast Vol.1 – 2020</a></h3>
 <div>July 24, 2020</div>
 <h3><a title="BRoadcast Vol.2 – 2019" href="/2019/11/26/broadcast-vol-2-2019/" rel="bookmark">BRoadcast Vol.2 – 2019</a></h3>
@@ -37,7 +35,7 @@ description: ""
 <input type="checkbox" id="accordion3">
 <label for="accordion3"><p><strong>2020</strong></p></label>
 <div>
-<p><a href="/files/BRPS-Healthy-Kids-Newsletter-NOV-2020.pdf">BRPS Healthy Kids Newsletter - November 2020</a></p>
+<p><a href="/2020/11/17/broadcast-vol-2-2020/">BRoadcast Vol.2 – 2020 - November 17, 2020</a></p>
 <p><a href="/files/Update_BRPS-Healthy-Kids-Newsletter-AUG-2020-final.pdf">BRPS Healthy Kids Newsletter - August 2020 - </a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-JULY-2020.pdf">BRPS Healthy Kids Newsletter - July 2020</a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-June-2020-final.pdf">BRPS Healthy Kids Newsletter - June 2020</a></p>
