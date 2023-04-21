@@ -4,6 +4,10 @@ permalink: /our-school/our-staff/student-management-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-<img src="/images/Student-Management-Department-Informal.jpeg">
-<p><strong>ROW 1 (FRONT):</strong><br />MS MUNIRAH BTE TALAT MAHMOOD, MR MUHAMMAD SALIM AHMAD JAMIL, MR CHUA KAH HERN</p>
-<p><strong>ROW 2 (BACK):</strong><br />MR VICTOR LIM, MS CHERMAINE CHUA, MS SHARON LEE, MDM SITI RAHMAH, MS IVY TEO, MRS VATHSALA RATNAKUMAR, MS LUCIANA JIANG, MS JUNAIDAH BEGAM, MRS GRACE LEE, MDM CAROLINE CHOONG, MR DINESH S/O LOGANADHAN</p>
+<img src="/images/studdept.jpg">
+
+**ROW 1 (FRONT):** <br>
+Mrs Chan, Mr Chua Kah Hern, Ms Lee Sok Lai, Mr Muhammad Salim Ahmad Jamil&nbsp;, Mr Victor Lim, Ms Ivy Teo, Ms Munirah Binte Talat Mahmood
+
+**ROW 2 (BACK):** <br>
+Ms Yanti Rahim, Ms Esther Teo, Ms Usha Rani, Mdm Noor Sa’adah Binte Mas’od, Ms Sharon Teo, Ms Genevieve Thong, Ms Junaidah Begam, Ms Chermaine Chua, Ms Syikin, Mrs Grace Lee
