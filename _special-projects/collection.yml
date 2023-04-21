@@ -2,7 +2,6 @@ collections:
   special-projects:
     output: true
     order:
-      - Friends of Berlayer Check.md
       - Bicentennial Coffee Table Book/.keep
       - Bicentennial Coffee Table Book/Bicentennial Coffee Table Book.md
       - "Bicentennial Coffee Table Book/Telok Blangah Song: Our Bicentennial
@@ -20,3 +19,4 @@ collections:
       - Reflections of an Overcomer/Postcards.md
       - Reflections of an Overcomer/Posters.md
       - The Green Dragonflies and Their Swampy Friends.md
+      - Friends of Berlayer Check.md
