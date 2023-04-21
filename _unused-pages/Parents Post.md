@@ -3,8 +3,6 @@ title: Parents Post
 permalink: /2021/02/10/parents-post/1/
 description: ""
 ---
-
-
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
