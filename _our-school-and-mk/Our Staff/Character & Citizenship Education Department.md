@@ -4,7 +4,9 @@ permalink: /our-school/our-staff/character-citizenship-education-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-<img src="/images/ccedept.jpg">
+<img src="/images/ccedept2.jpg">
+
+
 
 
 **ROW 1 (FRONT):**  <br>
