@@ -4,7 +4,7 @@ permalink: /our-school/our-staff/student-management-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-<img src="/images/studdept.jpg">
+<img src="/images/image15.jpg">
 
 **ROW 1 (FRONT):** <br>
 Mrs Chan, Mr Chua Kah Hern, Ms Lee Sok Lai, Mr Muhammad Salim Ahmad Jamil&nbsp;, Mr Victor Lim, Ms Ivy Teo, Ms Munirah Binte Talat Mahmood
