@@ -10,7 +10,7 @@ notification: ' <p style="text-align:center;"><a
   School.</p>'
 sections:
   - hero:
-      background: /images/IMG_2347.jpg
+      background: /images/1200x630.gif
       key_highlights:
         - title: Moe Kindergarten
           description: ""
