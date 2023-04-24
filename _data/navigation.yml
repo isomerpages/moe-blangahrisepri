@@ -1,20 +1,20 @@
 logo: /images/updatedlogowithtagline_kite_lesswhitespace.jpg
 links:
-  - title: Our School and MK
-    url: /our-school/principals-message/
+  - title: About Us
+    url: /about-us/principals-message/
     sublinks:
       - title: Principal's Message
-        url: /our-school/principals-message/
+        url: /about-us/principals-message/
       - title: Our Leadership
-        url: /our-school/our-leadership/
+        url: /about-us/our-leadership/
       - title: Our Staff
-        url: /our-school/our-staff/
+        url: /about-us/our-staff/
       - title: School Advisory Committee
-        url: /our-school/school-advisory-committee/
+        url: /about-us/school-advisory-committee/
       - title: Our Alumni
-        url: /our-school/alumni/
+        url: /about-us/alumni/
       - title: Our Identity
-        url: /our-school/our-identity/
+        url: /about-us/our-identity/
       - title: Our MOE Kindergarten
         url: /moe-kindergarten-blangah-rise/
       - title: Feature on Our Educators
