@@ -79,6 +79,10 @@ links:
   - title: For Parents
     url: /guidelines-on-parents-communications/
     sublinks:
+      - title: News
+        url: /news/our-achievements/
+      - title: School Calendar
+        url: /for-parents/calendar/
       - title: Parents Communication
         url: /guidelines-on-parents-communications/
       - title: Virtual School Tour
@@ -87,10 +91,6 @@ links:
         url: /parent-support-group/parent-group/
       - title: School Letters & Information
         url: /parent-support-group/school-letters-information/
-      - title: School Calendar
-        url: /for-parents/calendar/
-      - title: News
-        url: /news/our-achievements/
       - title: School Bus, Uniform & Bookshop
         url: /parent-support-group/school-bus-uniform-bookshop/
       - title: SATS School Meals Programme
@@ -101,7 +101,5 @@ links:
         url: /parent-support-group/our-school-rules-and-regulations/
       - title: MOE FAS Application
         url: /moe-fas-application/
-      - title: P1 Orientation for 2023 Cohort
-        url: /p1-orientation/
       - title: FAQs
         url: /parent-support-group/faq/
