@@ -77,10 +77,6 @@ links:
       - title: Friends Of Berlayer Creek
         url: /friends-of-berlayer-creek/
   - title: For Parents
-    collection: for-parents
-  - title: News
-    collection: news
-  - title: For Parents
     url: /guidelines-on-parents-communications/
     sublinks:
       - title: Parents Communication
@@ -107,3 +103,5 @@ links:
         url: /p1-orientation/
       - title: FAQs
         url: /parent-support-group/faq/
+      - title: News
+        url: /news/our-achievements/
