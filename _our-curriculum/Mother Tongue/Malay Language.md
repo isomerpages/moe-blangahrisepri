@@ -1,0 +1,31 @@
+---
+title: Malay Language
+permalink: /departments/mother-tongue/malay-language/
+description: ""
+third_nav_title: Mother Tongue
+---
+<img src="/images/ML-11-Oct2.png">
+<p><strong>Department:&nbsp;</strong>Malay Unit (Mother Tongue Department)<br /><strong>Vision:&nbsp;</strong>Every child is able to use the Malay language effectively.<br /><strong>Mission:&nbsp;</strong>To nurture passion and love for the Malay language and the Malay culture in our students.</p>
+<h4><strong>Description of Programmes:</strong></h4>
+<p><strong><em>Teaching &amp; Learning<br /></em></strong>In our Malay Language classes, a variety of strategies are adopted to enhance our students&rsquo; learning and to provide them with opportunities to demonstrate thinking and communication skills. Students not only learn through textbooks but also through experiential learning in order to make learning valuable for students. For instance, Primary 2 students created their very own puppet just like what they learnt in their P2 Cekap textbook. On the other hand, our Primary 3 students applied their understanding of different language components through flashcards. In addition, during recess, our students also get to extend their learning by reading a storybook and doing a follow-up activity based on the storybook selected.</p>
+<img src="/images/malay1.png">
+<p>ICT-based lessons using ICT tools and apps are designed not only to bring fun and excitement to the learning of the language, but they also value-add to the lessons.<br />Anika, a Primary 6 student shared, &ldquo;I enjoy the iPad lessons prepared by my teachers. It allows me to learn at my own pace and at the same time, learn from my classmates when I read their work online through SLS. The quizzes done through Kahoot also challenges me to recall what I have learnt in class.&rdquo;<br />Kashia, a Primary 4 student added, &ldquo;I enjoyed the lesson when my teacher used Nearpod because my teacher can correct me on the spot.&rdquo;</p>
+<img src="/images/malay2.png">
+<p><strong><em>Inquiry-Based Learning<br /></em></strong>Through Inquiry-based Learning (IBL), our students engage in self-directed and collaborative learning. IBL, paired with authentic learning, promotes critical and inventive thinking skills in our students as they attempt to solve real-world problems. For instance, the Primary 2 students learned about life cycle of a butterfly. This is an extension of learning where students learn words and phrases that are related to life cycle of a butterfly in their Mother Tongue.</p>
+<img src="/images/malay3.png">
+<p><strong><em>Mother Tongue Fortnight<br /></em></strong>Interested in making a Wau? How about a weaving a basket? Or watching a performance of Wayang Kulit? Our annual Malay Language Fortnight provides authentic platforms for our students to use the Malay Language and to appreciate the Malay Language and culture through fun-filled cultural activities. Malay Language Competitions are also organized for all levels.</p>
+<img src="/images/malay4.png"><br>
+<img src="/images/malay5.png"><br>
+<img src="/images/malay6.png">
+<p><strong>Malay Language Camps<br /></strong>Our Malay Language camps aim to deepen students&rsquo; understanding of the Malay culture and traditions. These camps provide a fun environment for our P4 and P6 students to learn and use the language frequently and in an authentic setting. During the camp, students engage in various learning experiences that involve the Malay Language and culture.</p>
+<p>Eriqa, a Primary 6 student, expressed her excitement about what she learnt. &ldquo;I learnt about the process of digitalizing a storybook. I also learned how to use Google slides and work collaboratively with my friends. I hope our digital books will benefit our juniors and encourage them to read more Malay Language books,&rdquo; she shared.</p>
+<p><em><strong>Rakan Bahasa Programme<br /></strong></em>The Rakan Bahasa programme by Majlis&nbsp;Bahasa&nbsp;Melayu, Singapura (MBMS), encourages students who are passionate about the Malay Language to be role models for the Malay Language to their family and friends.</p>
+<p>Two of our Primary 5 students, Sophia Risteski and Sofia Faizal, were recently appointed as Rakan Bahasa.</p>
+<p>When asked about their thoughts as newly appointed Rakan Bahasa, Sophia Risteski said, &ldquo;I am looking forward to carrying out my duty as a Rakan Bahasa. I would like to try to encourage my friends and my mother to use Malay Language often.&rdquo;</p>
+<p>Sofia Faizal added &ldquo;Looking at other Rakan Bahasa from other schools during the virtual appointment ceremony makes me feel excited. I know we are not alone trying to carry out our Bahasa missions. I hope I can interact with them in the future.&rdquo;</p>
+<img src="/images/Rakan-Bahasa-1-1-768x1024.jpg">
+<p><em><strong>Rentas Pantas 2022<br /></strong></em>Rentas Pantas, an annual event organised by Nanyang Technological University / National Institute of Education's Malay Language and Cultural Society (NTU/NIE MLCS), aims to instil the love of Malay Language and Culture amongst primary and secondary school students. Five Primary 4 students represented our school in Rentas Pantas 2022.</p>
+<p>Our students managed to clinch the first spot for Primary School category. Click&nbsp;<a href="/2022/03/21/p4-students-clinch-first-place-at-rentas-pantas-2022/"><strong>here</strong></a>&nbsp;to read more about the event.</p>
+<img src="/images/malay7.png">
+<p><em><strong>Junior Reporters Programme<br /></strong></em>Our Junior Reporters Programme (<em>Wartawan Cilik)</em>&nbsp;aims to provide a platform for students to hone their Malay Language skills by using the language in an authentic setting. It aims to equip students with basic news-reporting skills, such as writing news reports, editing news reports and basic photography. Through this programme, students will be able to improve in the four core language skills &ndash; listening, speaking, reading and writing. Students will also be equipped with social interaction skills and build confidence in them.</p>
+<img src="/images/malay8.png">

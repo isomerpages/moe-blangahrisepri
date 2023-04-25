@@ -1,0 +1,14 @@
+---
+title: A teacher mentor on and off the football pitch, Mr Chua Kah Hern
+permalink: /2020/06/04/a-teacher-mentor-on-and-off-the-football-pitch-mr-chua-kah-hern/
+description: ""
+third_nav_title: Page 2
+---
+<img src="/images/IMG_20200224_075413-1024x768.jpeg">
+<p>Mr Chua Kah Hern is a teacher who is passionate about what he teaches and faithful in what he stewards.</p>
+<p>As the Football CCA teacher-in-charge, Mr Chua is often seen playing football with the boys and participating in drills while facilitating the CCA sessions. He coaches the school team together with the football coach. Besides imparting football skills and knowledge, Mr Chua instils values in the students and purposes to build character. He says, &ldquo;I think it is important for the boys to understand that the teacher is as involved in the CCA as they are and hopefully it will allow me to influence them positively.&rdquo;</p>
+<p>A firm believer of developing self-discipline, Mr Chua begins every year by setting the football boys on the right footing. The boys commit to a full value contract where they agree to be on their best behaviour on and off the field and diligently complete all school assignments. Mr Chua works closely with the subject teachers to ensure that the boys walk out what they commit to in the full value contract. If any student does not commit to the full value contract, Mr Chua will work with the teachers to correct the misbehaviour, counsel and coach the student to learn from the incident and improve.</p>
+<p>He tells the boys, &ldquo;In whatever we do, we give nothing less than one hundred percent so that we properly steward the talent that has been given to us and do not short change our teammates who are already putting in their one hundred percent.&rdquo;</p>
+<p>Mr Chua sees himself as a mentor to the football boys. He takes time to listen to them during and after CCA. Be it during recess, along the walkway or during lessons, Mr Chua will check in on them. As a teacher-mentor, Mr Chua is concerned about developing his students holistically. He believes that when his students know that he sincerely cares for their well-being, they will respond positively. To help students achieve their true potential, Mr Chua is intentional in cheerleading, counselling and coaching his students to give of their best &ndash; on and off the field. In recognition of his impact on the students, Mr Chua was given the 2019 Inspiring CCA Teacher Award in BRLC.</p>
+<p>Mr Chua is clear of his mission and purpose. &ldquo;Students need to understand that good values and work ethics will help them in their development in football and for life.&rdquo;</p>
+<img src="/images/mrchua.jpg">

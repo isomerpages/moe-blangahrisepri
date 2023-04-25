@@ -1,0 +1,27 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Leadership.md
+      - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/English Department.md
+      - Our Staff/Mother Tongue Language Department.md
+      - Our Staff/Mathematics Department.md
+      - Our Staff/Science Department.md
+      - Our Staff/Character & Citizenship Education Department.md
+      - Our Staff/Information Communications Technology Department.md
+      - Our Staff/PE, CCA, Art and Music Department.md
+      - Our Staff/Student Management Department.md
+      - Our Staff/MOE Kindergarten.md
+      - Our Staff/Administration and Operations Team.md
+      - School Advisory Committee.md
+      - "Our Alumni: Making a Difference in Society.md"
+      - Our Identity.md
+      - Our History.md
+      - Our MOE Kindergarten/.keep
+      - Our MOE Kindergarten/MOE Kindergarten @ Blangah Rise.md
+      - Our MOE Kindergarten/Junior Primary.md
+      - Our MOE Kindergarten/Middle Primary.md
+      - Our MOE Kindergarten/Senior Primary.md
