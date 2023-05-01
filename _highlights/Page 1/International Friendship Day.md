@@ -13,3 +13,4 @@ Gail from 6 Sapphire shared that the programme was very interactive, as they had
 Meanwhile, Catherine from 5 Sapphire felt that the presentation was fascinating. She learnt new facts about our neighbouring country, Indonesia.
 
 One of the student-hosts, Dave from 4 Topaz, shared that the assembly programme was informative and noteworthy. “I am very glad that I had the chance to present in front of the school. I really enjoyed the session. I wish I could have more of such opportunities in the future.”
+
