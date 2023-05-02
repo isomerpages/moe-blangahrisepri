@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - 2023/Lunar New Year Celebration 2023.md
       - 2023/.keep
       - 2023/Page 1.md
       - 2023/Chinese Junior Reporters (Dian Dian Di Di) Vol 2 2022.md
@@ -16,6 +15,7 @@ collections:
       - 2023/Wits and Words 2023 Inter–school Debate Competition.md
       - 2023/Total Defence Day 2023.md
       - 2023/Go Team!.md
+      - 2023/Lunar New Year Celebration 2023.md
       - 2022/.keep
       - 2022/Page 2.md
       - 2022/APEX students launch third issue of BRavo!.md
