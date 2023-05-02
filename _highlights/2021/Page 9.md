@@ -4,6 +4,33 @@ permalink: /news/highlights/page/9/
 description: ""
 third_nav_title: "2021"
 ---
+<h4><strong><a href="/2022/01/25/apex-students-launch-second-issue-of-bravo/" rel="bookmark">APEX students launch second issue of BRavo!</a></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2022/01/25/apex-students-launch-second-issue-of-bravo/"><img src="/images/55.jpg"></a></td>
+<td style="width: 65%;">
+<p>Our APEX (Accelerated Programme to enhance students’ eXperience) team comprising students from Primary 4 and 5, met regularly via Zoom in Semester 2, to curate and write the second issue of BRavo!, the BRPS student newsletter. BRavo! is part of our Viewpoints programme, where we aim to inculcate communications, collaboration and information skills through journalistic […]</p>
+<p><a href="/2022/01/25/apex-students-launch-second-issue-of-bravo/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h4><strong><a href="/2021/11/29/junior-primary-students-hone-their-green-fingers-at-home/" rel="bookmark">Junior Primary students hone their green fingers at home!</a>
+</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2021/11/29/junior-primary-students-hone-their-green-fingers-at-home/"><img src="/images/56.jpeg"></a></td>
+<td style="width: 65%;">
+<p>Our Primary 1 and Primary 2 students walked home happily with a pot of succulents on 18 November 2021. The succulents were prepared by the school International Student Permeant Residence (ISPR) Program team. The plants serve as a reminder for students to adopt green habits and practice the virtue of responsibility by taking care of […]</p>
+<p><a href="/2021/11/29/junior-primary-students-hone-their-green-fingers-at-home/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
 <h4><strong><a href="/2021/11/24/ending-2021-by-celebrating-our-students-with-brlc-celebrates/" rel="bookmark">Ending 2021 by celebrating our students with BRLC Celebrates!</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
