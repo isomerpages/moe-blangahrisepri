@@ -1,0 +1,15 @@
+---
+title: BRLC ushers in the Year of the Tiger!
+permalink: /2022/02/05/brlc-ushers-in-the-year-of-the-tiger/
+description: ""
+third_nav_title: Page 5
+---
+<p style="text-align: center;"><strong>BRLC ushers in the Year of the Tiger!</strong></p>
+<img src="/images/IMG-20220203-WA0013-768x576.jpg">
+<p>This year, we celebrated Chinese Lunar New Year on 31 January, which is also the eve of Chinese Lunar New Year. In the morning, our students participated in various classroom activities. At MK, students had a cultural induction activity, where they learnt more about the history and significance of celebrating the Chinese New Year. Our Junior Primary students got their hands busy, working on a colouring activity and designing of Red Packets. Our Middle Primary students worked on a Chinese New Year poster design, while our Senior Primary students tried out a Chinese Paper Cutting activity. These activities sought to engage our students in learning more about the festival.</p>
+<p>“I enjoyed working on the classroom activity as it is fun. I learnt a new word “春”and the meaning behind it with relevance to the Chinese Lunar New Year.” Aaron (5 Sapphire)</p>
+<p>For the second part of the celebration, Lucas Sim (5 Sapphire) and Uthaila (5 Sapphire), our emcees for that day, brought us through a specially curated Zoom concert. To make the celebration even more special, our parents from the Parents’ Support Group and elderly from the Lion’s Befriender’s club also joined us in the celebration.</p>
+<p>Part of the concert programme included dance items by the talented BRPS Dance Club members, MK students, and even BRPS staff! Our staff also sent their well wishes to everyone via a video presentation. From the poetry recitation presentation by our Primary Two students, we also learnt more about the activities and custom people would engage in during Chinese Lunar New Year. Some of our peers also shared how they celebrated the festive season back in their own countries, such as in Vietnam or in Japan. Not to forget, Melody Tan (5 Topaz) and her sister Aria (3 Sapphire) also presented a melodious Ukulele performance.</p>
+<p>The highlight of the concert must have been the game segment. Have you ever played the Chinese Lunar New Year Pictionary before? Well, we did! All of us had so much fun guessing what our friends and students drew during the game segment of the concert. For the finale, some of our Blangahnites, who took part in the BRPS Chinese Idols last year, sang to the tune of “He Xin Nian”. It was the most memorable concert as we came together as BRLC to usher in Chinese New Year.</p>
+<p>BRPS would like to wish everyone a Happy Chinese Lunar New Year! May the Year of the Tiger brings about happiness and abundance for the new year! 虎年大吉！</p>
+<img src="/images/tiger.png">
