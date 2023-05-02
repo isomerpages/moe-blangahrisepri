@@ -148,3 +148,29 @@ third_nav_title: "2023"
 </tr>
 </tbody>
 </table>
+
+<h4><strong><a href="/2023/02/01/apex-students-launch-third-issue-of-bravo/" rel="bookmark">APEX students launch third issue of BRavo!</a></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2023/02/01/apex-students-launch-third-issue-of-bravo/"><img src="/images/13.jpg"></a></td>
+<td style="width: 65%;">
+<p>As part of the English Department’s aim to give students a voice to share their thoughts and views through writing, we welcome the third edition of BRavo!, a publication by students for students. Over several months of meetings, our budding writers in the APEX-EL Writing Programme had fun stretching their imagination and writing potential to put this […]</p>
+<p><a href="/2023/02/01/apex-students-launch-third-issue-of-bravo/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h4><strong><a href="/2023/01/31/lunar-new-year-celebration-2023/" rel="bookmark">Lunar New Year Celebration 2023</a></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2023/01/31/lunar-new-year-celebration-2023/"><img src="/images/14.jpg"></a></td>
+<td style="width: 65%;">
+<p>Blangah Rise had celebrated Lunar New Year on 20 January. This year was very special as the whole school could finally gather and celebrate the festival after two years of online activities. Our confident emcees, Catherine and Ameer (both from 5 Sapphire) took us through the entire concert. The festive occasion started off with our […]</p>
+<p><a href="/2023/01/31/lunar-new-year-celebration-2023/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
