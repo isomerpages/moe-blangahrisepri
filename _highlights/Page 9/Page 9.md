@@ -133,3 +133,29 @@ third_nav_title: Page 9
 </tr>
 </tbody>
 </table>
+
+<h4><strong><a href="/2021/02/02/clean-up-southwest-2021/" rel="bookmark">Clean Up SouthWest! 2021</a></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2021/02/02/clean-up-southwest-2021/"><img src="/images/93.jpg"></a></td>
+<td style="width: 65%;">
+<p>To all students and parents ! Blangah Rise Learning Campus is taking part in the Clean Up SouthWest! 2021 recycling initiative in collaboration with SouthWest CDC. Recycle your old clothes and paper for a greater cause! We accept old newspapers, magazines, paper, clothes and fabrics. This year we are also adding e-waste as a recyclable […]</p>
+<p><a href="/2021/02/02/clean-up-southwest-2021/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h4><strong><a href="/2021/01/12/the-very-first-day-of-school-for-p1-k1/" rel="bookmark">The very first day of school for P1 &amp; K1</a></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2021/01/12/the-very-first-day-of-school-for-p1-k1/"><img src="/images/94.jpeg"></a></td>
+<td style="width: 65%;">
+<p>An excited buzz was in the air on the morning of 4 January 2021, as parents ushered their curious Primary 1 and K1 children to school. The questions each parents had were the same, but this year’s First Day of School was different. Instead of buddies and direct interaction with their children, parents experienced what […]</p>
+<p><a href="/2021/01/12/the-very-first-day-of-school-for-p1-k1/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
