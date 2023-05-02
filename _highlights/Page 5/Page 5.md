@@ -133,3 +133,29 @@ third_nav_title: Page 5
 </tr>
 </tbody>
 </table>
+
+<h4><strong><a href="/2022/02/09/team-of-english-teachers-bags-outstanding-contribution-award/" rel="bookmark">Team of English Teachers bags Outstanding Contribution Award for their Design of the EL Oracy Curriculum</a></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2022/02/09/team-of-english-teachers-bags-outstanding-contribution-award/"><img src="/images/53.jpg"></a></td>
+<td style="width: 65%;">
+<p>Imagine a classroom of confident speakers who love to speak and share their views and thoughts with their classmates. This is a classroom which a team of teachers envisioned in the design of the BRPS English Language (EL) Oracy Curriculum. In 2021, the English Team came together as a Professional Learning Team to develop […]</p>
+<p><a href="/2022/02/09/team-of-english-teachers-bags-outstanding-contribution-award/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h4><strong><a href="/2022/02/05/brlc-ushers-in-the-year-of-the-tiger/" rel="bookmark">BRLC ushers in the Year of the Tiger!</a></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><a href="/2022/02/05/brlc-ushers-in-the-year-of-the-tiger/"><img src="/images/54.jpg"></a></td>
+<td style="width: 65%;">
+<p>This year, we celebrated Chinese Lunar New Year on 31 January, which is also the eve of Chinese Lunar New Year. In the morning, our students participated in various classroom activities. At MK, students had a cultural induction activity, where they learnt more about the history and significance of celebrating the Chinese New Year. […]</p>
+<p><a href="/2022/02/05/brlc-ushers-in-the-year-of-the-tiger/">Read More</a></p>
+</td>
+</tr>
+</tbody>
+</table>
