@@ -1,0 +1,13 @@
+---
+title: A Taste of Robotics & Engineering for our Primary 1!
+permalink: /2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/
+description: ""
+third_nav_title: "2021"
+---
+<p>Building a smart nation is one of Singapore’s top priorities in a bid to keep the city-state relevant in the digital age. STEM education imparts knowledge to students in the disciplines of Science, Technology, Engineering, and Mathematics. Our Primary 1 students got to take part in STEM activities which consist of Robotics and Engineering-related Learning Activities (ERLA).</p>
+<p>To equip our students with coding literacy and computational thinking skills, students took part in the KUBO Robotics and ScratchJr Program. Through this program, students learnt about coding with KUBO. Each student had a hands-on experience using the Kubo kit which consists of a small robot (KUBO) and a set of puzzle pieces (Tagtiles) that fit together to create programming chains. Students explored different coding functions and programmed their robots to move. Putting on their thinking caps, students successfully navigated KUBO through a map and avoided given obstacles. Students also got creative and designed costumes for their KUBO robots and programmed them to move in a KUBO Costume Parade!</p>
+<img src="/images/robotics1.png">
+<p>On the other hand, students were engaged in a coding application called ScratchJr. With ScratchJr, students learnt to program their own interactive stories. In the process, they learn to solve problems, design characters, and express themselves creatively. Students unleashed their imagination as they made their characters come to life. They programmed their characters to move, jump, dance and speak using programming blocks. Students especially enjoyed how they could customise characters and backgrounds using the paint editor.</p>
+<img src="/images/robotics2.png">
+<p>Through ERLA, our students had the experience of becoming young aerospace engineers. Students were briefed about NASA plans to explore the surface of Mars using a rover in combination with a lightweight helicopter. To explore how helicopters operate, students built their very own paper helicopters. They learnt that as air flows over a spinning helicopter blade, it generates a net upward push, called lift. Moreover, students experimented on factors that can also influence lift such as changing the shape or length of the blades. They reflected on how they could improve the design like NASA engineers did when making the first helicopter for planet Mars.</p>
+<img src="/images/robotics3.png">
