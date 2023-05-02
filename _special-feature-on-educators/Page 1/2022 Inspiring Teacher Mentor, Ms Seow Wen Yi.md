@@ -15,3 +15,7 @@ During House Practice, Ms. Seow would reconnect with students through conversati
 There are times when Ms. Seow finds it difficult to coach certain students. Her colleagues are always willing to share their experience and provide her with a different perspective from where the students are coming from. She values the advice of her colleagues that she would adapt and apply what she has learnt.&nbsp;
 
 十年树木，百年树人，It takes ten years to grow a tree but a hundred years to nurture a person. Ms. Seow’s teaching philosophy is to ensure that her students are able to learn in a safe environment that allows them to grow both academic-wise and character-wise. She believes that by coaching, counseling and cheerleading students, they will be able to reach their full potential.
+
+![](/images/Special%20Projects/ms%20seow%20(1).jpg)
+
+![](/images/Special%20Projects/ms%20seow%20(2).jpg)
