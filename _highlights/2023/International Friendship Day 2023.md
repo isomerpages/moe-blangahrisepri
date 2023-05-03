@@ -1,6 +1,6 @@
 ---
 title: International Friendship Day 2023
-permalink: /highlights/2023/permalink/
+permalink: /2023/05/02/international-friendship-day/
 description: ""
 third_nav_title: "2023"
 image: /images/Special Projects/ifd (1).jpeg

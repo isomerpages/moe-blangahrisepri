@@ -1,6 +1,6 @@
 ---
 title: Australian educators visiting from Ming De International School
-permalink: /highlights/2023/permalink/
+permalink: /2023/05/03/ming-de-international-school/
 description: ""
 image: /images/Special Projects/international visit (3).jpg
 third_nav_title: "2023"

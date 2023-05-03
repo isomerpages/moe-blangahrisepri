@@ -45,14 +45,13 @@ sections:
       description: Our P4 students represented our school by taking part in the annual
         Singapore Amazing Flying Machine Competition on 20 March.
   - infopic:
-      title: Science Educational Talk – Birds
+      title: Dr Seuss Day
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/Announcements/setb11.jpeg
-      url: /2023/03/23/science-educational-talk-birds/
-      description: "A group of parrot enthusiasts visited Blangah Rise Primary to
-        share about their experiences as owners of pet parrots! "
+      image: /images/2023 Photos/dr seuss (3).JPEG
+      url: /2023/05/02/dr-seuss-day/
+      description: "Dr. Seuss Day 2023 was a blast at Blangah Rise Primary School! "
   - resources:
       title: Publications
       button: Click here to see more
