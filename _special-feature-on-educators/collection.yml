@@ -2,12 +2,11 @@ collections:
   special-feature-on-educators:
     output: true
     order:
-      - 2020/.keep
+      - Page 1/.keep
       - Page 1/2022 Inspiring Teacher Mentor, Ms Seow Wen Yi.md
       - Page 1/2022 Inspiring Teacher of CCE, Ms Esther Teo.md
-      - Page 1/.keep
-      - "Page 2/LEAPing forward: Ms Munirah receives the LEAP Award 2022.md"
       - Page 2/.keep
+      - "Page 2/LEAPing forward: Ms Munirah receives the LEAP Award 2022.md"
       - "Page 2/Leveraging epedagogy to impart 21st CC skills: Miss Seow Wen
         Yi.md"
       - "Page 2/Sparking learning through technology infused lessons: Mr
@@ -22,6 +21,7 @@ collections:
       - Page 2/Team of English Teachers bags Outstanding Contribution Award.md
       - Page 2/Virtues in action.md
       - Page 2/An Inspirational Teacher & Patient, Ms Usha Rani.md
+      - 2020/.keep
       - 2019/.keep
       - 2019/The Sunshine Teacher, Ms Munirah.md
       - 2019/High Expectations, high support, Mr Patrick Goh.md
