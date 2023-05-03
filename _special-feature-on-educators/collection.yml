@@ -2,6 +2,7 @@ collections:
   special-feature-on-educators:
     output: true
     order:
+      - "2022/LEAPing forward: Ms Munirah receives the LEAP Award 2022.md"
       - 2022/.keep
       - 2022/2022 Inspiring Teacher Mentor, Ms Seow Wen Yi.md
       - 2022/2022 Inspiring Teacher of CCE, Ms Esther Teo.md
