@@ -9,7 +9,7 @@ notification: <a href="https://www.youtube.com/watch?v=gQJzCkGm-yk"
   their First Day of School.
 sections:
   - hero:
-      background: /images/1200x630.gif
+      background: /images/bannerv2.gif
       key_highlights:
         - title: Moe Kindergarten
           description: ""
