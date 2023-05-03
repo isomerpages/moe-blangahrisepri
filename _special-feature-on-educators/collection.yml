@@ -2,6 +2,7 @@ collections:
   special-feature-on-educators:
     output: true
     order:
+      - 2020/.keep
       - Page 1/2022 Inspiring Teacher Mentor, Ms Seow Wen Yi.md
       - Page 1/2022 Inspiring Teacher of CCE, Ms Esther Teo.md
       - Page 1/.keep
