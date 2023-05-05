@@ -26,6 +26,9 @@ Students thrive when they have a sense of ownership and belonging. Our students,
 
 ![](/images/2023%20Photos/eba_jp.JPEG)
 
+![](/images/2023%20Photos/cr%202_jp.JPEG)
+
+![](/images/2023%20Photos/nb%201_jp.JPEG)
 
 A Virtues Challenge Board displays the target virtue which we would like the students to learn each week and no two boards are alike. As virtues are best caught and not taught, the visual serves as a reminder for every one to be on the lookout for those who habitually demonstrate the virtues in action.
 
@@ -34,6 +37,8 @@ A Virtues Challenge Board displays the target virtue which we would like the stu
 ![](/images/2023%20Photos/vb%203_jp.JPEG)
 
 ![](/images/2023%20Photos/vb%204_jp.JPEG)
+
+![](/images/2023%20Photos/vb%202_jp.JPEG)
 
 **iDiscover Programme**
 
