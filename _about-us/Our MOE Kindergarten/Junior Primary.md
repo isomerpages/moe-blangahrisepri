@@ -168,3 +168,4 @@ Some of the highlights include BRLC Celebrates! Reader Theatre performance, a ha
 Our P2 students also performed on stage during our term 1 Gem Award Ceremony, conducted on 9 March 2023.
 
 You can watch some of the videos here.
+
