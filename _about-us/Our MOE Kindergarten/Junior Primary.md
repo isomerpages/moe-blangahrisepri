@@ -18,7 +18,22 @@ third_nav_title: Our MOE Kindergarten
 
 Students thrive when they have a sense of ownership and belonging. Our students, though young, contribute to the little corners in the classrooms which they call their own. The little ones design and display the Emotional Band Account (EBA) proudly. Notes of appreciation are dropped in by their peers and teachers. Art work which they did on Growth Mindset and the 7 Habits are also displayed in class as a reminder to self.
 
+![](/images/2023%20Photos/habits_jp.JPEG)
+
+![](/images/2023%20Photos/cr%201_jp.JPEG)
+
+![](/images/2023%20Photos/gratitude_jp.JPEG)
+
+![](/images/2023%20Photos/eba_jp.JPEG)
+
+
 A Virtues Challenge Board displays the target virtue which we would like the students to learn each week and no two boards are alike. As virtues are best caught and not taught, the visual serves as a reminder for every one to be on the lookout for those who habitually demonstrate the virtues in action.
+
+![](/images/2023%20Photos/vb%201_jp.JPEG)
+
+![](/images/2023%20Photos/vb%203_jp.JPEG)
+
+![](/images/2023%20Photos/vb%204_jp.JPEG)
 
 **iDiscover Programme**
 
@@ -148,4 +163,3 @@ Some of the highlights include BRLC Celebrates! Reader Theatre performance, a ha
 Our P2 students also performed on stage during our term 1 Gem Award Ceremony, conducted on 9 March 2023.
 
 You can watch some of the videos here.
-
