@@ -36,14 +36,13 @@ sections:
       url: /2023/01/21/sustainable-south-west-awards-2022/
       image: /images/Announcements/clean up 2022 1.jpg
   - infopic:
-      title: Singapore Amazing Flying Machine Competition 2023
+      title: Careers Day 2023
       button: Click Here to read more
-      url: /2023/03/30/singapore-amazing-flying-machine-competition-2023/
+      url: /2023/05/04/careers-day/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/Announcements/safmc2023.jpeg
-      description: Our P4 students represented our school by taking part in the annual
-        Singapore Amazing Flying Machine Competition on 20 March.
+      image: /images/2023 Photos/career 2023 (3).JPG
+      description: "Blangah Rise Primary School held its Careers Day 2023 on 2 May. "
   - infopic:
       title: Dr Seuss Day
       subtitle: HIGHLIGHTS
