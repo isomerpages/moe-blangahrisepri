@@ -48,7 +48,7 @@ description: ""
 
 <p>ALP is structured in two tiers. Tier 1 is for all students and Tier 2 is for students who show greater aptitude and interest. For Tier 1, all students will be engaged in robotics and&nbsp;<em>engineering-related learning activities</em>-related (ERLA) project work as shown in Table 1 below. Students in Tier 2 are identified for STEM Club where they are involved in specialised training on&nbsp;<em>engineering-related learning activities</em>-related (ERLA) activities and robotics as well as participate in competitions in order to develop their creativity, critical thinking, problem-solving and decision-making skills. Learning journeys are organised to expose students to STEM. Robotics and ERLA activities are carried out in our discovery rooms - Da Vinci’s Workbench and Edison’s Hub.</p>
 
-Click here to find out more about our STEM Club.
+Click [here](/departments/ccas/stem/) to find out more about our STEM Club.
 
 ![](/images/2023%20Photos/alp%20-%204a.jpg)
 
