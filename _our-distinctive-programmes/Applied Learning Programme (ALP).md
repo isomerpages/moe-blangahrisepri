@@ -82,7 +82,3 @@ Throughout the school year, students are encouraged to take part in competitions
 Our P5 students participated in the STEM Playground Challenge organised by Science Centre Singapore in Term 1. For this challenge, students were tasked to build bridges that could hold at least five books using satay sticks.
 
 Click [here](/2023/03/30/stem-playground-satay-stick-challenge/) to read about our submission for STEM Playground - Satay Stick Challenge.
-
-
-
-<img src="/images/alp2.png">
