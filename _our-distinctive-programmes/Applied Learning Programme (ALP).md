@@ -50,13 +50,9 @@ description: ""
 
 Click  to find out more about our STEM Club.
 
-![](/images/2023%20Photos/alp%20-%204a.jpg)
+Using the thinking routine ‘See-Think-Wonder’, our APEX teachers led students through one of the activities that aligned with the school’s commemoration of Singapore World Water Day 2021. Students did their research on flooding in Singapore and how our government overcame the problem with the construction of Marina Barrage. Our students worked in pairs to create their own robotic floodgate and programmed it to model after the ones at Marina Barrage.
 
-![](/images/2023%20Photos/alp%20-%204b.jpg)
 
-![](/images/2023%20Photos/alp%20-%204c.jpg)
-
-![](/images/2023%20Photos/alp%20-%204d.jpg)
 
 
 
