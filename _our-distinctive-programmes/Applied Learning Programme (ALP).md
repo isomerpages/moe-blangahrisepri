@@ -50,9 +50,38 @@ description: ""
 
 Click  to find out more about our STEM Club.
 
+![](/images/2023%20Photos/alp%20-%204a.jpg)
+
+![](/images/2023%20Photos/alp%20-%204b.jpg)
+
+![](/images/2023%20Photos/alp%20-%204c.jpg)
+
+![](/images/2023%20Photos/alp%20-%204d.jpg)
+
 Using the thinking routine ‘See-Think-Wonder’, our APEX teachers led students through one of the activities that aligned with the school’s commemoration of Singapore World Water Day 2021. Students did their research on flooding in Singapore and how our government overcame the problem with the construction of Marina Barrage. Our students worked in pairs to create their own robotic floodgate and programmed it to model after the ones at Marina Barrage.
 
+![](/images/2023%20Photos/alp%20-%205a.jpeg)
 
+![](/images/2023%20Photos/alp%20-%205b.jpeg)
+
+Primary 6 students from APEX created simple games using the tools they have learnt from BBC micro:bit. Students also wrote programmes to create a step tracker using micro:bit’s accelerometer and onboard light sensor. Using HuskyLens - an easy to use AI machine vision sensor with 7 built-in functions, students learned in depth about the face recognition function which can detect any face contour, recognise and track the learned face.
+
+**ALP Competitions**
+
+![](/images/2023%20Photos/alp%20-%206.jpg)
+
+Throughout the school year, students are encouraged to take part in competitions to further deepen their interest and passion in STEM. As some of these competitions are opened to all students in the school, every student has the opportunity to showcase their creativity and problem solving skills.
+
+“I learned more about aerodynamics principles like drag and thrust, and how to apply them to make planes go further.”
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marvell, Primary 4
+																																													Click here to read about our experience at the Singapore Amazing Flying Machine Competition.		
+																																													
+![](/images/2023%20Photos/alp%20-%207.jpg)		
+
+Our P5 students participated in the STEM Playground Challenge organised by Science Centre Singapore in Term 1. For this challenge, students were tasked to build bridges that could hold at least five books using satay sticks.
+
+Click here to read about our submission for STEM Playground - Satay Stick Challenge.
 
 
 
