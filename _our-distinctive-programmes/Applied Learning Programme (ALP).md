@@ -85,4 +85,3 @@ Click [here](/2023/03/30/stem-playground-satay-stick-challenge/) to read about o
 
 
 
-<img src="/images/alp2.png">
