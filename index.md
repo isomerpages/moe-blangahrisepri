@@ -44,13 +44,15 @@ sections:
       image: /images/2023 Photos/career 2023 (3).JPG
       description: "Blangah Rise Primary School held its Careers Day 2023 on 2 May. "
   - infopic:
-      title: Dr Seuss Day
+      title: Blangahnites commemorate SG Clean Day 2023!
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/dr seuss (3).JPEG
-      url: /2023/05/02/dr-seuss-day/
-      description: "Dr. Seuss Day 2023 was a blast at Blangah Rise Primary School! "
+      image: /images/2023 Photos/clean up_09.JPG
+      url: /2023/05/12/sg-clean-day/
+      description: SG Clean Day, a day dedicated to raising awareness of keeping our
+        physical environment clean, was commemorated on 9 May 2023 at Blangah
+        Rise Primary School.
   - resources:
       title: Publications
       button: Click here to see more
