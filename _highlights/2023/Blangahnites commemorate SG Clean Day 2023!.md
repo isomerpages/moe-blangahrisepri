@@ -16,3 +16,19 @@ Mr Patrick Goh, Year Head for Middle Primary, noted how this activity helped the
   
 
 Let's all take heed from Jayden, our Primary 4 student, who shared with certitude, "Cleanliness is a virtue. Let's all do our part!".
+
+![](/images/2023%20Photos/clean%20up_01.jpg)
+
+![](/images/2023%20Photos/clean%20up_02.jpg)
+
+![](/images/2023%20Photos/clean%20up_03.jpg)
+
+![](/images/2023%20Photos/clean%20up_05.jpg)
+
+![](/images/2023%20Photos/clean%20up_06.jpg)
+
+![](/images/2023%20Photos/clean%20up_07.JPG)
+
+![](/images/2023%20Photos/clean%20up_08.JPG)
+
+![](/images/2023%20Photos/clean%20up_09.JPG)
