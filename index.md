@@ -24,11 +24,13 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Green Schools @ South West Award Ceremony 2023
+      title: Blangah Rise Primary School Open House
       button: READ MORE
-      url: /2023/03/23/green-schools-south-west-award-ceremony-2023/
-      image: /images/Announcements/gsa_1  .jpg
+      url: /2023/05/12/brps-open-house/
+      image: /images/2023 Photos/open house.jpg
       alt: Image alt text
+      description: Attention all K2 Parents! Join us for our 2023 Open House in
+        Blangah Rise Primary School
   - infopic:
       title: Sustainable South West Awards 2022
       button: Read More
