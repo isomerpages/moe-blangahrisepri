@@ -1,4 +1,5 @@
 collections:
   annoucements:
     output: true
-    order: []
+    order:
+      - Blangah Rise Primary Open House.md
