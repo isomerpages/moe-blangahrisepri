@@ -14,8 +14,6 @@ collections:
       - Student Management.md
       - Infocomm Technology.md
       - PE & Aesthetics Education.md
-      - CCA/Floorball.md
-      - CCA/Frisbee.md
       - CCA/.keep
       - CCA/CCAs.md
       - CCA/Badminton.md
@@ -27,6 +25,8 @@ collections:
       - CCA/Scout.md
       - CCA/Red Cross.md
       - CCA/Dance Club.md
+      - CCA/Frisbee.md
+      - CCA/Floorball.md
       - Modular CCA (House)/.keep
       - Modular CCA (House)/Modular CCA (House).md
       - Modular CCA (House)/Delta.md
