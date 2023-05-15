@@ -1,6 +1,6 @@
 ---
 title: 2022 Inspiring Teacher of CCE, Ms Esther Teo
-permalink: /special-feature-on-educators/page-1/permalink/
+permalink: /2022/09/18/cce-ms-esther-teo/
 description: ""
 image: /images/Special Projects/ms esther (2).jpg
 third_nav_title: "2022"
@@ -15,6 +15,6 @@ To encourage problem solving, Ms Esther would take the time to understand studen
 
 The problem-solving skills that she impart to her students are necessary for children to recognize and regulate their emotions, develop a sense of responsibility, and handle challenges. Most of all, she hopes that students will continue to grow in the RISE values- respect, integrity, self-discipline and empathy.
 
-![](/images/Special%20Projects/ms%20esther%20(1).jpg)
+![](/images/2023%20Photos/ms%20esther%20(1).jpg)
 
-![](/images/Special%20Projects/ms%20esther%20(2).jpg)
+![](/images/2023%20Photos/ms%20esther%20(2).jpg)

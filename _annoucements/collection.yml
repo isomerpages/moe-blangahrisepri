@@ -1,0 +1,5 @@
+collections:
+  annoucements:
+    output: true
+    order:
+      - Blangah Rise Primary Open House.md
