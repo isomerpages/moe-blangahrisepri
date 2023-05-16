@@ -2,6 +2,7 @@ collections:
   special-feature-on-educators:
     output: true
     order:
+      - 2023/2023 Inspiring Teacher of CCA, Mr Kumar.md
       - 2023/.keep
       - 2022/.keep
       - 2022/2022 Inspiring Teacher of CCE, Ms Esther Teo.md
