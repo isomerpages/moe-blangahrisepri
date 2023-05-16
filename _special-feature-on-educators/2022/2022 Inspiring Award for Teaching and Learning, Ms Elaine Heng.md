@@ -13,3 +13,11 @@ Innovation is her guiding principle. Elaine fearlessly explores new ideas, colla
 Elaine's impact extends beyond academics. She is a caring mentor, contributing to a culture of support and well-being in her school. Her empathy and guidance create an environment where both students and colleagues thrive.
 
 Join Elaine on her inspiring journey as she continues to shape the future of education through collaboration, innovation, and a genuine commitment to teacher leadership.
+
+![](/images/2023%20Photos/elaine_1.jpg)
+
+![](/images/2023%20Photos/elaine_2.jpg)
+
+![](/images/2023%20Photos/elaine_3.jpeg)
+
+![](/images/2023%20Photos/elaine_4.jpeg)
