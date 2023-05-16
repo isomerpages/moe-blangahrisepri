@@ -3,8 +3,12 @@ title: Friends of Berlayer Check
 permalink: /friends-of-berlayer-creek/
 description: ""
 ---
-<center><h3>Upcoming...</h3>
+<center><h3>Friends of Berlayer Creek</h3>
+	
+"Friends of Berlayer Creek" is the sequel to our first children's book, ‘The Green Dragonflies and their Swampy Friends’, published in 2022. Both books were illustrated and written by our teachers and students. The sequel, ‘Friends of Berlayer Creek’ is produced by a team of teachers and students with a keen interest in raising environmental awareness, story writing and photography. 
 
-<h3> Do keep a lookout our new e-Book - Friends of Berlayer Creek </h3></center>
+![](/images/2023%20Photos/Friends%20of%20Berlayer%20Creek%201.png)
+	
+Leveraging their passion through the story, they hope to instil the ‘7 Habits of Effective People’ for personal and interpersonal effectiveness. The story also aims to educate readers on making conscious choices by taking positive actions in caring for the environment.
 
-![](/images/Special%20Projects/friends-of-berlayer-creek-book-1448x2048.jpeg)
+![](/images/2023%20Photos/Friends%20of%20Berlayer%20Creek%202.png)</center>
