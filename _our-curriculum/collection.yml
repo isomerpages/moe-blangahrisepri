@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Development.md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
@@ -13,6 +12,7 @@ collections:
       - Science.md
       - Character & Citizenship Education.md
       - Student Management.md
+      - Student Development.md
       - Infocomm Technology.md
       - PE & Aesthetics Education.md
       - CCA/.keep
