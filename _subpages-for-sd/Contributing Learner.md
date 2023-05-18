@@ -22,3 +22,11 @@ To monitor and nurture students’ growth in the Virtues and 7 Habits, there are
 ![](/images/2023%20Photos/Student%20Development/image25.png)
 
 In Blangah Rise, all our students are precious gems whom we lovingly polish so that they can shine and be the best they can be. The termly GEM Class award acknowledges students who work cooperatively and exemplify the Seven Habits and the underlying virtues as a class. The termly GEM Student award recognises students from every level who display the Seven Habits and the virtues in their everyday actions.
+
+![](/images/2023%20Photos/Student%20Development/image26.png)
+
+![](/images/2023%20Photos/Student%20Development/image27.png)
+
+Students contribute to the caring and positive peer culture in school when they look out for one another, provide support to their peers in need and build positive relationships with one another. Good stories are also collated to inspire our students to learn from these exemplary behaviours.
+
+![](/images/2023%20Photos/Student%20Development/image28.png)
