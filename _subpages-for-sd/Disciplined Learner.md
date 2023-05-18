@@ -19,7 +19,7 @@ We support the development of students’ social and emotional skills through mu
 
 ![](/images/2023%20Photos/Student%20Development/image43.png)
 
-To be more purposeful in their planning of activities beyond school hours, students are mentored by their teachers to plan a schedule that not only consists of homework & revision, but one that also champions a good practice of self-care. At Blangah Rise, we believe that a cornerstone of self-discipline is self-caring. Self-care is never a selfish act. Rest and self-care are important. When we take time to recharge ourselves, it empowers our personal effectiveness and enables us to pursue our goals.
+To be more purposeful in their planning of activities beyond school hours, students are mentored by their teachers to plan a schedule that not only consists of homework &amp; revision, but one that also champions a good practice of self-care. At Blangah Rise, we believe that a cornerstone of self-discipline is self-caring. Self-care is never a selfish act. Rest and self-care are important. When we take time to recharge ourselves, it empowers our personal effectiveness and enables us to pursue our goals.
 
 ![](/images/2023%20Photos/Student%20Development/image44.png)
 
@@ -27,4 +27,4 @@ Through the “Healthy Minds, Healthy Blangahnites” initiative, students are a
 
 ![](/images/2023%20Photos/Student%20Development/image45.png)
 
-
+<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="/our-curriculum/student-development/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image11.png"></a></div></div></div>
