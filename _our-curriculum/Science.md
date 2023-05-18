@@ -106,6 +106,9 @@ The Tranquil Garden is built to engage students through a multi-sensory approach
 <p>Click&nbsp;<a href="/our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/"><strong>here</strong></a>&nbsp;to find out more about our APEX (MA &amp; SC)</p>
 <p><strong>Science Olympiad Training<br></strong>We provide opportunities for P4 and P5 high progress students to develop their skills in creative thinking, problem solving and analytical thinking. The training sessions are based on broad science themes in the elementary science curriculum. These lessons focus on introducing Physics, Chemistry and Biology to students as well as enhance their general knowledge.</p>
 <img src="/images/science8.png">
+
+![](/images/2023%20Photos/science%20department_3.jpg)
+
 <p><strong>The Singapore Primary Science Olympiad (SPSO)@ NUS High School and Raffles Science Olympiad (RSO)<br></strong>High progress students are given opportunities to participate in Science-related competitions. They are selected to represent the school in external competitions such as the Singapore Primary Science Olympiad (SPSO) and the Raffles Science Olympiad (RSO). Through these platforms, students develop a greater interest in Biology, Chemistry and Physics and become more enthusiastic and passionate about Science.</p>
 <img src="/images/science9.png">
 <p><strong>Young Einstein Award<br></strong>Each year, we recognize the effort of our budding scientists who have demonstrated good work attitude such as diligence, motivation, perseverance, and enthusiasm in the learning of Science. Students from each level get to select&nbsp;from a list of curated projects to complete. Each awardee receives a Young Einstein certificate from the Science Department based on their number of completed projects.</p>
@@ -114,3 +117,7 @@ The Tranquil Garden is built to engage students through a multi-sensory approach
 <p><a href="https://www.w3schools.com">
 <img height="132" width="100" alt="W3Schools.com" src="w3html.gif">
 </a></p>
+
+**Collaboration with MOE Kindergarten (Blangah Rise)**
+
+**Click here to find out more about our collaborations.**
