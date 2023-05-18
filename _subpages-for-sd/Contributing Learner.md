@@ -7,7 +7,7 @@ description: ""
 
 A tree offers shelter with its leaves, sweet fragrances from its flowers, fruits to eat, and a relaxed space to gather. On its own, a tree cannot build a consistent local climate. But together, many trees create an ecosystem that moderates the temperature, stores more water, and generates the needed humidity. As a community, we can achieve that which cannot be done by separate individuals.
 
-To create the type of school environment that nurtures community and togetherness, students’ works are designed on the walls, decoration trees, class notice boards, level boards. Student Leaders regularly share and encourage each other through sharing of motivational quotes and stories before the singing of the National Anthem and via various level notice and walkway boards, staircases, Art & NE Heritage Galleries.
+To create the type of school environment that nurtures community and togetherness, students’ works are designed on the walls, decoration trees, class notice boards, level boards. Student Leaders regularly share and encourage each other through sharing of motivational quotes and stories before the singing of the National Anthem and via various level notice and walkway boards, staircases, Art &amp; NE Heritage Galleries.
 
 ![](/images/2023%20Photos/Student%20Development/image21.png)
 
@@ -27,7 +27,7 @@ In Blangah Rise, all our students are precious gems whom we lovingly polish so t
 
 ![](/images/2023%20Photos/Student%20Development/image27.png)
 
-Students contribute to the caring and positive peer culture in school when they look out for one another, provide support to their peers in need and build positive relationships with one another. Good stories are also collated to inspire our students to learn from these exemplary behaviours.
+Students contribute to the caring and positive peer culture in school when they look out for one another, provide support to their peers in need and build positive relationships with one another.&nbsp;Good stories are also collated to inspire our students to learn from these exemplary behaviours.
 
 ![](/images/2023%20Photos/Student%20Development/image28.png)
 
@@ -41,7 +41,7 @@ The school also organised storytelling Sessions at library@harbourfront and Sing
 
 ![](/images/2023%20Photos/Student%20Development/image30.png)
 
-In the Green Snapshots Trail, our students bring participants on a learning journey around Telok Blangah and Berlayer Creek.  Our students serve the community by introducing the rich nature and heritage of Telok Blangah and Mount Faber to Singaporeans.
+In the Green Snapshots Trail, our students bring participants on a learning journey around Telok Blangah and Berlayer Creek.&nbsp;&nbsp;Our students serve the community by introducing the rich nature and heritage of Telok Blangah and Mount Faber to Singaporeans.
 
 ![](/images/2023%20Photos/Student%20Development/image31.png)
 
@@ -67,3 +67,4 @@ Blangah Rise focuses on giving back to the school, the community and the environ
 
 It is through service that students apply their learning of virtues and habits and build connectedness with school and community.
 
+<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="/our-curriculum/student-development/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image11.png"></a></div></div></div>
