@@ -37,7 +37,7 @@ In our annual EAS Day, students acknowledge, affirm and appreciate the work and 
 
 ![](/images/2023%20Photos/Student%20Development/image29.png)
 
-The school also organised storytelling Sessions at library@harbourfront and Singapore Botanical Gardens – Blangah Rise’s self-written storybook about Care for the Environment came alive when our students narrated the book to members of the public. Read the full story via the following 
+The school also organised storytelling Sessions at library@harbourfront and Singapore Botanical Gardens – Blangah Rise’s self-written storybook about Care for the Environment came alive when our students narrated the book to members of the public. Read the full story via the following [here](https://blangahrisepri.moe.edu.sg/2022/05/13/the-green-dragonflies-and-their-swampy-friends-gets-a-read-at-libraryhabourfront/) and [here](https://blangahrisepri.moe.edu.sg/2022/05/23/the-green-dragonflies-and-their-swampy-friends-at-the-festival-of-biodiversity-2022/)
 
 ![](/images/2023%20Photos/Student%20Development/image30.png)
 
