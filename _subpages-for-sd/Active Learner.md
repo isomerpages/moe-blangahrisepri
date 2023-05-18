@@ -13,3 +13,4 @@ Blangah Rise has many platforms for our pupils to be an active learner through o
 
 ![](/images/2023%20Photos/Student%20Development/image9.png)
 
+The taller and bigger a tree becomes, the deeper its roots take hold. Your roots are the foundation for your growth in life. In Blangah Rise Primary School, we believe that Virtues and the 7 Habits serve as a foundation for our children’s growth in life. We help every student see the “Leader in Me'' and also the power of peer support through the “Leader in Us”. These efforts are woven intentionally into every aspect of school life in BRPS, from the classroom to CCAs and after school programmes.
