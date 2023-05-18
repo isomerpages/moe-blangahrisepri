@@ -1,4 +1,5 @@
 collections:
   subpages-for-sd:
     output: true
-    order: []
+    order:
+      - Active Learner.md
