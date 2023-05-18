@@ -79,6 +79,17 @@ Click [here](/2023/03/23/science-educational-talk-birds/) to find out more about
 <img src="/images/science4.png">
 <p><strong>Biodiversity Corridor<br></strong>The Biodiversity Corridor is part of the school’s effort to equip students with socio-emotional skills and leadership qualities. We inculcate virtues such as care, respect and responsibility to create a lasting impact on the students’ own personal and interpersonal growth through the school’s Learning for Life Programme (LLP) led by the Science Department. The opportunity to observe, interact, care and learn about animals not only enriches their learning about nature, ecology and relationships, it also inspires them on their learning and discovery journeys as students will be curious to find out more about the animals.&nbsp;</p>
 <p><strong>Garden Trails - Blooming Garden and The Garden of Hope<br></strong>With the objectives of providing our students with outdoor experiential learning to complement the teaching and learning of Science as well as to provide our students with an authentic platform for Value-in-Action (VIA) project, classes are each assigned a garden plot to take care of the plants. This provides opportunity for students and teachers to build positive teacher-student relationships as well as imbue in students a sense of responsibility to take care of the environment.</p>
+
+Our NEW Garden – Tranquil Garden
+
+As part of our continuing efforts to enhance the physical and learning environment in the school for our students, we have added Tranquil Garden to the school’s Biodiversity Corridor next to the Primary 1 classrooms. The Tranquil Garden provides a calming and serene space to promote students’ wellness. Within the garden, students will be able to explore under the canopy of the Auracaria Pine Trees. This garden is designed with seating areas for personal or small group contemplation as it is divided into sections by bamboo lattices and boulders. The tables &amp; seats are customised to blend in with the natural environment. Teachers and students may utilize the space in the garden to engage in wellness activities.
+
+The Tranquil Garden is built to engage students through a multi-sensory approach. From the moment students step into the garden, they will be greeted by a wide variety of plants visually. One of the special features is the Tamarind Tree. The living tree is repositioned almost horizontally to house a wide variety of epiphytes and orchids. Beneath its trunk, the moist and shaded environment provides a conducive habitat for other organisms like moss to thrive. The garden also has a cascading water fountain and built-in outdoor speakers which allow for recorded music or storytelling to be played in certain parts of the garden. We are sure our staff and students will love the garden!
+
+![](/images/2023%20Photos/science%20department_1%20.jpg)
+
+![](/images/2023%20Photos/science%20department_2.jpg)
+
 <img src="/images/science5.png">
 <p><strong>Go&nbsp;<a href="mailto:Green@BRPS">Green@BRPS</a><br></strong>Going green is an integral part of being a Blangahnite. It teaches our students to respect self, others and the environment. Events such as Earth Week, World Water Day and practices such as the 4Rs (Reduce, Reuse, Recycle and Refuse) are emphasised by our Green Ambassadors and Science teachers. Selected students are also given leadership opportunities to work with organisations such as NEA and Sembwaste to provide authentic platforms for them to explore environmental issues. Through such partnerships, they learn to take action to improve the environment around them and achieve awards that accredit the school’s green practices. These activities include conducting recycling drives in the school, taking part in environmental challenges and creating educational posters for both the school community and neighbourhood.</p>
 <img src="/images/science6.png">
@@ -87,6 +98,9 @@ Click [here](/2023/03/23/science-educational-talk-birds/) to find out more about
 <img src="/images/science7.png">
 <p>Click&nbsp;<a href="/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p>
 <p><strong>STEM Programme - APEX</strong><br>Our students in the Accelerated Programme to Enhance students’ eXperience (APEX) attend the STEM Programme. These include Robotics, Innovation Programme, Toy-making, Design Thinking, E2K and Project Work where students conduct research in areas such as aerodynamism and water conservation for group projects. We aim to help our students develop skills, habits of mind and attitudes necessary for scientific inquiry.</p>
+
+![](/images/2023%20Photos/science%20department_4.jpg)
+
 <img src="/images/Photo-18-1024x735.jpg"><br>
 <img src="/images/Photo-19.jpg">
 <p>Click&nbsp;<a href="/our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/"><strong>here</strong></a>&nbsp;to find out more about our APEX (MA &amp; SC)</p>
