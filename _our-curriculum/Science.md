@@ -116,4 +116,4 @@ The Tranquil Garden is built to engage students through a multi-sensory approach
 
 **Collaboration with MOE Kindergarten (Blangah Rise)**
 
-**Click here to find out more about our collaborations.**
+**Click [here](https://blangahrisepri.moe.edu.sg/2023/03/23/science-lesson-with-k2-students-human-digestive-system/) to find out more about our collaborations.**
