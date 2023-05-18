@@ -114,10 +114,6 @@ The Tranquil Garden is built to engage students through a multi-sensory approach
 <p><strong>Young Einstein Award<br></strong>Each year, we recognize the effort of our budding scientists who have demonstrated good work attitude such as diligence, motivation, perseverance, and enthusiasm in the learning of Science. Students from each level get to select&nbsp;from a list of curated projects to complete. Each awardee receives a Young Einstein certificate from the Science Department based on their number of completed projects.</p>
 <img src="/images/Photo-22.jpg">
 
-<p><a href="https://www.w3schools.com">
-<img height="132" width="100" alt="W3Schools.com" src="w3html.gif">
-</a></p>
-
 **Collaboration with MOE Kindergarten (Blangah Rise)**
 
 **Click here to find out more about our collaborations.**
