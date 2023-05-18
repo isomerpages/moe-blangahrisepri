@@ -31,4 +31,4 @@ Through online conferencing, students are able to hear inspirational stories fro
 
 The school also has a programme starting with simple introductory FTGP lessons on Career Guidance for Middle Primary students to in-depth FTGP lessons and the introduction of the MySkillsFuture portal for Senior Primary students. MySkillsFuture is a one-stop ECG portal that empowers students to embark on a journey of self-discovery and make informed education and career choices. We believe that our students are bold enough to listen to their hearts, and courageous enough to forge the path they want for themselves.
 
-<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="/our-curriculum/student-development/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image11.png"></a></div></div></div>
+<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="https://blangahrisepri.moe.edu.sg/our-curriculum/student-development/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image11.png"></a></div></div></div>
