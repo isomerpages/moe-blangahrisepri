@@ -17,6 +17,5 @@ The Adventure of Life will bring with it the Opportunity of Life. This&nbsp;<em>
 <p style="align:justify; font-size:20px">
 This year will bring with it its own challenges and uncertainties, but may you also discover with your child the purpose, adventure, and opportunity that comes along with it.
 <br><br>
-Francis Foo
-<br><br>
-Principal</p>
+Francis Foo <br>Principal 
+	</p>
