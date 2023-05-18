@@ -72,7 +72,7 @@ description: ""
 <img src="/images/science2.png">
 <p><span style="text-decoration: underline;"><strong>Animal Moments</strong></span><br>This programme aims to raise awareness on animal-related issues and educate students on responsible pet ownership through assembly talks conducted by teachers and government organisations like the SPCA and AVA. Students then learn to be kind and empathetic to our four-legged friends. Under the supervision of our teachers and Science Assistant, students are given the opportunities to have hands-on experiences to learn to take care of small animals.
 
-Click here to find out more about our Science educational talk on Birds
+Click [here](/2023/03/23/science-educational-talk-birds/) to find out more about our Science educational talk on Birds
 	
 </p>
 <img src="/images/science3.png"><br>
