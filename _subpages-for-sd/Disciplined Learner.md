@@ -27,4 +27,4 @@ Through the “Healthy Minds, Healthy Blangahnites” initiative, students are a
 
 ![](/images/2023%20Photos/Student%20Development/image45.png)
 
-<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="/our-curriculum/student-development/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image11.png"></a></div></div></div>
+<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="https://blangahrisepri.moe.edu.sg/our-curriculum/student-development/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image11.png"></a></div></div></div>
