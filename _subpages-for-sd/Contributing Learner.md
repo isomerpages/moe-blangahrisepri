@@ -30,3 +30,40 @@ In Blangah Rise, all our students are precious gems whom we lovingly polish so t
 Students contribute to the caring and positive peer culture in school when they look out for one another, provide support to their peers in need and build positive relationships with one another. Good stories are also collated to inspire our students to learn from these exemplary behaviours.
 
 ![](/images/2023%20Photos/Student%20Development/image28.png)
+
+You can always be of service! Blangah Rise has many meaningful activities to help our students to serve in the community.
+
+In our annual EAS Day, students acknowledge, affirm and appreciate the work and support of the school’s non-teaching staff. Facilitated by the teachers, students plan and execute various activities to make this day a meaningful one for the school’s non-teaching staff.
+
+![](/images/2023%20Photos/Student%20Development/image29.png)
+
+The school also organised storytelling Sessions at library@harbourfront and Singapore Botanical Gardens – Blangah Rise’s self-written storybook about Care for the Environment came alive when our students narrated the book to members of the public.
+
+![](/images/2023%20Photos/Student%20Development/image30.png)
+
+In the Green Snapshots Trail, our students bring participants on a learning journey around Telok Blangah and Berlayer Creek.  Our students serve the community by introducing the rich nature and heritage of Telok Blangah and Mount Faber to Singaporeans.
+
+![](/images/2023%20Photos/Student%20Development/image31.png)
+
+![](/images/2023%20Photos/Student%20Development/image32.png)
+
+In our LLP, students take care of the green gardens in the school, and participate actively in environmental conservation. From young, our students learn the importance of how they can do their part to conserve and protect the environment in Singapore.
+
+*I have learnt how to recycle and make use of old things. Upcycling is when you make something better out of something that is not needed anymore. I like the activity and I am going to use what I made to store my pencils. I like that you can recycle things.*
+
+                                                                                     Gail, Primary 4
+
+![](/images/2023%20Photos/Student%20Development/image33.png)
+
+![](/images/2023%20Photos/Student%20Development/image35.png)
+
+![](/images/2023%20Photos/Student%20Development/image34.png)
+
+Blangah Rise focuses on giving back to the school, the community and the environment. Every class carries out a VIA activity to benefit the school community. School programmes and activities are organised to appreciate our Pioneer Generation. Fundraising for charity takes place during festive celebrations in school. Students also grow and harvest plants and herbs in our gardens. This helps cultivate lifelong habits such as empathy and responsibility as well as develops self-empowerment and team harmony.
+
+![](/images/2023%20Photos/Student%20Development/image36.jpeg)
+
+![](/images/2023%20Photos/Student%20Development/image37.jpeg)
+
+It is through service that students apply their learning of virtues and habits and build connectedness with school and community.
+
