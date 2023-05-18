@@ -2,5 +2,6 @@ collections:
   subpages-for-sd:
     output: true
     order:
+      - Contributing Learner.md
       - Bold Learner.md
       - Active Learner.md
