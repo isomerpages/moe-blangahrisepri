@@ -3,3 +3,13 @@ title: Active Learner
 permalink: /subpages-for-sd/active-learner/
 description: ""
 ---
+![](/images/2023%20Photos/Student%20Development/image6.png)
+
+Blangah Rise has many platforms for our pupils to be an active learner through our CCAs, Sports activities and House Sessions. In these sessions, students experience joyful learning with their friends, and they collaborate actively to achieve team goals. These multiple learning platforms help your child to shine. We believe that having a healthy body is the foundation for a child to grow. SATS, Asia’s leading airline caterer, has been engaged to provide healthy and nutritious school meals for the students. A dietician on the SATS team ensures that all meals adhere to HPB’s Healthy Meals in School Programme and offer the optimal amount of nutrients.
+
+![](/images/2023%20Photos/Student%20Development/image7.png)
+
+![](/images/2023%20Photos/Student%20Development/image8.jpg)
+
+![](/images/2023%20Photos/Student%20Development/image9.png)
+
