@@ -48,10 +48,11 @@ description: ""
 <tr>
 <td style="text-align: center;">P5</td>
 <td style="text-align: center;">
-<p>NEWater Plant</p>
+<p>Marina Barrage Gallery</p>
 </td>
 <td style="text-align: center;">
-<p>This interactive learning journey takes students through the gallery at the NEWater Education Hub. Students will learn more about water sustainability in Singapore. They will also learn how the process recycles our treated used water into ultra-clean, high-grade reclaimed water.</p>
+<p>This interactive learning journey takes students through the gallery at Marina Barrage. Students will learn more about water sustainability in Singapore. 
+</p>
 </td>
 </tr>
 <tr>
