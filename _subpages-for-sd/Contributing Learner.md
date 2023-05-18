@@ -37,7 +37,7 @@ In our annual EAS Day, students acknowledge, affirm and appreciate the work and 
 
 ![](/images/2023%20Photos/Student%20Development/image29.png)
 
-The school also organised storytelling Sessions at library@harbourfront and Singapore Botanical Gardens – Blangah Rise’s self-written storybook about Care for the Environment came alive when our students narrated the book to members of the public.
+The school also organised storytelling Sessions at library@harbourfront and Singapore Botanical Gardens – Blangah Rise’s self-written storybook about Care for the Environment came alive when our students narrated the book to members of the public. Read the full story via the following 
 
 ![](/images/2023%20Photos/Student%20Development/image30.png)
 
