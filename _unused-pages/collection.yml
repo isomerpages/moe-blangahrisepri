@@ -2,6 +2,8 @@ collections:
   unused-pages:
     output: true
     order:
+      - Character & Citizenship Education.md
+      - Student Management.md
       - P1 Orientation for 2023 Cohort.md
       - BRoadcast Vol 1 – 2019.md
       - BRoadcast Vol 2 – 2019.md
