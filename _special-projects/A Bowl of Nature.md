@@ -64,7 +64,7 @@ Students putting their creative writing skills into practice as they are inspire
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/fauna%202.JPG)
 
 ##### Friends of Berlayer Creek: 
-The local ‘friends’ that you can spot in Berlayer Creek are also featured in our e-Book titled ‘Friends of Berlayer Creek’.
+The local ‘friends’ that you can spot in Berlayer Creek are also featured in our e-Book titled ['Friends of Berlayer Creek'](https://blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/)
 
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/berlayer%201.JPG)
 
