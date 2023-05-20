@@ -35,5 +35,52 @@ We hope that this book will serve as a source of inspiration for all those who l
 
 Our Young Photographers applying their photography skills to capture biodiversity through their lenses, and displaying their creativity and passion during the learning process and outdoor shoot sessions.
 
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/lvfe2404.JPG)
 
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_13.JPG)
 
+Teachers on a learning journey to Mount Faber and Berlayer Creek to find out more about the flora and fauna, and capturing nature through their lenses.
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_2.JPG)
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_1.JPG)
+
+Students putting their creative writing skills into practice as they are inspired by the photographs.
+
+#### Some Pages from A Bowl of Nature
+##### Landscapes:
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/landscape%202.JPG)
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/landscape%201.JPG)
+
+##### Trees:
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/trees%201.JPG)
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/trees%202.JPG)
+
+##### Fauna:
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/fauna%201.JPG)
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/fauna%202.JPG)
+
+##### Friends of Berlayer Creek: 
+The local ‘friends’ that you can spot in Berlayer Creek are also featured in our e-Book titled ‘Friends of Berlayer Creek’.
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/berlayer%201.JPG)
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/berlayer%202.JPG)
+
+##### Gardening with Edibles: 
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/edibles%201.JPG)
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/edibles%202.JPG)
+
+##### Shapes: 
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/shapes%202.JPG)
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/shapes%201.JPG)
+
+##### Colours: 
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/colours%201.JPG)
+
+![](/images/2023%20Photos/A%20Bowl%20of%20Nature/colours%202.JPG)
