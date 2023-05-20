@@ -2,7 +2,6 @@ collections:
   special-projects:
     output: true
     order:
-      - A Bowl of Nature.md
       - Bicentennial Coffee Table Book/.keep
       - Bicentennial Coffee Table Book/Bicentennial Coffee Table Book.md
       - "Bicentennial Coffee Table Book/Telok Blangah Song: Our Bicentennial
@@ -21,3 +20,4 @@ collections:
       - Reflections of an Overcomer/Posters.md
       - The Green Dragonflies and Their Swampy Friends.md
       - Friends of Berlayer Creek.md
+      - A Bowl of Nature.md
