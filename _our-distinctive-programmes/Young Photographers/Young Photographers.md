@@ -4,9 +4,8 @@ permalink: /our-distinctive-programmes/young-photographers/
 description: ""
 third_nav_title: Young Photographers
 ---
-<img src="/images/IMG_6595-2048x1536.jpg">
+<img src="/images/2023%20Photos/resized_yp_1.JPG">
 <h4><strong>Learning Through Photography</strong></h4>
-<img src="/images/IMG_6825-1024x768.jpg">
   
 The Primary 2 students have been given a task – they need to apply photography skills to capture different shapes that they see at Telok Blangah neighbourhood. What did they use? A camera and knowledge on Shapes gleaned from their Mathematics lessons.
 ![](/images/2023%20Photos/yp%20page%20photo%202.JPG)
