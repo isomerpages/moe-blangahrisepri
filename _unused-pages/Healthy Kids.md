@@ -9,7 +9,7 @@ description: ""
 <label for="accordion1"><p><strong>2022</strong></p></label>
 <div>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-May-2022.pdf">BRPS Healthy Kids Newsletter - May 2022</a></p>
-	<p><a href="files/from%20mr%20chionh%20brps%20healthy%20kids%20newsletter%20-%20nov%202022.pdf">BRPS Healthy Kids Newsletter - November 2022</a></p>
+	<p><a href="/files/brps-healthy-kids-newsletter-nov-2022.pdf">BRPS Healthy Kids Newsletter - November 2022</a></p>
 </div>
 </li>  
 <li>
