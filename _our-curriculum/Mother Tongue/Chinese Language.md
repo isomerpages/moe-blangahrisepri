@@ -4,7 +4,6 @@ permalink: /departments/mother-tongue/chinese-language/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 <p><strong>Department:&nbsp;</strong>CL Unit (Mother Tongue)<br><strong>Vision:</strong>&nbsp; Every child is able to use the Chinese Language effectively.<br><strong>Mission:&nbsp;</strong>To nurture passion and love for the Chinese Language and the Chinese culture in our students.</p>
 <img src="/images/2023%20Photos/cl_banner%201.PNG"><p>
 <img src="/images/2023%20Photos/cl_banner%202.jpg">
