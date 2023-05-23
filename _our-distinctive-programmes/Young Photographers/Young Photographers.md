@@ -4,9 +4,8 @@ permalink: /our-distinctive-programmes/young-photographers/
 description: ""
 third_nav_title: Young Photographers
 ---
-<img src="/images/IMG_6595-2048x1536.jpg">
+<img src="/images/2023%20Photos/resized_yp_1.JPG">
 <h4><strong>Learning Through Photography</strong></h4>
-<img src="/images/IMG_6825-1024x768.jpg">
   
 The Primary 2 students have been given a task – they need to apply photography skills to capture different shapes that they see at Telok Blangah neighbourhood. What did they use? A camera and knowledge on Shapes gleaned from their Mathematics lessons.
 ![](/images/2023%20Photos/yp%20page%20photo%202.JPG)
@@ -76,8 +75,8 @@ After the outdoor shoots, students share compelling stories and perspectives thr
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/2023%20Photos/yp%20page%20photo%2012.jpg"><br><img src="/images/ypa16.jpg"><br><img src="/images/ypa17.jpg"><br><img src="/images/ypa18.jpg"></td>
-<td style="width: 50%;"><img src="/images/ypa19.jpg"><br><img src="/images/ypa20.jpg"><br><img src="/images/2023%20Photos/yp%20page%20photo%2016.JPG"><br><img src="/images/ypa22.jpg"></td>
+<td style="width: 50%;"><img src="/images/2023%20Photos/yp%20page%20photo%2012.jpg"><br><img src="/images/2023%20Photos/resized_yp_2.JPG"><br><img src="/images/ypa17.jpg"><br><img src="/images/2023%20Photos/resized_yp_5.JPG"></td>
+<td style="width: 50%;"><img src="/images/ypa19.jpg"><br><img src="/images/2023%20Photos/resized_yp_4.JPG"><br><img src="/images/2023%20Photos/yp%20page%20photo%2016.JPG"><br></td>
 </tr>
 </tbody>
 </table>
