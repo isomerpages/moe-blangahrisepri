@@ -9,18 +9,18 @@ Happy World Water Day 2023! This year's theme, "A Tale of a Hummingbird", remind
 
 This year, we shared with our students about the importance of water conservation and how they can contribute to a sustainable future. Through fun and interactive activities, our students learnt about the water cycle, the impact of climate change on water resources, and practical tips for reducing water usage at home and in school. Students visited the Garden of Hope and learnt more about how our rainwater harvesting system helps to conserve water in our school. Let's all do our part in protecting this vital resource for generations to come!
 
-![](/images/Special%20Projects/water%20day%202023%20(1).jpeg)
+![](/images/2023%20Photos/water%20day%202023%20(1).jpeg)
 
-![](/images/Special%20Projects/water%20day%202023%20(2).jpeg)
+![](/images/2023%20Photos/water%20day%202023%20(2).jpeg)
 
-![](/images/Special%20Projects/water%20day%202023%20(3).jpeg)
+![](/images/2023%20Photos/water%20day%202023%20(3).jpeg)
 
-![](/images/Special%20Projects/water%20day%202023%20(4).jpeg)
+![](/images/2023%20Photos/water%20day%202023%20(4).jpeg)
 
-![](/images/Special%20Projects/water%20day%202023%20(5).jpeg)
+![](/images/2023%20Photos/water%20day%202023%20(5).jpeg)
 
-![](/images/Special%20Projects/water%20day%202023%20(6).jpeg)
+![](/images/2023%20Photos/water%20day%202023%20(6).jpeg)
 
-![](/images/Special%20Projects/water%20day%202023%20(7).jpeg)
+![](/images/2023%20Photos/water%20day%202023%20(7).jpeg)
 
-![](/images/Special%20Projects/water%20day%202023%20(8).jpeg)
+![](/images/2023%20Photos/water%20day%202023%20(8).jpeg)
