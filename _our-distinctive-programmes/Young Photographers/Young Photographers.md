@@ -76,7 +76,7 @@ After the outdoor shoots, students share compelling stories and perspectives thr
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/2023%20Photos/yp%20page%20photo%2012.jpg"><br><img src="/images/2023%20Photos/resized_yp_2.JPG"><br><img src="/images/ypa17.jpg"><br><img src="/images/2023%20Photos/resized_yp_5.JPG"></td>
-<td style="width: 50%;"><img src="/images/ypa19.jpg"><br><img src="/images/2023%20Photos/resized_yp_4.JPG"><br><img src="/images/2023%20Photos/yp%20page%20photo%2016.JPG"><br><img src="/images/ypa22.jpg"></td>
+<td style="width: 50%;"><img src="/images/ypa19.jpg"><br><img src="/images/2023%20Photos/resized_yp_4.JPG"><br><img src="/images/2023%20Photos/yp%20page%20photo%2016.JPG"><br></td>
 </tr>
 </tbody>
 </table>
