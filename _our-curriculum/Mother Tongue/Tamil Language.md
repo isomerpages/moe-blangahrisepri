@@ -10,13 +10,15 @@ third_nav_title: Mother Tongue
 <p>“தமிழ் மொழி ஒரு நல்ல மொழி. அது என்னுடைய தாய்மொழி. தமிழில் புதிய சொற்களைக் கற்றுக்கொள்வதோடு நல்ல பண்புகளையும் கற்றுக்கொள்வதால் எனக்குத் தமிழ் மொழியும் தமிழ்ப் பாடங்களும் மிகவும் பிடிக்கும்!”</p>
 <p>“Tamil is a beautiful language. It is also my Mother Tongue. I love Tamil Language and Tamil lessons as I can learn new words and virtues in Tamil!” – Mohamed Ameer Hussain, Primary 4</p>
 <p><strong>Description of Programmes:<br></strong><strong><em>Blended Lessons in Tamil</em></strong></p>
-<img src="/images/2023%20Photos/tl_blended%20learning%201.jpg"><p>
+<img src="/images/2023%20Photos/tl_blended%20learning%201.jpg">
 <img src="/images/2023%20Photos/tl_blended%20learning%202.jpg">
-</p><p>In Blangah Rise Primary School, blended lessons incorporating self-directed and collaborative learning, are carried out during Tamil lessons. Our students use the iPad, Student Learning Space (SLS) and other apps such as Kahoot and Nearpod for online activities.</p>
+
+In Blangah Rise Primary School, blended lessons incorporating self-directed and collaborative learning, are carried out during Tamil lessons. Our students use the iPad, Student Learning Space (SLS) and other apps such as Kahoot and Nearpod for online activities.
 <p><strong><em>Tamil Language Fortnight<br></em></strong>The Tamil Language Fortnight is a platform to promote the use of the Tamil language and to instil passion in the language and culture. Our students gain new experiences through a variety of language and cultural activities. These activities help to motivate students to use the language in their daily lives.</p>
 
-<img src="/images/2023%20Photos/tl_tl%20fortnight%201.jpg"><p>
-</p><p>“நான் தமிழ் மொழியைப் பற்றி அறிந்துகொண்டேன். எனக்கு விடுகதை பிடித்திருந்தது. பூக்கள் செய்வது வித்தியாசமான அனுபவமாக இருந்தது.”</p>
+<img src="/images/2023%20Photos/tl_tl%20fortnight%201.jpg">
+
+“நான் தமிழ் மொழியைப் பற்றி அறிந்துகொண்டேன். எனக்கு விடுகதை பிடித்திருந்தது. பூக்கள் செய்வது வித்தியாசமான அனுபவமாக இருந்தது.”
 <p>“I’ve learnt about Tamil Language. I liked solving the riddles. Making paper flower was a new experience for me.” – Amelia Sudha, Primary 6</p>
 <p><strong>Tamil Language Camps<br></strong>Our Tamil Language Camps provide a fun environment for our P4 and P6 students to learn and use the Tamil language more frequently. During the language camps, students go through various learning experiences, which enable them to better appreciate the Tamil language and culture.</p>
 
