@@ -3,23 +3,44 @@ title: A Bowl of Nature
 permalink: /special-projects/a-bowl-of-nature/
 description: ""
 ---
-![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_3.JPG)
+<img style="width:70%" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_3.JPG">
 
 In celebration of Biodiversity Week from 19 to 26 May 2023, BRPS has produced a coffee table book titled “A Bowl of Nature”. Led by the teachers in-charge of our Young Photographers programme, the book comprises curated contributions from both students and staff.
 
-![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_10.JPG)
+<table style="table-layout: fixed; width: 100%;" class="tg">
+  <tbody>
+    <tr>
+      <td style="width:33%; vertical-align: top;">
+        <img style="width:100%;" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_10.JPG">
+      </td>
+      <td style="width:33%; vertical-align: top;">
+        <img style="width:100%;" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_6.JPG">
+      </td>
+      <td style="width:33%; vertical-align: top;">
+        <img style="width:100%;" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_7.JPG">
+      </td><td style="width:33%; vertical-align: top;">
+        <img style="width:100%;" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_11.JPG">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_6.JPG)
 
-![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_7.JPG)
+<table style="table-layout: fixed; width: 100%;" class="tg">
+  <tbody>
+    <tr>
+      <td style="width:33%; vertical-align: top;">
+        <img style="width:100%;" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_8.JPG">
+      </td>
+      <td style="width:33%; vertical-align: top;">
+        <img style="width:100%;" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_12.JPG">
+      </td>
+      <td style="width:33%; vertical-align: top;">
+        <img style="width:100%;" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_9.JPG">
+    </td></tr>
+  </tbody>
+</table>
 
-![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_11.JPG)
-
-![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_8.JPG)
-
-![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_12.JPG)
-
-![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_9.JPG)
 
 The book is inspired by the significance of nature in Telok Blangah and the green spaces surrounding our school. Nestled in the southern region of Singapore, Telok Blangah, which translates to "Cooking Pot Bay" in English, is a unique and beautiful area with a rich history.
 
@@ -48,22 +69,27 @@ Teachers on a learning journey to Mount Faber and Berlayer Creek to find out mor
 Students putting their creative writing skills into practice as they are inspired by the photographs.
 
 #### Some Pages from A Bowl of Nature
+
 ##### Landscapes:
+
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/landscape%202.JPG)
 
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/landscape%201.JPG)
 
 ##### Trees:
+
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/trees%201.JPG)
 
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/trees%202.JPG)
 
 ##### Fauna:
+
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/fauna%201.JPG)
 
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/fauna%202.JPG)
 
 ##### Friends of Berlayer Creek: 
+
 The local ‘friends’ that you can spot in Berlayer Creek are also featured in our e-Book titled ['Friends of Berlayer Creek'](https://blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/)
 
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/berlayer%201.JPG)
@@ -71,16 +97,19 @@ The local ‘friends’ that you can spot in Berlayer Creek are also featured in
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/berlayer%202.JPG)
 
 ##### Gardening with Edibles: 
+
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/edibles%201.JPG)
 
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/edibles%202.JPG)
 
 ##### Shapes: 
+
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/shapes%202.JPG)
 
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/shapes%201.JPG)
 
 ##### Colours: 
+
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/colours%201.JPG)
 
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/colours%202.JPG)
