@@ -18,7 +18,11 @@ third_nav_title: CCA
 </p><p><strong>The use of CDs</strong></p><p>
 <img src="/images/mediakids4.png">
 </p><p><strong>Outdoor Shoots</strong></p><p>
-<img src="/images/IMG_6186-1024x768.jpg">	
+<img src="/images/2023%20Photos/Media%20Kids/media_16.JPG">	
+
+![](/images/2023%20Photos/Media%20Kids/media_27.JPG)
+	
+![](/images/2023%20Photos/Media%20Kids/media_26.JPG)
 </p><p>MediaKids also have the opportunity to hone their photography skills through outdoor shoots at locations such as&nbsp;Telok Blangah Hill Park and Mount Faber. They apply composition techniques as such Rule of Thirds, Leading Lines and Framing. Their works are proudly displayed at our photo gallery in school and used in our publications! At the same time, MediaKids&nbsp;get to learn more about the environment and explore environmental issues through their lenses.</p>
 <p><strong>Through the lenses of our MediaKids</strong></p>
 <img src="/images/mediakids5.png">
