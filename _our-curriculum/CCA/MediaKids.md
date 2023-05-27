@@ -38,7 +38,7 @@ third_nav_title: CCA
 ![](/images/2023%20Photos/Media%20Kids/media_26.JPG)
 </p><p>MediaKids also have the opportunity to hone their photography skills through outdoor shoots at locations such as&nbsp;Telok Blangah Hill Park and Mount Faber. They apply composition techniques as such Rule of Thirds, Leading Lines and Framing. Their works are proudly displayed at our photo gallery in school and used in our publications! At the same time, MediaKids&nbsp;get to learn more about the environment and explore environmental issues through their lenses.</p>
 <p><strong>Through the lenses of our MediaKids</strong></p>
-<img src="/images/mediakids5.png">
+<img src="">
 <p><strong>Bicentennial-Themed Coffee Table Book</strong></p>
 <img src="/images/Photo-8-2-1024x576.jpg">
 <p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed coffee table book, “Singapore Through Children’s Eyes” which was presented to President Halimah Yacob on 28 July 2019. President Halimah had written a foreword for the book, which was supported by the Singapore Bicentennial Office. Click here&nbsp;<a href="/bicentennial-coffee-table-book/">bicentennial coffee table book</a>&nbsp;to find out more about the book.</p>
