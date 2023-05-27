@@ -9,8 +9,13 @@ third_nav_title: CCA
 <p>As an opportunity to hone their photography skills, our MediaKids take on the role of official photographer for school events and participate in national competitions. Through these platforms, our MediaKids develop their creativity, interpersonal skills and collaboration skills.</p>
 <p><strong>Telling Their Own Stories</strong></p>
 <img src="/images/2023%20Photos/Media%20Kids/media_29.JPG">
-<p>“Besides the Rule of Thirds, I have learnt a new composition technique - Leading Lines! I am able to draw viewers’ attention to lines that lead to the main subject of my photograph,” says Qanitah, a Primary 6 student.</p>
-<p>These are some of the composition techniques which our MediaKids have learnt in photography. During their weekly CCA, they have the opportunity to handle a DSLR, as well as learn about its functions and how each of the functions is vital to capturing a good photograph. They extend their skills in school&nbsp;through creative photography with props.</p>
+<p>These are some of the composition techniques which our MediaKids have learnt in photography. During their weekly CCA, they have the opportunity to handle a DSLR, as well as learn about its functions and how each of the functions is vital to capturing a good photograph. They extend their skills in school&nbsp;through creative photography with props.
+
+Carys, a Primary 3 student says, “We get to take photographs using the DSLR, and learn about the different functions and buttons!”
+
+Our MediaKids’ works are reviewed by their trainer, who gives them constructive feedback on their photographs. This provides our MediaKids an insight on what they did well and how they can improve in their photographs.
+
+“I learn that sharing and reviewing each other’s work help us to become better in our skills and techniques,” says Rishi, a Primary 3 student.</p>
 <p><strong>Creative Photography<br></strong><strong>Shadows</strong></p>
 <img src="/images/mediakids2.png">
 <p><strong>Photoelasticity</strong></p><p>
@@ -36,7 +41,10 @@ third_nav_title: CCA
 ![](/images/2023%20Photos/Media%20Kids/media_27.JPG)
 	
 ![](/images/2023%20Photos/Media%20Kids/media_26.JPG)
-</p><p>MediaKids also have the opportunity to hone their photography skills through outdoor shoots at locations such as&nbsp;Telok Blangah Hill Park and Mount Faber. They apply composition techniques as such Rule of Thirds, Leading Lines and Framing. Their works are proudly displayed at our photo gallery in school and used in our publications! At the same time, MediaKids&nbsp;get to learn more about the environment and explore environmental issues through their lenses.</p>
+</p><p>MediaKids also have the opportunity to hone their photography skills through outdoor shoots at locations such as Telok Blangah Hill Park, Mount Faber, HortPark, Labrador Nature Reserve and Keppel Bay Bridge. 
+They apply composition techniques as such Rule of Thirds, Leading Lines and Framing. Their works are proudly displayed at our photo gallery in school and used in our publications! At the same time, MediaKids get to learn more about the environment and explore environmental issues through their lenses.
+“The outdoor shoots are a lot of fun. We get to compare composition techniques and share ideas. We learn how each of us have different stories in our photographs. Different people look at the same object differently,” says Ka Shing, a Primary 4 student. 
+</p>
 <p><strong>Through the lenses of our MediaKids</strong></p>
 <img src="/images/2023%20Photos/Media%20Kids/media%20collage_4.JPG">
 <img src="/images/2023%20Photos/Media%20Kids/media%20collage_5.JPG">
