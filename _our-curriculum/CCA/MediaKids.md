@@ -19,8 +19,16 @@ third_nav_title: CCA
 <img src="/images/mediakids4.png">
 	
 </p><p><strong>Toy Photography</strong></p><p>
+
+<img src="/images/2023%20Photos/Media%20Kids/media%20collage_1.JPG">
 	
+</p><p><strong>Zoom Effect</strong></p><p>
 	
+<img src="/images/2023%20Photos/Media%20Kids/media%20collage_2.JPG">
+	
+</p><p><strong>Rain</strong></p><p>
+	
+<img src="/images/2023%20Photos/Media%20Kids/media%20collage_3.JPG">
 	
 </p><p><strong>Outdoor Shoots</strong></p><p>
 <img src="/images/2023%20Photos/Media%20Kids/media_16.JPG">	
