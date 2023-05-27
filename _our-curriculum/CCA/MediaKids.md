@@ -38,7 +38,21 @@ third_nav_title: CCA
 <p>In line with the upcoming Tokyo Olympics, our students embarked on a project to gather inspirational stories and messages from our local sportsmen and sportswomen. In September 2019, we invited Singapore’s very own football legend, Mr Fandi Ahmad to our school. Our MediaKids took photographs of him being interviewed by our student leaders and conducting a football clinic for our boys in the Football CCA group.</p>
 <img src="/images/For-Website-MK-Page.jpg">
 <p>There were other platforms which gave our MediaKids opportunities to hone their photography skills. In 2020, we met our nation’s World Number 1 Para Archer, Ms Nur Syahidah Alim. Aqeel, our Primary 4 MediaKid, not only captured the session through his lenses, but was also inspired to overcome challenges and pursue his dreams and goals.</p>
+
+In celebration of Biodiversity Week from 19 to 26 May 2023, we produced a coffee table book titled “A Bowl of Nature”. Our MediaKids applied their photography skills and captured biodiversity through their lenses. Click here to read more about “A Bowl of Nature”
+
+![](/images/2023%20Photos/Media%20Kids/media_25.JPG)
+
+##### Other Platforms to extend our MediaKids’ Learning: Photography Exhibition
+
+![](/images/2023%20Photos/Media%20Kids/media_19.JPG)
+
+Titled Virtues of Creativity and Flexibility, this photograph was taken at Labrador Nature Reserve by Ser Yen. It was selected to be exhibited at the 18th Ngee Ann Photographic Exhibition for the Student Category. 
+Accompanying her photograph was a write-up:
+I like to experiment and try new things. This is my first time capturing the landscape by using a lensball. The landscape of Labrador Nature Reserve appears as an inverted image in the lensball. This image resonates with me as it reminds me of being creative, flexible and looking at things from different perspectives, especially when we are facing difficulties.
+Ser Yen said, “Our CCA lessons are conducted by a professional photographer. Through him, we learn more than just taking photographs. Our outdoor shoots include understanding the environment and nature, and how our cameras can capture how nature interact.”
+
 <p><strong>Come Join Us!</strong></p>
-<img style="width: 65%;" src="/images/IMG_5041-225x300.jpg">
-<p>Ms Ho, teacher in charge of MediaKids, shared, "I can see our MediaKids growing in confidence as they collaborate with one another to capture special moments during school and community events. One of the most memorable moments for me was when I saw them in action as student photographers during the SYF Celebrations. It was a proud moment to see them step out of their comfort zones in an unfamiliar environment and apply the photography skills that they have acquired.”
-</p><p>Come join us as a MediaKid!</p>
+<img style="width: 65%;" src="/images/2023%20Photos/Media%20Kids/media_28.JPG">
+
+Mdm Uuchi, teacher in charge of MediaKids, shared “Through photography, our students develop observation skills, artistic expression and a deeper appreciation for the world around them. Our outdoor shoots are also very hands-on, providing opportunities for our students to practise their photography skills in real-world settings.”
