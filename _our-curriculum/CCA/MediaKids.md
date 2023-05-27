@@ -5,7 +5,8 @@ description: ""
 third_nav_title: CCA
 ---
 <img src="/images/2023%20Photos/Media%20Kids/media_24.JPG">
-<p>MediaKids is an extension of our Young Photographers programme, where our students acquire advanced photography skills and work on school publications.</p>
+
+MediaKids is an extension of our [Young Photographers](https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/) programme, where our students acquire advanced photography skills and work on school publications.
 <p>As an opportunity to hone their photography skills, our MediaKids take on the role of official photographer for school events and participate in national competitions. Through these platforms, our MediaKids develop their creativity, interpersonal skills and collaboration skills.</p>
 <p><strong>Telling Their Own Stories</strong></p>
 <img src="/images/2023%20Photos/Media%20Kids/media_29.JPG">
