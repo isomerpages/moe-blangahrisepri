@@ -62,7 +62,7 @@ They apply composition techniques as such Rule of Thirds, Leading Lines and Fram
 <img src="/images/For-Website-MK-Page.jpg">
 <p>There were other platforms which gave our MediaKids opportunities to hone their photography skills. In 2020, we met our nation’s World Number 1 Para Archer, Ms Nur Syahidah Alim. Aqeel, our Primary 4 MediaKid, not only captured the session through his lenses, but was also inspired to overcome challenges and pursue his dreams and goals.</p>
 
-In celebration of Biodiversity Week from 19 to 26 May 2023, we produced a coffee table book titled “A Bowl of Nature”. Our MediaKids applied their photography skills and captured biodiversity through their lenses. Click here to read more about “A Bowl of Nature”
+In celebration of Biodiversity Week from 19 to 26 May 2023, we produced a coffee table book titled “A Bowl of Nature”. Our MediaKids applied their photography skills and captured biodiversity through their lenses. Click here to read more about “[A Bowl of Nature](https://blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/)”
 
 ![](/images/2023%20Photos/Media%20Kids/media_25.JPG)
 
