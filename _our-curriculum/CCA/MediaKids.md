@@ -57,7 +57,8 @@ In celebration of Biodiversity Week from 19 to 26 May 2023, we produced a coffee
 
 ![](/images/2023%20Photos/Media%20Kids/media_25.JPG)
 
-##### Other Platforms to extend our MediaKids’ Learning: Photography Exhibition
+<p><strong>Other Platforms to extend our MediaKids’ Learning: Photography Exhibition</strong></p>
+
 
 ![](/images/2023%20Photos/Media%20Kids/media_19.JPG)
 
