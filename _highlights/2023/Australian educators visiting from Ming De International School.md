@@ -11,8 +11,8 @@ During their visit, the visitors were keen to learn more about our implementatio
 
 Our school leaders also engaged in a productive and insightful discussion with the visitors, sharing their experiences and best practices. It was a privilege to share our approach with our international guests, and we hope that this visit will lead to more fruitful collaborations and partnerships in the future. Thank you, Mrs. Ann Dewey and the team from Ming De International School, for your visit and your interest in our school's character education programmes!
 
-![](/images/Special%20Projects/international%20visit%20(1).jpg)
+![](/images/2023%20Photos/international%20visit%20(1).jpg)
 
-![](/images/Special%20Projects/international%20visit%20(2).jpg)
+![](/images/2023%20Photos/international%20visit%20(2).jpg)
 
-![](/images/Special%20Projects/international%20visit%20(3).jpg)
+![](/images/2023%20Photos/international%20visit%20(3).jpg)
