@@ -39,10 +39,11 @@ Our MediaKids’ works are reviewed by their trainer, who gives them constructiv
 </p><p><strong>Outdoor Shoots</strong></p><p>
 <img src="/images/2023%20Photos/Media%20Kids/media_16.JPG">	
 
-![](/images/2023%20Photos/Media%20Kids/media_27.JPG)
+</p><img src="/images/2023%20Photos/Media%20Kids/media_27.JPG"><p></p>
 	
-![](/images/2023%20Photos/Media%20Kids/media_26.JPG)
-</p><p>MediaKids also have the opportunity to hone their photography skills through outdoor shoots at locations such as Telok Blangah Hill Park, Mount Faber, HortPark, Labrador Nature Reserve and Keppel Bay Bridge. 
+<img src="/images/2023%20Photos/Media%20Kids/media_26.JPG">	
+
+<p></p><p>MediaKids also have the opportunity to hone their photography skills through outdoor shoots at locations such as Telok Blangah Hill Park, Mount Faber, HortPark, Labrador Nature Reserve and Keppel Bay Bridge. 
 They apply composition techniques as such Rule of Thirds, Leading Lines and Framing. Their works are proudly displayed at our photo gallery in school and used in our publications! At the same time, MediaKids get to learn more about the environment and explore environmental issues through their lenses.
 “The outdoor shoots are a lot of fun. We get to compare composition techniques and share ideas. We learn how each of us have different stories in our photographs. Different people look at the same object differently,” says Ka Shing, a Primary 4 student. 
 </p>
