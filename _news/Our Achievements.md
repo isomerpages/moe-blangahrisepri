@@ -10,6 +10,32 @@ description: ""
 <li>Best Speaker at Round 1 of Wits and Words 2023 Inter-school Debate Competition - Gail Lien Zhao Xin (6 Sapphire)</li>
 <li>Certificate of Distinction in Round 1 Open Category of Raffles Institution Primary Mathematics World Contest 2023 - Nathanael Chin Chi Yi (6 Sapphire)</li>
 <li>Certificate of Merit in Round 1 Open Category of Raffles Institution Primary Mathematics World Contest 2023 - Hong Rian (6 Topaz)</li>
+	<li> 22nd Inter-School National Scrabble Championship 2023 - Junior Division
+		
+Premier Cup Category: Koo Seo Jun (3 Topaz) - 2nd 
+	</li><li>22nd Inter-School National Scrabble Championship 2023 - P3 Junior Division Cup Category: Hong Jiyoo (3 Opal) - 2nd </li>
+<li>22nd Inter-School National Scrabble Championship 2023 - P3 Junior Division Cup Category, Plate Category: Minh Anh (3 Sapphire) - 1st 
+			
+Chu Po-wei (3 Topaz) - 2nd </li>
+
+<li>22nd Inter-School National Scrabble Championship 2023 - P4 Junior Division Cup Category, Plate Category:  Soon Cai Jun (4 Topaz) - 2nd Position</li>
+<li>22nd Inter-School National Scrabble Championship 2023 - Senior Division Cup Category, Plate Category: Kayden Chu (5 Sapphire) - 1st Position </li>
+<li>22nd Inter-School National Scrabble Championship 2023 - Team Event, Junior Division, Cup Category. Team J3 - 1st Runners-Up
+
+	1. Ning Haobo (3 Topaz)
+	2. Lee Doyoon (3 Opal)
+	3. Nur Rizqah Alisha (3 Topaz)
+	4. Ning Haohan (3 Opal)
+	5. Chu Po-wei (3 Topaz)
+</li>
+<li>22nd Inter-School National Scrabble Championship 2023 - Team Event, Junior Division, Bowl Category. Team J3 - Champion
+
+	1. Hong Jiyoo (3 Opal)
+	2. Owen Huang (3 Opal)
+	3. Koo Seo Jun (3 Topaz)
+	4. Minh Anh (3 Sapphire)
+	5. Teo Kai Ting (3 Sapphire)
+</li>
 </ul>
 <h4><strong>2022</strong></h4>
 <ul>
