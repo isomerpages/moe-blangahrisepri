@@ -13,8 +13,8 @@ In addition, a quiz segment provided an opportunity for us to learn more about H
 
 To conclude the festivities, MOE Kindergarten friends, teachers, and students returned to the stage to sing the finale song, and we would like to wish all our Muslim friends a joyous "Selamat Hari Raya Aidilfitri"!
 
-![](/images/Special%20Projects/hari%20raya%202023%20(1).jpg)
+![](/images/2023%20Photos/hari%20raya%202023%20(1).jpg)
 
-![](/images/Special%20Projects/hari%20raya%202023%20(2).jpg)
+![](/images/2023%20Photos/hari%20raya%202023%20(2).jpg)
 
-![](/images/Special%20Projects/hari%20raya%202023%20(3).jpg)
+![](/images/2023%20Photos/hari%20raya%202023%20(3).jpg)

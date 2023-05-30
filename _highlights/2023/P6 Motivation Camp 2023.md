@@ -15,18 +15,18 @@ The Motivation Camp was definitely an enriching learning experience for our P6 s
 
 On the second day of the camp, students went through a series of team building activities that involved group discussions, collaborative exercises and leadership training. All these activities aim to help our students learn new skills through synergy, increase their self-confidence and build stronger rapport with one another. Nathan of 6 Topaz shared, “I was pleasantly surprised to see my group supporting each other through the different games. They were not the usual group I work with and I got a chance to bond with different people in the level. Teamwork made it possible for us to achieve the goals even when some of the challenges were tough! I had a really fun time.”
 
-![](/images/Special%20Projects/p6%20camp%20(1).jpg)
+![](/images/2023%20Photos/p6%20camp%20(1).jpg)
 
-![](/images/Special%20Projects/p6%20camp%20(2).jpg)
+![](/images/2023%20Photos/p6%20camp%20(2).jpg)
 
-![](/images/Special%20Projects/p6%20camp%20(3).jpg)
+![](/images/2023%20Photos/p6%20camp%20(3).jpg)
 
-![](/images/Special%20Projects/p6%20camp%20(4).jpg)
+![](/images/2023%20Photos/p6%20camp%20(4).jpg)
 
-![](/images/Special%20Projects/p6%20camp%20(5).jpg)
+![](/images/2023%20Photos/p6%20camp%20(5).jpg)
 
-![](/images/Special%20Projects/p6%20camp%20(6).jpg)
+![](/images/2023%20Photos/p6%20camp%20(6).jpg)
 
-![](/images/Special%20Projects/p6%20camp%20(7).jpg)
+![](/images/2023%20Photos/p6%20camp%20(7).jpg)
 
-![](/images/Special%20Projects/p6%20camp%20(8).jpg)
+![](/images/2023%20Photos/p6%20camp%20(8).jpg)

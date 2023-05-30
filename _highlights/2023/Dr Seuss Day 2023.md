@@ -15,6 +15,6 @@ Through this celebration, our students not only had fun, but also developed a de
 
 Thank you to all our students, teachers, and staff who made Dr. Seuss Day 2023 a memorable and magical day!
 
-![](/images/Special%20Projects/dr%20seuss%20(3).JPEG)
+![](/images/2023%20Photos/dr%20seuss%202023%20(1).jpg)
 
-![](/images/Special%20Projects/dr%20seuss%202023%20(1).jpg)
+![](/images/2023%20Photos/dr%20seuss%20(3).JPEG)

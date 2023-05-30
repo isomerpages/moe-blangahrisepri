@@ -15,12 +15,12 @@ Meanwhile, Catherine from 5 Sapphire felt that the presentation was fascinating.
 
 One of the student-hosts, Dave from 4 Topaz, shared that the assembly programme was informative and noteworthy. “I am very glad that I had the chance to present in front of the school. I really enjoyed the session. I wish I could have more of such opportunities in the future.”
 
-![](/images/Special%20Projects/ifd%20(1).jpeg)
+![](/images/2023%20Photos/ifd%20(1).jpeg)
 
-![](/images/Special%20Projects/ifd%202023%20(2).jpeg)
+![](/images/2023%20Photos/ifd%202023%20(2).jpeg)
 
-![](/images/Special%20Projects/ifd%202023%20(3).jpeg)
+![](/images/2023%20Photos/ifd%202023%20(3).jpeg)
 
-![](/images/Special%20Projects/ifd%202023%20(4).jpeg)
+![](/images/2023%20Photos/ifd%202023%20(4).jpeg)
 
-![](/images/Special%20Projects/ifd%202023%20(5).jpeg)
+![](/images/2023%20Photos/ifd%202023%20(5).jpeg)
