@@ -65,7 +65,8 @@ They apply composition techniques as such Rule of Thirds, Leading Lines and Fram
 
 In celebration of Biodiversity Week from 19 to 26 May 2023, we produced a coffee table book titled “A Bowl of Nature”. Our MediaKids applied their photography skills and captured biodiversity through their lenses. Click here to read more about “[A Bowl of Nature](https://blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/)”
 
-<img src="/images/2023%20Photos/Media%20Kids/media_25.JPG">
+<img style="width: 65%;" src="/images/2023%20Photos/Media%20Kids/media_25.JPG">
+
 
 <p><strong>Other Platforms to extend our MediaKids’ Learning: Photography Exhibition</strong></p>
 
