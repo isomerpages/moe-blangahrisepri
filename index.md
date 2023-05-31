@@ -24,13 +24,12 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Blangah Rise Primary School Open House
+      title: The Green Snapshots (TGS) – A Nature & Heritage Trail
       button: READ MORE
-      url: /2023/05/12/brps-open-house/
-      image: /images/2023 Photos/open house.jpg
+      url: /2023/05/31/tgs-announcement/
+      image: /images/2023 Photos/TGS/the green snapshots poster may 2023.jpg
       alt: Image alt text
-      description: Attention all K2 Parents! Join us for our 2023 Open House in
-        Blangah Rise Primary School
+      description: "TGS marks its return with a public trail on 22 July 2023. "
   - infopic:
       title: Sustainable South West Awards 2022
       button: Read More
@@ -44,7 +43,7 @@ sections:
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/2023 Photos/career 2023 (3).JPG
-      description: "Blangah Rise Primary School held its Careers Day 2023 on 2 May. "
+      description: Blangah Rise Primary School held its Careers Day 2023 on 2 May.
   - infopic:
       title: Blangahnites commemorate SG Clean Day 2023!
       subtitle: HIGHLIGHTS

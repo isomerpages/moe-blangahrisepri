@@ -2,4 +2,5 @@ collections:
   annoucements:
     output: true
     order:
+      - The Green Snapshots (TGS) – A Nature & Heritage Trail.md
       - Blangah Rise Primary Open House.md
