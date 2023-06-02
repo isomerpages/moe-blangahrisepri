@@ -61,7 +61,16 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Project GAIA</strong></p>
+
+<p><strong>Tranquil Garden</strong></p>
+
+The Tranquil Garden is a new addition to our school’s Biodiversity Corridor next to the Primary 1 classrooms. The Tranquil Garden provides a calming and serene space to promote students’ wellness. Within the garden, students will be able to engage in exploration under the canopy of the Auracaria Pine Trees. This garden is designed with seating areas for personal or small group contemplation as it is divided into sections by bamboo lattices and boulders. The tables &amp; seats are customised to blend in with the natural environment. Teacher and student Wellness Ambassadors may utilize the space in the garden by leading and engaging their classes in wellness activities. 
+
+<img src="/images/LLP/img-20230307-wa0108_tranquilgarden.jpg">
+<p>
+<img src="/images/LLP/img-20221231-wa0048_tranquilgarden.jpg">
+
+</p><p><strong>Project GAIA</strong></p>
 <p>One of our key programmes is Project GAIA (Green Awareness in Action). Project GAIA is a community project to enhance students’ learning beyond the classroom and promote recycling and environmental conservation in the community. Some of the programmes in Project GAIA include organizing recycling drives as well as activities to commemorate Singapore World Water Day and Earth Day.</p>
 <p><strong>Commemorating Singapore World Water Day</strong></p>
 <p>World Water Day is commemorated on 22 March every year. The theme for 2022, “Groundwater: Making the Invisible, Visible” is to heighten our awareness of&nbsp;groundwater, which is a hidden treasure that enriches our lives as most of the liquid freshwater in the world is groundwater. As climate change gets worse, groundwater becomes more critical.&nbsp;</p>
