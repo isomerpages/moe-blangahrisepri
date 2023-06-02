@@ -31,10 +31,10 @@ sections:
       alt: Image alt text
       description: TGS marks its return with a public trail on 22 July 2023.
   - infopic:
-      title: Sustainable South West Awards 2022
+      title: Green Schools @ South West Award Ceremony 2023
       button: Read More
       alt: Image alt text
-      url: /2023/01/21/sustainable-south-west-awards-2022/
+      url: https://www.blangahrisepri.moe.edu.sg/2023/03/23/green-schools-south-west-award-ceremony-2023/
       image: /images/Announcements/clean up 2022 1.jpg
   - infopic:
       title: Careers Day 2023
@@ -51,7 +51,7 @@ sections:
       alt: Image alt text
       image: /images/2023 Photos/Earth Day/earth day 3.jpg
       url: /2023/06/02/earth-day/
-      description: "The theme for this year’s Earth Day in 2023 is ‘Invest in Our Planet’. "
+      description: The theme for this year’s Earth Day in 2023 is ‘Invest in Our Planet’.
   - resources:
       title: Publications
       button: Click here to see more
