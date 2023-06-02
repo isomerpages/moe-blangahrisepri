@@ -23,6 +23,8 @@ description: ""
 
 Click [here](https://www.blangahrisepri.moe.edu.sg/2023/01/21/sustainable-south-west-awards-2022/) to read more about BRPS Achievements – SWCDC Sustainable South West Awards 2022  
 
+Click [here](https://www.blangahrisepri.moe.edu.sg/2023/03/23/green-schools-south-west-award-ceremony-2023/) to read more about BRPS Achievements – Green School Awards 2022 
+
 <p><strong>Little Green Ambassadors</strong></p>
 <p>Little Green Ambassadors form part of the class committee. They are key drivers who look into fostering sustainable environmental habits in the school. Little Green Ambassadors are caring, confident and responsible.</p>
 <ul>
