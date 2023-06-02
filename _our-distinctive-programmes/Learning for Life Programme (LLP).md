@@ -92,10 +92,18 @@ The Tranquil Garden is a new addition to our school’s Biodiversity Corridor ne
 </p><p>
 <img src="/images/LLP/water%20day_2.JPG">
 	
-	
-
-	
 </p><p>Click&nbsp;<a href="/2021/04/01/brlc-commemorates-singapore-world-water-day-2021/"><strong>here</strong></a>&nbsp;to read more about how we had also commemorated Singapore World Water Day in 2021.</p>
+	
+<p><strong>Commemorating Earth Day</strong></p>
+	
+Every year, we commemorate this annual event with assembly talks, class activities, recess activities and Project Green Awareness in Action (GAIA). The theme for this year’s Earth Day in 2023 is ‘Invest in Our Planet’. We collaborated with Telok Blangah Community Club (Youth Network) and Cloop in organizing an upcycling workshop where our students brought along their old T-shirts and transformed the shirts into tote bags.
+	
+<img src="/images/LLP/earth%20day%20_upcycling%20wkshop.jpg">
+	
+In addition, our Parent Support Group (PSG) promoted greening our corridors by engaging our students in growing plants using recycled bottles. The Green Ambassadors in each class helped to water and care for the plants assigned to each class. 
+	
+<img src="/images/LLP/psg%20earth%20day.jpg">
+	
 <p><strong>The Garden of Hope</strong></p>
 <p>Water is a precious and scarce resource for Singapore, and our water supply remains vulnerable to factors such as climate change.&nbsp;The Garden of Hope&nbsp;is set up as a rain harvesting system, home for ecology and a space for students and staff to engage with nature.&nbsp;It is&nbsp;developed in line with three out of the five key pillars of the Singapore Green Plan 2030 on sustainable development:</p>
 <ol>
