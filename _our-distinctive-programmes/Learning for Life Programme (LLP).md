@@ -95,9 +95,9 @@ The Tranquil Garden is a new addition to our school’s Biodiversity Corridor ne
 </p><p>
 <img src="/images/LLP/water%20day_2.JPG">
 	
-</p><p>Click&nbsp;<a href="/2021/04/01/brlc-commemorates-singapore-world-water-day-2021/"><strong>here</strong></a>&nbsp;to read more about how we had also commemorated Singapore World Water Day in 2021.</p>
+Click [here](https://blangahrisepri.moe.edu.sg/2023/05/03/happy-world-water-day/) to read more about how we have also commemorated Singapore World Water Day in 2023.
 	
-<p><strong>Commemorating Earth Day</strong></p>
+</p><p><strong>Commemorating Earth Day</strong></p>
 	
 Every year, we commemorate this annual event with assembly talks, class activities, recess activities and Project Green Awareness in Action (GAIA). The theme for this year’s Earth Day in 2023 is ‘Invest in Our Planet’. We collaborated with Telok Blangah Community Club (Youth Network) and Cloop in organizing an upcycling workshop where our students brought along their old T-shirts and transformed the shirts into tote bags.
 	
