@@ -35,7 +35,7 @@ sections:
       button: Read More
       alt: Image alt text
       url: https://www.blangahrisepri.moe.edu.sg/2023/03/23/green-schools-south-west-award-ceremony-2023/
-      image: /images/Announcements/clean up 2022 1.jpg
+      image: /images/LLP/gsa_1  .jpg
   - infopic:
       title: Careers Day 2023
       button: Click Here to read more
