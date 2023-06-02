@@ -138,6 +138,15 @@ In celebration of Biodiversity Week, we have also produced a photobook entitled 
 </p>
 	
 <img src="/images/LLP/series.JPG">
+	
+Click [here](https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/) to find out more about our LLP Outreach Projects – ‘The Green Dragonfly and Their Swampy Friends’
+	
+Click [here](https://blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/) to find out more about our LLP Outreach Projects – ‘Friends of Berlayer Creek’
+	
+Click [here](https://blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/) to find out more about our LLP Outreach Projects – Photobook ‘A Bowl of Nature’
+	
+To bring our stories to live, we will weave the storytelling segment into our award-winning The Green Snapshots Trail, led by our student docents. 
+
 
 <p><strong>Outreach Programmes - The Green Snapshots Trail</strong></p>
 <p>The Green Snapshots (TGS) Nature and Heritage Trail is an environment and heritage-themed learning journey crafted by BRPS teachers. The intent of the learning journey is to provide opportunities for both the school and external communities to appreciate the rich and green history of Telok Blangah and the Southern Ridges. The trails are built on the school’s environmental education programme, which weaves nature into the curriculum and provides experiential learning activities for our students. In the guided-trail version, our Primary 4 and Primary 5 student-docents provide an in-depth and personal sharing of the history and flora and fauna of Telok Blangah and Mount Faber. During the 2½-hour long guided tours, they also share about the area’s unique architecture and development over the years.</p>
