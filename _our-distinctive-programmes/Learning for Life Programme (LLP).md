@@ -21,7 +21,7 @@ description: ""
 </ul>
 <p>Specially crafted programmes that aim to encapsulate the critical learning objectives of&nbsp;<strong><em>Leader for Life</em></strong>&nbsp;include Little Green Ambassadors, Class VIA @ Blooming Garden, Project GAIA, The Green Snapshots (TGS) Nature and Heritage Trails and Community Outreach Programmes.</p>
 
-Click [here](/2023/01/21/sustainable-south-west-awards-2022/) to read more about BRPS Achievements – SWCDC Sustainable South West Awards 2022  
+Click [here](https://www.blangahrisepri.moe.edu.sg/2023/01/21/sustainable-south-west-awards-2022/) to read more about BRPS Achievements – SWCDC Sustainable South West Awards 2022  
 
 <p><strong>Little Green Ambassadors</strong></p>
 <p>Little Green Ambassadors form part of the class committee. They are key drivers who look into fostering sustainable environmental habits in the school. Little Green Ambassadors are caring, confident and responsible.</p>
