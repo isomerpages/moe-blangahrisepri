@@ -112,23 +112,16 @@ In addition, our Parent Support Group (PSG) promoted greening our corridors by e
 <li aria-level="1">Energy Reset: to use cleaner energy and increase our energy efficiency to lower our carbon footprint</li>
 </ol>
 <p>Transforming an empty rooftop to a luscious rain garden is an example of active green roof usage. The Garden of Hope is more than just a garden! Capturing rainwater with the PEG Trays System under the plants reduces stress on nearby drains and prevents flooding. The water is then circulated around the garden for plant irrigation. The garden’s irrigation system is automated through a rain sensor that is powered by harnessing solar energy using a solar panel. Through our Green Ambassadors, we&nbsp;hope to educate and remind everyone to practise sustainable living.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/pp10.jpg"></td>
-<td style="width: 50%;"><img src="/images/pp11.jpg"></td>
-</tr></tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
+	
+<img src="/images/LLP/img-20230303-wa0012_garden%20of%20hope.jpg">
+<p>
+<img src="/images/LLP/img-20230303-wa0009_garden%20of%20hope.jpg">
+</p><p>
+<img src="/images/LLP/img-20230224-wa0035_garden%20of%20hope.jpg">
+</p><p>
+<img src="/images/LLP/img-20230224-wa0034_garden%20of%20hope.jpg">
 
-<tr>
-<td style="width: 80%;"><img src="/images/p12.jpg"></td>
-<td style="width: 20%;"><img src="/images/pp13.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Commemorating Earth Day</strong></p>
+</p><p><strong>Commemorating Earth Day</strong></p>
 <p>Every year, we commemorate this annual event with assembly talks, class activities, recess activities and Project Green Awareness in Action (GAIA). Our Junior Primary students participate in recycling challenges such as setting up and&nbsp;decorating their classes’ recycling boxes. Our Middle Primary students use bottle caps to create pieces of art while our Senior Primary students upcycle used CDs into pledge cards. These upcycling projects are part of our ongoing efforts to commemorate Earth Day 2022.</p>
 <p>To educate our students on ‘Recycling Right’, our Parent Support Group (PSG) also created their own posters and charts. With their help, we had our students sow different types of seeds using recycled bottles. The Green Ambassadors in each class help to water and care for the seeds / seedlings. With the help of our PSG, these seedlings are then transplanted into the planters in our Blooming Garden.&nbsp;</p>
 <table style="border-collapse: collapse; width: 65%;" border="1">
