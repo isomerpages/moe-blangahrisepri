@@ -29,7 +29,7 @@ sections:
       url: /2023/05/31/tgs-announcement/
       image: /images/2023 Photos/TGS/the green snapshots poster may 2023.jpg
       alt: Image alt text
-      description: "TGS marks its return with a public trail on 22 July 2023. "
+      description: TGS marks its return with a public trail on 22 July 2023.
   - infopic:
       title: Sustainable South West Awards 2022
       button: Read More
@@ -45,15 +45,13 @@ sections:
       image: /images/2023 Photos/career 2023 (3).JPG
       description: Blangah Rise Primary School held its Careers Day 2023 on 2 May.
   - infopic:
-      title: Blangahnites commemorate SG Clean Day 2023!
+      title: Earth Day 2023
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/clean up_09.JPG
-      url: /2023/05/12/sg-clean-day/
-      description: SG Clean Day, a day dedicated to raising awareness of keeping our
-        physical environment clean, was commemorated on 9 May 2023 at Blangah
-        Rise Primary School.
+      image: /images/2023 Photos/Earth Day/earth day 3.jpg
+      url: /2023/06/02/earth-day/
+      description: "The theme for this year’s Earth Day in 2023 is ‘Invest in Our Planet’. "
   - resources:
       title: Publications
       button: Click here to see more
