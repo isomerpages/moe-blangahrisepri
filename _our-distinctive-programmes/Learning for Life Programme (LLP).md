@@ -107,6 +107,8 @@ In addition, our Parent Support Group (PSG) promoted greening our corridors by e
 	
 <img src="/images/LLP/psg%20earth%20day.jpg">
 	
+Click [here](https://blangahrisepri.moe.edu.sg/2023/06/02/earth-day/) to read more about how we have commemorated Earth Day 2023.
+	
 <p><strong>The Garden of Hope</strong></p>
 <p>Water is a precious and scarce resource for Singapore, and our water supply remains vulnerable to factors such as climate change.&nbsp;The Garden of Hope&nbsp;is set up as a rain harvesting system, home for ecology and a space for students and staff to engage with nature.&nbsp;It is&nbsp;developed in line with three out of the five key pillars of the Singapore Green Plan 2030 on sustainable development:</p>
 <ol>
