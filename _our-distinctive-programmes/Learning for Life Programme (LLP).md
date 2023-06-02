@@ -39,7 +39,8 @@ description: ""
 <p>A diverse variety of animals and plants can be found along the Biodiversity Corridor. This creates more opportunities for the school community to find out more about the various species and the complex ecosystems that they live in, leading to greater awareness of Singapore’s rich biodiversity.</p>
 <p><strong>Animals’ Corner</strong></p>
 <p>The Animals’ Corner is part of the school’s effort to equip students with socio-emotional skills and leadership qualities. We inculcate virtues such as care, respect and responsibility to create a lasting impact on the students’ own personal and interpersonal growth through the school’s Learning for Life Programme (LLP). The opportunity to observe, interact, care and learn about animals not only enriches their learning about nature, ecology and relationships, it also inspires them on their learning and discovery journeys as students will be curious to find out more about the animals.&nbsp;</p>
-<img src="/images/anmal.jpg">
+<img src="/images/LLP/animal.JPG">
+
 <p>We collaborated with the EL Department to give the Primary 2 students the experience of rearing butterflies. In alignment with the EL Stellar unit, ‘A Butterfly is Born’, students and teachers had the opportunity to observe the complete metamorphosis of butterflies. The experience also provided students the platform to put the virtues into practice.</p>
 <p>Click&nbsp;<a href="/departments/junior-primary/"><strong>here</strong></a>&nbsp;to read more about the activity.</p>
 <p><strong>Blooming Garden and Eco-pond</strong></p>
