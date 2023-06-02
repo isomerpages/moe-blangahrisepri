@@ -73,8 +73,8 @@ The Tranquil Garden is a new addition to our school’s Biodiversity Corridor ne
 </p><p><strong>Project GAIA</strong></p>
 <p>One of our key programmes is Project GAIA (Green Awareness in Action). Project GAIA is a community project to enhance students’ learning beyond the classroom and promote recycling and environmental conservation in the community. Some of the programmes in Project GAIA include organizing recycling drives as well as activities to commemorate Singapore World Water Day and Earth Day.</p>
 <p><strong>Commemorating Singapore World Water Day</strong></p>
-<p>World Water Day is commemorated on 22 March every year. The theme for 2022, “Groundwater: Making the Invisible, Visible” is to heighten our awareness of&nbsp;groundwater, which is a hidden treasure that enriches our lives as most of the liquid freshwater in the world is groundwater. As climate change gets worse, groundwater becomes more critical.&nbsp;</p>
-<p>In 2022,&nbsp;we commemorated Singapore World Water Day through a series of activities. These activities include:</p>
+<p>World Water Day is commemorated on 22 March every year. The theme for 2022, “Be the Change You Want to See in the World” reminds us that reminds us that even the smallest actions can make a big difference in conserving our precious water resources. As climate change gets worse, potable water becomes limited.</p>
+<p>In 2023, we commemorated Singapore World Water Day through a series of activities. These included:</p>
 <ul>
 <li aria-level="1">An Assembly Talk (conducted by Form Teachers in each class)</li>
 <li aria-level="1">Exhibits created by PSG are displayed at the school’s ‘Community Space’ to educate students on the importance of using water wisely and cherishing our water resources</li>
