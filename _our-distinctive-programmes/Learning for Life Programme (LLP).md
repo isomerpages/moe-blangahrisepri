@@ -132,6 +132,7 @@ Our Art teachers will also provide our students with the opportunity to extend t
 In celebration of Biodiversity Week, we have also produced a photobook entitled ‘A Bowl of Nature’. The book is inspired by the significance of nature in Telok Blangah and the green spaces surrounding our school. 
 </p>
 	
+<img src="/images/LLP/series.JPG">
 
 <p><strong>Outreach Programmes - The Green Dragonflies and Their Swampy Friends</strong></p>
 <p>As a strong proponent for the care of the environment we live in, BRPS embarked on a special project to further this cause. ‘The Green Dragonflies and their Swampy Friends’ is an illustrated book written and illustrated by our own teachers and students. It tells a tale of a group of dragonflies who are displaced from their home and are in search of a new one. This is produced by&nbsp;our team of teachers and with a keen interest in raising environmental awareness, story writing, art and photography. Leveraging our passion through the story, we&nbsp;hope to raise awareness in the young about how environmental issues have an impact on their lives.&nbsp;The story aims to educate children to make a conscious choice by taking positive actions in caring for the environment.&nbsp;This is aligned to the aims of our Learning for Life Programme (LLP).</p>
