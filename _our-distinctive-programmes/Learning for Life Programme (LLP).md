@@ -86,20 +86,16 @@ The Tranquil Garden is a new addition to our school’s Biodiversity Corridor ne
 <li aria-level="1">-	Primary 4 STEM lesson - Engineering-related Learning Activity on Creating Water Filtration System</li>
 <li aria-level="1">Primary 5 Science lesson – Learning more about Water and Water Cycle through rain harvesting system for irrigation at the school’s Garden of Hope</li>
 
-</ul>
-<table style="border-collapse: collapse; width: 80%;" border="1">
-<tbody>
-<tr>
-<td style="width: 62%;"><img src="/images/pp6.jpg"></td>
-<td style="width: 38%;"><img src="/images/pp7.jpg"></td>
-</tr>
-<tr>
-<td style="width: 62%;"><img src="/images/pp8.jpg"></td>
-<td style="width: 38%;"><img src="/images/pp9.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p>Click&nbsp;<a href="/2021/04/01/brlc-commemorates-singapore-world-water-day-2021/"><strong>here</strong></a>&nbsp;to read more about how we had also commemorated Singapore World Water Day in 2021.</p>
+<img src="/images/LLP/water%20day_3.JPG">
+<p>
+<img src="/images/LLP/water%20day_1.JPG">
+</p><p>
+<img src="/images/LLP/water%20day_2.JPG">
+	
+	
+
+	
+</p><p>Click&nbsp;<a href="/2021/04/01/brlc-commemorates-singapore-world-water-day-2021/"><strong>here</strong></a>&nbsp;to read more about how we had also commemorated Singapore World Water Day in 2021.</p>
 <p><strong>The Garden of Hope</strong></p>
 <p>Water is a precious and scarce resource for Singapore, and our water supply remains vulnerable to factors such as climate change.&nbsp;The Garden of Hope&nbsp;is set up as a rain harvesting system, home for ecology and a space for students and staff to engage with nature.&nbsp;It is&nbsp;developed in line with three out of the five key pillars of the Singapore Green Plan 2030 on sustainable development:</p>
 <ol>
@@ -154,4 +150,4 @@ The Tranquil Garden is a new addition to our school’s Biodiversity Corridor ne
 <p>The Green Snapshots (TGS) Nature and Heritage Trail is an environment and heritage-themed learning journey crafted by BRPS teachers. The intent of the learning journey is to provide opportunities for both the school and external communities to appreciate the rich and green history of Telok Blangah and the Southern Ridges. The trails are built on the school’s environmental education programme, which weaves nature into the curriculum and provides experiential learning activities for our students. In the guided-trail version, our Primary 4 and Primary 5 student-docents provide an in-depth and personal sharing of the history and flora and fauna of Telok Blangah and Mount Faber. During the 2½-hour long guided tours, they also share about the area’s unique architecture and development over the years.</p>
 <p>For our continued advocacy for heritage education and sustained partnership through TGS, Blangah Rise Primary School was awarded the 2019 School Heritage Champion Award (Silver) by the National Heritage Board (NHB).</p>
 <img style="width: 40%;" src="/images/TGS-300x214.jpg">
-<p>Click&nbsp;<a href="/the-green-snapshots-tgs/"><strong>here</strong></a>&nbsp;to find out more about the TGS Nature and Heritage Trail.</p></ul>
+<p>Click&nbsp;<a href="/the-green-snapshots-tgs/"><strong>here</strong></a>&nbsp;to find out more about the TGS Nature and Heritage Trail.</p></ul></ul>
