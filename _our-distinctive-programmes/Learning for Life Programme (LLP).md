@@ -76,12 +76,16 @@ The Tranquil Garden is a new addition to our school’s Biodiversity Corridor ne
 <p>World Water Day is commemorated on 22 March every year. The theme for 2022, “Be the Change You Want to See in the World” reminds us that reminds us that even the smallest actions can make a big difference in conserving our precious water resources. As climate change gets worse, potable water becomes limited.</p>
 <p>In 2023, we commemorated Singapore World Water Day through a series of activities. These included:</p>
 <ul>
-<li aria-level="1">An Assembly Talk (conducted by Form Teachers in each class)</li>
+<li aria-level="1">An Assembly Talk (led by our student leaders)</li>
 <li aria-level="1">Exhibits created by PSG are displayed at the school’s ‘Community Space’ to educate students on the importance of using water wisely and cherishing our water resources</li>
-<li aria-level="1">Classroom activities such as colouring activities and crossword puzzles promoting water conservation (Resources from PUB and PSG)</li>
-<li aria-level="1">Video screenings of water sustainability and water conservation&nbsp;</li>
-<li aria-level="1">Recess activities - Learning stations in the Mini Library where students had the opportunity to do hands-on activities&nbsp;</li>
-<li aria-level="1">STEM lesson - Engineering-related Learning Activity on Creating Water Filtration System&nbsp;</li>
+<li aria-level="1">Classroom activities such as colouring activities, drawing comic strips and creating posters via Canva to create awareness on water conservation </li>
+	
+<p>World Water Day celebrations were also integrated into our Science lessons:</p>
+<ul>
+<li aria-level="1">Primary 3 Science lessons (Life Cycle of Animals) – Learning more about BLOCK techniques and Project Wolbachia to prevent mosquitoes from breeding</li>
+<li aria-level="1">-	Primary 4 STEM lesson - Engineering-related Learning Activity on Creating Water Filtration System</li>
+<li aria-level="1">Primary 5 Science lesson – Learning more about Water and Water Cycle through rain harvesting system for irrigation at the school’s Garden of Hope</li>
+
 </ul>
 <table style="border-collapse: collapse; width: 80%;" border="1">
 <tbody>
@@ -150,4 +154,4 @@ The Tranquil Garden is a new addition to our school’s Biodiversity Corridor ne
 <p>The Green Snapshots (TGS) Nature and Heritage Trail is an environment and heritage-themed learning journey crafted by BRPS teachers. The intent of the learning journey is to provide opportunities for both the school and external communities to appreciate the rich and green history of Telok Blangah and the Southern Ridges. The trails are built on the school’s environmental education programme, which weaves nature into the curriculum and provides experiential learning activities for our students. In the guided-trail version, our Primary 4 and Primary 5 student-docents provide an in-depth and personal sharing of the history and flora and fauna of Telok Blangah and Mount Faber. During the 2½-hour long guided tours, they also share about the area’s unique architecture and development over the years.</p>
 <p>For our continued advocacy for heritage education and sustained partnership through TGS, Blangah Rise Primary School was awarded the 2019 School Heritage Champion Award (Silver) by the National Heritage Board (NHB).</p>
 <img style="width: 40%;" src="/images/TGS-300x214.jpg">
-<p>Click&nbsp;<a href="/the-green-snapshots-tgs/"><strong>here</strong></a>&nbsp;to find out more about the TGS Nature and Heritage Trail.</p>
+<p>Click&nbsp;<a href="/the-green-snapshots-tgs/"><strong>here</strong></a>&nbsp;to find out more about the TGS Nature and Heritage Trail.</p></ul>
