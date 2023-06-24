@@ -11,3 +11,6 @@ Ms Seow Wen Yi, Mrs Teresa Tay, Ms Abigail Ow, Mr Yu Zhenxue
 
 **ROW 2 (MIDDLE):** <br>
 Mdm Chong Jie Shi, Ms Mariana, Ms Nadirah Azman, Ms Jasmine Gui, Ms Magdalene Ho, Mr Mohammed Yousoff s/o Shaik Md, Mr Urwin Ng
+
+**ROW 3 (BACK):** <br>
+Ms Athena Tang, Mdm Uuchi Mashaida Virtucio, Ms Aprilene Goh, Mr Muhammad Izam Bin Saidi
