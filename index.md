@@ -24,6 +24,12 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Principal's June Letter
+      button: Read More
+      alt: Image alt text
+      url: https://blangahrisepri.moe.edu.sg/annoucements/principal-june-letter/
+      image: /images/Announcements/mr foo.JPG
+  - infopic:
       title: The Green Snapshots (TGS) – A Nature & Heritage Trail
       button: READ MORE
       url: /2023/05/31/tgs-announcement/
@@ -31,19 +37,14 @@ sections:
       alt: Image alt text
       description: TGS marks its return with a public trail on 22 July 2023.
   - infopic:
-      title: Green Schools @ South West Award Ceremony 2023
-      button: Read More
-      alt: Image alt text
-      url: https://www.blangahrisepri.moe.edu.sg/2023/03/23/green-schools-south-west-award-ceremony-2023/
-      image: /images/LLP/gsa_1  .jpg
-  - infopic:
-      title: Careers Day 2023
+      title: Featuring BRPS School Meals Programme!
       button: Click Here to read more
-      url: /2023/05/04/careers-day/
+      url: https://blangahrisepri.moe.edu.sg/highlights/2023/school-meals-programme/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/career 2023 (3).JPG
-      description: Blangah Rise Primary School held its Careers Day 2023 on 2 May.
+      image: /images/2023 Photos/Highlights/school meal.jpg
+      description: "Did you know that Blangah Rise Primary School offers an innovative
+        School Meals Programme? "
   - infopic:
       title: Earth Day 2023
       subtitle: HIGHLIGHTS
