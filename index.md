@@ -37,13 +37,14 @@ sections:
       alt: Image alt text
       description: TGS marks its return with a public trail on 22 July 2023.
   - infopic:
-      title: Careers Day 2023
+      title: Featuring BRPS School Meals Programme!
       button: Click Here to read more
-      url: /2023/05/04/careers-day/
+      url: https://blangahrisepri.moe.edu.sg/highlights/2023/school-meals-programme/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/career 2023 (3).JPG
-      description: Blangah Rise Primary School held its Careers Day 2023 on 2 May.
+      image: /images/2023 Photos/Highlights/school meal.jpg
+      description: "Did you know that Blangah Rise Primary School offers an innovative
+        School Meals Programme? "
   - infopic:
       title: Earth Day 2023
       subtitle: HIGHLIGHTS
