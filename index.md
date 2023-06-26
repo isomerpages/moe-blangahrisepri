@@ -31,11 +31,11 @@ sections:
       alt: Image alt text
       description: TGS marks its return with a public trail on 22 July 2023.
   - infopic:
-      title: Green Schools @ South West Award Ceremony 2023
+      title: Principal's June Letter
       button: Read More
       alt: Image alt text
-      url: https://www.blangahrisepri.moe.edu.sg/2023/03/23/green-schools-south-west-award-ceremony-2023/
-      image: /images/LLP/gsa_1  .jpg
+      url: https://blangahrisepri.moe.edu.sg/annoucements/principal-june-letter/
+      image: /images/Announcements/mr foo.JPG
   - infopic:
       title: Careers Day 2023
       button: Click Here to read more
