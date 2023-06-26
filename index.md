@@ -24,18 +24,18 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Principal's June Letter
+      button: Read More
+      alt: Image alt text
+      url: https://blangahrisepri.moe.edu.sg/annoucements/principal-june-letter/
+      image: /images/Announcements/mr foo.JPG
+  - infopic:
       title: The Green Snapshots (TGS) – A Nature & Heritage Trail
       button: READ MORE
       url: /2023/05/31/tgs-announcement/
       image: /images/2023 Photos/TGS/the green snapshots poster may 2023.jpg
       alt: Image alt text
       description: TGS marks its return with a public trail on 22 July 2023.
-  - infopic:
-      title: Principal's June Letter
-      button: Read More
-      alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/annoucements/principal-june-letter/
-      image: /images/Announcements/mr foo.JPG
   - infopic:
       title: Careers Day 2023
       button: Click Here to read more
