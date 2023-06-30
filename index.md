@@ -43,16 +43,18 @@ sections:
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/2023 Photos/Highlights/school meal.jpg
-      description: "Did you know that Blangah Rise Primary School offers an innovative
-        School Meals Programme? "
+      description: Did you know that Blangah Rise Primary School offers an innovative
+        School Meals Programme?
   - infopic:
-      title: Earth Day 2023
+      title: "BRPS Dancers featured on NDP Dance "
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/Earth Day/earth day 3.jpg
-      url: /2023/06/02/earth-day/
-      description: The theme for this year’s Earth Day in 2023 is ‘Invest in Our Planet’.
+      image: /images/2023 Photos/Highlights/dotn pic 1.jpg
+      url: /highlights/2023/ndp-dance-music-video/
+      description: "Blangah Rise Primary School is privileged to be invited by Sports
+        Singapore (SportsSG) to be part of the NDP 2023 Dance of the Nation
+        (DOTN) music video. "
   - resources:
       title: Publications
       button: Click here to see more
