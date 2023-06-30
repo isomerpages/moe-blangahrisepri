@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Bus Advertisement.md
       - School Calendar.md
       - Guideline On Parents Communication.md
       - Virtual School Tour.md
@@ -14,4 +13,5 @@ collections:
       - The Growing Years.md
       - Our School Rules and Regulations.md
       - MOE FAS Application.md
+      - School Bus Advertisement.md
       - FAQs.md
