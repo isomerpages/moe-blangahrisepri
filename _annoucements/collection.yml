@@ -2,6 +2,7 @@ collections:
   annoucements:
     output: true
     order:
+      - Students bag Distinctions and Awards at Mathematics Competitions.md
       - Principal's June Letter.md
       - The Green Snapshots (TGS) – A Nature & Heritage Trail.md
       - Blangah Rise Primary Open House.md
