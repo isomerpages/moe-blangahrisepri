@@ -6,6 +6,10 @@ description: ""
 <img src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 <h4><strong>2023</strong></h4>
 <ul>
+<li>Distinction Award Raffles Institution Primary Mathematics World Contest 2023 - Nathanael Chin Chi Yi (6 Sapphire)</li>
+<li>Merit Award Raffles Institution Primary Mathematics World Contest 2023 - Rian Hong (6 Topaz)</li>
+<li>Bronze Award Asia-Pacific Mathematical Olympiad for Primary Schools 2023 - Nathanael Chin Chi Yi (6 Sapphire)</li>
+<li>Bronze Award Visual Spatial Mathlympics for All Singapore Primary Schools 2023 - Vo Catherine Tu (5 Sapphire)</li>
 <li>Green Schools @ South West - South West Accreditation Programme for 2022: Awarded three stars – Public Health Star, Environment Protection Star and Junior Environment Ambassador Star</li>
 <li>Best Speaker at Round 1 of Wits and Words 2023 Inter-school Debate Competition - Gail Lien Zhao Xin (6 Sapphire)</li>
 <li>Certificate of Distinction in Round 1 Open Category of Raffles Institution Primary Mathematics World Contest 2023 - Nathanael Chin Chi Yi (6 Sapphire)</li>
