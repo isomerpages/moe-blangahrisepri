@@ -66,4 +66,4 @@ The objectives of Math Challenge are as follows:
 </strong></p><p><strong><strong>STEM Programme - ALP<br></strong>This programme aims to leverage on STEM to create more meaningful and engaging activities that integrate engineering and technology in Mathematics and Science to fuel students’ enthusiasm in learning as well as to promote 21<sup>st</sup>&nbsp;century skills – critical thinking, decision-making, collaboration, communication and creativity. It provides students with opportunities to innovate and apply content knowledge to bridge the gap between key theoretical concepts and real-world applications.</strong></p><strong>
 <img src="/images/2023%20Photos/Mathematics/photo%2014.jpg"><br>
 
-<p>Click&nbsp;<a href="/our-distinctive-programmes/learning-for-life-programme/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p></strong></strong></strong>
+<p>Click&nbsp;<a href="/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p></strong></strong></strong>
