@@ -1,5 +1,5 @@
 collections:
-  news:
+  news-and-achievements:
     output: true
     order:
       - Our Achievements.md
