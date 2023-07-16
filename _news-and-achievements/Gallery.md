@@ -5,7 +5,7 @@ description: ""
 ---
 <h4 style="text-align: center;"><strong>2023</strong></h4>
 
-| <img src="/images/Photo%20Gallery/2023/dr%20sesuss%202023.jpg"> | <img src="/images/Photo%20Gallery/2023/career%20day%202023.jpg"> | <img src=""> | 
+| <img src="/images/Photo%20Gallery/2023/dr%20sesuss%202023.jpg"> | <img src="/images/Photo%20Gallery/2023/career%20day%202023.jpg"> | <img src="/images/Photo%20Gallery/2023/clean%202023.jpg"> | 
 | -------- | -------- | -------- | 
 | <p></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693801082549255"><strong><span class="fl-heading-text">Dr. Seuss Day 2023l</span></strong></a></p><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693801082549255"> | </a></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693802529215777"><strong><span class="fl-heading-text">Careers Day 2023</span></strong></a></p><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693802529215777">     | </a></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.694779432451420"><strong><span class="fl-heading-text">Blangahnites commemorate SG Clean Day 2023!</span></strong></a></p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.694779432451420">
 </a><p>
