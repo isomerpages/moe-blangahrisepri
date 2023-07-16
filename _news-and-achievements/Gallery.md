@@ -13,17 +13,15 @@ description: ""
 | <img src="/images/Photo%20Gallery/2023/t1%20inter%20house%20games%202023.jpg"> | <img src="/images/Photo%20Gallery/2023/bird%20talk%202023.jpg"> | <img src="/images/Photo%20Gallery/2023/mk%20digestive%202023.jpg"> | 
 | -------- | -------- | -------- | 
 | </p><p></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672370334692330"><strong><span class="fl-heading-text">Term 1 Inter-House Games</span></strong></a></p><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672370334692330"> | </a></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672496768013020"><strong><span class="fl-heading-text">Science Educational Talk - Birds</span></strong></a></p><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672496768013020">     | </a></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672498221346208"><strong><span class="fl-heading-text">Science Lesson with K2 students – Human Digestive System</span></strong></a></p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003">
-</a><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003"></a><a src="/images/Photo%20Gallery/2023/cny%202023.jpg"> | <img src="/images/Photo%20Gallery/2023/tdd%202023.jpg"> | <img src="/images/Photo%20Gallery/2023/green%20school%202023.jpg"> | 
-|  |  |  | 
-| </a></p><p></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.640950087834355"><strong><span class="fl-heading-text">Lunar New Year Celebration 2023</span></strong></a></p><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003"> | </a></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.640950087834355"><strong><span class="fl-heading-text">Total Defence Day 2023</span></strong></a></p><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003">     | </a></p><p class="fl-heading"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003"><strong><span class="fl-heading-text">Green Schools @ South West Award Ceremony 2023</span></strong></a></p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003">
-</a><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003"></a><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">    | 
+</a><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003"></a>
+																																								
 
 
 
 
 
 
-</a></p><h4 style="text-align: center;"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589"><strong>2022</strong></a></h4><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
+</p><h4 style="text-align: center;"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589"><strong>2022</strong></a></h4><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
