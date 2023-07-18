@@ -10,3 +10,5 @@ description: ""
 ![](/images/2023%20Photos/berlayer%20creek.jpg)
 	
 Leveraging their passion through the story, they hope to instil the ‘7 Habits of Effective People’ for personal and interpersonal effectiveness. The story also aims to educate readers on making conscious choices by taking positive actions in caring for the environment.
+
+Click [here](/files/Friends%20of%20Berlayer%20Creek/friends%20of%20berlayer%20creek.pdf) to read the story.
