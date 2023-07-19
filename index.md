@@ -39,14 +39,13 @@ sections:
         where they were able to show their chops in critical and analytical
         thinking!
   - infopic:
-      title: Featuring BRPS School Meals Programme!
+      title: Young Photographers
       button: Click Here to read more
-      url: https://blangahrisepri.moe.edu.sg/highlights/2023/school-meals-programme/
+      url: /highlights/2023/young-photographers/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Highlights/school meal.jpg
-      description: Did you know that Blangah Rise Primary School offers an innovative
-        School Meals Programme?
+      image: /images/Young Photographers/young photo_28.JPG
+      description: "“Place your subject in the left or right third on your screen... "
   - infopic:
       title: BRPS Dancers featured on NDP Dance
       subtitle: HIGHLIGHTS
