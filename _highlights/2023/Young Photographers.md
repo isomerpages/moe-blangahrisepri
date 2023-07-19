@@ -4,7 +4,6 @@ permalink: /highlights/2023/young-photographers/
 description: ""
 third_nav_title: "2023"
 ---
-
 ![](/images/Young%20Photographers/young%20photo_34.JPG)
 
 ![](/images/Young%20Photographers/young%20photo_35.JPG)
@@ -98,7 +97,7 @@ After the outdoor shoots, students share compelling stories and perspectives thr
 
 ![](/images/Young%20Photographers/young%20photo_38.jpg)
 
-MediaKids CCA, an extension of our Young Photographers, is a platform for students to acquire advanced photography skills. Ser Yen’s photograph, titled “Virtues of Creativity and Flexibility”, was selected by the organiser to be displayed at the 18th Ngee Ann Photographic Exhibition 2023. The photograph was also selected to be a permanent collection by the organizer, a true affirmation Ser Yen’s photography skills. Ser Yen’s photograph is also featured in our latest publication “A Bowl of Nature”
+MediaKids CCA, an extension of our Young Photographers, is a platform for students to acquire advanced photography skills. Ser Yen’s photograph, titled “Virtues of Creativity and Flexibility”, was selected by the organiser to be displayed at the 18th Ngee Ann Photographic Exhibition 2023. The photograph was also selected to be a permanent collection by the organizer, a true affirmation Ser Yen’s photography skills. Ser Yen’s photograph is also featured in our latest publication [A Bowl of Nature](https://www.blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/)
 
 Our Primary 6 students will be acquiring advanced DSLR skills and they will head to Jurong Lake Gardens for their outdoor shoot. Do keep a lookout for them!
-From our Young Photographers programme, we can truly see that “A picture paints a thousand words” where rich learning takes place beyond the classroom walls. 
+From our Young Photographers programme, we can truly see that “A picture paints a thousand words” where rich learning takes place beyond the classroom walls.
