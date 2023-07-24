@@ -8,7 +8,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=1143547012326368&amp;set=a.6093088047372215">
-<img style="width: 100%;" src="">
+<img style="width: 100%;" src="/images/Photo%20Gallery/racial%20harmony%202022.jpg">
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">Racial Harmony Day 2022</span></strong></p></td>
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.6062170873797266&amp;type=3">
