@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2023/Storytelling@Harbourfront.md
       - 2023/.keep
       - 2023/Page 1.md
       - 2023/Young Photographers.md
