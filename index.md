@@ -45,17 +45,15 @@ sections:
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/Young Photographers/young photo_28.JPG
-      description: "“Place your subject in the left or right third on your screen... "
+      description: “Place your subject in the left or right third on your screen...
   - infopic:
-      title: BRPS Dancers featured on NDP Dance
+      title: Storytelling@Harbourfront
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/Highlights/dotn pic 1.jpg
-      url: /highlights/2023/ndp-dance-music-video/
-      description: Blangah Rise Primary School is privileged to be invited by Sports
-        Singapore (SportsSG) to be part of the NDP 2023 Dance of the Nation
-        (DOTN) music video.
+      image: /images/2023 Photos/Highlights/OH Friends of Berlayer Creek/img_6532.JPG
+      url: /highlights/2023/storytelling-harbourfront/
+      description: During our Open House in May, we launched the sequel...
   - resources:
       title: Publications
       button: Click here to see more
