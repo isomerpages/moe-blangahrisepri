@@ -112,9 +112,12 @@ description: ""
 <tr>	
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.699214295341267"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20clean%20day.jpg">
 </a></p><p class="fl-heading"><strong><span class="fl-heading-text">Blangahnites commemorate SG Clean Day 2023!</span></strong></p></td>
-<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.702776398318390"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20clean%20day.jpg">
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.702776398318390"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20elaine.jpg">
 </a></p><p class="fl-heading"><strong><span class="fl-heading-text">Inspiring Teacher Award: Teaching &amp; Learning</span></strong></p></td>
-
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.703281274934569"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20bowl%20of%20nature.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">A Bowl of Nature</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.708923444370352"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20scrabble.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Champion Scrabbles</span></strong></p></td>
 </tr>
 </tbody>
 </table>
