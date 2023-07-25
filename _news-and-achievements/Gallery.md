@@ -3,8 +3,154 @@ title: Gallery
 permalink: /news/gallery/
 description: ""
 ---
-<p></p><h4 style="text-align: center;"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589"><strong>2022</strong></a></h4><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
+<h4 style="text-align: center;"><strong>2023</strong></h4>
+<a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
+</a><table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.640950087834355">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20cny%202023.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Lunar New Year Celebration 2023</span></strong></p></td>
+
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.652406473355383">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20nsg%202023.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">National School Games (NSG) 2023</span></strong></p></td>
+
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20tdd%202023.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Total Defence Day 2023</span></strong></p></td>
+
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.670820344847329">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery-%20debate%202023.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Congratulations to our BRPS debate team!</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672361374693226">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20rp%202023.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Rentas Pantas 2023</span></strong></p></td>
+
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20green%20award%202023.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">Green Schools @ South West Award Ceremony 2023</span></strong></p>
+
+</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672370334692330">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20inter%20house%202023.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">Term 1 Inter-House Games</span></strong></p>
+
+</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672496768013020&quot;">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20bird%20talk%202023.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">Science Educational Talk - Birds</span></strong></p></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672498221346208">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20k2%20sci.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">Science Lesson with K2 students</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.678309134098450">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20cl%20calligraphy.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">National Primary Schools Chinese Calligraphy Competition 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.690453216217375">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20ifd.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">International Friendship Day</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.690454542883909">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20p6%20mot%20camp.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">P6 Motivation Camp 2023</span></strong></p></td>
+</tr>
+</tbody>
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.690457222883641">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20p4%20musuem%20based.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Primary 4: Museum-Based Learning</span></strong></p></td> 
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693801082549255">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20visit.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Educators Visit from Ming De International School</span></strong></p></td> 
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693802529215777">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20hari%20raya.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Hari Raya Celebrations</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693809505881746">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20esther.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Special Feature on Educators: Ms Esther</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.694779432451420"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20wwd.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">World Water Day 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.694960132433350">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20dr%20seuss.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Dr. Seuss Day 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.694973469098683">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20career%20day.jpg">
+</a></p>
+	<p class="fl-heading"><strong><span class="fl-heading-text">Careers Day 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.695590932370270">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20wenyi.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Special Feature on Educators: Ms Seow Wen Yi</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.699214295341267"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20clean%20day.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Blangahnites commemorate SG Clean Day 2023!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.702776398318390"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20elaine.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Inspiring Teacher Award: Teaching &amp; Learning</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.703281274934569"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20bowl%20of%20nature.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">A Bowl of Nature</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.708923444370352"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20scrabble.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Champion Scrabbles</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.710658864196810"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20earth%20day.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Earth Day 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.726565835939446"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20dancers.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">BRPS Dancers featured on NDP Dance of the Nation Music Video!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.726569242605772"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20maths.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Students bag Distinctions and Awards at Mathematics Competitions</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.736733844922645"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20yp.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Young Photographers</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.739881251274571"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20storytelling.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Storytelling - library@harbourfront</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>2022</strong></h4>
+<a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
+</a><table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=1143547012326368&amp;set=a.6093088047372215">
@@ -101,7 +247,7 @@ description: ""
 <p class="fl-heading"><strong><span class="fl-heading-text">BRLC ushers in the Year of the Tiger!</span></strong></p></td>
 </tr>
 </tbody>
-</table>
+</table><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
 
 <h4 style="text-align: center;"><strong>2021</strong></h4><table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>

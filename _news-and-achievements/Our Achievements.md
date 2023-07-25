@@ -18,28 +18,33 @@ description: ""
 		
 Premier Cup Category: Koo Seo Jun (3 Topaz) - 2nd 
 	</li><li>22nd Inter-School National Scrabble Championship 2023 - P3 Junior Division Cup Category: Hong Jiyoo (3 Opal) - 2nd </li>
-<li>22nd Inter-School National Scrabble Championship 2023 - P3 Junior Division Cup Category, Plate Category: Minh Anh (3 Sapphire) - 1st 
-			
-Chu Po-wei (3 Topaz) - 2nd </li>
+<li>22nd Inter-School National Scrabble Championship 2023 - P3 Junior Division Cup Category, Plate Category: <div> Minh Anh (3 Sapphire) - 1st </div><div>Chu Po-wei (3 Topaz) - 2nd</div> </li>
 
 <li>22nd Inter-School National Scrabble Championship 2023 - P4 Junior Division Cup Category, Plate Category:  Soon Cai Jun (4 Topaz) - 2nd Position</li>
 <li>22nd Inter-School National Scrabble Championship 2023 - Senior Division Cup Category, Plate Category: Kayden Chu (5 Sapphire) - 1st Position </li>
 <li>22nd Inter-School National Scrabble Championship 2023 - Team Event, Junior Division, Cup Category. Team J3 - 1st Runners-Up
-
-	1. Ning Haobo (3 Topaz)
-	2. Lee Doyoon (3 Opal)
-	3. Nur Rizqah Alisha (3 Topaz)
-	4. Ning Haohan (3 Opal)
-	5. Chu Po-wei (3 Topaz)
+<div>1. Ning Haobo (3 Topaz)
+	</div><div>2. Lee Doyoon (3 Opal)
+	</div><div>3. Nur Rizqah Alisha (3 Topaz)
+	</div><div>4. Ning Haohan (3 Opal)
+	</div><div>5. Chu Po-wei (3 Topaz)</div>
 </li>
 <li>22nd Inter-School National Scrabble Championship 2023 - Team Event, Junior Division, Bowl Category. Team J3 - Champion
-
-	1. Hong Jiyoo (3 Opal)
-	2. Owen Huang (3 Opal)
-	3. Koo Seo Jun (3 Topaz)
-	4. Minh Anh (3 Sapphire)
-	5. Teo Kai Ting (3 Sapphire)
+<div>1. Hong Jiyoo (3 Opal)
+	</div><div>2. Owen Huang (3 Opal)
+	</div><div>3. Koo Seo Jun (3 Topaz)
+	</div><div>4. Minh Anh (3 Sapphire)
+	</div><div>5. Teo Kai Ting (3 Sapphire)</div>
 </li>
+<li>Peraduan Cendekia Sahibba 2023 (Malay Scrabble Competition) - <div>1. Muhammad Hidayat Bin Noor Hairuzam (6 Sapphire) </div><div>2. Uthaila It'qan Binti Mohammad Suffian (6 Sapphire)</div><div>3.  Siti Johara (5 Sapphire)</div><div>4. Nurul Batrisya Binti Mohd Firdaus (4 Opal)</div><div>5.  Nurul Illiyyin Binte Muhamad Roslan (4 Opal)</div></li>
+<li>Tamil Storytelling Competition - G. Aarya (3 Topaz)</li>
+<li>Basketball (Boys) -1st runner-up in Group Stage, Top 8 in South Zone
+	<div>1. Nathanael Chin Chi Yi (6 Sapphire) </div><div> 2. Chee Zhe Jie George (6 Topaz) </div><div>3. Chua Yuan Xiang (6 Topaz)</div><div> 4. Devesh Hari s/o Suresh (6 Topaz) </div><div>5. Gong Zibo (5 Sapphire)</div></li>
+<li>Football (Boys) -Winner in Group Stage
+Top 8 in South Zone
+	<div>1. Phua Zi En Athan (6 Topaz) </div><div> 2. Tham Xuan Yi Nathan Silva (6 Topaz) </div><div>3. Daniel Darshwin (6 Topaz)</div><div> 4. Ian Adam Bin Mohamad Yusoff (6 Topaz) </div><div>5. Muhammad Rayyan Saliheen (6 Sapphire)</div><div>6. Andhie Ershaan Bin Rosli (6 Sapphire)</div><div> 7. Muhammad Hidayat Bin Noor Hairuzam (6 Sapphire)</div></li>
+	
+<li>Athletics 1600m (Girls) - Gail Lien Zhao Xin (6 Sapphire)</li>
 </ul>
 <h4><strong>2022</strong></h4>
 <ul>
