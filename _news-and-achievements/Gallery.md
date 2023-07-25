@@ -9,7 +9,6 @@ description: ""
 </table><table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.640950087834355">
 <img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20cny%202023.jpg">
 </a></p>
