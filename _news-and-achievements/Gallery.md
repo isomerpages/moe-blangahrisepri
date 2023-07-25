@@ -51,11 +51,38 @@ description: ""
 </table><table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-
-
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672498221346208">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20k2%20sci.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">Science Lesson with K2 students</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.678309134098450">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20cl%20calligraphy.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">National Primary Schools Chinese Calligraphy Competition 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.690453216217375">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20ifd.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">International Friendship Day</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.690454542883909">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20p6%20mot%20camp.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">P6 Motivation Camp 2023</span></strong></p></td>
+</tr>
+</tbody>
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.690457222883641">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20p4%20musuem%20based.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Primary 4: Museum-Based Learning</span></strong></p></td> 
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693801082549255">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20visit.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Educators Visit from Ming De International School</span></strong></p></td> 
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693802529215777">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20hari%20raya.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Hari Raya Celebrations</span></strong></p></td>
 </tr>
 </tbody>
 </table>
+	
+
+
 <h4 style="text-align: center;"><strong>2022</strong></h4>
 <a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
 </a><table style="border-collapse: collapse; width: 100%;" border="1">
