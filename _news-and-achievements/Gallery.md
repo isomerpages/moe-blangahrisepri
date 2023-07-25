@@ -3,15 +3,36 @@ title: Gallery
 permalink: /news/gallery/
 description: ""
 ---
-<p></p><h4 style="text-align: center;"><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
-<strong>2023</strong></a></h4><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<h4 style="text-align: center;"><strong>2023</strong></h4>
+<a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
+</a><table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=1143547012326368&amp;set=a.6093088047372215">
-<img style="width: 100%;" src="/images/Photo%20Gallery/racial%20harmony%202022.jpg">
+
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.640950087834355">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20cny%202023.jpg">
 </a></p>
-<p class="fl-heading"><strong><span class="fl-heading-text">Racial Harmony Day 2022</span></strong></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Lunar New Year Celebration 2023</span></strong></p>
+
+</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.652406473355383">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20nsg%202023.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">National School Games (NSG) 2023</span></strong></p>
+	
+</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20tdd%202023.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Total Defence Day 2023</span></strong></p>
+
+</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.670820344847329">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery-%20debate%202023.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Congratulations to our BRPS debate team!</span></strong></p>
+
+
+</td></tr>
+</tbody>
+</table>
 <h4 style="text-align: center;"><strong>2022</strong></h4>
 <a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
 </a><table style="border-collapse: collapse; width: 100%;" border="1">
@@ -913,4 +934,4 @@ description: ""
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 </tbody>
-</table></a></td></tr></tbody></table></a>
+</table></a>
