@@ -121,6 +121,33 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.710658864196810"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20earth%20day.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Earth Day 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.726565835939446"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20dancers.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">BRPS Dancers featured on NDP Dance of the Nation Music Video!</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.726569242605772"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20maths.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Students bag Distinctions and Awards at Mathematics Competitions</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.736733844922645"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20yp.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Young Photographers</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.739881251274571"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20storytelling.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Storytelling - library@harbourfront</span></strong></p></td>
+</tr>
+</tbody>
+</table>
 <h4 style="text-align: center;"><strong>2022</strong></h4>
 <a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
 </a><table style="border-collapse: collapse; width: 100%;" border="1">
