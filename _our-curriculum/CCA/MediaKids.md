@@ -36,6 +36,10 @@ Our MediaKids’ works are reviewed by their trainer, who gives them constructiv
 	
 <img src="/images/2023%20Photos/Media%20Kids/media%20collage_3.JPG">
 	
+</p><p><strong>Hands</strong></p><p>
+	
+<img src="/images/2023%20Photos/media%20kids%20-%20hands.png">
+	
 </p><p><strong>Outdoor Shoots</strong></p><p>
 <img src="/images/2023%20Photos/Media%20Kids/media_16.JPG">	
 
