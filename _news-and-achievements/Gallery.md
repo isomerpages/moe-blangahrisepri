@@ -77,12 +77,45 @@ description: ""
 <img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20hari%20raya.jpg">
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">Hari Raya Celebrations</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.693809505881746">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20esther.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Special Feature on Educators: Ms Esther</span></strong></p></td>
 </tr>
 </tbody>
 </table>
-	
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.694779432451420"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20wwd.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">World Water Day 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.694960132433350">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20dr%20seuss.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Dr. Seuss Day 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.694973469098683">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20career%20day.jpg">
+</a></p>
+	<p class="fl-heading"><strong><span class="fl-heading-text">Careers Day 2023</span></strong></p></td>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.695590932370270">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20wenyi.jpg">
+</a></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Special Feature on Educators: Ms Seow Wen Yi</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.699214295341267"><img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20clean%20day.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Blangahnites commemorate SG Clean Day 2023!</span></strong></p></td>
 
-
+</tr>
+</tbody>
+</table>
 <h4 style="text-align: center;"><strong>2022</strong></h4>
 <a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
 </a><table style="border-collapse: collapse; width: 100%;" border="1">
