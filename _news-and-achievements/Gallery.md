@@ -13,24 +13,47 @@ description: ""
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.640950087834355">
 <img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20cny%202023.jpg">
 </a></p>
-<p class="fl-heading"><strong><span class="fl-heading-text">Lunar New Year Celebration 2023</span></strong></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Lunar New Year Celebration 2023</span></strong></p></td>
 
-</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.652406473355383">
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.652406473355383">
 <img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20nsg%202023.jpg">
 </a></p>
-<p class="fl-heading"><strong><span class="fl-heading-text">National School Games (NSG) 2023</span></strong></p>
-	
-</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003">
+<p class="fl-heading"><strong><span class="fl-heading-text">National School Games (NSG) 2023</span></strong></p></td>
+
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.659003606029003">
 <img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20tdd%202023.jpg">
 </a></p>
-<p class="fl-heading"><strong><span class="fl-heading-text">Total Defence Day 2023</span></strong></p>
+<p class="fl-heading"><strong><span class="fl-heading-text">Total Defence Day 2023</span></strong></p></td>
 
-</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.670820344847329">
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.670820344847329">
 <img style="width: 100%;" src="/images/Photo%20Gallery/gallery-%20debate%202023.jpg">
-</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Congratulations to our BRPS debate team!</span></strong></p>
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Congratulations to our BRPS debate team!</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672361374693226">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20rp%202023.jpg">
+</a></p><p class="fl-heading"><strong><span class="fl-heading-text">Rentas Pantas 2023</span></strong></p></td>
+
+<td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20green%20award%202023.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">Green Schools @ South West Award Ceremony 2023</span></strong></p>
+
+</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672370334692330">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20inter%20house%202023.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">Term 1 Inter-House Games</span></strong></p>
+
+</td><td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672496768013020&quot;">
+<img style="width: 100%;" src="/images/Photo%20Gallery/gallery%20-%20bird%20talk%202023.jpg"></a></p><p class="fl-heading"><strong><span class="fl-heading-text">Science Educational Talk - Birds</span></strong></p></td></tr></tbody></table><table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 
 
-</td></tr>
+</tr>
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>2022</strong></h4>
