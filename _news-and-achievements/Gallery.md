@@ -148,7 +148,8 @@ description: ""
 </table>
 <h4 style="text-align: center;"><strong>2022</strong></h4>
 <a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
-</a><table style="border-collapse: collapse; width: 100%;" border="1">
+</a>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 </table><table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -168,6 +169,13 @@ description: ""
 <img style="width: 100%;" src="/images/1-22.jpg">
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">Hari Raya Celebration</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5897491700265185&amp;type=3">
 <img style="width: 100%;" src="/images/ABIGAIL_3S-2048x1536.jpg">
 </a></p>
@@ -186,6 +194,13 @@ description: ""
 <img style="width: 100%;" src="/images/1-20.jpg">
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">Winner of the Arif Budiman Malay Language Teacher Award</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5861731807174508&amp;type=3">
 <img style="width: 100%;" src="/images/1-19.jpg">
 </a></p>
@@ -204,6 +219,13 @@ description: ""
 <img style="width: 100%;" src="/images/1-15.jpg">
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">P6 Motivation Camp 2022</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5763254583688898&amp;type=3">
 <img src="/images/g1.png">
 </a></p>
@@ -222,6 +244,13 @@ description: ""
 <img style="width: 100%;" src="/images/1-12.jpg">
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">Our journey to Dr Seuss’ fantastical worlds</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5705418512805839&amp;type=3">
 <img style="width: 100%;" src="/images/1-11-1536x864.jpg">
 </a></p>
@@ -240,6 +269,13 @@ description: ""
 <img style="width: 100%;" src="/images/1-8.jpg">
 </a></p>
 <p class="fl-heading"><strong><span class="fl-heading-text">BRPS commemorates a very special Total Defence Day</span></strong></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+</table><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>	
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?set=a.5595730707107954&amp;type=3">
 <img style="width: 100%;" src="/images/1-7.jpg">
 </a></p>
