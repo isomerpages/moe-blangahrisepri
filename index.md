@@ -45,8 +45,8 @@ sections:
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/2023 Photos/open house.jpg
-      description: "Thank you for making our open house a success! We were absolutely
-        thrilled with the tremendous response "
+      description: Thank you for making our open house a success! We were absolutely
+        thrilled with the tremendous response
   - infopic:
       title: Storytelling@Harbourfront
       subtitle: HIGHLIGHTS
