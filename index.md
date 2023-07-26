@@ -39,13 +39,14 @@ sections:
         where they were able to show their chops in critical and analytical
         thinking!
   - infopic:
-      title: Young Photographers
+      title: Open House 2023 Highlights
       button: Click Here to read more
-      url: /highlights/2023/young-photographers/
+      url: /highlights/2023/open-house-2023/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/Young Photographers/young photo_28.JPG
-      description: “Place your subject in the left or right third on your screen...
+      image: /images/2023 Photos/open house.jpg
+      description: Thank you for making our open house a success! We were absolutely
+        thrilled with the tremendous response
   - infopic:
       title: Storytelling@Harbourfront
       subtitle: HIGHLIGHTS
