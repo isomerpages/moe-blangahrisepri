@@ -5,7 +5,8 @@ description: ""
 ---
 <h4 style="text-align: center;"><strong>2023</strong></h4>
 <a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
-</a><table style="border-collapse: collapse; width: 100%;" border="1">
+</a>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 </table><table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -27,9 +28,7 @@ description: ""
 <td style="width: 25%;"><p><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.670820344847329">
 <img style="width: 100%;" src="/images/Photo%20Gallery/gallery-%20debate%202023.jpg">
 </a></p><p class="fl-heading"><strong><span class="fl-heading-text">Congratulations to our BRPS debate team!</span></strong></p></td>
-</tr>
-</tbody>
-</table>
+</tr></tbody></table>
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
 </table><table style="border-collapse: collapse; width: 100%;" border="1">
@@ -247,7 +246,7 @@ description: ""
 <p class="fl-heading"><strong><span class="fl-heading-text">BRLC ushers in the Year of the Tiger!</span></strong></p></td>
 </tr>
 </tbody>
-</table><a href="https://www.facebook.com/media/set/?vanity=100057581074724&amp;set=a.672364411359589">
+</table>
 
 <h4 style="text-align: center;"><strong>2021</strong></h4><table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -1048,4 +1047,4 @@ description: ""
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 </tbody>
-</table></a>
+</table>
