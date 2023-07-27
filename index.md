@@ -44,7 +44,7 @@ sections:
       url: /highlights/2023/open-house-2023/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/open house.jpg
+      image: /images/2023 Photos/Highlights/OH Friends of Berlayer Creek/oh_main.JPG
       description: Thank you for making our open house a success! We were absolutely
         thrilled with the tremendous response
   - infopic:
