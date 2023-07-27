@@ -89,30 +89,39 @@ Dave from 4 Topaz shared, “Young Photographers was very enjoyable and interact
 </p><p>
 <img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_19.jpg">	
 
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_20.JPG">	
 
-![](/images/Young%20Photographers/young%20photo_20.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_36.jpg">	
 
-![](/images/Young%20Photographers/young%20photo_36.jpg)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_37.jpg">	
 
-![](/images/Young%20Photographers/young%20photo_37.jpg)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_22.jpg">	
 
-![](/images/Young%20Photographers/young%20photo_22.jpg)
-
-![](/images/Young%20Photographers/young%20photo_16.JPG)
-
-![](/images/Young%20Photographers/young%20photo_18.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_16.JPG">	
+	
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_18.JPG">	
 
 Our Primary 5 students went to Marina Barrage for their outdoor shoot. They had learnt about the threefold benefits of the location and its importance to Singapore. Just like the other levels, they applied photography skills gleaned to capture the beauty of Marina Barrage. 
+	
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_33.JPG">
 
-![](/images/Young%20Photographers/young%20photo_33.JPG)
-
-![](/images/Young%20Photographers/young%20photo_25.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_25.JPG">
 
 After the outdoor shoots, students share compelling stories and perspectives through their own photographs. Our Primary 4 and 5 students honed their English Language skills through photojournalism via our Viewpoints programme. This activity provided enriching learning opportunities for students to pen a personal response to the photographs they have taken. 
+	
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_39.jpg">
 
-![](/images/Young%20Photographers/young%20photo_39.jpg)
-
-![](/images/Young%20Photographers/young%20photo_38.jpg)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_38.jpg">
 
 MediaKids CCA, an extension of our Young Photographers, is a platform for students to acquire advanced photography skills. Ser Yen’s photograph, titled “Virtues of Creativity and Flexibility”, was selected by the organiser to be displayed at the 18th Ngee Ann Photographic Exhibition 2023. The photograph was also selected to be a permanent collection by the organizer, a true affirmation Ser Yen’s photography skills. Ser Yen’s photograph is also featured in our latest publication [A Bowl of Nature](https://www.blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/)
 
