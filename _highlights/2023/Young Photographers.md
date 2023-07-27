@@ -43,32 +43,45 @@ Our Primary 3 students build up their compact camera skills gleaned from the pre
 <img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_9.jpg">
 
 Aurelia shared, “I learnt about plants during Science lessons in school and on Student Learning Space (SLS). Learning got more exciting when I observed the plants at Singapore Botanic Gardens in real. I applied my knowledge from Science and took photographs of leaves with different edges.”
+	
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_26.JPG">
 
-![](/images/Young%20Photographers/young%20photo_26.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_27.JPG">
 
-![](/images/Young%20Photographers/young%20photo_27.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_28.JPG">
 
-![](/images/Young%20Photographers/young%20photo_28.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_29.JPG">
 
-![](/images/Young%20Photographers/young%20photo_29.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_30.JPG">
 
-![](/images/Young%20Photographers/young%20photo_30.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_31.JPG">
 
-![](/images/Young%20Photographers/young%20photo_31.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_32.JPG">
 
-![](/images/Young%20Photographers/young%20photo_32.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_9%20(2).JPG">
 
-![](/images/Young%20Photographers/young%20photo_9%20(2).JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_10.JPG">
 
-![](/images/Young%20Photographers/young%20photo_10.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_11.JPG">
 
-![](/images/Young%20Photographers/young%20photo_11.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_12.JPG">
 
-![](/images/Young%20Photographers/young%20photo_12.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_21.JPG">
 
-![](/images/Young%20Photographers/young%20photo_21.JPG)
-
-![](/images/Young%20Photographers/young%20photo_23.JPG)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_23.JPG">
 
 Our Primary 4 students learnt composition techniques such as layering and leading lines using the DSLR camera and applied their skills at Gardens by The Bay – Flower Dome. They were able to observe the different colours and shapes of flowers and plants in real life as compared to images found in textbooks and videos. 
 Dave from 4 Topaz shared, “Young Photographers was very enjoyable and interactive. It was my first time using a DSLR! I learnt new composition techniques such as layering and framing. We saw and learnt about some exotic flowers and plants which we had never seen before.”
