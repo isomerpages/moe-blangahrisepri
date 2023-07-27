@@ -17,7 +17,7 @@ third_nav_title: "2023"
 <img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_3.JPG">
 
 “Place your subject in the left or right third on your screen and leave two thirds or more open. Use the gridlines to help you,” said the photography instructor. Our Primary 2 students were introduced to photography, beginning with the composition technique – Rule of Thirds. They had the opportunity to apply this composition technique to capture different shapes that they see at Telok Blangah neighbourhood. Kai Xuan from 2 Topaz said, “Shapes are all around us. I have learnt to look at them closely and take photographs of them in different ways.”
-	
+
 </p><p>
 <img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_4.JPG">
 </p><p>
@@ -86,7 +86,9 @@ Aurelia shared, “I learnt about plants during Science lessons in school and on
 Our Primary 4 students learnt composition techniques such as layering and leading lines using the DSLR camera and applied their skills at Gardens by The Bay – Flower Dome. They were able to observe the different colours and shapes of flowers and plants in real life as compared to images found in textbooks and videos. 
 Dave from 4 Topaz shared, “Young Photographers was very enjoyable and interactive. It was my first time using a DSLR! I learnt new composition techniques such as layering and framing. We saw and learnt about some exotic flowers and plants which we had never seen before.”
 
-![](/images/Young%20Photographers/young%20photo_19.jpg)
+</p><p>
+<img style="width: 65%;" src="/images/Young%20Photographers/young%20photo_19.jpg">	
+
 
 ![](/images/Young%20Photographers/young%20photo_20.JPG)
 
