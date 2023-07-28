@@ -8,24 +8,24 @@ third_nav_title: Young Photographers
 <h4><strong>Learning Through Photography</strong></h4>
   
 The Primary 2 students have been given a task – they need to apply photography skills to capture different shapes that they see at Telok Blangah neighbourhood. What did they use? A camera and knowledge on Shapes gleaned from their Mathematics lessons.
-
-<img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%202.JPG">
-
-<p>
-	
-<img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%203.JPG">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%202.JPG"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%203.JPG"></td></tr>
+</tbody>
+</table>
 
 
 Kai Rou said, “Shapes are all around us. I have learnt to look at them closely and take photographs of them in different ways.”
-
-	
-<img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%204.JPG">
-
-</p><p>
-	
-<img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%205.JPG">
-</p><p>
-<img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%206.JPG">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%204.JPG"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%205.JPG">
+</td><td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%206.JPG"></td></tr>
+</tbody>
+</table>
 
 Learning takes place beyond the classroom contexts. The Primary 3 students had the opportunity to capture leaves with different edges and plants with different colours and shapes at Singapore Botanic Gardens through their lenses. Aurelia shared, “I had learnt about plants during Science lessons in school and Student Learning Space (SLS). Learning was more exciting when I observed the plants at Singapore Botanic Gardens in real. I applied my knowledge from Science and took photographs of leaves with different edges.” Jay said, “I am looking forward to use my photographs to create classification charts in Google Classroom!”
 In Young Photographers, students leverage the power of photography to achieve the 3Cs – Create, Communicate and Collaborate. 
@@ -36,21 +36,17 @@ To capture photographs that tell a story or a concept, students acquire photogra
 
 All students attend face to face sessions and outdoor shoots in Young Photographers, which equip them with valuable skills to create and communicate stories through their lenses. Primary 2 and Primary 3 students build their proficiency using compact cameras. Primary 4 to Primary 6 students extend their skills through DSLR cameras.
 After the outdoor shoots, students share compelling stories and perspectives through their own photographs. Our Primary 4 to Primary 6 students hone their English Language skills through photojournalism via our Viewpoints programme. This activity provides enriching learning opportunities by encouraging students to become active contributors and collaborate with one another. 
-</p><h4><strong>Practice is Key</strong></h4>
+<p></p><h4><strong>Practice is Key</strong></h4>
 <p>Students are given the opportunity to apply and practise photography skills through outdoor shoots at Telok Blangah Heights, Singapore Botanic Gardens, Gardens by the Bay – Flower Dome, Marina Barrage and Jurong Lake Gardens. They capture images based on the theme for each level. While doing so, students’ confidence in handling the cameras grows.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%208.JPG"></td><td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%209.JPG"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%2010.jpg"></td></tr>
+</tbody>
+</table>
 
-<img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%208.JPG">
-
-<p>
-	
-<img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%209.JPG">
-
-</p><p>
-	
-<img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%2010.jpg">
-
-
-</p><h4><strong>Outdoor Shoot: Some of our students' works</strong></h4>
+<p></p><h4><strong>Outdoor Shoot: Some of our students' works</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
