@@ -21,4 +21,4 @@ description: ""
 “I enjoy attending the Junior Reporter sessions because I get to learn new things every time. I learnt how to conduct interviews, write articles, and hold the camera in the correct angle. I look forward to learning more about being a reporter and doing more video editing.” (Foo Jing Lin, 6 Sapphire)
 </p>
 
-<p>Click&nbsp;<a href="/2020/11/11/chinese-junior-reporters-dian-dian-di-di-vol-2-2020/"><strong>here</strong></a>&nbsp;to read our Dian Dian Di Di, a publication by our Chinese Junior Reporters and&nbsp;<a href="/chinese-junior-reporters-videos/"><strong>here</strong></a>&nbsp;to view the journalism broadcast on Channel Dian Dian Di Di Chinese Junior Reporters.</p>
+<p>Click&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/publications/dian-dian-di-di"><strong>here</strong></a>&nbsp;to read our Dian Dian Di Di, a publication by our Chinese Junior Reporters and&nbsp;<a href="/chinese-junior-reporters-videos/"><strong>here</strong></a>&nbsp;to view the journalism broadcast on Channel Dian Dian Di Di Chinese Junior Reporters.</p>
