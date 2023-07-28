@@ -39,3 +39,10 @@ As part of the celebration, students had the opportunity to play traditional gam
 <img style="width: 65%;" src="/images/2023%20Photos/Highlights/Racial%20Harmony%20Day/racial%20harmony_9.jpeg">
 	
 </p>
+<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Racial%20Harmony%20Day/racial%20harmony_10.jpeg">
+	
+<p></p>
+<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Racial%20Harmony%20Day/racial%20harmony_11.jpeg">
+
+<p></p>
+<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Racial%20Harmony%20Day/racial%20harmony_12.jpeg">
