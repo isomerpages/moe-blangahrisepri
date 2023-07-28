@@ -39,14 +39,14 @@ sections:
         where they were able to show their chops in critical and analytical
         thinking!
   - infopic:
-      title: Open House 2023 Highlights
+      title: Racial Harmony Day
       button: Click Here to read more
-      url: /highlights/2023/open-house-2023/
+      url: /highlights/2023/racial-harmony-day/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Highlights/OH Friends of Berlayer Creek/oh_main.JPG
-      description: Thank you for making our open house a success! We were absolutely
-        thrilled with the tremendous response
+      image: /images/2023 Photos/Highlights/Racial Harmony Day/racial harmony_10.jpeg
+      description: Racial Harmony Day at Blangah Rise Learning Campus was a colorful
+        and meaningful event
   - infopic:
       title: Storytelling@Harbourfront
       subtitle: HIGHLIGHTS
