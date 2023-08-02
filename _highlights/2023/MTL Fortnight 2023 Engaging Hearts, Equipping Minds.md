@@ -12,4 +12,7 @@ Kurumba tribes inherited a flair for art from their forefathers who captured eve
 Arlo, a Primary 2 student, reflect, “I think that for many of us, the more we learnt about Chinese culture through these Fortnight programme, the more interested we became in both the culture and in learning Mandarin during our day-to-day classes. The hands-on activities such as making the lantern was very interesting”.
 His schoolmate Rishi, agreed. He added, “I have some friends who were not interested in the Tamil classes because they speak mainly English at home and with their friends, but the Fortnight activities really changed their minds and made them realize that Tamil can be very fun!”.
 Miss Izza, our Malay Language teacher, said, “The students were very interested in the hand on activities. There was close bonding among the students when they were engaged in cultural activities and they interacted at ease in Malay language with their classmates”.
-The MTL Fortnight concluded with blazing smiles for our students, as they walked away with a deeper appreciation of the cultures behind their Mother Tongue languages. 
+The MTL Fortnight concluded with blazing smiles for our students, as they walked away with a deeper appreciation of the cultures behind their Mother Tongue languages.
+
+<p></p><p>
+<img style="width: 65%;" src="/images/2023%20Photos/Highlights/MTL%20Fortnight/kite%20painting.jpg"></p>
