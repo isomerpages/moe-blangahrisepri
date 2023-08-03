@@ -19,7 +19,8 @@ The MTL Fortnight concluded with blazing smiles for our students, as they walked
 <p></p>Kite Painting<p>
 <img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/kite%20painting.jpg" style="width: 65%;"></p>
 
-<p></p>Kite Painting<p>
-<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/kite%20painting.jpg" style="width: 65%;"></p>
+<p></p>Allegro Poetry Practice<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/picture2.jpg" style="width: 65%;"></p>
+	
 
 </figure>
