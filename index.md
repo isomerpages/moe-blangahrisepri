@@ -48,13 +48,14 @@ sections:
       description: Racial Harmony Day at Blangah Rise Learning Campus was a colorful
         and meaningful event
   - infopic:
-      title: Storytelling@Harbourfront
+      title: "MTL Fortnight 2023 "
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/Highlights/OH Friends of Berlayer Creek/img_6532.JPG
-      url: /highlights/2023/storytelling-harbourfront/
-      description: During our Open House in May, we launched the sequel...
+      image: /images/2023 Photos/Highlights/MTL Fortnight/kite painting.jpg
+      url: /highlights/2023/mtl-fortnight-2023/
+      description: Each July, we kick off Mother Tongue Fortnight with a variety of
+        engaging interesting activities
   - resources:
       title: Publications
       button: Click here to see more
