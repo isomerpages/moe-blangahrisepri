@@ -39,16 +39,16 @@ sections:
         where they were able to show their chops in critical and analytical
         thinking!
   - infopic:
-      title: Racial Harmony Day
+      title: EAS Day 2023
       button: Click Here to read more
-      url: /highlights/2023/racial-harmony-day/
+      url: /highlights/2023/eas-day-2023/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Highlights/Racial Harmony Day/racial harmony_10.jpeg
-      description: Racial Harmony Day at Blangah Rise Learning Campus was a colorful
-        and meaningful event
+      image: /images/2023 Photos/EAS/20230801_081909.jpg
+      description: Our school kicked off the month of August on a celebratory mood
+        with the commemoration of EAS Day 2023.
   - infopic:
-      title: "MTL Fortnight 2023 "
+      title: MTL Fortnight 2023
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
