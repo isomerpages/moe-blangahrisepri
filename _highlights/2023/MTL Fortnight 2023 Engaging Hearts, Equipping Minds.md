@@ -42,11 +42,28 @@ The MTL Fortnight concluded with blazing smiles for our students, as they walked
 
 <p></p>Gamelan<p>
 <img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/gamelon.jpg" style="width: 65%;"></p>
+	
+<p></p>Dikir Barat<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/picture4.png" style="width: 65%;"></p>
 
 <p></p>Angklung<p>
 <img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/angklung%201.jpeg" style="width: 65%;"></p>
-	
 
+</figure>
+
+<figure> Tamil Language 
 	
+<p></p>Kurumba Drawing Coaster<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/kurumba%20drawing_1.jpg" style="width: 65%;"></p>
+	
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/kurumba%20drawing_2.jpg" style="width: 65%;"><p></p>
+
+<p></p>Marigold Flower Making<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/marigold%20making1.jpg" style="width: 65%;"></p>
+	
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/marigold%20making2.jpg" style="width: 65%;"><p></p>
+
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/marigold%20making3.jpg" style="width: 65%;"><p></p>
+																																														
 	
 </figure>
