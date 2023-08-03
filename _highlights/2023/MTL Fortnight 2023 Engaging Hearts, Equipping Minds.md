@@ -22,5 +22,31 @@ The MTL Fortnight concluded with blazing smiles for our students, as they walked
 <p></p>Allegro Poetry Practice<p>
 <img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/picture2.jpg" style="width: 65%;"></p>
 	
+<p></p>Umbrella Painting<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/umbrella%20painting.jpg" style="width: 65%;"></p>
+	
+<p></p>Lantern Painting<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/lantern%20painting.jpg" style="width: 65%;"></p>
+	
+<p></p>Language Activities<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/lang%20activities.jpg" style="width: 65%;"></p>
+	
+</figure>
 
+<figure> Malay Language 
+	
+<p></p>Kompang<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/kompang%201.jpg" style="width: 65%;"></p>
+	
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/kompang%202.jpg" style="width: 65%;"><p></p>
+
+<p></p>Gamelan<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/gamelon.jpg" style="width: 65%;"></p>
+
+<p></p>Angklung<p>
+<img src="/images/2023%20Photos/Highlights/MTL%20Fortnight/angklung%201.jpeg" style="width: 65%;"></p>
+	
+
+	
+	
 </figure>
