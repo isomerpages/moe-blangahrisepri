@@ -48,14 +48,14 @@ sections:
       description: Our school kicked off the month of August on a celebratory mood
         with the commemoration of EAS Day 2023.
   - infopic:
-      title: MTL Fortnight 2023
+      title: P6 Care Pack – Spreading Encouragement and Support
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/Highlights/MTL Fortnight/kite painting.jpg
-      url: /highlights/2023/mtl-fortnight-2023/
-      description: Each July, we kick off Mother Tongue Fortnight with a variety of
-        engaging interesting activities
+      image: /images/2023 Photos/EAS/pxl_20230727_014347509.jpg
+      url: /highlights/2023/p6-care-pack/
+      description: "As the Primary 6 students gear up for their upcoming national
+        exams, the school prefects showed their unwavering support "
   - resources:
       title: Publications
       button: Click here to see more
