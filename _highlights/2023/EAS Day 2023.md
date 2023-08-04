@@ -12,18 +12,22 @@ The celebrations went up a notch with a special appearance of Singapore’s Nati
 
 The finale, once again, highlighted the main purpose of EAS Day as Shahan from Primary 5 dedicated a poem – Thank You! – to the non-teaching staff. Administration Officer, Mdm Nelita shared, “I feel grateful to the students and staff for their act of appreciation to acknowledge the contributions of the non-teaching staff.”
 
-<img src="/images/2023%20Photos/EAS/20230801_081909.jpg" style="width: 70%;"><p></p>
+<img src="/images/2023%20Photos/EAS/20230801_081909.jpg" style="width: 70%;">
 
-<img src="/images/2023%20Photos/EAS/20230801_083935.jpg" style="width: 70%;"><p></p>
+<p>
 
-<img src="/images/2023%20Photos/EAS/20230801_083329.jpg" style="width: 30%;"><p></p>
+<img src="/images/2023%20Photos/EAS/20230801_083935.jpg" style="width: 70%;">
+	
+</p><p>
 
-<img src="/images/2023%20Photos/EAS/20230801_083409.jpg" style="width: 30%;"><p></p>
 
-<img src="/images/2023%20Photos/EAS/20230801_084854.jpg" style="width: 55%;"><p></p>
+<img src="/images/2023%20Photos/EAS/20230801_083329.jpg" style="width: 30%;">
+</p><p>
 
-<img src="/images/2023%20Photos/EAS/20230801_085439.jpg" style="width: 55%;"><p></p>
+<img src="/images/2023%20Photos/EAS/20230801_083409.jpg" style="width: 30%;">
+</p><p>
 
-<img src="/images/2023%20Photos/EAS/pxl_20230727_014347509.jpg" style="width: 55%;"><p></p>
-
-<img src="/images/2023%20Photos/EAS/pxl_20230727_014404416mp.jpg" style="width: 55%;"><p></p>
+<img src="/images/2023%20Photos/EAS/20230801_084854.jpg" style="width: 55%;">
+</p><p>
+		
+<img src="/images/2023%20Photos/EAS/20230801_085439.jpg" style="width: 55%;"></p>
