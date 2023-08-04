@@ -23,7 +23,3 @@ The finale, once again, highlighted the main purpose of EAS Day as Shahan from P
 <img src="/images/2023%20Photos/EAS/20230801_084854.jpg" style="width: 55%;"><p></p>
 
 <img src="/images/2023%20Photos/EAS/20230801_085439.jpg" style="width: 55%;"><p></p>
-
-<img src="/images/2023%20Photos/EAS/pxl_20230727_014347509.jpg" style="width: 55%;"><p></p>
-
-<img src="/images/2023%20Photos/EAS/pxl_20230727_014404416mp.jpg" style="width: 55%;"><p></p>
