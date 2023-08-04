@@ -10,6 +10,10 @@ This heartwarming gesture touched the hearts of P6 students. Zesheng from 6T sha
 Fellow graduand, Richelle, shared, "I am grateful for the care pack as it made me realise that people care for me and want me to do well in PSLE.” For Richelle, her favourite item is the bookmark the prefects had designed. The bookmark comprises self-care tips. “One tip that stood out to me is listening to music for relaxation. I will most definitely do that when I am stressed”.
 Through this small act of kindness, we hope that all P6s know that they are well-supported and cared for throughout their journey. From everyone at Blangah Rise Primary School, we wish the P6 students the very best for their PSLE!
 
-<img src="/images/2023%20Photos/EAS/pxl_20230727_014347509.jpg" style="width: 70%;"><p>
+<img src="/images/2023%20Photos/EAS/pxl_20230727_014347509.jpg" style="width: 70%;">
 
-<img src="/images/2023%20Photos/EAS/pxl_20230727_014404416mp.jpg" style="width: 70%;"></p>
+<p>
+
+<img src="/images/2023%20Photos/EAS/pxl_20230727_014404416mp.jpg" style="width: 70%;">
+	
+</p>
