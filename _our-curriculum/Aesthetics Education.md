@@ -178,9 +178,22 @@ Besides covering the syllabus, the school provides school-based programmes for t
 <img src="/images/2023%20Photos/Aesthetics%20Education/c_aesthetics.jpg" style="width: 40%;">
 
 **Music and Movement**
-<img src="/images/2023%20Photos/Aesthetics%20Education/e_aesthetics.jpg" style="width: 90%;">
+<img src="/images/2023%20Photos/Aesthetics%20Education/e_aesthetics.jpg" style="width: 60%;">
 
+**School Performance**
+<img src="/images/2023%20Photos/Aesthetics%20Education/d_aesthetics.jpg" style="width: 60%;">
 
+**After School Enrichment Programme**
+<img src="/images/2023%20Photos/Aesthetics%20Education/f_aesthetics.jpg" style="width: 90%;">
 
+**Art Club activities**
+<img src="/images/2023%20Photos/Aesthetics%20Education/g_aesthetics.jpg" style="width: 90%;">
 
+**Recess Art**
+<img src="/images/2023%20Photos/Aesthetics%20Education/h_aesthetics.jpg" style="width: 90%;">
 
+**Singapore Youth Festival**
+<img src="/images/2023%20Photos/Aesthetics%20Education/i_aesthetics.jpg" style="width: 90%;">
+
+**Community Art**
+<img src="/images/2023%20Photos/Aesthetics%20Education/j_aesthetics.jpg" style="width: 90%;">
