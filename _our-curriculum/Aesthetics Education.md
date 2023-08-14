@@ -167,3 +167,20 @@ Besides covering the syllabus, the school provides school-based programmes for t
   text-indent:-.25in;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol;color:#484848"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   color:#484848">External Competitions &amp; Performances (selected students)</span></p></td></tr></tbody></table>
+	
+**Museum Based Learning**
+<img src="/images/2023%20Photos/Aesthetics%20Education/a_aesthetics.jpg" style="width: 90%;">
+
+**Identifying lines in the environment**
+<img src="/images/2023%20Photos/Aesthetics%20Education/b_aesthetics.jpg" style="width: 90%;">
+
+**Design and build**
+<img src="/images/2023%20Photos/Aesthetics%20Education/c_aesthetics.jpg" style="width: 40%;">
+
+**Music and Movement**
+<img src="/images/2023%20Photos/Aesthetics%20Education/e_aesthetics.jpg" style="width: 90%;">
+
+
+
+
+
