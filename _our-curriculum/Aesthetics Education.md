@@ -25,6 +25,8 @@ We aim to provide all students with quality arts education to enable them to fin
 
 Our Talent Development Approach seeks to instill the joy of learning as students discover their interests and strengths through the 3Es:
 
+<img src="/images/2023%20Photos/Aesthetics%20Education/aesthetics.JPG" style="width: 90%;">
+
 **Experience**
 
 * Providing diverse experience where all students discover the joy of learning. This is done through school-based lessons and learning journeys when there is general exposure and equal opportunities given.
