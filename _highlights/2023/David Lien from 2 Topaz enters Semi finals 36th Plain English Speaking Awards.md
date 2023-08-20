@@ -14,3 +14,12 @@ As David concludes his PESA journey for this year, he looks forward to the futur
 
 David Lien's journey in the 36th PESA is a testament to the power of determination and the joy of learning. We congratulate David on his achievements and eagerly anticipate his continued growth!
 
+<img style="width: 50%;" src="/images/2023%20Photos/Highlights/EL%20Oracy%20competitions/david%20lien_pesa.JPG">
+
+<p>
+	
+<img style="width: 50%;" src="/images/2023%20Photos/Highlights/EL%20Oracy%20competitions/david_pesa2.JPG">
+	
+</p><p>
+	
+<img style="width: 50%;" src="/images/2023%20Photos/Highlights/EL%20Oracy%20competitions/david_pesa3.JPG"></p>
