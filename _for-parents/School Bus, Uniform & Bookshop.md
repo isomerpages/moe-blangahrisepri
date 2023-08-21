@@ -92,7 +92,7 @@ description: ""
 <tbody>
 <tr>
 <td style="text-align: center;"><strong>School Dental Clinic</strong></td>
-<td><strong>School Dental Clinic<br><br></strong>The roving dental clinic in school will be moving out on 16 March 2022 and there will be no dental service in school from Term 2 onwards. The roving dental clinic would return in 2023.<br><br>During the period when the dental clinic is closed, parents can call the following schools’ dental clinics for their children’s dental appointments.
+<td><strong>School Dental Clinic<br><br></strong>The roving dental clinic in school will be moving out on 21st August 2023 and there will be no dental service in school. The roving dental clinic would return in 2024. To book a dental appointment, you may call or WhatsApp us at 9838 9102 and we will respond within 1-3 business days. If you require any URGENT treatment, please call any of the following clinics for assistance:
 <table>
 <tbody>
 <tr>
@@ -100,11 +100,7 @@ description: ""
 <td style="text-align: center; width: 219px;"><strong>Address</strong></td>
 <td style="text-align: center; width: 164px;"><strong>Tel</strong></td>
 </tr>
-<tr>
-<td style="text-align: center; width: 175px;">CHIJ Kellock Pr School</td>
-<td style="text-align: center; width: 219px;">1 Bukit Teresa Road (099757)</td>
-<td style="text-align: center; width: 164px;">87647293</td>
-</tr>
+
 <tr>
 <td style="text-align: center; width: 175px;">Gan Eng Seng Pr School</td>
 <td style="text-align: center; width: 219px;">100 Redhill Close (158901)</td>
@@ -118,7 +114,7 @@ description: ""
 <tr>
 <td style="text-align: center; width: 175px;">Mobile Dental Clinic 18</td>
 <td style="text-align: center; width: 219px;">&nbsp;</td>
-<td style="text-align: center; width: 164px;">93895031</td>
+<td style="text-align: center; width: 164px;">92707796</td>
 </tr>
 </tbody>
 </table>
