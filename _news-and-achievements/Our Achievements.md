@@ -6,6 +6,8 @@ description: ""
 <img src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 <h4><strong>2023</strong></h4>
 <ul>
+<li>11th Storyl Alive! 2023 Finalist - Arlo Choy (2 Sapphire)</li>
+<li>36th Plain English Speaking Awards (PESA) 2023 Semi-Finalist - David Lien (2 Topaz)</li>
 <li>Distinction Award Raffles Institution Primary Mathematics World Contest 2023 - Nathanael Chin Chi Yi (6 Sapphire)</li>
 <li>Merit Award Raffles Institution Primary Mathematics World Contest 2023 - Rian Hong (6 Topaz)</li>
 <li>Bronze Award Asia-Pacific Mathematical Olympiad for Primary Schools 2023 - Nathanael Chin Chi Yi (6 Sapphire)</li>

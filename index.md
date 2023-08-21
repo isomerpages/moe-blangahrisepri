@@ -39,23 +39,25 @@ sections:
         where they were able to show their chops in critical and analytical
         thinking!
   - infopic:
-      title: EAS Day 2023
+      title: David Lien from 2 Topaz enters Semi finals 36th PESA
       button: Click Here to read more
-      url: /highlights/2023/eas-day-2023/
+      url: /highlights/2023/david-lien-psea/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/EAS/20230801_081909.jpg
-      description: Our school kicked off the month of August on a celebratory mood
-        with the commemoration of EAS Day 2023.
+      image: /images/2023 Photos/Highlights/EL Oracy competitions/david_pesa3.JPG
+      description: David Lien from Primary 2 Topaz, who proudly represented our school
+        in the 36th Plain English Speaking Awards (PESA).
   - infopic:
-      title: P6 Care Pack – Spreading Encouragement and Support
+      title: "Arlo Choy from 2 Sapphire: Finalist of Story Alive! 2023"
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/EAS/pxl_20230727_014347509.jpg
-      url: /highlights/2023/p6-care-pack/
-      description: "As the Primary 6 students gear up for their upcoming national
-        exams, the school prefects showed their unwavering support "
+      image: /images/2023 Photos/Highlights/EL Oracy competitions/arlo
+        choy_storyalive1.JPG
+      url: /highlights/2023/arlo-choy-story-alive/
+      description: We feature the heartwarming journey of Arlo Choy from 2 Sapphire,
+        who represented our school with pride in the 11th run of Story Alive!
+        2023.
   - resources:
       title: Publications
       button: Click here to see more
