@@ -24,10 +24,10 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's June Letter
+      title: Principal's September Letter
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/annoucements/principal-june-letter/
+      url: https://blangahrisepri.moe.edu.sg/annoucements/p-sept-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
       title: Distinctions and Awards at Mathematics Competitions
