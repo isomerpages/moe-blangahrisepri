@@ -2,6 +2,7 @@ collections:
   annoucements:
     output: true
     order:
+      - Going the distance to make a difference.md
       - Principal's September Letter.md
       - Students bag Distinctions and Awards at Mathematics Competitions.md
       - Principal's June Letter.md
