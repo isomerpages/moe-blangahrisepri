@@ -30,14 +30,14 @@ sections:
       url: https://blangahrisepri.moe.edu.sg/annoucements/p-sept-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Distinctions and Awards at Mathematics Competitions
+      title: Going the distance to make a difference
       button: READ MORE
-      url: /annoucements/mathematics-competitions/
-      image: /images/Announcements/nathanael chin, 6s_ri competition.jpg
+      url: /annoucements/going-the-distance-to-make-a-difference/
+      image: /images/2023 Photos/Walk a Jog/1 brps annual walk a jog 2023 event
+        details.jpg
       alt: Image alt text
-      description: Our students took part in prestigious Mathematics competitions
-        where they were able to show their chops in critical and analytical
-        thinking!
+      description: The BRPS annual Walk-A-Jog celebrates Children's Day with a purpose
+        for our students.
   - infopic:
       title: David Lien from 2 Topaz enters Semi finals 36th PESA
       button: Click Here to read more
