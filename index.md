@@ -39,14 +39,14 @@ sections:
       description: The BRPS annual Walk-A-Jog celebrates Children's Day with a purpose
         for our students.
   - infopic:
-      title: David Lien from 2 Topaz enters Semi finals 36th PESA
+      title: Exhibiting at the Mother Tongue Languages Symposium 2023
       button: Click Here to read more
-      url: /highlights/2023/david-lien-psea/
+      url: /highlights/2023/mother-tongue-languages-symposium/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Highlights/EL Oracy competitions/david_pesa3.JPG
-      description: David Lien from Primary 2 Topaz, who proudly represented our school
-        in the 36th Plain English Speaking Awards (PESA).
+      image: /images/2023 Photos/Highlights/MTL Symposium/mtl sym 3.jpeg
+      description: "This year, our school is very honoured to present an exhibition at
+        the 12th Mother Tongue Languages Symposium (MTLS) 2023. "
   - infopic:
       title: "Arlo Choy from 2 Sapphire: Finalist of Story Alive! 2023"
       subtitle: HIGHLIGHTS
