@@ -10,5 +10,11 @@ At the booth, our Junior Reporters interacted with the visitors through a simple
 Our student presenters from the Junior Reporters- Judith Seow (5 Topaz), Tan Kai Rou (5 Topaz), Cai Suxiang (5 Topaz), Yeo Zheng Hao (5 Sapphire), Shyong, Ruo-Shan (5 Sapphire), Teo Kai Xiang (4 Topaz) and Teo Kai Ting (3 Sapphire) displayed great confidence when speaking to the members of the public. They also facilitated the board game sessions for our younger visitors. 
 Zheng Hao shared, “It was such as good experience sharing our school programmes with the public!” Judith also reflected, “I enjoyed interacting with the younger visitors and hope to be able to participate in more of such events in the future.”
 This was indeed a good learning opportunity, as the symposium was a great success! We would like to express our heartfelt gratitude for our BRPS parents and all who came by to show us their support for the event.
- 
- 
+
+![](/images/2023%20Photos/Highlights/MTL%20Symposium/mtl%2020230826_090028.jpg)
+
+![](/images/2023%20Photos/Highlights/MTL%20Symposium/mtl%20sym%202.jpeg)
+
+![](/images/2023%20Photos/Highlights/MTL%20Symposium/mtl%20sym%203.jpeg)
+
+![](/images/2023%20Photos/Highlights/MTL%20Symposium/mtl%20sym%204.jpeg)
