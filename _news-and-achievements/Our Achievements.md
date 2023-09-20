@@ -48,6 +48,12 @@ Top 8 in South Zone
 	<div>1. Phua Zi En Athan (6 Topaz) </div><div> 2. Tham Xuan Yi Nathan Silva (6 Topaz) </div><div>3. Daniel Darshwin (6 Topaz)</div><div> 4. Ian Adam Bin Mohamad Yusoff (6 Topaz) </div><div>5. Muhammad Rayyan Saliheen (6 Sapphire)</div><div>6. Andhie Ershaan Bin Rosli (6 Sapphire)</div><div> 7. Muhammad Hidayat Bin Noor Hairuzam (6 Sapphire)</div></li>
 	
 <li>National School Games, Athletics 1600m (Senior Girls) - 2nd Runner-Up, Gail Lien Zhao Xin (6 Sapphire)</li>
+<li>18th Ngee Ann Photographic Exhibition 2023 Student Category (Photograph selected as a permanent collection) - Phua Ser Yen (5 Topaz) </li>
+<li> National Chinese Story-Telling Competition - Judith Seow (5 Topaz), Athan Phua (6 Topaz) </li>
+<li>National VLOG Short Film Competition, Chinese Language - Lee Gui Xin (4 Opal), Valerie Huang (2 Topaz) </li>
+<li>Annual Mathlympics: <div>- Merit: Muthurasu Thanushraj (4 Opal) </div> <div>- Bronze: Kayden Chu (5 Sapphire)</div> </li>
+<li>Mathematical Olympiad: <div> - Honourable Mention: Chen Xinbo Mills (5 Topaz) </div> <div> - Bronze: Khush Pareek (5 Sapphire), Kayden Chu (5 Sapphire) </div></li>
+<li>Science Olympiad: <div>- Merit: Vo Catherine Tu (5 Topaz), Phua Ser Yen (5 Topaz), Khush Pareek (5 Sapphire) </div><div>- Bronze: Kayden Chu (5 Sapphire) </div> <div>- Silver: Gong Zibo (5 Sapphire)</div></li>
 </ul>
 <h4><strong>2022</strong></h4>
 <ul>
