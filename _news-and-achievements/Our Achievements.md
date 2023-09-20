@@ -47,7 +47,7 @@ Premier Cup Category: Koo Seo Jun (3 Topaz) - 2nd
 Top 8 in South Zone
 	<div>1. Phua Zi En Athan (6 Topaz) </div><div> 2. Tham Xuan Yi Nathan Silva (6 Topaz) </div><div>3. Daniel Darshwin (6 Topaz)</div><div> 4. Ian Adam Bin Mohamad Yusoff (6 Topaz) </div><div>5. Muhammad Rayyan Saliheen (6 Sapphire)</div><div>6. Andhie Ershaan Bin Rosli (6 Sapphire)</div><div> 7. Muhammad Hidayat Bin Noor Hairuzam (6 Sapphire)</div></li>
 	
-<li>Athletics 1600m (Girls) - Gail Lien Zhao Xin (6 Sapphire)</li>
+<li>National School Games, Athletics 1600m (Senior Girls) - 2nd Runner-Up, Gail Lien Zhao Xin (6 Sapphire)</li>
 </ul>
 <h4><strong>2022</strong></h4>
 <ul>
