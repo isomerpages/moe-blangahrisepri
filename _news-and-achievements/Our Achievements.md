@@ -6,7 +6,6 @@ description: ""
 <img src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 <h4><strong>2023</strong></h4>
 <ul>
-<li>Merit Award for 11th National Primary School Photography Competition - Phua Ser Yen (5 Topaz)</li>
 <li>11th Storyl Alive! 2023 Finalist - Arlo Choy (2 Sapphire)</li>
 <li>36th Plain English Speaking Awards (PESA) 2023 Semi-Finalist - David Lien (2 Topaz)</li>
 <li>Distinction Award Raffles Institution Primary Mathematics World Contest 2023 - Nathanael Chin Chi Yi (6 Sapphire)</li>
@@ -48,12 +47,14 @@ Top 8 in South Zone
 	<div>1. Phua Zi En Athan (6 Topaz) </div><div> 2. Tham Xuan Yi Nathan Silva (6 Topaz) </div><div>3. Daniel Darshwin (6 Topaz)</div><div> 4. Ian Adam Bin Mohamad Yusoff (6 Topaz) </div><div>5. Muhammad Rayyan Saliheen (6 Sapphire)</div><div>6. Andhie Ershaan Bin Rosli (6 Sapphire)</div><div> 7. Muhammad Hidayat Bin Noor Hairuzam (6 Sapphire)</div></li>
 	
 <li>National School Games, Athletics 1600m (Senior Girls) - 2nd Runner-Up, Gail Lien Zhao Xin (6 Sapphire)</li>
-<li>18th Ngee Ann Photographic Exhibition 2023 Student Category (Photograph selected as a permanent collection) - Phua Ser Yen (5 Topaz) </li>
+<li>Merit Award for 11th National Primary School Photography Competition - Phua Ser Yen (5 Topaz)</li>
 <li> National Chinese Story-Telling Competition - Judith Seow (5 Topaz), Athan Phua (6 Topaz) </li>
 <li>National VLOG Short Film Competition, Chinese Language - Lee Gui Xin (4 Opal), Valerie Huang (2 Topaz) </li>
 <li>Annual Mathlympics: <div>- Merit: Muthurasu Thanushraj (4 Opal) </div> <div>- Bronze: Kayden Chu (5 Sapphire)</div> </li>
 <li>Mathematical Olympiad: <div> - Honourable Mention: Chen Xinbo Mills (5 Topaz) </div> <div> - Bronze: Khush Pareek (5 Sapphire), Kayden Chu (5 Sapphire) </div></li>
-<li>Science Olympiad: <div>- Merit: Vo Catherine Tu (5 Topaz), Phua Ser Yen (5 Topaz), Khush Pareek (5 Sapphire) </div><div>- Bronze: Kayden Chu (5 Sapphire) </div> <div>- Silver: Gong Zibo (5 Sapphire)</div></li>
+<li>Singapore Primary Science Olympiad 2023: <div>- Merit: Vo Catherine Tu (5 Topaz), Phua Ser Yen (5 Topaz), Khush Pareek (5 Sapphire) </div><div>- Bronze: Kayden Chu (5 Sapphire) </div> <div>- Silver: Gong Zibo (5 Sapphire)</div></li>
+<li> World Robot Olympiad Singapore 2023 - Future Innovators Elementary:<div>- 2nd Runner Up - Estaras Judah Maqdiel Torres (3 Opal), Charles Saranya Dave Nick (4 Topaz), Muthukrishnan Ruvanthigaa (5 Sapphire) </div><div> - Participation (Silver) - Nguyen Thuy Minh Anh (3 Sapphire), Ashley Kierra Gani (3 Sapphire), Mohd Mohideen Abdul Kader Zarinfaariha (5 Sapphire)</div></li>
+
 </ul>
 <h4><strong>2022</strong></h4>
 <ul>
