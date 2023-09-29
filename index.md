@@ -39,23 +39,23 @@ sections:
       description: The BRPS annual Walk-A-Jog celebrates Children's Day with a purpose
         for our students.
   - infopic:
-      title: Exhibiting at the Mother Tongue Languages Symposium 2023
-      button: Click Here to read more
-      url: /highlights/2023/mother-tongue-languages-symposium/
-      alt: Image alt text
-      subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Highlights/MTL Symposium/mtl sym 3.jpeg
-      description: This year, our school is very honoured to present an exhibition at
-        the 12th Mother Tongue Languages Symposium (MTLS) 2023.
-  - infopic:
-      title: "Collaboration with Ngee Ann Polytechnic "
+      title: Collaboration with Ngee Ann Polytechnic
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
       image: /images/2023 Photos/Highlights/Ngee Ann APEX/np-apex 2.jpeg
       url: /highlights/2023/ngee-ann-polytechnic/
-      description: "We are proud to announce our dynamic partnership with Ngee Ann
-        Polytechnic, a collaboration centered on mutual growth. "
+      description: We are proud to announce our dynamic partnership with Ngee Ann
+        Polytechnic, a collaboration centered on mutual growth.
+  - infopic:
+      title: Mid-Autumn Festival 2023
+      button: Click Here to read more
+      url: /highlights/2023/permalink/midautumnfestival/
+      alt: Image alt text
+      subtitle: HIGHLIGHTS
+      image: /images/2023 Photos/Highlights/Mid Autumn/20230919_080351.jpg
+      description: "You’d know when Mid-Autumn Festival is around the corner thanks to
+        our artistic and passionate parents from Parents Support Group (PSG)! "
   - resources:
       title: Publications
       button: Click here to see more
