@@ -45,19 +45,17 @@ sections:
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/2023 Photos/Highlights/MTL Symposium/mtl sym 3.jpeg
-      description: "This year, our school is very honoured to present an exhibition at
-        the 12th Mother Tongue Languages Symposium (MTLS) 2023. "
+      description: This year, our school is very honoured to present an exhibition at
+        the 12th Mother Tongue Languages Symposium (MTLS) 2023.
   - infopic:
-      title: "Arlo Choy from 2 Sapphire: Finalist of Story Alive! 2023"
+      title: "Collaboration with Ngee Ann Polytechnic "
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/Highlights/EL Oracy competitions/arlo
-        choy_storyalive1.JPG
-      url: /highlights/2023/arlo-choy-story-alive/
-      description: We feature the heartwarming journey of Arlo Choy from 2 Sapphire,
-        who represented our school with pride in the 11th run of Story Alive!
-        2023.
+      image: /images/2023 Photos/Highlights/Ngee Ann APEX/np-apex 2.jpeg
+      url: /highlights/2023/ngee-ann-polytechnic/
+      description: "We are proud to announce our dynamic partnership with Ngee Ann
+        Polytechnic, a collaboration centered on mutual growth. "
   - resources:
       title: Publications
       button: Click here to see more
