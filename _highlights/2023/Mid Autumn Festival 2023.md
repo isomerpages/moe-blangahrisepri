@@ -13,17 +13,18 @@ Phua Ser Yen (5 Topaz) shared, “The celebration was so fun and I enjoyed the l
 
 We would like to wish all our friends a Happy Mid-Autumn Festival!
 
-<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_080351.jpg"><p>
+<p>
+<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_080351.jpg"></p>
 
-<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_080641.jpg"></p><p>
+<p><img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_080641.jpg"></p>
 	
-<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_080846.jpg"></p><p>
+<p><img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_080846.jpg"></p>
 	
-<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_083436.jpg"></p><p>
+<p><img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_083436.jpg"></p>
 	
-<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_084017.jpg"></p><p>
+<p><img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_084017.jpg"></p>
 	
-<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_084906.jpg"></p><p>
+<p><img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/20230919_084906.jpg"></p>
 
-<img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/img-20230919-wa0001.jpg"></p><p>
+<p><img style="width: 65%;" src="/images/2023%20Photos/Highlights/Mid%20Autumn/img-20230919-wa0001.jpg">
 </p>
