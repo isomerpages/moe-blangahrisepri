@@ -10,10 +10,10 @@ Minh Anh, Ashley and Zarinfaariha from Primary 3 tackled the issue of the last-m
 
 “This challenge allowed me to be creative and see how I can apply what I know to solve real-life problems!” Minh Anh shared. Students participating in the World Robotics Olympiad RoboMission are not just competing; they are embarking on a transformative journey that would mold them into future innovators. Through STEM education, problem-solving challenges, and exposure to cutting-edge technology, we foster creativity, teamwork, and adaptability – qualities that are essential for success in the rapidly changing world of technology and innovation. As these young minds rise to meet the challenge, they are undoubtedly taking their first steps toward shaping our future.
 
-<img style="width: 65%;" src="/images/2023%20Photos/WRO/wro%20pic%201.jpg"><p>
+<img style="width: 65%;" src="/images/2023%20Photos/WRO/wro%20pic%201.jpg">
 	
-<img style="width: 65%;" src="/images/2023%20Photos/WRO/wro%20pic%202.jpg"></p><p>
+<img style="width: 65%;" src="/images/2023%20Photos/WRO/wro%20pic%202.jpg">
 	
-<img style="width: 65%;" src="/images/2023%20Photos/WRO/wro%20pic%203.jpeg"></p><p>
+<img style="width: 65%;" src="/images/2023%20Photos/WRO/wro%20pic%203.jpeg">
 	
-<img style="width: 65%;" src="/images/2023%20Photos/WRO/wro%20pic%204.jpeg"></p><p></p>
+<img style="width: 65%;" src="/images/2023%20Photos/WRO/wro%20pic%204.jpeg">
