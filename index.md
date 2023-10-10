@@ -49,14 +49,15 @@ sections:
         the Committee to Promote Chinese Language Learning (CPCLL), Anderson
         Primary School
   - infopic:
-      title: Mid-Autumn Festival 2023
+      title: Annual Mathlympics 2023
       button: Click Here to read more
-      url: /highlights/2023/permalink/midautumnfestival/
+      url: /highlights/2023/annual-mathlympics-2023/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Highlights/Mid Autumn/20230919_080351.jpg
-      description: You’d know when Mid-Autumn Festival is around the corner thanks to
-        our artistic and passionate parents from Parents Support Group (PSG)!
+      image: /images/2023 Photos/Annual Mathlympics 2023/kayden chu_annual
+        mathlympics.jpeg
+      description: "This year, our students participated in the Annual Mathlympics for
+        All Primary Schools 2023. "
   - resources:
       title: Publications
       button: Click here to see more
