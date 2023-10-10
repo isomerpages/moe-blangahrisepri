@@ -39,23 +39,25 @@ sections:
       description: The BRPS annual Walk-A-Jog celebrates Children's Day with a purpose
         for our students.
   - infopic:
-      title: Collaboration with Ngee Ann Polytechnic
+      title: The 6th National Text Recital Competition
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/Highlights/Ngee Ann APEX/np-apex 2.jpeg
-      url: /highlights/2023/ngee-ann-polytechnic/
-      description: We are proud to announce our dynamic partnership with Ngee Ann
-        Polytechnic, a collaboration centered on mutual growth.
+      image: /images/2023 Photos/National Text Recital/text recital 2023.jpg
+      url: /highlights/2023/6th-national-text-recital/
+      description: The 6th National Text Recital Competition is jointly organised by
+        the Committee to Promote Chinese Language Learning (CPCLL), Anderson
+        Primary School
   - infopic:
-      title: Mid-Autumn Festival 2023
+      title: Annual Mathlympics 2023
       button: Click Here to read more
-      url: /highlights/2023/permalink/midautumnfestival/
+      url: /highlights/2023/annual-mathlympics-2023/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Highlights/Mid Autumn/20230919_080351.jpg
-      description: "You’d know when Mid-Autumn Festival is around the corner thanks to
-        our artistic and passionate parents from Parents Support Group (PSG)! "
+      image: /images/2023 Photos/Annual Mathlympics 2023/kayden chu_annual
+        mathlympics.jpeg
+      description: "This year, our students participated in the Annual Mathlympics for
+        All Primary Schools 2023. "
   - resources:
       title: Publications
       button: Click here to see more
