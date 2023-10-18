@@ -11,9 +11,8 @@ The MOE FAS is to help financially needy Singaporean students in Government and 
 Please submit the completed MOE FAS application form with the required documents to the school’s General Office or via e-FAS link below if you wish to apply for the financial assistance by 31 Oct 2023.
 If you have any enquiries, please contact the school General Office at 6721 7387.
 
-To download the 2024 MOE FAS Application Form, click here (as attached PDF)
+To download the 2024 MOE FAS Application Form, click here
 
-To apply via e-FAS, click here
+To apply via e-FAS, click [here](https://form.gov.sg/64e2f8f73f582600139f54ac)
 
-To apply DigitalAccess@Home, click here
-
+To apply DigitalAccess@Home, click [here](https://eservice.imda.gov.sg/das/homepage)
