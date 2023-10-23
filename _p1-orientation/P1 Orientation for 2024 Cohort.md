@@ -30,4 +30,11 @@ For the 2024 P1 cohort, all parents are requested to complete the following form
 | Digital@Home (Optional)| [DAS - Infocomm Media Development Authority (imda.gov.sg)](https://eservice.imda.gov.sg/das/homepage) |  |
 
 **Other Resources**
+
+
+| Vendors |Website Link  | Remarks |
+| -------- | -------- | -------- |
+|  HB Book Centre    | [www.ihuntforbooks.com](www.ihuntforbooks.com) </p><p>Sale dates: </p><p>P1 only: 7 Dec 2023 </p><p>All levels: 8, 13, 14, 15 Dec 2023</p><p>| Ordering starts from 1 Dec 2023     |
+
+
 </p>
