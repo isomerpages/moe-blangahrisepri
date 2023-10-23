@@ -24,5 +24,5 @@ For the 2024 P1 cohort, all parents are requested to complete the following form
 | -------- | -------- | -------- |
 |  eGIRO    |  [Apply for EGIRO](https://www.moe.gov.sg/financial-matters/fees/egiro)    |  Parents are strongly encouraged to sign up for GIRO online for payment of school charges. Child Development Account (Baby Bonus Account) cannot be used for GIRO application.
 | Edusave Scheme (Applicable to Singapore Citizen students only) | Complete the following form: [Standing Order for Use of Edusave Account At Govt / Govt-Aided School](https://form.gov.sg/5be24a1bb3f842000fdc4e59) <p>Website with details on usage of Edusave funds. Refer to [link](https://www.moe.gov.sg/financial-matters/edusave-account) | The Edusave Fund is catered to cover school miscellaneous fees (for Singapore Citizens only).  Parents are strongly encouraged to sign up for. Please Tick “Yes” for both questions on whether to use Edusave for 2nd Tier Miscellaneous fees and for local and overseas enrichment charges.
- |
+| Student Details Portal Data Capture | [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf) | More details will be provided via PG for the completion on the final compulsory form. **Submission starts from 27 Nov 2023, 10am.** |
 </p>
