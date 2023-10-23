@@ -29,3 +29,5 @@ For the 2024 P1 cohort, all parents are requested to complete the following form
 | MOE Financial Assistance Scheme (Optional)| [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance) Link for 2024 e-FAS application: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) | If you intend to apply for FAS for your child for 2024, please **do not buy books and/or uniforms before the outcome of the FAS application.** No refund will be provided. **Please submit this as soon as possible as processing of applications will take time.**|
 | Digital@Home (Optional)| [DAS - Infocomm Media Development Authority (imda.gov.sg)](https://eservice.imda.gov.sg/das/homepage) |  |
 </p>
+
+**Other Resources**
