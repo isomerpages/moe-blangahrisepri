@@ -35,6 +35,6 @@ For the 2024 P1 cohort, all parents are requested to complete the following form
 | Vendors |Website Link  | Remarks |
 | -------- | -------- | -------- |
 |  HB Book Centre    | [www.ihuntforbooks.com](www.ihuntforbooks.com) </p><p>Sale dates: </p><p>P1 only: 7 Dec 2023 </p><p>All levels: 8, 13, 14, 15 Dec 2023</p>Booklist: Will be provided in T4W10 <p>Nametag Order: [Nametag](https://docs.google.com/forms/d/e/1FAIpQLSe8_H_Q0-PpNuIKa9MC8RDllemt4B6F5poPNih5Jv4KfyG6rQ/viewform?pli=1)</p><p>| Ordering starts from 1 Dec 2023     |
-| -------- | -------- | -------- |
+| Beau Voix | [http://www.beauvoix.com.sg/](http://www.beauvoix.com.sg/) </p><p>Sale dates:</p><p>P1 only: 7 Dec 2023</p><p>All levels: 8, 13, 14, 15 Dec 2023</p><p>|  |
 
 </p>
