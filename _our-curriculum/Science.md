@@ -113,9 +113,9 @@ The Tranquil Garden is built to engage students through a multi-sensory approach
 <p><strong>The Singapore Primary Science Olympiad (SPSO)@ NUS High School and Raffles Science Olympiad (RSO)<br></strong>High progress students are given opportunities to participate in Science-related competitions. They are selected to represent the school in external competitions such as the Singapore Primary Science Olympiad (SPSO) and the Raffles Science Olympiad (RSO). Through these platforms, students develop a greater interest in Biology, Chemistry and Physics and become more enthusiastic and passionate about Science.</p>
 <img src="/images/science9.png">
 
-<p>Click&nbsp;<a href="/highlights/2023/scienceaward/"><strong>here</strong></a> to find out more about our achievements for Singapore Primary Science Olympiad 2023.
+Click [here](https://www.blangahrisepri.moe.edu.sg/highlights/2023/scienceaward/) to find out more about our achievements for Singapore Primary Science Olympiad 2023.
 
-</p><p><strong>Young Einstein Award<br></strong>Each year, we recognize the effort of our budding scientists who have demonstrated good work attitude such as diligence, motivation, perseverance, and enthusiasm in the learning of Science. Students from each level get to select&nbsp;from a list of curated projects to complete. Each awardee receives a Young Einstein certificate from the Science Department based on their number of completed projects.</p>
+<p></p><p><strong>Young Einstein Award<br></strong>Each year, we recognize the effort of our budding scientists who have demonstrated good work attitude such as diligence, motivation, perseverance, and enthusiasm in the learning of Science. Students from each level get to select&nbsp;from a list of curated projects to complete. Each awardee receives a Young Einstein certificate from the Science Department based on their number of completed projects.</p>
 <img src="/images/Photo-22.jpg">
 
 **Collaboration with MOE Kindergarten (Blangah Rise)**
