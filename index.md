@@ -39,16 +39,6 @@ sections:
       description: The BRPS annual Walk-A-Jog celebrates Children's Day with a purpose
         for our students.
   - infopic:
-      title: The 6th National Text Recital Competition
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2023 Photos/National Text Recital/text recital 2023.jpg
-      url: /highlights/2023/6th-national-text-recital/
-      description: The 6th National Text Recital Competition is jointly organised by
-        the Committee to Promote Chinese Language Learning (CPCLL), Anderson
-        Primary School
-  - infopic:
       title: Annual Mathlympics 2023
       button: Click Here to read more
       url: /highlights/2023/annual-mathlympics-2023/
@@ -56,8 +46,17 @@ sections:
       subtitle: HIGHLIGHTS
       image: /images/2023 Photos/Annual Mathlympics 2023/kayden chu_annual
         mathlympics.jpeg
-      description: "This year, our students participated in the Annual Mathlympics for
-        All Primary Schools 2023. "
+      description: This year, our students participated in the Annual Mathlympics for
+        All Primary Schools 2023.
+  - infopic:
+      title: Science Award - Singapore Primary Science Olympiad
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2023 Photos/Highlights/Science Award/pxl_20231023_051225419.jpg
+      url: /highlights/2023/scienceaward
+      description: This year, our Primary 5 students represented the school in the
+        Singapore Primary Science Olympiad (SPSO).
   - resources:
       title: Publications
       button: Click here to see more
