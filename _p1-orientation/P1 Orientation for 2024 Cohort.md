@@ -34,7 +34,7 @@ For the 2024 P1 cohort, all parents are requested to complete the following form
 
 | Vendors |Website Link  | Remarks |
 | -------- | -------- | -------- |
-|  HB Book Centre    | [www.ihuntforbooks.com](www.ihuntforbooks.com) <p>Sale dates: </p> <p>P1 only: 7 Dec 2023 </p> <p>All levels: 8, 13, 14, 15 Dec 2023</p> <p>Booklist: Will be provided in T4W10</p> <p>Nametag Order: [Nametag](https://docs.google.com/forms/d/e/1FAIpQLSe8_H_Q0-PpNuIKa9MC8RDllemt4B6F5poPNih5Jv4KfyG6rQ/viewform?pli=1)</p>| Ordering starts from 1 Dec 2023     |
+|  HB Book Centre    | [www.ihuntforbooks.com](www.ihuntforbooks.com) <p>Sale dates:</p> <p>P1 only: 7 Dec 2023 </p> <p>All levels: 8, 13, 14, 15 Dec 2023</p> <p>Booklist: Will be provided in T4W10</p> <p>Nametag Order: [Nametag](https://docs.google.com/forms/d/e/1FAIpQLSe8_H_Q0-PpNuIKa9MC8RDllemt4B6F5poPNih5Jv4KfyG6rQ/viewform?pli=1)</p>| Ordering starts from 1 Dec 2023     |
 | Beau Voix | [http://www.beauvoix.com.sg/](http://www.beauvoix.com.sg/) <p>Sale dates:</p> <p>P1 only: 7 Dec 2023</p> <p>All levels: 8, 13, 14, 15 Dec 2023</p>|  |
 | DKJ | [DKJ School Bus Service](https://docs.google.com/forms/d/e/1FAIpQLSdqEdE5Lzor4vs37CXzC1uoEmy1ICHepVotJoYhDmUmEdB4xw/viewform) |  Please register your interest via the link. DKJ staff will contact you in early Dec 2023.|
-| NASCAN PTE LTD – Student Care Centre | [Enquiry Form](https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2utFmFUZM7xdJBmRFLzQ7S9M=)| Please indicate your interest by 15 Nov 2023. <p>Email: [brscc@nascans.com](brscc@nascans.com</p> <p>Tel: 9459 6376.</p> |
+| NASCAN PTE LTD – Student Care Centre | [Enquiry Form](https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2utFmFUZM7xdJBmRFLzQ7S9M=)| Please indicate your interest by 15 Nov 2023. <p>Email: [brscc@nascans.com](brscc@nascans.com)</p> <p>Tel: 9459 6376.</p> |
