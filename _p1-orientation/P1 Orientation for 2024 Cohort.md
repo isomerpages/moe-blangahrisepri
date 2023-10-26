@@ -7,11 +7,7 @@ Dear Parents/Guardians,
 
 Greetings from Blangah Rise Primary School. Our orientation details are:
 
-**Date: Friday, 10 Nov 2023**
-
-**Time: 3 to 5 pm**
-
-**Venue: School Hall**
+<p>Date: Friday, 10 Nov 2023<br>Time: 3 to 5 pm<br>Venue: School Hall<br></p>
 
 We look forward to seeing you and your child/ward at our Primary 1 Orientation.
 
