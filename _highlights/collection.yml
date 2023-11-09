@@ -2,9 +2,9 @@ collections:
   highlights:
     output: true
     order:
-      - "2023/Deepavali 2023: Light a lamp of love!.md"
       - 2023/.keep
       - 2023/Page 1.md
+      - "2023/Deepavali 2023: Light a lamp of love!.md"
       - 2023/Science Award (Singapore Primary Science Olympiad).md
       - 2023/Annual Mathlympics 2023.md
       - 2023/The 6th National Text Recital Competition.md
