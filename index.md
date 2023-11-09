@@ -39,15 +39,14 @@ sections:
       description: The BRPS annual Walk-A-Jog celebrates Children's Day with a purpose
         for our students.
   - infopic:
-      title: Annual Mathlympics 2023
+      title: "Deepavali 2023: Light a lamp of love!"
       button: Click Here to read more
-      url: /highlights/2023/annual-mathlympics-2023/
+      url: /highlights/2023/deepavali/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Annual Mathlympics 2023/kayden chu_annual
-        mathlympics.jpeg
-      description: This year, our students participated in the Annual Mathlympics for
-        All Primary Schools 2023.
+      image: /images/2023 Photos/Deepavali/p3_p4 dancers.jpg
+      description: "As one of Singapore's major cultural festivals, Deepavali is a
+        celebration that symbolizes the triumph of good over evil. "
   - infopic:
       title: Science Award - Singapore Primary Science Olympiad
       subtitle: HIGHLIGHTS
