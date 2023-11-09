@@ -17,16 +17,16 @@ variant: markdown
 </div>
 </li> 
 <li>
-<input type="checkbox" id="accordion1">
-<label for="accordion1"><p><strong>2022</strong></p></label>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><p><strong>2022</strong></p></label>
 <div>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-May-2022.pdf">BRPS Healthy Kids Newsletter - May 2022</a></p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-Nov-2022.pdf">BRPS Healthy Kids Newsletter - Nov 2022</a></p>
 </div>
 </li>  
 <li>
-<input type="checkbox" id="accordion2">
-<label for="accordion2"><p><strong>2021</strong></p></label>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><p><strong>2021</strong></p></label>
 <div>
 <p><a href="/files/Healthy%20Kids%20Newsletter/brps%20healthy%20kids%20newsletter%20-%20nov%202022.pdf</a></p>
 <p><a href=">BRPS Healthy Kids Newsletter - August 2021</a></p>
@@ -35,8 +35,8 @@ variant: markdown
 </div>
 </li>  
 <li>
-<input type="checkbox" id="accordion3">
-<label for="accordion3"><p><strong>2020</strong></p></label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><p><strong>2020</strong></p></label>
 <div>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-NOV-2020.pdf">BRPS Healthy Kids Newsletter - November 2020</a></p>
 <p><a href="/files/Update_BRPS-Healthy-Kids-Newsletter-AUG-2020-final.pdf">BRPS Healthy Kids Newsletter - August 2020</a></p>
