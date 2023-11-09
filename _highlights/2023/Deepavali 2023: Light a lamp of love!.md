@@ -11,3 +11,19 @@ Amelia and Devesh's presentation enlightened us on how Deepavali is celebrated i
 Following this, a simple quiz engaged the audience, and the PSG elevated the program with their lively Deepavali dance performance. Krithvik (1 Topaz) said, “I really enjoyed the P3 & P4 dance performance and was also excited about the quiz!”.
 The celebrations provided valuable insights into the importance of preserving our culture and taking pride in our identity, serving as a beautiful platform to usher in Deepavali. During FTGP, we also organized various Deepavali art and craft activities, allowing students to appreciate the diversity in our multi-racial and multi-ethnic society.
 Many thanks to our dedicated PSG for the beautiful rangoli designed especially for Deepavali celebrations. They were made of colorful rice and petals and it attracted many of our students and teachers. Everyone thoroughly enjoyed the concert and eagerly anticipates next year's celebration. To all who celebrate, Happy Deepavali!
+
+![](/images/2023%20Photos/Deepavali/deepavali%20light%20up.jpg)
+
+![](/images/2023%20Photos/Deepavali/mk%20performance.jpg)
+
+![](/images/2023%20Photos/Deepavali/p3_p4%20dancers.jpg)
+
+![](/images/2023%20Photos/Deepavali/psg%20performance.jpg)
+
+![](/images/2023%20Photos/Deepavali/psg1%20performance.jpg)
+
+![](/images/2023%20Photos/Deepavali/quiz1%20time.jpg)
+
+![](/images/2023%20Photos/Deepavali/quiz2%20time.jpg)
+
+![](/images/2023%20Photos/Deepavali/the%20drum%20performance.jpg)
