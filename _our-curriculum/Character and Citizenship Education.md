@@ -2,11 +2,10 @@
 title: Character and Citizenship Education
 permalink: /our-curriculum/cce/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-![](/images/2023%20Photos/Student%20Development/image1.png)
+![](/images/2023%20Photos/CCE%20Update/Picture1.png)
 
-<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="https://blangahrisepri.moe.edu.sg/subpages-for-sd/active-learner/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image2.png"></a></div></div></div>
-<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="https://blangahrisepri.moe.edu.sg/subpages-for-sd/bold-learner/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image3.png"></a></div></div></div>
-<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="https://blangahrisepri.moe.edu.sg/subpages-for-sd/contributing-learner/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image4.png"></a></div></div></div>
-<div class="column"> <div class="row"> <div style="width:100%;text-align:center;"> <a href="https://blangahrisepri.moe.edu.sg/subpages-for-sd/disciplined-learner/"> <img height="400" width="400" src="/images/2023%20Photos/Student%20Development/image5.png"></a></div></div></div>
+![](/images/2023%20Photos/CCE%20Update/image012.png)
+
+Trees remind us to grow regardless of intense difficulties, roughest weather, hardest places and heartless circumstances. Trees are exposed to elements that break their branches, hurt their roots and take their leaves. But they stand still and strong, showing us that it is possible to grow stronger, and fight against the elements and win. To support every Blangahnite in their growth, our teachers are always there to provide mentorship and companioning.  
