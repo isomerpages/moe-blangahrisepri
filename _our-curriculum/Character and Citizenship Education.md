@@ -24,3 +24,14 @@ Our commitment to mentorship extends to our House System, introduced in 2021, wh
 
 ![](/images/2023%20Photos/CCE%20Update/image015.png)
 
+**Recognize Teachable Moments**
+
+We celebrate and acknowledge our students' growth through the "GOTCHA! Caught you doing good!" platform, recognizing those who exemplify the Seven Habits and virtues by performing acts of kindness. Through the "GOTCHA!" platform, our teacher mentors actively recognize and celebrate students' acts of kindness and virtuous behavior. By identifying these teachable moments and highlighting them to the entire student body, we promote the values of the Seven Habits and virtues as integral components of personal growth and resilience.
+
+![](/images/2023%20Photos/CCE%20Update/image016.jpg)
+
+![](/images/2023%20Photos/CCE%20Update/image017.jpg)
+
+
+
+
