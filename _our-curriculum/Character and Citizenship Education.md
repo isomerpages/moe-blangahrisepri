@@ -55,5 +55,16 @@ At Blangah Rise, we take great pride in nurturing the essential 21st-century com
 
 Creating a school environment that nurtures community and togetherness, students' creative works adorn our walls, decorating trees, class notice boards, and level boards. Student Leaders actively share and encourage one another through the exchange of motivational quotes and stories, fostering understanding and empathy. This occurs before the singing of the National Anthem and on various notice boards, staircases, Art & NE Heritage Galleries.
 
+![](/images/2023%20Photos/CCE%20Update/image021.png)
+
+![](/images/2023%20Photos/CCE%20Update/image022.png)
+
+![](/images/2023%20Photos/CCE%20Update/image023.png)
+
+![](/images/2023%20Photos/CCE%20Update/image024.png)
+
+To nurture students' growth in virtues and the 7 Habits, we employ multiple recognition schemes that emphasize and encourage these values.
+
+![](/images/2023%20Photos/CCE%20Update/image025.png)
 
 
