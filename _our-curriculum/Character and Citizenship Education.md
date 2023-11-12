@@ -117,4 +117,8 @@ At Blangah Rise, we recognize that each student is unique, and our approach is c
 
 ![](/images/2023%20Photos/CCE%20Update/image007.png)
 
+![](/images/2023%20Photos/CCE%20Update/image008.jpg)
+
+![](/images/2023%20Photos/CCE%20Update/image009.png)
+
 At Blangah Rise Primary School, we are dedicated to nurturing the character growth of our students using a multifaceted approach. Our commitment is shown through our close mentorship programs, where we employ the strategies of the Virtues Project to guide our students in cultivating qualities such as empathy, responsibility, and resilience. These virtues are not mere abstract concepts; they are actively integrated into our students' daily experiences, both within and outside the classroom. Furthermore, we recognize the significance of preparing our students for today's fast-paced world. Blangah Rise Primary School is committed to equipping our students with these 21st-century competencies, including critical thinking, communication, collaboration, and creativity. Our curriculum and teaching methodologies are designed to nurture these competencies alongside traditional academic subjects. Through the seamless integration of virtues, the 7 Habits, and 21st-century competencies into our educational framework, we empower every student to discover the "Leader in Me" and the strength of peer support through the "Leader in Us." These principles are interwoven into every aspect of school life at Blangah Rise Primary School. By nurturing both the minds and characters of our students, we are preparing them not only for academic success but also for a future where they can lead with integrity, resilience, and a sense of purpose. 
