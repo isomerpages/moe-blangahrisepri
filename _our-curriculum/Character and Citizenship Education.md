@@ -40,6 +40,13 @@ Our commitment to mentorship extends beyond academic guidance. We honor the spir
 
 ![](/images/2023%20Photos/CCE%20Update/image019.png)
 
+Our dedication to mentorship extends to our comprehensive Career Guidance program, starting with introductory lessons for Middle Primary students and progressing to in-depth lessons and an annual Careers Fair, to guide them in making informed decisions about their education and careers. We firmly believe in our students' boldness to listen to their hearts and their courage to forge their own unique paths in life. 
+
+**Offer companioning** 
+
+Our teacher mentors walk alongside students as companions on their educational journey. Whether through morning meetings, House System activities, or career guidance, our educators offer companionship and support. This sense of companionship fosters trust, builds self-esteem, and encourages students to navigate their academic and personal challenges with confidence.
+Amidst the challenges of life, our commitment at Blangah Rise is to nurture the growth of every Blangahnite. Our educators stand as mentors and companions, walking beside our students on their journey to becoming tomorrow's bold learners equipped with 21st-century competencies.
+
 
 
 
