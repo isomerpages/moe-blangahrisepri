@@ -55,16 +55,18 @@ At Blangah Rise, we take great pride in nurturing the essential 21st-century com
 
 Creating a school environment that nurtures community and togetherness, students' creative works adorn our walls, decorating trees, class notice boards, and level boards. Student Leaders actively share and encourage one another through the exchange of motivational quotes and stories, fostering understanding and empathy. This occurs before the singing of the National Anthem and on various notice boards, staircases, Art & NE Heritage Galleries.
 
-![](/images/2023%20Photos/CCE%20Update/image021.png)
 
-![](/images/2023%20Photos/CCE%20Update/image022.png)
-
-![](/images/2023%20Photos/CCE%20Update/image023.png)
-
-![](/images/2023%20Photos/CCE%20Update/image024.png)
 
 To nurture students' growth in virtues and the 7 Habits, we employ multiple recognition schemes that emphasize and encourage these values.
 
 ![](/images/2023%20Photos/CCE%20Update/image025.png)
 
+At Blangah Rise, we consider all our students as precious gems, polishing them with love to enable them to shine brightly. The termly GEM Class award acknowledges students who work cooperatively, exemplifying the Seven Habits and underlying virtues as a class. The termly GEM Student award recognizes students from every level who consistently display the Seven Habits and virtues in their everyday actions.
 
+![](/images/2023%20Photos/CCE%20Update/image026.png)
+
+![](/images/2023%20Photos/CCE%20Update/image027.png)
+
+Students play an active role in creating a caring and positive peer culture within the school. They look out for one another, offer support to peers in need, and cultivate positive relationships, demonstrating their understanding, empathy, and respect for differences. We also collect inspiring stories to encourage students to learn from exemplary behaviors. 
+
+![](/images/2023%20Photos/CCE%20Update/image028.png)
