@@ -20,3 +20,7 @@ In our daily interactions, we prioritize building trusting relationships between
 
 Our commitment to mentorship extends to our House System, introduced in 2021, where we learn and grow together as a supportive community. Teachers actively connect with students and provide guidance. House members participate in team-building activities, fostering rapport within an atmosphere of trust, care, and respect. To support students academically, Teacher Mentors dedicate up to an hour before physical activities to guide self-study sessions. While fostering trust and open communication, our teachers also set clear boundaries to ensure a safe and respectful learning environment. By establishing these boundaries, students understand the expectations for behavior and conduct, creating a structured yet supportive context for virtues to thrive. 
 
+![](/images/2023%20Photos/CCE%20Update/image014.png)
+
+![](/images/2023%20Photos/CCE%20Update/image015.png)
+
