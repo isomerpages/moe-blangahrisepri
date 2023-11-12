@@ -84,3 +84,25 @@ In the Green Snapshots Trail, our students take participants on a learning journ
 ![](/images/2023%20Photos/CCE%20Update/image031.png)
 
 ![](/images/2023%20Photos/CCE%20Update/image032.png)
+
+Within our Learning for Life Programme (LLP), students actively care for the green gardens on our school premises and participate in environmental conservation efforts. From a young age, our students learn the importance of their role in conserving and protecting the environment in Singapore. 
+I have learnt how to recycle and make use of old things. Upcycling is when you make something better out of something that is not needed anymore. I like the activity and I am going to use what I made to store my pencils. I like that you can recycle things.
+*Gail, Primary 4*
+
+![](/images/2023%20Photos/CCE%20Update/image033.png)
+
+
+We encourage students to apply their learning of virtues and habits through service, fostering connectedness with the school and the broader community. Our commitment to communication, understanding, empathy, and civic literacy drives our students to become responsible citizens who actively contribute to their communities and in the world.
+
+![](/images/2023%20Photos/CCE%20Update/image036.jpg)
+
+![](/images/2023%20Photos/CCE%20Update/image037.jpg)
+
+![](/images/2023%20Photos/CCE%20Update/image039.png)
+
+Adaptive learning is like a tree that gracefully sheds its leaves with each new season, allowing it to not only embrace the changing environment but also to grow stronger over time. Just as the tree drops its old leaves to conserve energy and make room for new growth, adaptive learning sheds outdated knowledge and strategies, enabling our students to absorb fresh insights and adapt to evolving challenges. At Blangah Rise Primary, our adaptive learners continuously renew themselves, ensuring they remain vibrant and well-prepared for the ever-shifting landscape of knowledge and skills. Our holistic education approach, grounded in the 7 Habits and the Virtues Project, supports students on their personalized learning journeys. 
+In every facet of school life, our teacher mentors utilize the language of virtues to recognize and guide our students. They seize teachable moments and incorporate formal lessons to empower students to release their past selves and set new character goals. Within our Character and Citizenship Education (CCE) and Form Teacher Guidance Period (FTGP) lessons, teachers employ various scenarios to help students explore their motives and consider the virtues they wish to uphold.
+
+![](/images/2023%20Photos/CCE%20Update/image041.png)
+
+To nurture students' social and emotional skills, we offer a variety of programs, such as the First Days of School Programme, where students engage in curated activities to set goals and expectations. These activities align with the concept of personalized learning, allowing each student to define their unique path to growth.
