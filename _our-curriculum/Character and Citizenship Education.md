@@ -47,7 +47,13 @@ Our dedication to mentorship extends to our comprehensive Career Guidance progra
 Our teacher mentors walk alongside students as companions on their educational journey. Whether through morning meetings, House System activities, or career guidance, our educators offer companionship and support. This sense of companionship fosters trust, builds self-esteem, and encourages students to navigate their academic and personal challenges with confidence.
 Amidst the challenges of life, our commitment at Blangah Rise is to nurture the growth of every Blangahnite. Our educators stand as mentors and companions, walking beside our students on their journey to becoming tomorrow's bold learners equipped with 21st-century competencies.
 
+![](/images/2023%20Photos/CCE%20Update/image020.png)
 
+A tree's significance extends beyond its individual parts. It offers shelter, fragrant flowers, nourishing fruits, and a serene gathering place. Yet, a single tree cannot create a stable local climate. It is when many trees come together that they form an ecosystem, moderating temperature, storing water, and generating essential humidity. As a community, we can achieve what individuals cannot.
+
+At Blangah Rise, we take great pride in nurturing the essential 21st-century competencies that prepare our students for a dynamic and interconnected world. Civic literacy, collaboration, and communication are at the heart of our educational philosophy. We believe that these competencies are not just skills but cornerstones for responsible citizenship, effective teamwork, and meaningful engagement in our community. Through our holistic approach, we empower our students to become well-rounded individuals who are not only academically strong but also socially conscious, collaborative, and skilled communicators, ready to face the opportunities of the 21st century.
+
+Creating a school environment that nurtures community and togetherness, students' creative works adorn our walls, decorating trees, class notice boards, and level boards. Student Leaders actively share and encourage one another through the exchange of motivational quotes and stories, fostering understanding and empathy. This occurs before the singing of the National Anthem and on various notice boards, staircases, Art & NE Heritage Galleries.
 
 
 
