@@ -70,3 +70,17 @@ At Blangah Rise, we consider all our students as precious gems, polishing them w
 Students play an active role in creating a caring and positive peer culture within the school. They look out for one another, offer support to peers in need, and cultivate positive relationships, demonstrating their understanding, empathy, and respect for differences. We also collect inspiring stories to encourage students to learn from exemplary behaviors. 
 
 ![](/images/2023%20Photos/CCE%20Update/image028.png)
+
+Service is a cornerstone of our approach at Blangah Rise. We offer numerous meaningful activities to help students serve the community. During our annual EAS Day, students acknowledge, affirm, and appreciate the efforts of the school's non-teaching staff, facilitated by teachers. Students plan and execute various activities to make this day meaningful for these staff members.
+
+![](/images/2023%20Photos/CCE%20Update/image029.png)
+
+Our commitment to communication, understanding, and empathy extends beyond the school grounds. We organize storytelling sessions at library@harbourfront and Singapore Botanical Gardens, where our students bring to life Blangah Rise's self-written storybook about Care for the Environment. They narrate the book to members of the public, promoting understanding of environmental issues. Read the full story via the following [here](https://www.blangahrisepri.moe.edu.sg/2022/05/13/the-green-dragonflies-and-their-swampy-friends-gets-a-read-at-libraryhabourfront/) and [here](https://www.blangahrisepri.moe.edu.sg/2022/05/23/the-green-dragonflies-and-their-swampy-friends-at-the-festival-of-biodiversity-2022/).
+
+![](/images/2023%20Photos/CCE%20Update/image030.png)
+
+In the Green Snapshots Trail, our students take participants on a learning journey around Telok Blangah and Berlayer Creek, introducing the rich nature and heritage of the area to Singaporeans.
+
+![](/images/2023%20Photos/CCE%20Update/image031.png)
+
+![](/images/2023%20Photos/CCE%20Update/image032.png)
