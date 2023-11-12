@@ -32,6 +32,9 @@ We celebrate and acknowledge our students' growth through the "GOTCHA! Caught yo
 
 ![](/images/2023%20Photos/CCE%20Update/image017.jpg)
 
+**Honor the Spirit **
+
+Our commitment to mentorship extends beyond academic guidance. We honor the spirit of each student's individuality and potential. At Blangah Rise, we encourage our students to be reflective learners who boldly pave their own paths. Our teacher mentors instill decision-making skills and a growth mindset, empowering students to make informed choices and face life's challenges with courage. Through online conferencing, students gain exposure to inspirational stories of individuals who have harnessed their strengths to overcome obstacles and find their true calling. Julia, a Primary 6 student, excitedly shares her experience: "A barista showed us how to brew coffee online, and it was cool! I also found out about some of the challenges in working in the service industry." By promoting a growth mindset, we encourage them to honor their unique strengths and aspirations. This approach empowers students to develop their identities and pursue their passions.
 
 
 
