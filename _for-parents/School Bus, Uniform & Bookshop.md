@@ -76,7 +76,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Contact Person:</td>
-<td>Mr Dickson Ng (Centre Supervisor)</td>
+<td>Fionn Ling (Centre Supervisor)</td>
 </tr>
 <tr>
 <td>Contact No.:</td>
