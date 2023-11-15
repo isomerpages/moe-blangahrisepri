@@ -2,6 +2,7 @@
 title: P1 Orientation for 2024 Cohort
 permalink: /p1-orientation/2024-cohort/
 description: ""
+variant: markdown
 ---
 Dear Parents/Guardians,
 
@@ -32,7 +33,7 @@ For the 2024 P1 cohort, all parents are requested to complete the following form
 
 | Vendors |Website Link  | Remarks |
 | -------- | -------- | -------- |
-|  HB Book Centre    | [www.ihuntforbooks.com](https://www.ihuntforbooks.com/) <br>Sale dates: <br>P1 only: 7 Dec 2023<br>All levels: 8, 13, 14, 15 Dec 2023<br> Booklist: Will be provided in T4W10. <br>Nametag Order: [Nametag](https://docs.google.com/forms/d/e/1FAIpQLSe8_H_Q0-PpNuIKa9MC8RDllemt4B6F5poPNih5Jv4KfyG6rQ/viewform?pli=1)| Ordering starts from 1 Dec 2023     |
+|  HB Book Centre    | [www.ihuntforbooks.com](https://www.ihuntforbooks.com/) <br>Sale dates: <br>P1 only: 7 Dec 2023<br>All levels: 8, 13, 14, 15 Dec 2023<br>Booklist: [P1 Booklist 2024](/files/Booklist%202024/Booklist_2024_P1.pdf) <br>Nametag Order: [Nametag](https://docs.google.com/forms/d/e/1FAIpQLSe8_H_Q0-PpNuIKa9MC8RDllemt4B6F5poPNih5Jv4KfyG6rQ/viewform?pli=1)| Ordering starts from 1 Dec 2023     |
 | Beau Voix | [http://www.beauvoix.com.sg/](http://www.beauvoix.com.sg/) <br>Sale dates: <br>P1 only: 7 Dec 2023 <br>All levels: 8, 13, 14, 15 Dec 2023|  |
 | DKJ | [DKJ School Bus Service](https://docs.google.com/forms/d/e/1FAIpQLSdqEdE5Lzor4vs37CXzC1uoEmy1ICHepVotJoYhDmUmEdB4xw/viewform) |  Please register your interest via the link. DKJ staff will contact you in early Dec 2023.|
 | NASCAN PTE LTD – Student Care Centre | [Enquiry Form](https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2utFmFUZM7xdJBmRFLzQ7S9M=)| Please indicate your interest by 15 Nov 2023.     Email:[brscc@nascans.com](brscc@nascans.com)<br> Tel: 9459 6376 |

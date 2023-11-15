@@ -26,7 +26,7 @@ variant: markdown
 <td>97723370</td>
 </tr><tr>
 <td>School Bus Operator and Bus Fare:</td>
-<td><a href="/files/brps_school%20bus%20operator%20and%20nte%20price.pdf">School Bus Services</a></td>
+<td><a href="/files/Booklist%202024/School_Bus_Fare.pdf">School Bus Services</a></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Booklist</strong></td>
@@ -76,7 +76,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Contact Person:</td>
-<td>Mr Dickson Ng (Centre Supervisor)</td>
+<td>Fionn Ling (Centre Supervisor)</td>
 </tr>
 <tr>
 <td>Contact No.:</td>
