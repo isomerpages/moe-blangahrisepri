@@ -2,6 +2,7 @@
 title: School Bus, Uniform & Bookshop
 permalink: /parent-support-group/school-bus-uniform-bookshop/
 description: ""
+variant: markdown
 ---
 <div data-node="5c375f4666a41">
 <div>
@@ -29,7 +30,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Booklist</strong></td>
-<td><strong>Booklist 2023</strong><br><a href="/files/P2-Booklist-2023.pdf">P2 Booklist 2023</a><br><a href="/files/P3-Booklist-2023.pdf">P3 Booklist 2023</a><br><a href="/files/P4-Booklist-2023.pdf">P4 Booklist 2023</a><br><a href="/files/P5-Booklist-2023.pdf">P5 Booklist 2023</a><br><a href="/files/P6-Booklist-2023.pdf">P6 Booklist 2023</a></td>
+<td><strong>Booklist 2024</strong><br><a href="/files/Booklist%202024/Booklist_2024_P1.pdf">P1 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P2.pdf">P2 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P3.pdf">P3 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P4.pdf">P4 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P5.pdf">P5 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P6.pdf">P6 Booklist 2024</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
