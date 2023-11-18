@@ -30,14 +30,14 @@ sections:
       url: https://blangahrisepri.moe.edu.sg/annoucements/p-sept-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Going the distance to make a difference
+      title: Caring Teacher Awards 2024
       button: READ MORE
-      url: /annoucements/going-the-distance-to-make-a-difference/
-      image: /images/2023 Photos/Walk a Jog/1 brps annual walk a jog 2023 event
-        details.jpg
+      url: /annoucements/caring-teacher-awards-2024/
+      image: /images/Announcements/CTA_.jpg
       alt: Image alt text
-      description: The BRPS annual Walk-A-Jog celebrates Children's Day with a purpose
-        for our students.
+      description: As 2023 comes to a close, you may like to take some time to
+        appreciate your child’s teacher by nominating them for the Caring
+        Teacher Awards 2024
   - infopic:
       title: "Deepavali 2023: Light a lamp of love!"
       button: Click Here to read more
@@ -45,8 +45,8 @@ sections:
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/2023 Photos/Deepavali/p3_p4 dancers.jpg
-      description: "As one of Singapore's major cultural festivals, Deepavali is a
-        celebration that symbolizes the triumph of good over evil. "
+      description: As one of Singapore's major cultural festivals, Deepavali is a
+        celebration that symbolizes the triumph of good over evil.
   - infopic:
       title: Science Award - Singapore Primary Science Olympiad
       subtitle: HIGHLIGHTS
