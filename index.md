@@ -33,7 +33,7 @@ sections:
       title: Caring Teacher Awards 2024
       button: READ MORE
       url: /annoucements/caring-teacher-awards-2024/
-      image: /images/Announcements/CTA_.jpg
+      image: /images/Announcements/CTA.png
       alt: Image alt text
       description: As 2023 comes to a close, you may like to take some time to
         appreciate your child’s teacher by nominating them for the Caring
