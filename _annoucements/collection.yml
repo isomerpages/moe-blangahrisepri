@@ -2,6 +2,7 @@ collections:
   annoucements:
     output: true
     order:
+      - Caring Teacher Awards 2024.md
       - Going the distance to make a difference.md
       - Principal's September Letter.md
       - Students bag Distinctions and Awards at Mathematics Competitions.md
