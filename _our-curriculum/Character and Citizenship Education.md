@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /our-curriculum/cce/
+permalink: /our-curriculum/characterandcitizenshipeducation/
 description: ""
 variant: markdown
 ---
