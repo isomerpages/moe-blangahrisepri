@@ -39,6 +39,15 @@ sections:
         appreciate your child’s teacher by nominating them for the Caring
         Teacher Awards 2024
   - infopic:
+      title: Photojournalist of the Year 2023
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2023 Photos/POTY 2023/Andrew_.png
+      url: /highlights/2023/photojournalist-of-the-year-2023/
+      description: Our photography competition is back for the third year! The theme
+        for this competition is “Our Environment - Save our World”.
+  - infopic:
       title: "Deepavali 2023: Light a lamp of love!"
       button: Click Here to read more
       url: /highlights/2023/deepavali/
@@ -47,15 +56,6 @@ sections:
       image: /images/2023 Photos/Deepavali/p3_p4 dancers.jpg
       description: As one of Singapore's major cultural festivals, Deepavali is a
         celebration that symbolizes the triumph of good over evil.
-  - infopic:
-      title: Science Award - Singapore Primary Science Olympiad
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2023 Photos/Highlights/Science Award/pxl_20231023_051225419.jpg
-      url: /highlights/2023/scienceaward
-      description: This year, our Primary 5 students represented the school in the
-        Singapore Primary Science Olympiad (SPSO).
   - resources:
       title: Publications
       button: Click here to see more
