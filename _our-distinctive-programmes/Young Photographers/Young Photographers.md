@@ -67,7 +67,7 @@ After the outdoor shoots, students share compelling stories and perspectives thr
 <td style="width: 50%;"><img src="/images/Young%20Photographers/8___12R_5S_Gong_ZiBo_DSC_3160.jpg"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src=""></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/9.png"></td>
 <td style="width: 50%;"><img src="/images/Young%20Photographers/10___6T_Tham_Xuan_Yi_Nathan_Silva_121_8649.jpg"></td>
 </tr>
 </tbody>
