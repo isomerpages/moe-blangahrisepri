@@ -73,10 +73,12 @@ In celebration of Biodiversity Week from 19 to 26 May 2023, we produced a coffee
 <img style="width: 65%;" src="/images/2023%20Photos/Media%20Kids/media_25.JPG">
 
 
-<p><strong>Other Platforms to extend our MediaKids’ Learning: Photography Exhibition</strong></p>
+<p><strong>Other Platforms to extend our MediaKids’ Learning</strong></p>
 
 
 ![](/images/2023%20Photos/Media%20Kids/media_19.JPG)
+
+<p><strong>Photography Exhibition</strong></p>
 
 Titled Virtues of Creativity and Flexibility, this photograph was taken at Labrador Nature Reserve by Ser Yen. It was selected to be exhibited at the 18th Ngee Ann Photographic Exhibition for the Student Category. 
 
