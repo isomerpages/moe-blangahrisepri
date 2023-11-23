@@ -2,6 +2,7 @@
 title: Our Achievements
 permalink: /news/our-achievements/
 description: ""
+variant: markdown
 ---
 <img src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 <h4><strong>2023</strong></h4>
@@ -54,7 +55,7 @@ Top 8 in South Zone
 <li>Mathematical Olympiad: <div> - Honourable Mention: Chen Xinbo Mills (5 Topaz) </div> <div> - Bronze: Khush Pareek (5 Sapphire), Kayden Chu (5 Sapphire) </div></li>
 <li>Singapore Primary Science Olympiad 2023: <div>- Merit: Vo Catherine Tu (5 Topaz), Phua Ser Yen (5 Topaz), Khush Pareek (5 Sapphire) </div><div>- Bronze: Kayden Chu (5 Sapphire) </div> <div>- Silver: Gong Zibo (5 Sapphire)</div></li>
 <li> World Robot Olympiad Singapore 2023 - Future Innovators Elementary:<div>- 2nd Runner Up - Estaras Judah Maqdiel Torres (3 Opal), Charles Saranya Dave Nick (4 Topaz), Muthukrishnan Ruvanthigaa (5 Sapphire) </div><div> - Participation (Silver) - Nguyen Thuy Minh Anh (3 Sapphire), Ashley Kierra Gani (3 Sapphire), Mohd Mohideen Abdul Kader Zarinfaariha (5 Sapphire)</div></li>
-<li> Singapore Primary Science Olympiad:<div>- Silver Award - Gong Zibo, 5 Sapphire</div><div> - Bronze Award - Kayden Chu (5 Sapphire)</div><div> - Merit Awards - Vo Catherine Tu (5 Topaz), Phua Ser Yen (5 Topaz), Khush Pareek (5 Sapphire).</div></li>
+<li> Singapore Primary Science Olympiad:<div>- Silver Award - Gong Zibo, 5 Sapphire</div><div> - Bronze Award - Kayden Chu (5 Sapphire)</div></li>
 
 </ul>
 <h4><strong>2022</strong></h4>
