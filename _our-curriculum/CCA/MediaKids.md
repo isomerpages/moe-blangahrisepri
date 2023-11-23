@@ -19,11 +19,11 @@ Our MediaKids’ works are reviewed by their trainer, who gives them constructiv
 
 “I learn that sharing and reviewing each other’s work help us to become better in our skills and techniques,” says Rishi, a Primary 3 student.</p>
 <p><strong>Creative Photography<br></strong><strong>Shadows</strong></p>
-<img src="/images/mediakids2.png">
+<img src="/images/2023%20Photos/Media%20Kids/2.png">
 <p><strong>Photoelasticity</strong></p><p>
-<img src="/images/mediakids3.png">
+<img src="/images/2023%20Photos/Media%20Kids/3.png">
 </p><p><strong>The use of CDs</strong></p><p>
-<img src="/images/mediakids4.png">
+<img src="/images/2023%20Photos/Media%20Kids/4.png">
 	
 </p><p><strong>Toy Photography</strong></p><p>
 
@@ -58,7 +58,7 @@ They apply composition techniques as such Rule of Thirds, Leading Lines and Fram
 <p><strong>Bicentennial-Themed Coffee Table Book</strong></p>
 <img src="/images/Photo-8-2-1024x576.jpg">
 <p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed coffee table book, “Singapore Through Children’s Eyes” which was presented to President Halimah Yacob on 28 July 2019. President Halimah had written a foreword for the book, which was supported by the Singapore Bicentennial Office. Click here&nbsp;<a href="/bicentennial-coffee-table-book/">bicentennial coffee table book</a>&nbsp;to find out more about the book.</p>
-<img src="/images/mediakids6.png">
+<img src="/images/2023%20Photos/Media%20Kids/1.png">
 <p><strong>Here Comes The Storm Now: Our Covid-19 Diary</strong></p>
 <img style="width: 65%;" src="/images/Covid-19-274x300.jpg">
 <p>MediaKids’ photographs taken during their e-CCA sessions were featured in our book, “Here Comes The Storm Now: Our Covid-19 Diary”. It documents our Covid-19 experiences through the eyes of our educators, children and parents. This book is dedicated to frontline heroes who have kept Singapore safe so that our children can continue learning in school. Please click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/02/BRPS-Our-Covid19-Diary.pdf">here</a>&nbsp;to read our Covid-19 Diary.</p>
