@@ -3,6 +3,7 @@ title: MediaKids
 permalink: /departments/ccas/mediakids/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 <img src="/images/2023%20Photos/Media%20Kids/media_24.JPG">
 
@@ -43,7 +44,7 @@ Our MediaKids’ works are reviewed by their trainer, who gives them constructiv
 </p><p><strong>Outdoor Shoots</strong></p><p>
 <img src="/images/2023%20Photos/Media%20Kids/media_16.JPG">	
 
-</p><img src="/images/2023%20Photos/Media%20Kids/media_27.JPG"><p></p>
+</p><img src="/images/2023%20Photos/Media%20Kids/IMG_8860.JPG"><p></p>
 	
 <img src="/images/2023%20Photos/Media%20Kids/media_26.JPG">	
 
@@ -83,6 +84,11 @@ Accompanying her photograph was a write-up:
 I like to experiment and try new things. This is my first time capturing the landscape by using a lensball. The landscape of Labrador Nature Reserve appears as an inverted image in the lensball. This image resonates with me as it reminds me of being creative, flexible and looking at things from different perspectives, especially when we are facing difficulties.
 
 Ser Yen said, “Our CCA lessons are conducted by a professional photographer. Through him, we learn more than just taking photographs. Our outdoor shoots include understanding the environment and nature, and how our cameras can capture how nature interact.”
+
+**11th National Primary School Competition Award**
+
+![](/images/2023%20Photos/Media%20Kids/003__1_.jpg)
+Photograph by Ser Yen attained Merit Award
 
 <p><strong>Come Join Us!</strong></p>
 <img style="width: 65%;" src="/images/2023%20Photos/Media%20Kids/media_28.JPG">
