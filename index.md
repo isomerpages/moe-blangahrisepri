@@ -48,14 +48,14 @@ sections:
       description: Our photography competition is back for the third year! The theme
         for this competition is “Our Environment - Save our World”.
   - infopic:
-      title: "Deepavali 2023: Light a lamp of love!"
+      title: "Learning a Life of Adventure: BRLC Celebrates! 2023"
       button: Click Here to read more
-      url: /highlights/2023/deepavali/
+      url: /highlights/2023/brlc-celebrates/
       alt: Image alt text
       subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/Deepavali/p3_p4 dancers.jpg
-      description: As one of Singapore's major cultural festivals, Deepavali is a
-        celebration that symbolizes the triumph of good over evil.
+      image: /images/2023 Photos/BRLC Celebrates/BRLC_11.jpg
+      description: The day was brimming with excitement and joy at the annual BRLC
+        Celebrates!
   - resources:
       title: Publications
       button: Click here to see more
