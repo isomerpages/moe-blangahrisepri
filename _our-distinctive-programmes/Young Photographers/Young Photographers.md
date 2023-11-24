@@ -3,6 +3,7 @@ title: Young Photographers
 permalink: /our-distinctive-programmes/young-photographers/
 description: ""
 third_nav_title: Young Photographers
+variant: markdown
 ---
 <img src="/images/2023%20Photos/resized_yp_1.JPG">
 <h4><strong>Learning Through Photography</strong></h4>
@@ -50,28 +51,24 @@ After the outdoor shoots, students share compelling stories and perspectives thr
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/ypa3.jpg"></td>
-<td style="width: 50%;"><img src="/images/ypa4.jpg"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/1___8R_3O_Chen_Gao_Sheng_391a.jpg"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/2___8R_3O_Ning_Haohan_384.jpg"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/ypa5.jpg"></td>
-<td style="width: 50%;"><img src="/images/ypa6.jpg"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/3__8R_4O_Muthurasu_Thanushraj_DSC_0496.JPG"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/4___8R_4O_Nurul_Illiyyin_Binte_Muhamad_Roslan_DSC_7338.JPG"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/ypa7.jpg"></td>
-<td style="width: 50%;"><img src="/images/ypa8.jpg"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/5___8R_4S_Temperance_Lee_Yan_Yi_201.jpg"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/6___8R_4T_Han_Yi_Zhong__Titus_104_8116.JPG"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/ypa9.jpg"></td>
-<td style="width: 50%;"><img src="/images/ypa10.jpg"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/7___8R_5T_Nur_Wani_Rindiani_Binte_Ismail_121_7687.JPG"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/8___12R_5S_Gong_ZiBo_DSC_3160.jpg"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/ypa11.jpg"></td>
-<td style="width: 50%;"><img src="/images/ypa12.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><img src="/images/ypa13.jpg"></td>
-<td style="width: 50%;"><img src="/images/ypa14.jpg"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/9.png"></td>
+<td style="width: 50%;"><img src="/images/Young%20Photographers/10___6T_Tham_Xuan_Yi_Nathan_Silva_121_8649.jpg"></td>
 </tr>
 </tbody>
 </table>

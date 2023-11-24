@@ -3,6 +3,7 @@ title: MediaKids
 permalink: /departments/ccas/mediakids/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 <img src="/images/2023%20Photos/Media%20Kids/media_24.JPG">
 
@@ -18,11 +19,11 @@ Our MediaKids’ works are reviewed by their trainer, who gives them constructiv
 
 “I learn that sharing and reviewing each other’s work help us to become better in our skills and techniques,” says Rishi, a Primary 3 student.</p>
 <p><strong>Creative Photography<br></strong><strong>Shadows</strong></p>
-<img src="/images/mediakids2.png">
+<img src="/images/2023%20Photos/Media%20Kids/2.png">
 <p><strong>Photoelasticity</strong></p><p>
-<img src="/images/mediakids3.png">
+<img src="/images/2023%20Photos/Media%20Kids/3.png">
 </p><p><strong>The use of CDs</strong></p><p>
-<img src="/images/mediakids4.png">
+<img src="/images/2023%20Photos/Media%20Kids/4.png">
 	
 </p><p><strong>Toy Photography</strong></p><p>
 
@@ -43,9 +44,9 @@ Our MediaKids’ works are reviewed by their trainer, who gives them constructiv
 </p><p><strong>Outdoor Shoots</strong></p><p>
 <img src="/images/2023%20Photos/Media%20Kids/media_16.JPG">	
 
-</p><img src="/images/2023%20Photos/Media%20Kids/media_27.JPG"><p></p>
+</p><img src="/images/2023%20Photos/Media%20Kids/IMG_8860.JPG"><p></p>
 	
-<img src="/images/2023%20Photos/Media%20Kids/media_26.JPG">	
+<img src="/images/2023%20Photos/Media%20Kids/IMG_8858__1_.jpg">	
 
 <p></p><p>MediaKids also have the opportunity to hone their photography skills through outdoor shoots at locations such as Telok Blangah Hill Park, Mount Faber, HortPark, Labrador Nature Reserve and Keppel Bay Bridge. 
 They apply composition techniques as such Rule of Thirds, Leading Lines and Framing. Their works are proudly displayed at our photo gallery in school and used in our publications! At the same time, MediaKids get to learn more about the environment and explore environmental issues through their lenses.
@@ -57,7 +58,7 @@ They apply composition techniques as such Rule of Thirds, Leading Lines and Fram
 <p><strong>Bicentennial-Themed Coffee Table Book</strong></p>
 <img src="/images/Photo-8-2-1024x576.jpg">
 <p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed coffee table book, “Singapore Through Children’s Eyes” which was presented to President Halimah Yacob on 28 July 2019. President Halimah had written a foreword for the book, which was supported by the Singapore Bicentennial Office. Click here&nbsp;<a href="/bicentennial-coffee-table-book/">bicentennial coffee table book</a>&nbsp;to find out more about the book.</p>
-<img src="/images/mediakids6.png">
+<img src="/images/2023%20Photos/Media%20Kids/1.png">
 <p><strong>Here Comes The Storm Now: Our Covid-19 Diary</strong></p>
 <img style="width: 65%;" src="/images/Covid-19-274x300.jpg">
 <p>MediaKids’ photographs taken during their e-CCA sessions were featured in our book, “Here Comes The Storm Now: Our Covid-19 Diary”. It documents our Covid-19 experiences through the eyes of our educators, children and parents. This book is dedicated to frontline heroes who have kept Singapore safe so that our children can continue learning in school. Please click&nbsp;<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/02/BRPS-Our-Covid19-Diary.pdf">here</a>&nbsp;to read our Covid-19 Diary.</p>
@@ -72,10 +73,12 @@ In celebration of Biodiversity Week from 19 to 26 May 2023, we produced a coffee
 <img style="width: 65%;" src="/images/2023%20Photos/Media%20Kids/media_25.JPG">
 
 
-<p><strong>Other Platforms to extend our MediaKids’ Learning: Photography Exhibition</strong></p>
+<p><strong>Other Platforms to extend our MediaKids’ Learning</strong></p>
 
 
 ![](/images/2023%20Photos/Media%20Kids/media_19.JPG)
+
+<p><strong>Photography Exhibition</strong></p>
 
 Titled Virtues of Creativity and Flexibility, this photograph was taken at Labrador Nature Reserve by Ser Yen. It was selected to be exhibited at the 18th Ngee Ann Photographic Exhibition for the Student Category. 
 
@@ -83,6 +86,11 @@ Accompanying her photograph was a write-up:
 I like to experiment and try new things. This is my first time capturing the landscape by using a lensball. The landscape of Labrador Nature Reserve appears as an inverted image in the lensball. This image resonates with me as it reminds me of being creative, flexible and looking at things from different perspectives, especially when we are facing difficulties.
 
 Ser Yen said, “Our CCA lessons are conducted by a professional photographer. Through him, we learn more than just taking photographs. Our outdoor shoots include understanding the environment and nature, and how our cameras can capture how nature interact.”
+
+**11th National Primary School Competition Award**
+
+![](/images/2023%20Photos/Media%20Kids/003__1_.jpg)
+Photograph by Ser Yen attained Merit Award
 
 <p><strong>Come Join Us!</strong></p>
 <img style="width: 65%;" src="/images/2023%20Photos/Media%20Kids/media_28.JPG">
