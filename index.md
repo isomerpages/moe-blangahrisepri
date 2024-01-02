@@ -24,10 +24,10 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's September Letter
+      title: Principal's January Letter
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/annoucements/p-sept-letter/
+      url: /annoucements/principal-january-letter-2024/
       image: /images/Announcements/mr foo.JPG
   - infopic:
       title: Caring Teacher Awards 2024
