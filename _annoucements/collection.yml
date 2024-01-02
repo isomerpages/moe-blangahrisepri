@@ -2,6 +2,7 @@ collections:
   annoucements:
     output: true
     order:
+      - Principal's January Letter.md
       - Caring Teacher Awards 2024.md
       - Going the distance to make a difference.md
       - Principal's September Letter.md

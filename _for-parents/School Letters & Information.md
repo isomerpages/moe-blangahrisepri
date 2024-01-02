@@ -2,10 +2,17 @@
 title: School Letters & Information
 permalink: /parent-support-group/school-letters-information/
 description: ""
+variant: markdown
 ---
 <img src="/images/For-Parents-General-Information2.png">
 <ul class="jekyllcodex_accordion">
 <li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1">2024</label>
+<div>
+<p><strong>Principal's Letter</strong></p>
+<p><a href="/files/P's%20Letter/2024_01_Principal.pdf">Principal's January Letter 2024</a></p>
+	
 <input type="checkbox" id="accordion1">
 <label for="accordion1">2023</label>
 <div>
@@ -22,5 +29,5 @@ description: ""
 <p><a href="/files/P5-PTM-2-Feb-2023-.pdf">P5 Parent-Teacher Meeting Slides</a></p>
 <p><a href="/files/P6-PTM-2-FEB-2023-.pdf">P6 Parent-Teacher Meeting Slides</a></p>
 </div>
-</li>
+</div></li>
 </ul>
