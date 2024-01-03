@@ -1,0 +1,109 @@
+logo: /images/updatedlogowithtagline_kite_lesswhitespace.jpg
+links:
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our Leadership
+        url: /about-us/our-leadership/
+      - title: Our Staff
+        url: /about-us/our-staff/
+      - title: School Advisory Committee
+        url: /about-us/school-advisory-committee/
+      - title: Our Alumni
+        url: /about-us/alumni/
+      - title: Our Identity
+        url: /about-us/our-identity/
+      - title: Our MOE Kindergarten
+        url: /moe-kindergarten-blangah-rise/
+      - title: Feature on Our Educators
+        url: /2022/05/12/leveraging-e-pedagogy-to-impart-21st-cc-skills-miss-seow-wen-yi/
+      - title: Feature on Our Students
+        url: /2021/08/20/two-brps-students-advance-to-finals-of-2021-scrabble-tournament-for-beginners-by-mattel/
+  - title: Curriculum
+    url: /departments/english-language/
+    sublinks:
+      - title: English Language
+        url: /departments/english-language/
+      - title: Mother Tongue
+        url: /departments/mother-tongue/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Student Development
+        url: /our-curriculum/characterandcitizenshipeducation/
+      - title: Infocomm Technology
+        url: /departments/infocomm-technology/
+      - title: Aesthetics Education
+        url: /our-curriculum/aesthetics-education/
+      - title: PE Education
+        url: /departments/pe-aesthetics-education/
+      - title: CCAs
+        url: /departments/ccas/
+      - title: Modular CCA (House)
+        url: /modular-cca-house/
+  - title: Distinctive Programmes
+    url: /our-distinctive-programmes/applied-learning-programme-alp/
+    sublinks:
+      - title: Applied Learning Programme
+        url: /our-distinctive-programmes/applied-learning-programme-alp/
+      - title: APEX Programme
+        url: /our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/
+      - title: Chinese Junior Reporters
+        url: /our-distinctive-programmes/chinese-junior-reporters/
+      - title: Learning for Life Programme
+        url: /our-distinctive-programmes/learning-for-life-programme/
+      - title: The Green Snapshots (TGS)
+        url: /the-green-snapshots-tgs/
+      - title: The Leader in Me
+        url: /our-distinctive-programmes/the-leader-in-me/
+      - title: Viewpoints
+        url: /viewpoints/
+      - title: Young Photographers
+        url: /our-distinctive-programmes/young-photographers/
+  - title: Special Projects
+    url: /our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/
+    sublinks:
+      - title: Bicentennial Coffee Table Book
+        url: /our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/
+      - title: Covid-19 Book
+        url: /2021/02/02/here-comes-the-storm-now-our-covid-19-diary/
+      - title: Reflections of an Overcomer
+        url: /reflections-of-an-overcomer-life-lessons-from-our-sg-sports-heroes/
+      - title: The Green Dragonflies & T.S.F
+        url: /our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/
+      - title: Friends Of Berlayer Creek
+        url: /friends-of-berlayer-creek/
+      - title: A Bowl of Nature
+        url: https://blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/
+  - title: For Parents
+    url: /news/our-achievements/
+    sublinks:
+      - title: News & Achievements
+        url: /news/our-achievements/
+      - title: School Calendar
+        url: /for-parents/calendar/
+      - title: Parents Communication
+        url: /guidelines-on-parents-communications/
+      - title: Virtual School Tour
+        url: /virtual-school-tour/
+      - title: P1 Orientation for 2024 Cohort
+        url: /p1-orientation/2024-cohort/
+      - title: Parent Support Group
+        url: /parent-support-group/parent-group/
+      - title: School Letters & Information
+        url: /parent-support-group/school-letters-information/
+      - title: School Bus, Uniform & Bookshop
+        url: /parent-support-group/school-bus-uniform-bookshop/
+      - title: SATS School Meals Programme
+        url: /parent-support-group/sats-school-meals-programme/
+      - title: The Growing Years
+        url: /parent-support-group/the-growing-years-programme/
+      - title: School Rules and Regulations
+        url: /parent-support-group/our-school-rules-and-regulations/
+      - title: MOE FAS Application
+        url: /moe-fas-application/
+      - title: FAQs
+        url: /parent-support-group/faq/

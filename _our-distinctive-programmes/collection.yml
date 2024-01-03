@@ -1,0 +1,20 @@
+collections:
+  our-distinctive-programmes:
+    output: true
+    order:
+      - Applied Learning Programme (ALP).md
+      - Accelerated Programme to Enhance Students' eXperience (APEX).md
+      - Chinese Junior Reporters.md
+      - Learning for Life Programme (LLP).md
+      - The Green Snapshots/.keep
+      - The Green Snapshots/The Green Snapshots (TGS).md
+      - The Green Snapshots/Learning about Science.md
+      - The Green Snapshots/Animals & Plants in Telok Blangah Hill Park.md
+      - The Green Snapshots/Build A Bridge Challenge.md
+      - The Leader in Me.md
+      - Viewpoints.md
+      - Young Photographers/.keep
+      - Young Photographers/Young Photographers.md
+      - Young Photographers/Photojournalist of the Year 2023.md
+      - Young Photographers/Photojournalist of the Year 2022.md
+      - Young Photographers/Photographer of the Year 2021.md

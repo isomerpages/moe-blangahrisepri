@@ -1,0 +1,23 @@
+collections:
+  special-projects:
+    output: true
+    order:
+      - Bicentennial Coffee Table Book/.keep
+      - Bicentennial Coffee Table Book/Bicentennial Coffee Table Book.md
+      - "Bicentennial Coffee Table Book/Telok Blangah Song: Our Bicentennial
+        Version.md"
+      - "Bicentennial Coffee Table Book/The Making of: Singapore Through
+        Children's Eyes.md"
+      - Covid 19 Book/.keep
+      - "Covid 19 Book/Here Comes The Storm Now: Our Covid 19 Diary.md"
+      - Covid 19 Book/Our Covid 19 Diary.md
+      - Covid 19 Book/Seeds of Encouragement.md
+      - Reflections of an Overcomer/.keep
+      - Reflections of an Overcomer/Menu.md
+      - Reflections of an Overcomer/Stories.md
+      - Reflections of an Overcomer/Video.md
+      - Reflections of an Overcomer/Postcards.md
+      - Reflections of an Overcomer/Posters.md
+      - The Green Dragonflies and Their Swampy Friends.md
+      - Friends of Berlayer Creek.md
+      - A Bowl of Nature.md

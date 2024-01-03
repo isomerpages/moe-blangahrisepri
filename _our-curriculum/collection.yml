@@ -1,0 +1,36 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Mathematics.md
+      - Science.md
+      - Character and Citizenship Education.md
+      - Infocomm Technology.md
+      - Aesthetics Education.md
+      - PE Education.md
+      - CCA/.keep
+      - CCA/CCAs.md
+      - CCA/Badminton.md
+      - CCA/Basketball.md
+      - CCA/Football.md
+      - CCA/MediaKids.md
+      - CCA/STEM.md
+      - CCA/Art and Design Club.md
+      - CCA/Scout.md
+      - CCA/Red Cross.md
+      - CCA/Dance Club.md
+      - CCA/Frisbee.md
+      - CCA/Floorball.md
+      - Modular CCA (House)/.keep
+      - Modular CCA (House)/Modular CCA (House).md
+      - Modular CCA (House)/Delta.md
+      - Modular CCA (House)/Gillman.md
+      - Modular CCA (House)/Keppel.md
+      - Modular CCA (House)/Redhill.md
+      - Modular CCA (House)/Inter House Games.md
