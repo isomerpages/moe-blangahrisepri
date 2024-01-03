@@ -39,14 +39,14 @@ sections:
         appreciate your child’s teacher by nominating them for the Caring
         Teacher Awards 2024
   - infopic:
-      title: Photojournalist of the Year 2023
+      title: Primary 1 First Day of School
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2023 Photos/POTY 2023/Andrew_.png
-      url: /highlights/2023/photojournalist-of-the-year-2023/
-      description: Our photography competition is back for the third year! The theme
-        for this competition is “Our Environment - Save our World”.
+      image: /images/2024 Photos/First Day of School/FDoS_1.JPG
+      url: /highlights/2024/first-day-of-school/
+      description: The sun cast its early light over Blangah Rise Primary School on 2
+        January 2024, signaling the arrival of a momentous day.
   - infopic:
       title: "Learning a Life of Adventure: BRLC Celebrates! 2023"
       button: Click Here to read more

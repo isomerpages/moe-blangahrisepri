@@ -89,7 +89,7 @@ I'm thankful to live in a big city which has a great and accessible nature!</p>
 <p style="text-align: left;">Life is full of ups and downs, sometimes we get wet and drenched but just remember to stay cool. Take heart and a rainbow can shine anywhere most of us least expected. </p>
 
 <h4 style="text-align: center;"><strong>Honourable Mention</strong></h4>
-<img style="width: 100%;" src="/images/2023%20Photos/POTY%202023/5T_Danielle_1.jpeg">
+<img style="width: 100%;" src="/images/2023%20Photos/POTY%202023/P6_Gail_.png">
 <p style="text-align: center;"><strong>GAIL LIEN ZHAO XIN, 6 Sapphire</strong></p>
 <p style="text-align: left;">This photograph uses several composition techniques as I showcase the theme of Water. 
 The first is symmetry. The two sides of the river are lined with nature and greenery. This creates more visual engagement to the end of the river, where we can see the iconic skyline of Singapore.
