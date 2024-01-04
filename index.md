@@ -39,14 +39,13 @@ sections:
         teachers, aged 35 and below, who are inspiring role models for the
         teaching profession.
   - infopic:
-      title: "Learning a Life of Adventure: BRLC Celebrates! 2023"
+      title: President’s Award for Teachers 2024
       button: Click Here to read more
-      url: /highlights/2023/brlc-celebrates/
+      url: /annoucements/presidents-award-for-teachers/
       alt: Image alt text
-      subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/BRLC Celebrates/BRLC_11.jpg
-      description: The day was brimming with excitement and joy at the annual BRLC
-        Celebrates!
+      image: /images/2024 Photos/Announcements/PAT_2024_website_publicity_image.gif
+      description: The President's Award for Teachers (PAT) recognises excellent and
+        experienced educators who are role models for the teaching profession.
   - infopic:
       title: Primary 1 First Day of School
       subtitle: HIGHLIGHTS
