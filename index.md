@@ -30,14 +30,22 @@ sections:
       url: /annoucements/principal-january-letter-2024/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Caring Teacher Awards 2024
+      title: Outstanding Youth in Education Award 2024
       button: READ MORE
-      url: /annoucements/caring-teacher-awards-2024/
-      image: /images/Announcements/CTA.png
+      url: /annoucements/outstanding-youth-education-award-2024/
+      image: /images/2024 Photos/Announcements/OYEA_2024_website_publicity_image.jpg
       alt: Image alt text
-      description: As 2023 comes to a close, you may like to take some time to
-        appreciate your child’s teacher by nominating them for the Caring
-        Teacher Awards 2024
+      description: The Outstanding Youth in Education Award (OYEA) recognises young
+        teachers, aged 35 and below, who are inspiring role models for the
+        teaching profession.
+  - infopic:
+      title: President’s Award for Teachers 2024
+      button: Click Here to read more
+      url: /annoucements/presidents-award-for-teachers/
+      alt: Image alt text
+      image: /images/2024 Photos/Announcements/PAT_2024_website_publicity_image.gif
+      description: The President's Award for Teachers (PAT) recognises excellent and
+        experienced educators who are role models for the teaching profession.
   - infopic:
       title: Primary 1 First Day of School
       subtitle: HIGHLIGHTS
@@ -47,15 +55,6 @@ sections:
       url: /highlights/2024/first-day-of-school/
       description: The sun cast its early light over Blangah Rise Primary School on 2
         January 2024, signaling the arrival of a momentous day.
-  - infopic:
-      title: "Learning a Life of Adventure: BRLC Celebrates! 2023"
-      button: Click Here to read more
-      url: /highlights/2023/brlc-celebrates/
-      alt: Image alt text
-      subtitle: HIGHLIGHTS
-      image: /images/2023 Photos/BRLC Celebrates/BRLC_11.jpg
-      description: The day was brimming with excitement and joy at the annual BRLC
-        Celebrates!
   - resources:
       title: Publications
       button: Click here to see more
