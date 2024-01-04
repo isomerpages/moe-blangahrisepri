@@ -30,23 +30,14 @@ sections:
       url: /annoucements/principal-january-letter-2024/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Caring Teacher Awards 2024
+      title: Outstanding Youth in Education Award 2024
       button: READ MORE
-      url: /annoucements/caring-teacher-awards-2024/
-      image: /images/Announcements/CTA.png
+      url: /annoucements/outstanding-youth-education-award-2024/
+      image: /images/2024 Photos/Announcements/OYEA_2024_website_publicity_image.jpg
       alt: Image alt text
-      description: As 2023 comes to a close, you may like to take some time to
-        appreciate your child’s teacher by nominating them for the Caring
-        Teacher Awards 2024
-  - infopic:
-      title: Primary 1 First Day of School
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2024 Photos/First Day of School/FDoS_1.JPG
-      url: /highlights/2024/first-day-of-school/
-      description: The sun cast its early light over Blangah Rise Primary School on 2
-        January 2024, signaling the arrival of a momentous day.
+      description: The Outstanding Youth in Education Award (OYEA) recognises young
+        teachers, aged 35 and below, who are inspiring role models for the
+        teaching profession.
   - infopic:
       title: "Learning a Life of Adventure: BRLC Celebrates! 2023"
       button: Click Here to read more
@@ -56,6 +47,15 @@ sections:
       image: /images/2023 Photos/BRLC Celebrates/BRLC_11.jpg
       description: The day was brimming with excitement and joy at the annual BRLC
         Celebrates!
+  - infopic:
+      title: Primary 1 First Day of School
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2024 Photos/First Day of School/FDoS_1.JPG
+      url: /highlights/2024/first-day-of-school/
+      description: The sun cast its early light over Blangah Rise Primary School on 2
+        January 2024, signaling the arrival of a momentous day.
   - resources:
       title: Publications
       button: Click here to see more
