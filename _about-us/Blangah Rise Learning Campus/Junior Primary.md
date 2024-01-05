@@ -2,7 +2,7 @@
 title: Junior Primary
 permalink: /departments/junior-primary/
 description: ""
-third_nav_title: Our MOE Kindergarten
+third_nav_title: Blangah Rise Learning Campus
 ---
 <img src="/images/Photo-1-5.jpg">
 <img src="/images/John-_Kimberly_5477_2000x1384px_96dpi.jpg">
