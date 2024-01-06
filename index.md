@@ -55,6 +55,13 @@ sections:
       url: /highlights/2024/first-day-of-school/
       description: The sun cast its early light over Blangah Rise Primary School on 2
         January 2024, signaling the arrival of a momentous day.
+  - infopic:
+      title: Launching the 4th Edition of Bravo! Newsletter
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Dive into the latest edition of BRavo! Written by students, for students
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: Publications
       button: Click here to see more
