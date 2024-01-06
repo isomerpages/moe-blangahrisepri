@@ -60,7 +60,7 @@ sections:
       subtitle: HIGHLIGHTS
       id: infopic
       description: Dive into the latest edition of BRavo! Written by students, for students
-      button: Button Text
+      button: CLICK HERE TO READ MORE
       alt: Image alt text
       url: /highlights/2024/4th-edition-of-bravo-newsletter/
       image: /images/2024 Photos/BRAVO/BRAVO_1.jpg
