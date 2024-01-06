@@ -63,7 +63,7 @@ sections:
       button: Button Text
       alt: Image alt text
       url: /highlights/2024/4th-edition-of-bravo-newsletter/
-      image: /images/2024 Photos/HIGHLIGHTS/BRAVO_1.jpg
+      image: /images/2024 Photos/BRAVO/BRAVO_1.jpg
   - resources:
       title: Publications
       button: Click here to see more
