@@ -30,14 +30,13 @@ sections:
       url: /annoucements/principal-january-letter-2024/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Outstanding Youth in Education Award 2024
+      title: School Green Awards 2023
       button: READ MORE
-      url: /annoucements/outstanding-youth-education-award-2024/
-      image: /images/2024 Photos/Announcements/OYEA_2024_website_publicity_image.jpg
+      url: /annoucements/school-green-awards-2023/
+      image: /images/2024 Photos/Announcements/SGA_Award_2023.jpg
       alt: Image alt text
-      description: The Outstanding Youth in Education Award (OYEA) recognises young
-        teachers, aged 35 and below, who are inspiring role models for the
-        teaching profession.
+      description: Blangah Rise Primary School received the Vanda Miss Joaquim Award
+        at the School Green Awards (SGA) Presentation in November 2023.
   - infopic:
       title: President’s Award for Teachers 2024
       button: Click Here to read more
