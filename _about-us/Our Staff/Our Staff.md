@@ -3,8 +3,9 @@ title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
-<img src="/images/image19.jpg">
+<img src="/images/2024%20Photos/Staff%20Photo/All_Staff.jpg">
 <h3 style="text-align: center;"><a href="/2022/05/12/leveraging-e-pedagogy-to-impart-21st-cc-skills-miss-seow-wen-yi/">Special Feature on our Educators</a></h3>
 <p><a href="/our-school/our-staff/english-teachers/">
 <img src="/images/Blangah-Rise-Departments1.jpeg" style="width:50%">
