@@ -10,11 +10,10 @@ variant: markdown
 
 
 **ROW 1 (FRONT):**  <br>
-Ms Ivy Teo, Mr Patrick Goh, Ms Guo Yawen, Mr James Han, Mr Marcus Chan, Mr Zaini Daud, Ms Elaine Heng, Ms Shang Mingzhu, Ms Anjanaa Sankar, 
+Ms Ivy Teo, Mr Patrick Goh, Ms Guo Yawen, Mr James Han, Mr Marcus Chan, Mr Zaini Daud, Ms Elaine Heng, Ms Shang Mingzhu, Ms Anjanaa Sankar, Mdm Thajunisah d/o Mohidin Pillai
 
 **ROW 2 (MIDDLE):**  <br>
 Ms Judy Kong, Mrs Grace Lee, Ms Teo Mui Li, Ms Junaidah, Ms Maddie Wong, Mdm Stephanie Song, Mdm Hung Mong Ping, Mr Pradipdatta Puvanendran, Mdm Dong Wenyan, Mr Wong Oon Hua
 
 **ROW 3 (BACK):** <br>
 Mr Samuel Ooi, Mr Chua Kah Hern
- 
