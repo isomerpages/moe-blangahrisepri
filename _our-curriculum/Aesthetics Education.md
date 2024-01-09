@@ -4,9 +4,8 @@ permalink: /our-curriculum/aesthetics-education/
 description: ""
 variant: markdown
 ---
-
 ![](/images/2024%20Photos/Banners/Aesthetics.jpg)
- <font size="-1">Community Performance @ PAssion Arts Village</font>
+<p></p><center><font size="-1">Community Performance @ PAssion Arts Village</font></center><p></p>
 
 **Vision:**
 A creative and vibrant Arts environment which cultivates every child to be competent and confident, with an appreciation for the Arts.
