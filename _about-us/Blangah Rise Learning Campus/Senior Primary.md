@@ -3,9 +3,10 @@ title: Senior Primary
 permalink: /departments/senior-primary/
 description: ""
 third_nav_title: Blangah Rise Learning Campus
+variant: markdown
 ---
 <img src="/images/SP-Level-photo2020.jpg">
-<img src="/images/Stephanie-Qinjin_5463-cropped-min.jpg">
+
 <h4 style="text-align: center;"><strong>WE&nbsp;<em>LEARN</em>&nbsp;AS ONE<br></strong><strong>WE&nbsp;<em>PLAY</em>&nbsp;AS ONE<br></strong><strong>WE&nbsp;<em>SUCCEED</em>&nbsp;AS ONE</strong></h4>
 <p><strong>A note from the Year Head, Mdm Stephanie Song and Assistant Year Head, Mr Leow Qinjin<br></strong>Welcome to Senior Primary!</p>
 <p>Motivation and support from teachers and friends are the drivers to our children’s success. This year, we have planned many level programmes and activities that focus on building the camaraderie between students and teachers.</p>
