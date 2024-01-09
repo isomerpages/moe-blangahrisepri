@@ -8,7 +8,7 @@ variant: markdown
 <img src="/images/SP-Level-photo2020.jpg">
 
 <h4 style="text-align: center;"><strong>WE&nbsp;<em>LEARN</em>&nbsp;AS ONE<br></strong><strong>WE&nbsp;<em>PLAY</em>&nbsp;AS ONE<br></strong><strong>WE&nbsp;<em>SUCCEED</em>&nbsp;AS ONE</strong></h4>
-<p><strong>A note from the Year Head, Mdm Stephanie Song and Assistant Year Head, Mr Leow Qinjin<br></strong>Welcome to Senior Primary!</p>
+<p><strong>A note from the Year Head, Mdm Stephanie Song and Assistant Year Head, Ms Munirah <br></strong>Welcome to Senior Primary!</p>
 <p>Motivation and support from teachers and friends are the drivers to our children’s success. This year, we have planned many level programmes and activities that focus on building the camaraderie between students and teachers.</p>
 <p>The programmes planned not only extend learning beyond the classroom, but they also make lessons come alive for our students.</p>
 <p>We look forward to your continued partnership!</p>
