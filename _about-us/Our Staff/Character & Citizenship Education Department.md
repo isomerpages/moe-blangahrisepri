@@ -3,17 +3,21 @@ title: Character & Citizenship Education Department
 permalink: /about-us/our-staff/character-citizenship-education-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
-<img src="/images/ccedept2.jpg">
+<img src="/images/2024%20Photos/Banners/CCE_Committee_2024.png">
 
 
 
 
 **ROW 1 (FRONT):**  <br>
-Mrs Jenny Quek, Mr James Han, Mr Patrick Goh, Mr Samuel Ooi, Mdm Stephanie Song, Mdm Kimberly Koh, Ms Eileen Puah
+Ms Ivy Teo, Mr Patrick Goh, Ms Guo Yawen, Mr James Han, Mr Marcus Chan, Mr Zaini Daud, Ms Elaine Heng, Ms Shang Mingzhu, Ms Anjanaa Sankar, 
+
+Mrs Jenny Quek,     Mdm Kimberly Koh, Ms Eileen Puah
 
 **ROW 2 (MIDDLE):**  <br>
-Mdm Dong Wenyan, Ms Elaine Heng, Ms Guo Yawen, Ms Shang Mingzhu, Ms Anjanaa Sankar, Ms Nur Qurratuaini Binte Mohd Zuhri
+Ms Judy Kong, Mrs Grace Lee, Ms Teo Mui Li, Ms Junaidah, Ms Maddie Wong, Mdm Stephanie Song, Mr Pradipdatta Puvanendran, Mdm Dong Wenyan, Mr Wong Oon Hua
 
 **ROW 3 (BACK):** <br>
-Ms Maddie Wong, Mr Marcus Chan, Mr Wong Oon Hua, Mr Dinesh s/o Loganadhan, Mr Pradipdatta Puvanendran, Mr Zaini Daud, Ms Teo Mui Li
+Mr Samuel Ooi, Mr Chua Kah Hern
+ 
