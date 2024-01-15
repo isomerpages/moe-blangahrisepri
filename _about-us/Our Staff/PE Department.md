@@ -1,8 +1,9 @@
 ---
-title: PE, CCA, Art and Music Department
-permalink: /about-usl/our-staff/pe-cca-art-and-music-teachers/
+title: PE Department
+permalink: /about-usl/our-staff/pe-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
 ![](/images/2023%20Photos/Staff%20Photo/pe%20staff.JPG)
 
