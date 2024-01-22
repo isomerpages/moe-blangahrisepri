@@ -47,67 +47,13 @@ variant: markdown
 </ol>
 <p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2024</u>:</strong></p>
 <p style="text-align: center;"><strong>Primary 5</strong></p>
-<table>
-<thead>
-<tr>
-<td><strong>UNIT</strong></td>
-<td><strong>LESSONS / DURATION</strong></td>
-<td><strong>LESSON OVERVIEW</strong></td>
-<td><strong>TIME PERIOD</strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="2">Growing Years</td>
-<td>The Changes in Me
-<p>(60 min)</p>
-</td>
-<td><div>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</div><br>
-<div>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</div>
-</td>
-<td>Term 1 Week 9</td>
-</tr>
-<tr>
-<td>Keeping Myself Safe
-<p>(60 min)</p>
-</td>
-<td><div>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</div><br>
-<div>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</div>
-</td>
-<td>Term 2 Week 9</td>
-</tr>
 
-</tbody>
-</table>
+![](/images/Growing%20Years/Growing_Years_1.jpg)
+
 <p style="text-align: center;"><strong>Primary 6</strong></p>
-<table>
-<thead>
-<tr>
-<td width="120"><strong>UNIT</strong></td>
-<td width="201"><strong>LESSONS / DURATION</strong></td>
-<td width="416"><strong>LESSON OVERVIEW</strong></td>
-<td width="198"><strong>TIME PERIOD</strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="3" width="120">Growing Years</td>
-<td width="201">Are We More than Friends?
-<p>(60 min)</p>
-</td>
-<td width="416">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing&nbsp;feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-<td width="198">Term 1 Week 9</td>
-</tr>
-<tr>
-<td width="201">Are We More than Friends?
-<p>(60 min)</p>
-</td>
-<td width="416">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-<td width="198">Term 2 Week 6</td>
-</tr>
 
-</tbody>
-</table>
+![](/images/Growing%20Years/Growing_Years_2.jpg)
+
 <p><strong>Please Note:</strong></p>
 <p><strong>*For&nbsp;<u>2024</u>, the Primary 5 lesson “<em>Did You Know</em>?” will also be conducted for the Primary 6 cohort.&nbsp;</strong></p>
 <p><strong>Information for Parents</strong></p>
