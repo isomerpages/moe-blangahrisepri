@@ -38,12 +38,12 @@ variant: markdown
 <li>Form Teacher Guidance Period (FTGP)</li>
 <li>Character and Citizenship Education (CCE)</li>
 </ol>
-<p><strong><u>Growing Years (GY) Programme</u></strong>: “Curious Minds (2<sup>nd</sup>&nbsp;Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning resource package</p>
+<p><strong><u>Growing Years (GY) Programme</u></strong></p>
 <ol start="6">
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</li>
 </ol>
 <ol start="7">
-<li>The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2<sup>nd</sup>Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</li>
+<li>The Primary 5 &amp; 6 Growing Years (GY) package aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</li>
 </ol>
 <p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2024</u>:</strong></p>
 <p style="text-align: center;"><strong>Primary 5</strong></p>
