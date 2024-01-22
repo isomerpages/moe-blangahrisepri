@@ -120,6 +120,6 @@ variant: markdown
 <p><strong>Information for Parents</strong></p>
 <ol start="8">
 <li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
-<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Parents-Letter-Opt-out-Form_2023.pdf"><strong>here</strong></a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>10/02/2024</strong>.</li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Growing%20Years/Growing_Years_Programme_2024_01.pdf"><strong>here</strong></a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>10/02/2024</strong>.</li>
 <li>Parents can contact the school at&nbsp;<strong>brps@moe.edu.sg&nbsp;</strong>or&nbsp;<strong>6271 7387</strong>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li>
 </ol>
