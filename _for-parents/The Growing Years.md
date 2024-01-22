@@ -76,6 +76,7 @@ variant: markdown
 </td>
 <td>Term 2 Week 9</td>
 </tr>
+
 </tbody>
 </table>
 <p style="text-align: center;"><strong>Primary 6</strong></p>
@@ -102,17 +103,9 @@ variant: markdown
 <p>(60 min)</p>
 </td>
 <td width="416">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-<td width="198">Term 1 Week 9</td>
+<td width="198">Term 2 Week 6</td>
 </tr>
-<tr>
-<td width="201">Did You Know?&nbsp;<strong>*</strong>
-<p>(60 min)</p>
-</td>
-<td width="416"><div>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’.</strong></div><br>
-<div>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</div>
-</td>
-<td width="198">Term 2 Week 9</td>
-</tr>
+
 </tbody>
 </table>
 <p><strong>Please Note:</strong></p>
@@ -120,6 +113,6 @@ variant: markdown
 <p><strong>Information for Parents</strong></p>
 <ol start="8">
 <li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
-<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Growing%20Years/Growing_Years_Programme_2024_01.pdf"><strong>here</strong></a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>10/02/2024</strong>.</li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Growing%20Years/Growing_Years_Programme_2024_01.pdf"><strong>here</strong></a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>16/02/2024</strong>.</li>
 <li>Parents can contact the school at&nbsp;<strong>brps@moe.edu.sg&nbsp;</strong>or&nbsp;<strong>6271 7387</strong>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li>
 </ol>
