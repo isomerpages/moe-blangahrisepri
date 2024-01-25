@@ -46,14 +46,15 @@ sections:
       description: The President's Award for Teachers (PAT) recognises excellent and
         experienced educators who are role models for the teaching profession.
   - infopic:
-      title: Primary 1 First Day of School
+      title: P4 Student wins Merit Award
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2024 Photos/First Day of School/FDoS_1.JPG
-      url: /highlights/2024/first-day-of-school/
-      description: The sun cast its early light over Blangah Rise Primary School on 2
-        January 2024, signaling the arrival of a momentous day.
+      image: /images/2024 Photos/Highlight/Leia_.jpg
+      url: /highlights/2024/p4-student-wins/
+      description: Leia Lay, a 4 Opal student, was honored with a Certificate of Merit
+        for her exceptional achievement in the "I Can Be a Caring Commuter
+        Hero!" art competition
   - infopic:
       title: Launching the 4th Edition of Bravo! Newsletter
       subtitle: HIGHLIGHTS
