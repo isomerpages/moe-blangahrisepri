@@ -57,6 +57,7 @@ Top 8 in South Zone
 <li> World Robot Olympiad Singapore 2023 - Future Innovators Elementary:<div>- 2nd Runner Up - Estaras Judah Maqdiel Torres (3 Opal), Charles Saranya Dave Nick (4 Topaz), Muthukrishnan Ruvanthigaa (5 Sapphire) </div></li>
 <li>Singapore Primary Science Olympiad 2023: <div>- Merit: Vo Catherine Tu (5 Topaz), Phua Ser Yen (5 Topaz), Khush Pareek (5 Sapphire) </div><div>- Bronze: Kayden Chu (5 Sapphire) </div> <div>- Silver: Gong Zibo (5 Sapphire)</div></li>
 <li> Vanda Miss Joaquim Award</li>
+<li> Certificate of Merit "I Can Be a Caring Commuter Hero!" Art Competition - Leia Lay (3 Opal)</li>
 
 
 </ul>
