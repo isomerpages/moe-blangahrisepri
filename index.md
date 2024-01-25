@@ -52,9 +52,9 @@ sections:
       alt: Image alt text
       image: /images/2024 Photos/Highlight/Leia_.jpg
       url: /highlights/2024/p4-student-wins/
-      description: 'Leia Lay, a 4 Opal student, was honored with a Certificate of
-        Merit for her exceptional achievement in the "I Can Be a Caring Commuter
-        Hero!" art competition '
+      description: Leia Lay, a 4 Opal student, was honored with a Certificate of Merit
+        for her exceptional achievement in the "I Can Be a Caring Commuter
+        Hero!" art competition
   - infopic:
       title: Launching the 4th Edition of Bravo! Newsletter
       subtitle: HIGHLIGHTS
