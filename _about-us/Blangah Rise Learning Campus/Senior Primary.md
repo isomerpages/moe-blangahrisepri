@@ -8,15 +8,21 @@ variant: markdown
 <img src="/images/SP-Level-photo2020.jpg">
 
 <h4 style="text-align: center;"><strong>WE&nbsp;<em>LEARN</em>&nbsp;AS ONE<br></strong><strong>WE&nbsp;<em>PLAY</em>&nbsp;AS ONE<br></strong><strong>WE&nbsp;<em>SUCCEED</em>&nbsp;AS ONE</strong></h4>
-<p><strong>A note from the Year Head, Mdm Stephanie Song and Assistant Year Head, Ms Munirah <br></strong>Welcome to Senior Primary!</p>
-<p>Motivation and support from teachers and friends are the drivers to our children’s success. This year, we have planned many level programmes and activities that focus on building the camaraderie between students and teachers.</p>
-<p>The programmes planned not only extend learning beyond the classroom, but they also make lessons come alive for our students.</p>
-<p>We look forward to your continued partnership!</p>
-<p><strong>Note to Parents for Term 1<br></strong>A new year marks a new beginning. Let’s work together hand-in-hand, to help the students start afresh in 2022. As we are still in the midst of COVID-19 endemic, please rest assured that we will adhere strictly to the different SMM measures when planning and conducting the various class and level activities. Please do encourage your child to observe good hygiene habits by washing and sanitising their hands frequently and also ensure that they have spare masks in their bags. It is also important to have their TraceTogether tokens with them at all times.</p>
-<p>Having ample rest the night before a school day will maximise a student’s ability to concentrate during lessons and minimize the possibility of missing out important concepts in class. Therefore, please do ensure that your child sleeps early at night so he/she can be fully energised and be all ready to start the new day. Do encourage your child to be proactive by reminding him/her the importance of packing his/her schoolbag daily. Having the necessary stationary and books will help your child to be prepared for lessons. This will also help to ensure that your child’s school bag is not overly heavy.</p>
-<p>Lastly, teach and guide your child to prioritise and put first things first, ensure that all homework and revision stated in the student’s diary is done before they turn in for the night. By completing school work at home, your child not only can revise the concepts taught but also allow subject teachers to address the learning gaps and misconceptions from their work.</p>
-<p>Together, we can make a difference and help your child develop holistically and achieve his/her fullest potential. We look forward to working together with you.</p>
-<p>Yours sincerely,<br>Mdm Stephanie Song – Year Head Senior School<br>Mr Leow Qinjin – LH Science / Assistant Year Head Senior School</p>
+<p><strong>Note to Parents<br></strong>
+</p><p>Welcome to the Senior Primary webpage! We are excited to share valuable tips to support your child's success at school. Here are some practical suggestions for maximizing your child's potential during lessons:</p>
+<p>1. Prioritise Ample Rest:
+Ensure that your child gets enough rest the night before a school day. A good night's sleep enhances concentration and reduces the likelihood of missing important concepts in class. Encourage a consistent bedtime routine to help your child wake up refreshed and ready for the new day.</p>
+<p>2.	Promote Proactivity:
+Teach your child the importance of being proactive in preparing for school. Remind them to pack their schoolbag daily with the necessary stationery and books. This habit not only fosters responsibility but also ensures that your child is well-prepared for lessons. Emphasize the importance of keeping the school bag reasonably light to prevent unnecessary strain.</p>
+<p>3.	Complete Homework and Revision: 
+Support your child in completing all assigned homework and revision stated in their diary before bedtime. This practice not only reinforces the concepts learned in class but also allows teachers to address any learning gaps or misconceptions. By establishing a routine of completing school work at home, your child will develop strong study habits.</p>
+<p>By working together, we can make a positive impact on your child's holistic development and help them achieve their fullest potential. We look forward to partnering with you in fostering a supportive and enriching learning environment. Feel free to stay updated on our webpage for upcoming activities and events in the Senior Primary level. Thank you for your commitment to your child’s education!</p>
+
+Mdm Stephanie Song – Year Head Senior Primary
+
+Ms Munirah – Assistant Year Head Senior Primary 
+
+
 <p><strong>Click on the following links to view our P5 and P6 Level videos:</strong></p>
 <ol>
 <li><a href="https://youtu.be/Um75OttiGpg">P5 Level Video</a></li>
