@@ -90,20 +90,7 @@ Ms Munirah – Assistant Year Head Senior Primary
 <img src="/images/LBD-_-D-e1605618413726.jpg">
 <img src="/images/LBD-_-E.jpg">
 <img src="/images/LBD-_-F.jpg">
-<p><strong>P6 Motivation Camp (Session 1)</strong></p>
-<p style="text-align: center;"><strong><em>I Can’t… I Can… I Will…</em></strong></p>
-<p>During this Motivation Camp, our Primary 6 students get to further ignite their joy of learning through specially created activities created and designed by the Primary 6 teachers.</p>
-<p>The camp focuses on building students’ confidence and resilience and encourage them to work hard and move towards&nbsp;their goals in the national examinations at the end&nbsp;of the year.</p>
-<p>“During the first day of the motivational camp, we were tasked to get to know students from other classes. We also found out more about our personality by answering a series of questions. The next activity challenged us to stack cards up as high as we can. We thought that it was just for fun but it actually taught us an important virtue – patience. Patience allows us to suspend judgement thus making informed decisions. Likewise, if we stack the cards patiently, there is a higher chance of us succeeding.”<br><em>Jeremiah, 6 Topaz.</em></p>
-<img src="/images/1-e1585296461602.jpg">
-<img src="/images/2-e1585296451337.jpg">
-<img src="/images/3-e1585296441187.jpg">
-<p>“At around noon, a friend of mine guessed that the shoebox everybody was told to bring was to be used to construct an oven box. I did not think that her guess was right until the camp started. The teacher shared about the story of a girl who wanted to cook for her family with limited tools. After the presentation was over, the teacher encouraged us to create our own oven boxes. I instantly thought of three designs and I shared with my group. We got to test if the oven boxes worked by attempting to melt bars of chocolate under the sun in the parade square. It was really fun as we got to dip marshmallows in the chocolate that we had melted.”<br><em>Maureen, 6 Topaz.</em></p>
-<img src="/images/4-e1585296431979.jpg">
-<img src="/images/5-e1585296419251.jpg">
-<img src="/images/6-e1585296484402.jpg">
-<img src="/images/7-e1585296472779.jpg">
-<img src="/images/8-e1585296404751.jpg">
+
 <p><strong>BRPS LOVES SINGAPORE: National Education Show<br></strong>A P5 student’s dream comes true! What could be more satisfying than to celebrate our country’s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! Aarav shared, “I really enjoyed the NE show and learnt about Singapore’s history and the bicentennial year. My favourite part was when the Red Lions skydived from the helicopter, hovering over us. It was certainly a memorable experience!”</p>
 <img src="/images/Pic-2.jpg">
 <img src="/images/Pic-3-1024x768.jpg">
