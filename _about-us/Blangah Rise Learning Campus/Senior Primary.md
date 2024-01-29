@@ -51,12 +51,14 @@ Ms Munirah – Assistant Year Head Senior Primary
 
 ![](/images/2024%20Photos/SP%20Webpage/Photo_6.jpg)
 
-<p><strong>P6 Motivation Camp<br></strong>Our annual Primary 6 Motivation camp kicked off on 24 March 2022 with the theme, “I Can’t, I Can, I Will”. The camp aimed not only to provide opportunities for the students to build camaraderie among one another, it was also designed to incorporate activities that would help build confidence.</p>
-<p>On the first day of the camp, our students worked in their groups and used their Science knowledge to build a solar oven made of recycled materials. At the end of the project, they tested out their solar oven and even managed to melt some chocolate that they dipped with marshmallow. “I enjoyed the experiment on chocolate because I got to learn more about Science and material engineering during the experiment,” shared Kate from Primary 6 Topaz.</p>
+<p><strong>P6 Motivation Camp<br></strong></p>
+<p>Our annual Primary 6 Motivation camp kicked off on 21 March 2023 with the theme, “I Can’t, I Can, I Will”. The camp aimed not only to provide opportunities for the students to build camaraderie among one another, it was also designed to incorporate activities that would help build confidence.</p>
+<p>On the first day of the camp, our students worked in their groups and used the concepts they learnt in their Science lessons to build a solar oven made of recycled materials. At the end of the project, they tested out their solar oven and even managed to melt some chocolate that they dipped with marshmallow. “I enjoyed the making of the solar oven! I was able to put my knowledge on Materials into good use in this experiment. The best thing is I was able to melt the chocolate and enjoy the marsh mallow candies at the end of the experiment.” shared Lucas from Primary 6 Sapphire.</p>
 <p>On the second day of the camp, our students continued to challenge themselves and worked together to overcome many challenges in five different stations. The theme, “Reach For Your Goal”, put their teamwork skills to a test as they overcame challenges encountered in the five stations located around the school compound. The students relied on their strong bonds with their friends to overcome potential obstacles, even as the tasks provided opportunities for students to solve problems creatively.</p>
-<p>“The camp was fun but we also get to learn things like making a solar oven using concepts from Science. The most interesting activity was the ‘Ready, Aim, Shoot!’ on Day 2 because we had to score points which required skills and more importantly, teamwork,” reflected Aqeel from Primary 6 Topaz. It was heartening to see the students demonstrating virtues learnt throughout the camp! These are life skills that they would take them a long way even as they leave our gates.</p>
-<img src="/images/senior3.png">
-<img src="/images/senior4.png">
+<p>It was heartening to see the students demonstrating virtues learnt throughout the camp! These are life skills that they would take them a long way even as they leave our gates.</p>
+
+
+
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br></strong>A large amount of the student’s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
 <p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let’s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
 <img src="/images/20220131_090200-2048x1536.jpg">
