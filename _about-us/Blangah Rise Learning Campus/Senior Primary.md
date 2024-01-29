@@ -57,7 +57,21 @@ Ms Munirah – Assistant Year Head Senior Primary
 <p>On the second day of the camp, our students continued to challenge themselves and worked together to overcome many challenges in five different stations. The theme, “Reach For Your Goal”, put their teamwork skills to a test as they overcame challenges encountered in the five stations located around the school compound. The students relied on their strong bonds with their friends to overcome potential obstacles, even as the tasks provided opportunities for students to solve problems creatively.</p>
 <p>It was heartening to see the students demonstrating virtues learnt throughout the camp! These are life skills that they would take them a long way even as they leave our gates.</p>
 
+![](/images/2024%20Photos/SP%20Webpage/Photo_H.jpg)
 
+![](/images/2024%20Photos/SP%20Webpage/Photo_G.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_F.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_E.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_D.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_A.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_B.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_C.jpg)
 
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br></strong>A large amount of the student’s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
 <p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let’s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
