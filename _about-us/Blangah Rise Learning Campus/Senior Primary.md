@@ -82,14 +82,9 @@ Ms Munirah – Assistant Year Head Senior Primary
 <img src="/images/PXL_20220128_003532615MP_-scaled.jpg">
 <img src="/images/PXL_20220128_040453154MP_-scaled.jpg">
 <img src="/images/PXL_20220128_040513008MP_-scaled.jpg">
-<p><strong>P5 Programmes</strong></p>
-<p><strong>Level Bonding Day<br></strong>This year, our Level Bonding Day takes place very differently from previous years. With COVID 19, many activities have to be carried out innovatively to achieve their objectives. However, this does not deter us from having fun together! With the safety management measures in place, all of us had fun together even when we are 1 m apart! (*Disclaimer: pupils were not wearing masks as they were doing physical activities)</p>
-<img src="/images/LBD-_-A.jpg">
-<img src="/images/LBD-_-B.jpg">
-<img src="/images/LBD-_-C.jpg">
-<img src="/images/LBD-_-D-e1605618413726.jpg">
-<img src="/images/LBD-_-E.jpg">
-<img src="/images/LBD-_-F.jpg">
+<p><strong>Inter-House Games </strong></p>
+<p>Experience the excitement of our Interhouse games on the final day of the term! Students came together in their respective houses for a thrilling round of floorball. It was heartening to witness the heartwarming sight of students showcasing sportsmanship and enthusiastically cheering each other on throughout the game.</p>
+
 
 <p><strong>BRPS LOVES SINGAPORE: National Education Show<br></strong>A P5 student’s dream comes true! What could be more satisfying than to celebrate our country’s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! Aarav shared, “I really enjoyed the NE show and learnt about Singapore’s history and the bicentennial year. My favourite part was when the Red Lions skydived from the helicopter, hovering over us. It was certainly a memorable experience!”</p>
 <img src="/images/Pic-2.jpg">
