@@ -34,13 +34,23 @@ Ms Munirah – Assistant Year Head Senior Primary
 <p>“I had so much fun! I was able to control the robot’s movement. I hope that in the future I am able to program robots to help my family with housework!” <em>(Lin Zesheng, 5 Topaz)</em></p>
 <p>“It was fun and engaging! I get to play with robots and I learnt how to programme them. I aspire to be a game developer when I grow up!”&nbsp;<em>(Tam Chi Fung, 5 Sapphire)</em></p>
 <img src="/images/senior1.png">
-<p><img src="/images/2024%20Photos/SP%20Webpage/Photo_7.jpg">
+<p><img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_7.jpg">
 </p><p><strong>TSR Time in Senior Primary<br></strong>Teachers and students start a typical school day right by engaging in fun filled activities as well as meaningful conversations. During TSR time, teachers not only take the opportunity to bond with their students, they also create opportunities for students to build camaraderie amongst themselves. Teachers highlight positive behaviour displayed by pupils and affirmed their actions through a mixture of fun activities and conversations during this time.
 ‘TSR time is a great way to build meaningful relationships with my students. I am able to strengthen my bond with my class before the lesson and am able to interact freely with them. Most of all, it starts the day on a chirpy and engaging tone that keeps them motivated for the day’, quoted Ms Munirah!
 </p>
 
-<img src="/images/senior2.png">
-<p><img src="/images/Pic-5-2048x1536.jpg"></p>
+![](/images/2024%20Photos/SP%20Webpage/Photo_1.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_2.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_3.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photp_4.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_5.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_6.jpg)
+
 <p><strong>P6 Motivation Camp<br></strong>Our annual Primary 6 Motivation camp kicked off on 24 March 2022 with the theme, “I Can’t, I Can, I Will”. The camp aimed not only to provide opportunities for the students to build camaraderie among one another, it was also designed to incorporate activities that would help build confidence.</p>
 <p>On the first day of the camp, our students worked in their groups and used their Science knowledge to build a solar oven made of recycled materials. At the end of the project, they tested out their solar oven and even managed to melt some chocolate that they dipped with marshmallow. “I enjoyed the experiment on chocolate because I got to learn more about Science and material engineering during the experiment,” shared Kate from Primary 6 Topaz.</p>
 <p>On the second day of the camp, our students continued to challenge themselves and worked together to overcome many challenges in five different stations. The theme, “Reach For Your Goal”, put their teamwork skills to a test as they overcame challenges encountered in the five stations located around the school compound. The students relied on their strong bonds with their friends to overcome potential obstacles, even as the tasks provided opportunities for students to solve problems creatively.</p>
