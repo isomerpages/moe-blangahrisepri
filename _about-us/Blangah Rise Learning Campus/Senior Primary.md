@@ -8,15 +8,21 @@ variant: markdown
 <img src="/images/SP-Level-photo2020.jpg">
 
 <h4 style="text-align: center;"><strong>WE&nbsp;<em>LEARN</em>&nbsp;AS ONE<br></strong><strong>WE&nbsp;<em>PLAY</em>&nbsp;AS ONE<br></strong><strong>WE&nbsp;<em>SUCCEED</em>&nbsp;AS ONE</strong></h4>
-<p><strong>A note from the Year Head, Mdm Stephanie Song and Assistant Year Head, Ms Munirah <br></strong>Welcome to Senior Primary!</p>
-<p>Motivation and support from teachers and friends are the drivers to our children’s success. This year, we have planned many level programmes and activities that focus on building the camaraderie between students and teachers.</p>
-<p>The programmes planned not only extend learning beyond the classroom, but they also make lessons come alive for our students.</p>
-<p>We look forward to your continued partnership!</p>
-<p><strong>Note to Parents for Term 1<br></strong>A new year marks a new beginning. Let’s work together hand-in-hand, to help the students start afresh in 2022. As we are still in the midst of COVID-19 endemic, please rest assured that we will adhere strictly to the different SMM measures when planning and conducting the various class and level activities. Please do encourage your child to observe good hygiene habits by washing and sanitising their hands frequently and also ensure that they have spare masks in their bags. It is also important to have their TraceTogether tokens with them at all times.</p>
-<p>Having ample rest the night before a school day will maximise a student’s ability to concentrate during lessons and minimize the possibility of missing out important concepts in class. Therefore, please do ensure that your child sleeps early at night so he/she can be fully energised and be all ready to start the new day. Do encourage your child to be proactive by reminding him/her the importance of packing his/her schoolbag daily. Having the necessary stationary and books will help your child to be prepared for lessons. This will also help to ensure that your child’s school bag is not overly heavy.</p>
-<p>Lastly, teach and guide your child to prioritise and put first things first, ensure that all homework and revision stated in the student’s diary is done before they turn in for the night. By completing school work at home, your child not only can revise the concepts taught but also allow subject teachers to address the learning gaps and misconceptions from their work.</p>
-<p>Together, we can make a difference and help your child develop holistically and achieve his/her fullest potential. We look forward to working together with you.</p>
-<p>Yours sincerely,<br>Mdm Stephanie Song – Year Head Senior School<br>Mr Leow Qinjin – LH Science / Assistant Year Head Senior School</p>
+<p><strong>Note to Parents<br></strong>
+</p><p>Welcome to the Senior Primary webpage! We are excited to share valuable tips to support your child's success at school. Here are some practical suggestions for maximizing your child's potential during lessons:</p>
+<p>1. Prioritise Ample Rest:
+Ensure that your child gets enough rest the night before a school day. A good night's sleep enhances concentration and reduces the likelihood of missing important concepts in class. Encourage a consistent bedtime routine to help your child wake up refreshed and ready for the new day.</p>
+<p>2.	Promote Proactivity:
+Teach your child the importance of being proactive in preparing for school. Remind them to pack their schoolbag daily with the necessary stationery and books. This habit not only fosters responsibility but also ensures that your child is well-prepared for lessons. Emphasize the importance of keeping the school bag reasonably light to prevent unnecessary strain.</p>
+<p>3.	Complete Homework and Revision: 
+Support your child in completing all assigned homework and revision stated in their diary before bedtime. This practice not only reinforces the concepts learned in class but also allows teachers to address any learning gaps or misconceptions. By establishing a routine of completing school work at home, your child will develop strong study habits.</p>
+<p>By working together, we can make a positive impact on your child's holistic development and help them achieve their fullest potential. We look forward to partnering with you in fostering a supportive and enriching learning environment. Feel free to stay updated on our webpage for upcoming activities and events in the Senior Primary level. Thank you for your commitment to your child’s education!</p>
+
+Mdm Stephanie Song – Year Head Senior Primary
+
+Ms Munirah – Assistant Year Head Senior Primary 
+
+
 <p><strong>Click on the following links to view our P5 and P6 Level videos:</strong></p>
 <ol>
 <li><a href="https://youtu.be/Um75OttiGpg">P5 Level Video</a></li>
@@ -28,16 +34,45 @@ variant: markdown
 <p>“I had so much fun! I was able to control the robot’s movement. I hope that in the future I am able to program robots to help my family with housework!” <em>(Lin Zesheng, 5 Topaz)</em></p>
 <p>“It was fun and engaging! I get to play with robots and I learnt how to programme them. I aspire to be a game developer when I grow up!”&nbsp;<em>(Tam Chi Fung, 5 Sapphire)</em></p>
 <img src="/images/senior1.png">
-<p><strong>Morning Conversations in Senior Primary<br></strong>Teachers start a typical school day right by interacting with their students during Morning Conversations. These conversations take place before the first period of the day and focuses on different sets of virtues weekly. During Morning Conversations, teachers not only take the opportunity to bond with their students, they also create opportunities for students to build camaraderie amongst themselves. Teachers highlight positive behaviour displayed by pupils and affirmed their actions through a mixture of fun activities and conversations during this time.</p>
-<p>‘Morning conversation is a great way to build meaningful relationships with my students. I am able to strengthen my bond with my class before the lesson and am able to interact freely with them. Most of all, it starts the day on a chirpy and engaging tone that keeps them motivated for the day’, quoted Ms Munirah!</p>
-<img src="/images/senior2.png">
-<img src="/images/Pic-5-2048x1536.jpg">
-<p><strong>P6 Motivation Camp<br></strong>Our annual Primary 6 Motivation camp kicked off on 24 March 2022 with the theme, “I Can’t, I Can, I Will”. The camp aimed not only to provide opportunities for the students to build camaraderie among one another, it was also designed to incorporate activities that would help build confidence.</p>
-<p>On the first day of the camp, our students worked in their groups and used their Science knowledge to build a solar oven made of recycled materials. At the end of the project, they tested out their solar oven and even managed to melt some chocolate that they dipped with marshmallow. “I enjoyed the experiment on chocolate because I got to learn more about Science and material engineering during the experiment,” shared Kate from Primary 6 Topaz.</p>
+<p><img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_7.jpg">
+</p><p><strong>TSR Time in Senior Primary<br></strong>Teachers and students start a typical school day right by engaging in fun filled activities as well as meaningful conversations. During TSR time, teachers not only take the opportunity to bond with their students, they also create opportunities for students to build camaraderie amongst themselves. Teachers highlight positive behaviour displayed by pupils and affirmed their actions through a mixture of fun activities and conversations during this time.
+‘TSR time is a great way to build meaningful relationships with my students. I am able to strengthen my bond with my class before the lesson and am able to interact freely with them. Most of all, it starts the day on a chirpy and engaging tone that keeps them motivated for the day’, quoted Ms Munirah!
+</p>
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_1.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_2.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_3.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photp_4.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_5.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_6.jpg)
+
+<p><strong>P6 Motivation Camp<br></strong></p>
+<p>Our annual Primary 6 Motivation camp kicked off on 21 March 2023 with the theme, “I Can’t, I Can, I Will”. The camp aimed not only to provide opportunities for the students to build camaraderie among one another, it was also designed to incorporate activities that would help build confidence.</p>
+<p>On the first day of the camp, our students worked in their groups and used the concepts they learnt in their Science lessons to build a solar oven made of recycled materials. At the end of the project, they tested out their solar oven and even managed to melt some chocolate that they dipped with marshmallow. “I enjoyed the making of the solar oven! I was able to put my knowledge on Materials into good use in this experiment. The best thing is I was able to melt the chocolate and enjoy the marsh mallow candies at the end of the experiment.” shared Lucas from Primary 6 Sapphire.</p>
 <p>On the second day of the camp, our students continued to challenge themselves and worked together to overcome many challenges in five different stations. The theme, “Reach For Your Goal”, put their teamwork skills to a test as they overcame challenges encountered in the five stations located around the school compound. The students relied on their strong bonds with their friends to overcome potential obstacles, even as the tasks provided opportunities for students to solve problems creatively.</p>
-<p>“The camp was fun but we also get to learn things like making a solar oven using concepts from Science. The most interesting activity was the ‘Ready, Aim, Shoot!’ on Day 2 because we had to score points which required skills and more importantly, teamwork,” reflected Aqeel from Primary 6 Topaz. It was heartening to see the students demonstrating virtues learnt throughout the camp! These are life skills that they would take them a long way even as they leave our gates.</p>
-<img src="/images/senior3.png">
-<img src="/images/senior4.png">
+<p>It was heartening to see the students demonstrating virtues learnt throughout the camp! These are life skills that they would take them a long way even as they leave our gates.</p>
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_H.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_G.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_F.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_E.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_D.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_A.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_B.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/Photo_C.jpg)
+
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br></strong>A large amount of the student’s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
 <p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let’s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
 <img src="/images/20220131_090200-2048x1536.jpg">
@@ -47,33 +82,25 @@ variant: markdown
 <img src="/images/PXL_20220128_003532615MP_-scaled.jpg">
 <img src="/images/PXL_20220128_040453154MP_-scaled.jpg">
 <img src="/images/PXL_20220128_040513008MP_-scaled.jpg">
-<p><strong>P5 Programmes</strong></p>
-<p><strong>Level Bonding Day<br></strong>This year, our Level Bonding Day takes place very differently from previous years. With COVID 19, many activities have to be carried out innovatively to achieve their objectives. However, this does not deter us from having fun together! With the safety management measures in place, all of us had fun together even when we are 1 m apart! (*Disclaimer: pupils were not wearing masks as they were doing physical activities)</p>
-<img src="/images/LBD-_-A.jpg">
-<img src="/images/LBD-_-B.jpg">
-<img src="/images/LBD-_-C.jpg">
-<img src="/images/LBD-_-D-e1605618413726.jpg">
-<img src="/images/LBD-_-E.jpg">
-<img src="/images/LBD-_-F.jpg">
-<p><strong>P6 Motivation Camp (Session 1)</strong></p>
-<p style="text-align: center;"><strong><em>I Can’t… I Can… I Will…</em></strong></p>
-<p>During this Motivation Camp, our Primary 6 students get to further ignite their joy of learning through specially created activities created and designed by the Primary 6 teachers.</p>
-<p>The camp focuses on building students’ confidence and resilience and encourage them to work hard and move towards&nbsp;their goals in the national examinations at the end&nbsp;of the year.</p>
-<p>“During the first day of the motivational camp, we were tasked to get to know students from other classes. We also found out more about our personality by answering a series of questions. The next activity challenged us to stack cards up as high as we can. We thought that it was just for fun but it actually taught us an important virtue – patience. Patience allows us to suspend judgement thus making informed decisions. Likewise, if we stack the cards patiently, there is a higher chance of us succeeding.”<br><em>Jeremiah, 6 Topaz.</em></p>
-<img src="/images/1-e1585296461602.jpg">
-<img src="/images/2-e1585296451337.jpg">
-<img src="/images/3-e1585296441187.jpg">
-<p>“At around noon, a friend of mine guessed that the shoebox everybody was told to bring was to be used to construct an oven box. I did not think that her guess was right until the camp started. The teacher shared about the story of a girl who wanted to cook for her family with limited tools. After the presentation was over, the teacher encouraged us to create our own oven boxes. I instantly thought of three designs and I shared with my group. We got to test if the oven boxes worked by attempting to melt bars of chocolate under the sun in the parade square. It was really fun as we got to dip marshmallows in the chocolate that we had melted.”<br><em>Maureen, 6 Topaz.</em></p>
-<img src="/images/4-e1585296431979.jpg">
-<img src="/images/5-e1585296419251.jpg">
-<img src="/images/6-e1585296484402.jpg">
-<img src="/images/7-e1585296472779.jpg">
-<img src="/images/8-e1585296404751.jpg">
-<p><strong>BRPS LOVES SINGAPORE: National Education Show<br></strong>A P5 student’s dream comes true! What could be more satisfying than to celebrate our country’s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! Aarav shared, “I really enjoyed the NE show and learnt about Singapore’s history and the bicentennial year. My favourite part was when the Red Lions skydived from the helicopter, hovering over us. It was certainly a memorable experience!”</p>
-<img src="/images/Pic-2.jpg">
-<img src="/images/Pic-3-1024x768.jpg">
-<img src="/images/Pic-1-768x1024.jpg">
-<img src="/images/Pic-4.jpg">
+<p><strong>Inter-House Games </strong></p>
+<p>Experience the excitement of our Interhouse games on the final day of the term! Students came together in their respective houses for a thrilling round of floorball. It was heartening to witness the heartwarming sight of students showcasing sportsmanship and enthusiastically cheering each other on throughout the game.</p>
+
+![](/images/2024%20Photos/SP%20Webpage/IHG_1.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/IHG_2.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/IHG_3.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/IHG_4.jpg)
+
+<p><strong>BRPS LOVES SINGAPORE: National Education Show<br></strong>A P5 student’s dream comes true! What could be more satisfying than to celebrate our country’s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! </p>
+
+![](/images/2024%20Photos/SP%20Webpage/NE_1.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/NE2.jpg)
+
+![](/images/2024%20Photos/SP%20Webpage/NE3.jpg)
+
 <p><strong>P5 Young Photographers Programme<br></strong>This is a structured 4-day programme that allows students to learn about the different skills needed in photography to take excellent pictures. After going through the theory lessons, our students are given the opportunity to do an outdoor shoot at Marina Barrage!</p>
 <img src="/images/senior5.png">
 <p><strong>P5 STEM Activities<br></strong>Students worked together and used their creativity to programme and prototype a beach cleaner to remove trash found on the shore.</p>
