@@ -103,25 +103,3 @@ Ms Munirah – Assistant Year Head Senior Primary
 
 <p><strong>P5 Young Photographers Programme<br></strong>This is a structured 4-day programme that allows students to learn about the different skills needed in photography to take excellent pictures. After going through the theory lessons, our students are given the opportunity to do an outdoor shoot at Marina Barrage!</p>
 <img src="/images/senior5.png">
-<p><strong>P5 STEM Activities<br></strong>Students worked together and used their creativity to programme and prototype a beach cleaner to remove trash found on the shore.</p>
-<img src="/images/senior6.png">
-<img src="/images/Pic-11.jpg">
-<p><strong>P6 Programmes</strong></p>
-<p><strong>A Nature trail to Sungei Buloh<br></strong>“Nothing beats learning Science in an authentic environment. If we can’t bring nature into the classrooms, we bring our students into the nature,” says Mrs Jenny Quek, Head of Department for Science.</p>
-<p>Sungei Buloh Nature Reserve is a place students must visit when they learn about “Adaptation”. They learn about nature in the most natural setting. Untouched by modern urbanisation, students get to observe animals and plants in close proximity.</p>
-<p>Eunice shared, “I really enjoyed the trip as I get to see the animals living in their natural habitats! After all, it’s not every day that we get to see mudskippers crawling in the mud!”</p>
-<p>Bennett added, “The thing I enjoyed most during my Sungei Buloh trip is being able to learn about the mangrove environment and being in nature itself.”</p>
-<p>After the trip, Lynyan could now appreciate that “in a mangrove eco-system, there is a diversity of organisms that co-exist with one another in order to survive.”</p>
-<img src="/images/Pic-13-1024x498.jpg">
-<img src="/images/Pic-14-1024x498.jpg">
-<img src="/images/senior7.png">
-<p><strong>P6 Post-PSLE Programme<br></strong>This is a 4-week programme that consists of a variety of different activities to engage our students physically and cognitively! This year, the highlights of the programme include Kidzania, Behind the Scenes in the Zoo and many more!</p>
-<p><strong>Code for FUN Programme<br></strong>“Yes! It’s moving and turning around!” was a common refrain when our students experimented with robots during the Code for Fun Programme specially arranged for our P6 students. This programme aims to expose students to coding and computational thinking, and excite them with new technologies.</p>
-<p>Khaizuran shared, “This programme gives me an opportunity to work together with my friends. Together we use technology to create and control robots!”</p>
-<p>Dominic also learnt the importance of teamwork. “All of us have differences but as long as we work together as a team, we can still achieve our goals!”</p>
-<img src="/images/Pic-16-1024x768.jpg">
-<img src="/images/Pic-17-768x1024.jpg">
-<p><strong>Interclass Games</strong><br>After all the hard work in preparing for the PSLE, it is time to enjoy an exciting time of sports and games with our friends! The whole P6 cohort came together to participate in team building games as well as friendly matches of basketball and Frisbee. Through our participation in the activities, we can demonstrate teamwork and sportsmanship.</p>
-<img src="/images/Pic-19-1024x768.jpg">
-<img src="/images/Pic-20-1024x768.jpg">
-<img src="/images/Pic-18-768x1024.jpg">
