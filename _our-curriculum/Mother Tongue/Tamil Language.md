@@ -50,3 +50,7 @@ Cultural camps provide students with more opportunities to speak and learn their
 The Primary 3 and 4 students went for a learning journey to the Indian Heritage Centre. They understood how the different cultures have shaped Singapore’s multi-cultural heritage and they also recognised the contributions made by the Indian community in the development of Singapore. 
 
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21_1__2_.jpg" style="width:100%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21__2_.jpg" style="width:100%"></p>
+
+இந்தக் கற்றல் பயணத்தின்வழி சிங்கப்பூரின் வளர்ச்சியில் நம் முன்னோடிகளின்   பங்களிப்பைப்பற்றிப் பல தகவல்களைத் தெரிந்துகொண்டேன். -  **சாத்வீக்கா (5 Sapphire)**
+
+<p><strong>Inquiry Based Learning in Tamil</strong></p>
