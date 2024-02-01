@@ -3,6 +3,7 @@ title: MOE Kindergarten @ Blangah Rise
 permalink: /moe-kindergarten-blangah-rise/
 description: ""
 third_nav_title: Blangah Rise Learning Campus
+variant: markdown
 ---
 <img src="/images/BRPS-and-MK-Banner-Photo2.jpg"><br>
 <img src="/images/Marina-Ho_MK-CH-Website-683-x1024-96dpi-200x300.png" style="width:25%; padding:10px" align="left">
@@ -107,4 +108,4 @@ third_nav_title: Blangah Rise Learning Campus
 <p>Our children have much to look forward to when they move on to primary school in Blangah Rise. They are familiar with the physical building and the routines. In addition, the primary school teachers make the effort to know the MK children before the start of the new school year.</p>
 <p>This is what we do and believe in to give our children a STRONG START!</p>
 <p>View this video to find out more about MK@ Blangah Rise through an interview with our previous Centre Head!</p>
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/yUql6C7W82s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div><iframe width="560" height="315" src="https://youtu.be/CJiz8diyadw?si=fP7yzO1uy63vZtUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
