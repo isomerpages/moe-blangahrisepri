@@ -7,10 +7,10 @@ variant: markdown
 ---
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_4844.jpg" style="width:50%"></p>
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_130108__1_.jpg" style="width:50%"></p>
-<img src="/images/2024%20Photos/TL%20Webpage/TL_imgTamil_1.jpg">
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_imgTamil_1.jpg" style="width:50%"></p>
 
-‘யாமறிந்த மொழிகளிலே தமிழ்மொழிபோல்
- இனிதாவ தெங்குங் காணோம்’  
+&gt; ‘யாமறிந்த மொழிகளிலே தமிழ்மொழிபோல்
+&gt;  இனிதாவ தெங்குங் காணோம்’  
           **- மகாகவி சுப்பிரமணிய பாரதியார்**
 
 
@@ -65,3 +65,14 @@ They gather information and data based on the topic, and discuss with their peer
 
 இந்த நடவடிக்கையின்மூலம் நம் நாட்டைச் சுத்தமாக வைத்திருக்க வேண்டும் என்று நான் நன்கு புரிந்துகொண்டேன். மேலும் தக்க இணையத்தளங்களுக்கு எவ்வாறு செல்லலாம் என்று நான் மேலும் தெரிந்துகொண்டேன். –  **ரிஷி (4 Sapphire)**
 
+
+
+&gt; திருக்குறள்
+&gt; ஒழுக்கம் விழுப்பந் தரலான் ஒழுக்கம் உயிரினும் ஓம்பப் படும்.
+&gt; 
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_Image_Thiruvalluvar.jpg" style="width:80%"></p>
+
+
+&gt; **குறள் விளக்கம்**
+&gt; 
+&gt; ஒழுக்கமே எல்லார்க்கும் மேன்மையைத் தருவதாக இருப்பதால், அந்த ஒழுக்கமே உயிரை விடச் சிறந்ததாகப் போற்றப்படும்
