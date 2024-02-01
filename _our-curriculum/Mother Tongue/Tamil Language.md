@@ -40,4 +40,13 @@ Students’ participation in the activities such as Poetry Recitation, Storytell
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_2832.jpg" style="width:60%"></p>
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_2823.jpg" style="width:60%"></p>
 
+Cultural camps provide students with more opportunities to speak and learn their Mother Tongue Language in an authentic setting that is rich in the culture. These activities help students to appreciate their roots and learn the rationale and value in the various customary practices.
 
+இந்த முகாமின்போது தமிழர்களின் மரபைப்பற்றி நான் மேலும் தெரிந்துகொண்டேன். 
+– **டேவ்   (5 Topaz)**
+
+<p><strong>Learning Journey to Indian Heritage Centre</strong></p>
+
+The Primary 3 and 4 students went for a learning journey to the Indian Heritage Centre. They understood how the different cultures have shaped Singapore’s multi-cultural heritage and they also recognised the contributions made by the Indian community in the development of Singapore. 
+
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21_1__2_.jpg" style="width:100%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21__2_.jpg" style="width:100%"></p>
