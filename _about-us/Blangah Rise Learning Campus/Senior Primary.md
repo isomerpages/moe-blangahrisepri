@@ -25,7 +25,7 @@ Ms Munirah – Assistant Year Head Senior Primary
 
 <p><strong>Click on the following links to view our P5 and P6 Level videos:</strong></p>
 <ol>
-<li><a href="https://youtu.be/Um75OttiGpg">P5 Level Video</a></li>
+<li><a href="https://youtu.be/kMVUIlRurwk?si=Zm6B27Hk4S9oPbT0">P5 Level Video</a></li>
 <li><a href="https://youtu.be/Yj7nxoNji-U">P6 Level Video</a></li>
 </ol>
 <p><strong>P5 Code for Fun Programme<br></strong>Look at the glow on our Primary 5 pupils’ faces upon witnessing their own Sphero Bolts spinning and lighting up according to their programming! Today, Artificial Intelligence (AI) has become commonplace in daily lives. Hence, in BRPS, we see the need to expose our students to basic programming and coding skills.</p>
