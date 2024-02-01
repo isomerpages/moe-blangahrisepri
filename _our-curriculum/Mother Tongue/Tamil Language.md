@@ -36,3 +36,8 @@ Students’ participation in the activities such as Poetry Recitation, Storytell
 தமிழ்மொழி விளையாட்டுக்கள் மிகவும் சுவரசியமாக இருந்தன. நான் ஆர்வத்துடன் பங்குகொண்டேன். – **திக்‌ஷா  (4 Sapphire)**
 
 <p><strong>Tamil Language Camps</strong></p>
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_2836.jpg" style="width:60%"></p>
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_2832.jpg" style="width:60%"></p>
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_2823.jpg" style="width:60%"></p>
+
+
