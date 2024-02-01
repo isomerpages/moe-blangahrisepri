@@ -26,7 +26,7 @@ Ms Munirah – Assistant Year Head Senior Primary
 <p><strong>Click on the following links to view our P5 and P6 Level videos:</strong></p>
 <ol>
 <li><a href="https://youtu.be/kMVUIlRurwk?si=Zm6B27Hk4S9oPbT0">P5 Level Video</a></li>
-<li><a href="https://youtu.be/Yj7nxoNji-U">P6 Level Video</a></li>
+<li><a href="https://youtu.be/XYeY2lS7BAs?si=7VcFMA93zDOVQQVD">P6 Level Video</a></li>
 </ol>
 <p><strong>P5 Code for Fun Programme<br></strong>Look at the glow on our Primary 5 pupils’ faces upon witnessing their own Sphero Bolts spinning and lighting up according to their programming! Today, Artificial Intelligence (AI) has become commonplace in daily lives. Hence, in BRPS, we see the need to expose our students to basic programming and coding skills.</p>
 <p>In Term 2, our Primary 5 students went through a series of workshops where they learnt Computational Thinking through basic coding. In this enrichment class, students learn computational thinking and making, and are exposed to coding concepts through a blend of software input (visual/syntax-based programming language) and hardware output (Robotics and Microcontrollers). They even made use of their newly found skills to play traditional game like ‘Scissors, Paper, Stones’ with one another! Let’s hear what our students thought of this programme:</p>
