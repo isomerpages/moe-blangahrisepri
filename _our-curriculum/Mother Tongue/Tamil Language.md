@@ -54,3 +54,14 @@ The Primary 3 and 4 students went for a learning journey to the Indian Heritage 
 இந்தக் கற்றல் பயணத்தின்வழி சிங்கப்பூரின் வளர்ச்சியில் நம் முன்னோடிகளின்   பங்களிப்பைப்பற்றிப் பல தகவல்களைத் தெரிந்துகொண்டேன். -  **சாத்வீக்கா (5 Sapphire)**
 
 <p><strong>Inquiry Based Learning in Tamil</strong></p>
+
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IBL_Pic1.jpg" style="width:80%"></p>
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IBL_Pic2.jpg" style="width:80%"></p>
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IBL_Pic3.jpg" style="width:80%"></p>
+
+Inquiry Based Learning (IBL) engaged our students in self-directed and collaborative learning. With the authentic learning experience, IBL also promotes critical and inventive thinking skills in our students to solve real-world problems. In Tamil Language lessons, students carry out Inquiry-Based Learning in Tamil on a given topic. 
+
+They gather information and data based on the topic, and discuss with their peers to gain a better understanding. Teachers, as facilitators, provide the platform and guidance for students support them in their learning process. 
+
+இந்த நடவடிக்கையின்மூலம் நம் நாட்டைச் சுத்தமாக வைத்திருக்க வேண்டும் என்று நான் நன்கு புரிந்துகொண்டேன். மேலும் தக்க இணையத்தளங்களுக்கு எவ்வாறு செல்லலாம் என்று நான் மேலும் தெரிந்துகொண்டேன். –  **ரிஷி (4 Sapphire)**
+
