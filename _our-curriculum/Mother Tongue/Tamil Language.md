@@ -30,3 +30,9 @@ Tamil Language Fortnight creates an immersive and meaningful environment for the
 Students’ participation in the activities such as Poetry Recitation, Storytelling and Language Activities help to develop their interest and deepen their knowledge in Tamil Language. The fortnight activities help to instill in students the Joy of Learning Tamil Language and knowing its rich tradition and culture.
 
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_121013__3_.jpg" style="width:50%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230717_115625__2_.jpg" style="width:80%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_085644__1_.jpg" style="width:80%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_130208__1_.jpg" style="width:60%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230717_141353__2_.jpg" style="width:80%"></p>
+
+இந்த நடவடிக்கைகளால் நான் தமிழ்மொழி பண்பாட்டைப்பற்றி மேலும் தெரிந்துகொண்டேன். – **கிரித்விக் (2 Topaz)**
+
+தமிழ்மொழி விளையாட்டுக்கள் மிகவும் சுவரசியமாக இருந்தன. நான் ஆர்வத்துடன் பங்குகொண்டேன். – **திக்‌ஷா  (4 Sapphire)**
+
+<p><strong>Tamil Language Camps</strong></p>
