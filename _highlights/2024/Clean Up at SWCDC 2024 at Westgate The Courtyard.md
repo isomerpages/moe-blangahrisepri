@@ -5,16 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
-<p><strong>Clean-Up at SWCDC 2024 @ Westgate, The Courtyard</strong>
-</p>
+<h4><strong>Clean-Up at SWCDC 2024 @ Westgate, The Courtyard</strong></h4>
 <p>On 28 January 2024, our Student Leaders had the opportunity to present
 on our collaborative project with the National University of Singapore.
 Together with their NUS facilitators, our Student Leaders, Ser Yen, Marvell
 and Kai Xiang shared about the school's collaboration with Minister Gan
 Kim Yong, Mayor Low Yen Ling and members of the public.</p>
 <p>In addition, they shared our publications - A Bowl of Nature and The Green
-Dragon and The Swampy Friends, inviting Minister Gan and Mayor Low to sign
-a copy each.</p>
+Dragonflies and Their Swampy Friends, inviting Minister Gan and Mayor Low
+to sign a copy each.</p>
 <p></p>
 <p>Ser Yen had an unforgettable experience when Minister Gan requested her
 autograph for her section in the book! Our student leaders were indeed
