@@ -2,6 +2,7 @@
 title: A Bowl of Nature
 permalink: /special-projects/a-bowl-of-nature/
 description: ""
+variant: markdown
 ---
 <img style="width:70%" src="/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_3.JPG">
 
@@ -67,6 +68,14 @@ Teachers on a learning journey to Mount Faber and Berlayer Creek to find out mor
 ![](/images/2023%20Photos/A%20Bowl%20of%20Nature/bowl_1.JPG)
 
 Students putting their creative writing skills into practice as they are inspired by the photographs.
+
+**Clean-Up at SWCDC 2024 @ Westgate, The Courtyard**
+
+On 28 January 2024, our student leaders had the opportunity to present on our collaborative project with the National University of Singapore. Together with their NUS facilitators, our student leaders, Ser Yen, Marvell and Kai Xiang shared about the school's collaboration with Minister Gan Kim Yong, Mayor Low Yen Ling and members of the public. In addition, they shared our publications - A Bowl of Nature and The Green Dragonflies and Their Swampy Friends, inviting Minister Gan and Mayor Low to sign a copy each. Ser Yen had an unforgettable experience when Minister Gan requested her autograph for her section in the book! Our student leaders were indeed honoured to be able to share their work at this event. 
+
+![](/images/2024%20Photos/Clean%20Up%20at%20SWCDC%202024%20/WhatsApp_Image_2024_01_28_at_15_03_49.jpeg)
+
+![](/images/2024%20Photos/Clean%20Up%20at%20SWCDC%202024%20/WhatsApp_Image_2024_01_28_at_15_03_52.jpeg)
 
 #### Some Pages from A Bowl of Nature
 
