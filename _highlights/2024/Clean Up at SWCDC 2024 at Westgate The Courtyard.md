@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
-<p><strong>Clean-Up at SWCDC 2024 @ Westgate, The Courtyard</strong>
-</p>
+<h4><strong>Clean-Up at SWCDC 2024 @ Westgate, The Courtyard</strong></h4>
 <p>On 28 January 2024, our Student Leaders had the opportunity to present
 on our collaborative project with the National University of Singapore.
 Together with their NUS facilitators, our Student Leaders, Ser Yen, Marvell
