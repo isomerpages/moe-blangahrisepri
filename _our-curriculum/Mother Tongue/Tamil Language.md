@@ -7,7 +7,7 @@ variant: markdown
 ---
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_4844.jpg" style="width:50%"></p>
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_130108__1_.jpg" style="width:50%"></p>
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_imgTamil_1.jpg" style="width:50%"></p>
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_Words.jpg" style="width:50%"></p>
 
 ‘யாமறிந்த மொழிகளிலே தமிழ்மொழிபோல்
 இனிதாவ தெங்குங் காணோம்’  
