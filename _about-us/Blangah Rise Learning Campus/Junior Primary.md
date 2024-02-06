@@ -3,11 +3,12 @@ title: Junior Primary
 permalink: /departments/junior-primary/
 description: ""
 third_nav_title: Blangah Rise Learning Campus
+variant: markdown
 ---
 <img src="/images/Photo-1-5.jpg">
 <img src="/images/John-_Kimberly_5477_2000x1384px_96dpi.jpg">
 <h4 style="text-align: center;"><strong><em>You are off to Great Places! Today is your day!<br></em></strong><strong><em>Your mountain is waiting, so...<br></em></strong><strong>Get on your way!<br></strong><strong><em>- Dr Seuss</em></strong></h4>
-<p><strong>A note from the Acting Year Head, Mdm Kimberly Koh and Assistant Year Head, Mr John Chia<br></strong>Welcome to Junior Primary!</p>
+<p><strong>A note from the Year Head, Mdm Kimberly Koh and Assistant Year Head, Mr John Chia<br></strong>Welcome to Junior Primary!</p>
 <p>This is an exciting time of learning and growing for your child / ward where&nbsp;<strong>we grow deep and grow together</strong>.&nbsp;We are committed to providing the best learning environment to help your child /ward enjoy every moment of learning in school, both within and beyond the classroom.</p>
 <p>The formative years of education is very important, thus to help your child /ward develop the learning dispositions needed to become effective individuals, we grow your child / ward to be proactive learners. We nurture their&nbsp;<strong>curiosity</strong>&nbsp;about the world and help them enjoy learning new things with&nbsp;<strong>enthusiasm</strong>. We give them skills to work towards their learning goals in a disciplined manner. When they encounter difficulties, we encourage them&nbsp;<strong>to keep trying and not give up</strong>. We encourage them to learn together with their peers and&nbsp;<strong>collaborate as a team</strong>. In this way, your child / ward can truly experience&nbsp;<strong>the joy of learning</strong>!</p>
 <p>Our children succeed when parents / guardians and schools work hand in hand. Therefore, we look forward to your close partnership to bring out the best in your child / ward!</p>
