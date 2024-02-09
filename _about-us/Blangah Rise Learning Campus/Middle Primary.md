@@ -3,15 +3,18 @@ title: Middle Primary
 permalink: /departments/middle-primary/
 description: ""
 third_nav_title: Blangah Rise Learning Campus
+variant: markdown
 ---
-<img src="/images/IMG_8407E-min.jpg">
-<img src="/images/YH-Patrick-AYH-Victor_2020_8398-Final-min.jpg">
 <h4 style="text-align: center;"><strong><em>Children live up to what we believe of them.<br></em></strong><strong><em>We believe that every child wants to learn and can learn.</em></strong></h4>
-<p><strong>A note from the Year Head, Mr Patrick Goh and Assistant Year Head, Mr Victor Lim<br></strong>The Middle Primary is a robust team formed by talented and creative teachers who will combine their strengths, skills and ideas to work together to enrich your child’s time in school. My colleagues and I aim to nurture your child to the best of our abilities. We believe in establishing a strong partnership and an open communication with parents.</p>
-<p><strong>A note to parents&nbsp;<br></strong>We would like to welcome you and your child/ward to a brand new school year. We hope that the recent school break was enjoyable and well-utilised for you and your child/ward. We are delighted to see the students back in school, healthy and happy.</p>
-<p>Our role is to look into all student development matters including general discipline matters and provide intervention strategies where necessary. In addition, we will monitor the Middle Primary students’ progress and work together with the teachers to address areas of growth for your child/ward so as to give your child/ward a positive school experience this year.</p>
-<p>Thank you for your partnership and support in your child’s/ward’s education. We look forward to an exciting year of learning and growth for your child/ward.</p>
-<p>Yours sincerely,<br>Mr Patrick Goh and Mr Victor Lim</p>
+
+<p>Welcome to the Middle Primary (Primary 3 and 4) webpage!</p>
+<p>The Middle Primary is a robust team formed by talented and creative teachers who will combine their strengths, skills and ideas to work together to enrich your child’s time in school. My colleagues and I aim to nurture your child to the best of our abilities. We believe in establishing a strong partnership and an open communication with parents.</p>
+
+<p>A note to parents from the Year Heads,</p>
+<p>Dear Parents, our role is to look into all student development matters including general discipline matters and provide intervention strategies where necessary. In addition, we will monitor the Middle Primary students’ progress and work together with the teachers to address areas of growth for your child so as to give your child a positive school experience this year.</p>
+<p>Thank you for your partnership and support in your child’s education. We look forward to an exciting year of learning and growth for your child.</p>
+
+
 <p><strong>Click on the following links to view our P3 and P4 Level videos:</strong></p>
 <ol>
 <li><a href="https://youtu.be/JMqjCL_w0bM" target="_blank" rel="noopener">P3 Level Video</a></li>
