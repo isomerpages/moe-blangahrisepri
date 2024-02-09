@@ -15,12 +15,13 @@ variant: markdown
 <p>Thank you for your partnership and support in your child’s education. We look forward to an exciting year of learning and growth for your child.</p>
 
 
+
 <p><strong>Click on the following links to view our P3 and P4 Level videos:</strong></p>
 <ol>
 <li><a href="https://youtu.be/JMqjCL_w0bM" target="_blank" rel="noopener">P3 Level Video</a></li>
 <li><a href="https://youtu.be/zciUA4uToso" target="_blank" rel="noopener">P4 Level Video</a></li>
 </ol>
-<p><strong>LEARNING ENVIRONMENT<br></strong>Our students love to come to school and enjoy learning because our teachers create a non-threatening and conducive environment that welcomes them. Our students beam with pride when the teachers regularly put up their good work done in class!</p>
+<p><strong>LEARNING ENVIRONMENT<br></strong>Our students love to come to school and enjoy learning because our teachers create a non-threatening and conducive environment that welcomes them. Our students beam with pride when the teachers regularly put up their good work done in class! </p>
 <img src="/images/middle1.png">
 <p><strong>LEVEL PROGRAMMES IN 2020</strong></p>
 <p><strong>Supervised Study Programme (SSP)<br></strong>Our teachers and student-leaders from secondary schools, junior colleges and polytechnics mentor our students by providing after-school academic support and conducting values-based activities to strengthen character-building.</p>
