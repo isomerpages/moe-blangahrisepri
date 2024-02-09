@@ -29,9 +29,15 @@ variant: markdown
 
 ![](/images/2024%20Photos/Middle%20Primary/Learning_3.jpg)
 
-<p><strong>LEVEL PROGRAMMES IN 2020</strong></p>
-<p><strong>Supervised Study Programme (SSP)<br></strong>Our teachers and student-leaders from secondary schools, junior colleges and polytechnics mentor our students by providing after-school academic support and conducting values-based activities to strengthen character-building.</p>
-<img src="/images/middle2.png">
+![](/images/2024%20Photos/Middle%20Primary/Learning_4.jpg)
+
+![](/images/2024%20Photos/Middle%20Primary/Learning_5.jpg)
+
+![](/images/2024%20Photos/Middle%20Primary/Learning_6.jpg)
+
+<p><strong>LEVEL PROGRAMMES IN 2024</strong></p>
+<p><strong>P3 and P4 Discovery Camp<br></strong>A fun-filled after school programme which helps our students to enjoy their schooling experience, develop skills and forge strong bonds / relationships with their school mates.</p>
+
 <p><strong>Project SPARK<br></strong>In our continuous effort to support our students holistically through meaningful activities and enjoyable school experiences, our creative teachers designed an after-school interest club programme – Project SPARK. This programme aims to ignite our students’ interests in indoor and outdoor sports, experiential activities such as art, music and dance, robotics and gardening, and activities that enhance our students’ general knowledge in civic literacy and global awareness. Most importantly, we would like to build our students’ sense of belonging to the school and team spirit with their schoolmates.</p>
 <img src="/images/middle3.png">
 <img src="/images/middle4.png">
