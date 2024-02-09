@@ -63,24 +63,4 @@ Takes place during curriculum lessons in Term 1 (3S) and 2 (3T).
 	
 ![](/images/2024%20Photos/Middle%20Primary/Swim_3.jpg)
 	
-</p><p><strong>Learning for Life Programme (LLP) – Project GAIA<br></strong>Our students seek support from the residents in the school’s neighbourhood to donate their recyclable items. Through this project, they gather data based on the recyclables collected to recommend ways to relevant organisations to promote recycling and raise awareness of the importance of caring for and protecting the environment.</p>
-<img src="/images/18-1024x576.jpg">
-<img src="/images/middle6.png">
-<img src="/images/middle7.png">
-<p><strong>Digital Literacy – Young Photographers Programme<br></strong>Our P3 students learn how to use an Advanced Compact Camera and our P4 students learn about Tablet Photography in the Young Photographers Programme. Our students communicate compelling stories and share their perspectives as they analyse their own photographs that they have taken using Thinking Routines to deepen their learning.</p>
-<img src="/images/25-1-1024x683.jpg">
-<img src="/images/21-1024x768.jpg">
-<img src="/images/middle8.png">
-<img src="/images/24-1024x683.jpg">
-<p><strong>Outdoor Education – P4 Adventure Camp<br></strong>Our P4 students take part in a P4 Adventure Camp that builds their confidence and resilience and forges team spirit. Through this learning experience, our students feel enriched and have adopted a greater positive self-belief that they can overcome any difficulty no matter how tough it gets, as long as they set their minds to wanting to achieve their intended goals. We strongly believe that this camp will form an important memory of their primary schooling years.</p>
-<img src="/images/29-1024x576.jpg">
-<img src="/images/middle9.png">
-<p><strong>Learning Journeys<br></strong>Our P3 students were immersed in a multi-media sensory experience at The Bicentennial Experience at Fort Canning as part of our nation’s commemoration of Singapore's Bicentennial. This learning journey has created a deep and meaningful impact in our students as they ‘travelled’ through time to learn about Singapore’s history. Through that, they grew in their sense of belonging to Singapore and their pride of being Singaporean!</p>
-<img src="/images/33-1024x768.jpg">
-<img src="/images/middle10.png">
-<p>Our P4 students went to the National Gallery, Singapore to experience the arts through an array of activities.</p>
-<img src="/images/38-1024x768.jpg">
-<img src="/images/middle11.png">
-<img src="/images/36-1024x768.jpg">
-<p><strong>Student Leadership<br></strong>Our student leaders act as role models to their peers. They provide peer support and influence their peers positively by living out the Seven Habits.</p>
-<img src="/images/40-1024x768.jpg">
+</p><p><strong>AWARDS AND RECOGNITION<br></strong>Students who have demonstrated virtues actions, are good role models and have demonstrated good habits would be recognsed.</p>
