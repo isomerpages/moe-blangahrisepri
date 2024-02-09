@@ -48,9 +48,12 @@ variant: markdown
 
 <p>Students will learn road safety tips and how to be a responsible road-user at our community road safety park.</p>
 
+![](/images/2024%20Photos/Middle%20Primary/Road_1.jpg)
 
-<img src="/images/middle3.png">
-<img src="/images/middle4.png">
+![](/images/2024%20Photos/Middle%20Primary/Road_2.jpg)
+
+![](/images/2024%20Photos/Middle%20Primary/Road_3.jpg)
+
 <p><strong>Applied Learning Programme (ALP) – Robotics and STEM<br></strong>Our students explore, investigate and ask questions through analysing problems and solving it through real world examples when they are working on STEM-related projects. P3 students work on the theme “Let’s Cool It!” and Aerospace Engineering. P4 students work on the theme “Let’s Recycle!” and Environmental Engineering.</p>
 <img src="/images/11-1-1024x768.jpg">
 <img src="/images/middle5.png">
