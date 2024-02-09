@@ -14,7 +14,7 @@ variant: markdown
 <p>Dear Parents, our role is to look into all student development matters including general discipline matters and provide intervention strategies where necessary. In addition, we will monitor the Middle Primary students’ progress and work together with the teachers to address areas of growth for your child so as to give your child a positive school experience this year.</p>
 <p>Thank you for your partnership and support in your child’s education. We look forward to an exciting year of learning and growth for your child.</p>
 
-
+![](/images/2024%20Photos/Middle%20Primary/YH.jpg)
 
 <p><strong>Click on the following links to view our P3 and P4 Level videos:</strong></p>
 <ol>
