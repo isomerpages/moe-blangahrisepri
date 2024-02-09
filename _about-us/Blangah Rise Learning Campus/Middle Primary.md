@@ -23,6 +23,12 @@ variant: markdown
 </ol>
 <p><strong>LEARNING ENVIRONMENT<br></strong>Our students love to come to school and enjoy learning because our teachers create a non-threatening and conducive environment that welcomes them. Our students beam with pride when the teachers regularly put up their good work done in class! </p>
 
+![](/images/2024%20Photos/Middle%20Primary/Learning_1.jpg)
+
+![](/images/2024%20Photos/Middle%20Primary/Learning_2.jpg)
+
+![](/images/2024%20Photos/Middle%20Primary/Learning_3.jpg)
+
 <p><strong>LEVEL PROGRAMMES IN 2020</strong></p>
 <p><strong>Supervised Study Programme (SSP)<br></strong>Our teachers and student-leaders from secondary schools, junior colleges and polytechnics mentor our students by providing after-school academic support and conducting values-based activities to strengthen character-building.</p>
 <img src="/images/middle2.png">
