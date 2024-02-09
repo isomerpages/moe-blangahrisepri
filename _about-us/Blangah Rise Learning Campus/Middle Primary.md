@@ -57,8 +57,12 @@ variant: markdown
 <p><strong>P3 Swimsafer Programme<br></strong>Students learn basic swimming, survival and lifesaving skills.
 Takes place during curriculum lessons in Term 1 (3S) and 2 (3T).
 
-<img src="/images/11-1-1024x768.jpg">
-<img src="/images/middle5.png">
+![](/images/2024%20Photos/Middle%20Primary/Swim_1.jpg)
+	
+![](/images/2024%20Photos/Middle%20Primary/Swim_2.jpg)
+	
+![](/images/2024%20Photos/Middle%20Primary/Swim_3.jpg)
+	
 </p><p><strong>Learning for Life Programme (LLP) – Project GAIA<br></strong>Our students seek support from the residents in the school’s neighbourhood to donate their recyclable items. Through this project, they gather data based on the recyclables collected to recommend ways to relevant organisations to promote recycling and raise awareness of the importance of caring for and protecting the environment.</p>
 <img src="/images/18-1024x576.jpg">
 <img src="/images/middle6.png">
