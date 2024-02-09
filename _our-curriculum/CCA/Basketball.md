@@ -3,16 +3,23 @@ title: Basketball
 permalink: /departments/ccas/basketball/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<img src="/images/IMG-8099-1.jpg">
-<p>Every Monday morning, cries of excitement can be heard from beneath the hoops as our Blangahnites practise and execute team offensive and defensive schemes. A typical training session involves a warm up jog, followed by some physical drills. Blangahnites can be seen shooting hoops, dribbling balls, practising defensive manoeuvres and running across the courts. At the end of each session, students will be affirmed for displaying virtues during the CCA training.</p>
-<p>As our Blangahnites increase in their mastery and understanding of the game, the value of teamwork is imparted to them. Basketball is a team sport and a team that plays together wins together. New members are not left alone and are assigned buddies to guide them along. During training, students learn to pass to each other and cover each other in their defensive duties.<br />This year, our Primary 3s received a warm welcome from their seniors. Under the coaching of Mr Lai and Mr Kumar, they have blossomed to become a group who are very passionate about the sport. Many of them look forward to the extra training sessions on Thursdays and practise their drills on their own accord during recess. This group of students have demonstrated the virtue of enthusiasm for the sport, and in the process of training, we instill core values such as excellence, self-discipline and unity within the team.</p>
-<p>As we gear up to participate in the National School Games, we hope that our students will feel a sense of pride while representing our school in the upcoming competition. With steadfast commitment, we will tread on!</p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/bba1.jpg"><br><img src="/images/bba2.jpg"><br><img src="/images/bba3.jpg"></td>
-<td style="width: 50%;"><img src="/images/bba4.jpg"><br><img src="/images/bba5.jpg"></td>
-</tr>
-</tbody>
-</table>
+Basketball CCA (Boys and Girls) aims to equip our students with fundamental skills and impart values such as sportsmanship, teamwork, resilience, and discipline.  
+<p>Our training sessions focus on basketball drills and attack/defend concepts. Every member will be given the opportunity to take part in matches during CCA through small-sided games towards the end of each session or against other schools in friendly matches. Some of them will go on to represent the school in National School Games. We use teachable moments during game time and VIA programmes to emphasize on values.
+At the end of the programme, our students should have a good understanding of the basic rules and good mastery of fundamental skills such as dribbling, shooting, lay-up and defence. Most importantly, their character will be developed.</p>
+<p>Titus from Primary 5 shared, “I became passionate about basketball since I joined the CCA. It is very fun and exciting. I’ve learned a lot of new skills and made many friends during my time here.”</p>
+
+**Achievements:**
+<p>2022 - Junior Boys, Tier 2 Champions</p>
+<p>2023 - Senior Boys, 1st runner up in group stage &amp; Top 8 in South Zone</p> 
+
+![](/images/2024%20Photos/Basketball/Basketball_image001.jpg)
+
+![](/images/2024%20Photos/Basketball/Basketball_image002.jpeg)
+
+![](/images/2024%20Photos/Basketball/Basketball_image003.jpg)
+
+![](/images/2024%20Photos/Basketball/Basketball_image004.jpg)
+
+![](/images/2024%20Photos/Basketball/Basketball_image005.jpg)
