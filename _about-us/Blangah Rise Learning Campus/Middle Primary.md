@@ -54,10 +54,12 @@ variant: markdown
 
 ![](/images/2024%20Photos/Middle%20Primary/Road_3.jpg)
 
-<p><strong>Applied Learning Programme (ALP) – Robotics and STEM<br></strong>Our students explore, investigate and ask questions through analysing problems and solving it through real world examples when they are working on STEM-related projects. P3 students work on the theme “Let’s Cool It!” and Aerospace Engineering. P4 students work on the theme “Let’s Recycle!” and Environmental Engineering.</p>
+<p><strong>P3 Swimsafer Programme<br></strong>Students learn basic swimming, survival and lifesaving skills.
+Takes place during curriculum lessons in Term 1 (3S) and 2 (3T).
+
 <img src="/images/11-1-1024x768.jpg">
 <img src="/images/middle5.png">
-<p><strong>Learning for Life Programme (LLP) – Project GAIA<br></strong>Our students seek support from the residents in the school’s neighbourhood to donate their recyclable items. Through this project, they gather data based on the recyclables collected to recommend ways to relevant organisations to promote recycling and raise awareness of the importance of caring for and protecting the environment.</p>
+</p><p><strong>Learning for Life Programme (LLP) – Project GAIA<br></strong>Our students seek support from the residents in the school’s neighbourhood to donate their recyclable items. Through this project, they gather data based on the recyclables collected to recommend ways to relevant organisations to promote recycling and raise awareness of the importance of caring for and protecting the environment.</p>
 <img src="/images/18-1024x576.jpg">
 <img src="/images/middle6.png">
 <img src="/images/middle7.png">
