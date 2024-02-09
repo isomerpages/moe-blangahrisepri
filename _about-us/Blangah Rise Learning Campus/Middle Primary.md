@@ -64,3 +64,7 @@ Takes place during curriculum lessons in Term 1 (3S) and 2 (3T).
 ![](/images/2024%20Photos/Middle%20Primary/Swim_3.jpg)
 	
 </p><p><strong>AWARDS AND RECOGNITION<br></strong>Students who have demonstrated virtues actions, are good role models and have demonstrated good habits would be recognsed.</p>
+
+![](/images/2024%20Photos/Middle%20Primary/Award_1.jpg)
+
+![](/images/2024%20Photos/Middle%20Primary/Award_2.jpg)
