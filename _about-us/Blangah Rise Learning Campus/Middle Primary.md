@@ -44,7 +44,11 @@ variant: markdown
 
 ![](/images/2024%20Photos/Middle%20Primary/Camp_3.jpg)
 
-<p><strong>Project SPARK<br></strong>In our continuous effort to support our students holistically through meaningful activities and enjoyable school experiences, our creative teachers designed an after-school interest club programme – Project SPARK. This programme aims to ignite our students’ interests in indoor and outdoor sports, experiential activities such as art, music and dance, robotics and gardening, and activities that enhance our students’ general knowledge in civic literacy and global awareness. Most importantly, we would like to build our students’ sense of belonging to the school and team spirit with their schoolmates.</p>
+<p><strong><br>P4 Traffic Games</strong></p>
+
+<p>Students will learn road safety tips and how to be a responsible road-user at our community road safety park.</p>
+
+
 <img src="/images/middle3.png">
 <img src="/images/middle4.png">
 <p><strong>Applied Learning Programme (ALP) – Robotics and STEM<br></strong>Our students explore, investigate and ask questions through analysing problems and solving it through real world examples when they are working on STEM-related projects. P3 students work on the theme “Let’s Cool It!” and Aerospace Engineering. P4 students work on the theme “Let’s Recycle!” and Environmental Engineering.</p>
