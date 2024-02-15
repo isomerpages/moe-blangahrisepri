@@ -62,8 +62,8 @@ sections:
       image: /images/2024 Photos/Safer Internet
         Day/WhatsApp_Image_2024_02_14_at_14_01_41.jpeg
       url: /highlights/2024/safer-internet-day-2024/
-      description: "Safer Internet Day took place on 6 February and it is an annual
-        global initiative "
+      description: Safer Internet Day took place on 6 February and it is an annual
+        global initiative
   - resources:
       title: Publications
       button: Click here to see more
