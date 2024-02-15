@@ -49,21 +49,21 @@ sections:
       title: Chinese New Year Celebration 2024
       subtitle: HIGHLIGHTS
       id: infopic
-      description: "Our school celebrated Chinese New Year on February 9. "
+      description: Our school celebrated Chinese New Year on February 9.
       button: CLICK HERE TO READ MORE
       alt: Image alt text
       url: /highlights/2024/chinese-new-year-2024/
       image: /images/2024 Photos/CNY 2024/CNY_7.JPG
   - infopic:
-      title: P4 Student wins Merit Award
+      title: Safer Internet Day 2024
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2024 Photos/Highlight/Leia_.jpg
-      url: /highlights/2024/p4-student-wins/
-      description: Leia Lay, a 4 Opal student, was honored with a Certificate of Merit
-        for her exceptional achievement in the "I Can Be a Caring Commuter
-        Hero!" art competition
+      image: /images/2024 Photos/Safer Internet
+        Day/WhatsApp_Image_2024_02_14_at_14_01_41.jpeg
+      url: /highlights/2024/safer-internet-day-2024/
+      description: "Safer Internet Day took place on 6 February and it is an annual
+        global initiative "
   - resources:
       title: Publications
       button: Click here to see more
