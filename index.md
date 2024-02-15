@@ -46,16 +46,14 @@ sections:
       description: The President's Award for Teachers (PAT) recognises excellent and
         experienced educators who are role models for the teaching profession.
   - infopic:
-      title: Clean-Up at SWCDC 2024 @ Westgate, The Courtyard
+      title: Chinese New Year Celebration 2024
       subtitle: HIGHLIGHTS
       id: infopic
-      description: Our student leaders had the opportunity to present on our
-        collaborative project with the National University of Singapore
+      description: "Our school celebrated Chinese New Year on February 9. "
       button: CLICK HERE TO READ MORE
       alt: Image alt text
-      url: /highlights/2024/clean-up-at-swcdc/
-      image: /images/2024 Photos/Clean Up at SWCDC 2024
-        /WhatsApp_Image_2024_01_28_at_15_03_49.jpeg
+      url: /highlights/2024/chinese-new-year-2024/
+      image: /images/2024 Photos/CNY 2024/CNY_7.JPG
   - infopic:
       title: P4 Student wins Merit Award
       subtitle: HIGHLIGHTS
