@@ -55,15 +55,15 @@ variant: markdown
 ![](/images/2024%20Photos/Middle%20Primary/Road_3.jpg)
 
 <p><strong>P3 Swimsafer Programme<br></strong>Students learn basic swimming, survival and lifesaving skills.
-Takes place during curriculum lessons in Term 1 (3S) and 2 (3T).
-
+Takes place during curriculum lessons in Term 1 (3S) and 2 (3T).</p>
+	
 ![](/images/2024%20Photos/Middle%20Primary/Swim_1.jpg)
-	
+
 ![](/images/2024%20Photos/Middle%20Primary/Swim_2.jpg)
-	
+
 ![](/images/2024%20Photos/Middle%20Primary/Swim_3.jpg)
 	
-</p><p><strong>AWARDS AND RECOGNITION<br></strong>Students who have demonstrated virtues actions, are good role models and have demonstrated good habits would be recognsed.</p>
+<p><strong>AWARDS AND RECOGNITION<br></strong>Students who have demonstrated virtues actions, are good role models and have demonstrated good habits would be recognsed.</p>
 
 ![](/images/2024%20Photos/Middle%20Primary/Award_1.jpg)
 
