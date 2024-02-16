@@ -98,13 +98,28 @@ Ms Munirah – Assistant Year Head Senior Primary
 
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br></strong>A large amount of the student’s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
 <p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let’s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
-<img src="/images/20220131_090200-2048x1536.jpg">
-<img src="/images/20220131_094926-1-2048x1536.jpg">
-<img src="/images/20220131_095223-1937x2048.jpg">
-<img src="/images/PXL_20220128_003441169MP_-scaled.jpg">
-<img src="/images/PXL_20220128_003532615MP_-scaled.jpg">
-<img src="/images/PXL_20220128_040453154MP_-scaled.jpg">
-<img src="/images/PXL_20220128_040513008MP_-scaled.jpg">
+<p>
+<img style="width: 65%;" src="/images/20220131_090200-2048x1536.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/20220131_094926-1-2048x1536.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/20220131_095223-1937x2048.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/PXL_20220128_003441169MP_-scaled.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/PXL_20220128_003532615MP_-scaled.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/PXL_20220128_040453154MP_-scaled.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/PXL_20220128_040513008MP_-scaled.jpg">
+</p>
+
 <p><strong>Inter-House Games </strong></p>
 <p>Experience the excitement of our Interhouse games on the final day of the term! Students came together in their respective houses for a thrilling round of floorball. It was heartening to witness the heartwarming sight of students showcasing sportsmanship and enthusiastically cheering each other on throughout the game.</p>
 
