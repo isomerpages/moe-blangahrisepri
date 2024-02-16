@@ -14,7 +14,9 @@ variant: markdown
 <p>Dear Parents, our role is to look into all student development matters including general discipline matters and provide intervention strategies where necessary. In addition, we will monitor the Middle Primary students’ progress and work together with the teachers to address areas of growth for your child so as to give your child a positive school experience this year.</p>
 <p>Thank you for your partnership and support in your child’s education. We look forward to an exciting year of learning and growth for your child.</p>
 
-![](/images/2024%20Photos/Middle%20Primary/YH.jpg)
+<p>
+<img style="width: 80%;" src="/images/2024%20Photos/Middle%20Primary/YH.jpg">
+</p>
 
 <p><strong>Click on the following links to view our P3 and P4 Level videos:</strong></p>
 <ol>
@@ -58,15 +60,21 @@ variant: markdown
 
 <p><strong>P3 Swimsafer Programme<br></strong>Students learn basic swimming, survival and lifesaving skills.
 Takes place during curriculum lessons in Term 1 (3S) and 2 (3T).</p>
+
+<img style="width: 65%;" src="/images/2024%20Photos/Middle%20Primary/Swim_1.jpg">
 	
-![](/images/2024%20Photos/Middle%20Primary/Swim_1.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Middle%20Primary/Swim_2.jpg">
+</p>
 
-![](/images/2024%20Photos/Middle%20Primary/Swim_2.jpg)
-
-![](/images/2024%20Photos/Middle%20Primary/Swim_3.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Middle%20Primary/Swim_3.jpg">
+</p>
 	
 <p><strong>AWARDS AND RECOGNITION<br></strong>Students who have demonstrated virtues actions, are good role models and have demonstrated good habits would be recognsed.</p>
 
-![](/images/2024%20Photos/Middle%20Primary/Award_1.jpg)
+<img style="width: 65%;" src="/images/2024%20Photos/Middle%20Primary/Award_1.jpg">
 
-![](/images/2024%20Photos/Middle%20Primary/Award_2.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Middle%20Primary/Award_2.jpg">
+</p>
