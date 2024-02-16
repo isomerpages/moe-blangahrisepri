@@ -138,11 +138,15 @@ Ms Munirah – Assistant Year Head Senior Primary
 
 <p><strong>BRPS LOVES SINGAPORE: National Education Show<br></strong>A P5 student’s dream comes true! What could be more satisfying than to celebrate our country’s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! </p>
 
-![](/images/2024%20Photos/SP%20Webpage/NE_1.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/NE2.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/NE3.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/NE_1.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/NE2.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/NE3.jpg">
+</p>
 
 <p><strong>P5 Young Photographers Programme<br></strong>This is a structured 4-day programme that allows students to learn about the different skills needed in photography to take excellent pictures. After going through the theory lessons, our students are given the opportunity to do an outdoor shoot at Marina Barrage!</p>
 <img src="/images/senior5.png">
