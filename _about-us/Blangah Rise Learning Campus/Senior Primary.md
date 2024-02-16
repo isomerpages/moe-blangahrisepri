@@ -56,11 +56,11 @@ Ms Munirah – Assistant Year Head Senior Primary
 </p>
 
 <p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photp_5.jpg">
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_5.jpg">
 </p>
 
 <p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photp_6.jpg">
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_6.jpg">
 </p>
 
 <p><strong>P6 Motivation Camp<br></strong></p>
