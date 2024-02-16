@@ -73,23 +73,28 @@ Ms Munirah – Assistant Year Head Senior Primary
 <img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_H.jpg">
 </p>
 
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_G.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_F.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_E.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_D.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_A.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_B.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_C.jpg">
+</p>
 
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_H.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_G.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_F.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_E.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_D.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_A.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_B.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_C.jpg)
 
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br></strong>A large amount of the student’s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
 <p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let’s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
