@@ -43,7 +43,7 @@ Our MediaKids’ works are reviewed by their trainer, who gives them constructiv
 	
 </p><p><strong>Bokeh</strong></p>
 	
-
+![](/images/2024%20Photos/Media%20Kids/MKids.jpg)
 	
 <p></p><p><strong>Outdoor Shoots</strong></p><p>
 <img src="/images/2023%20Photos/Media%20Kids/media_16.JPG">	
