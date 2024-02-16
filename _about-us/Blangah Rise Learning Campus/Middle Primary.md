@@ -38,11 +38,13 @@ variant: markdown
 <p><strong>LEVEL PROGRAMMES IN 2024</strong></p>
 <p><strong>P3 and P4 Discovery Camp<br></strong>A fun-filled after school programme which helps our students to enjoy their schooling experience, develop skills and forge strong bonds / relationships with their school mates.</p>
 
-![](/images/2024%20Photos/Middle%20Primary/Camp_1.jpg)
-
-![](/images/2024%20Photos/Middle%20Primary/Camp_2.jpg)
-
-![](/images/2024%20Photos/Middle%20Primary/Camp_3.jpg)
+<img style="width: 65%;" src="/images/2024%20Photos/Middle%20Primary/Camp_1.jpg">
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Middle%20Primary/Camp_2.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Middle%20Primary/Camp_3.jpg">
+</p>
 
 <p><strong><br>P4 Traffic Games</strong></p>
 
