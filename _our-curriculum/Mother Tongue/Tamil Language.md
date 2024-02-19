@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_4844.jpg" style="width:80%"></p>
 
 “The ancient Tamil language is a window into our glorious past and a source of
  inspiration for the future.” – **Subramania Bharathi**
