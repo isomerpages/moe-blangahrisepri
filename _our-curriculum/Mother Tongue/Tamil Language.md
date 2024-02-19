@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_4844.jpg" style="width:50%"></p>
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_130108__1_.jpg" style="width:50%"></p>
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_Words.jpg" style="width:50%"></p>
+<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_4844.jpg" style="width:80%"></p>
 
 “The ancient Tamil language is a window into our glorious past and a source of
  inspiration for the future.” – **Subramania Bharathi**
@@ -58,4 +56,4 @@ Inquiry Based Learning (IBL) engaged our students in self-directed and collabora
 
 They gather information and data based on the topic, and discuss with their peers to gain a better understanding. Teachers, as facilitators, provide the platform and guidance for students support them in their learning process. 
 
-Through this learning, I understood very well that we must keep our country clean. I also learnt more about how to navigate around the relevant websites to enhance my learning – Rishi, Primary 4. 
+Through this learning, I understood very well that we must keep our country clean. I also learnt more about how to navigate around the relevant websites to enhance my learning – Rishi, Primary 4.
