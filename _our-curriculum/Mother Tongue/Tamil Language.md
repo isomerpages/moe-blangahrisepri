@@ -10,7 +10,7 @@ variant: markdown
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_Words.jpg" style="width:50%"></p>
 
 “The ancient Tamil language is a window into our glorious past and a source of
- inspiration for the future.” <p>– **Subramania Bharathi**</p>
+ inspiration for the future.” – **Subramania Bharathi**
 
 “In the sweetness of our Tamil language, there is beauty and grace.” – **Bharathidasan**
 
@@ -26,7 +26,7 @@ Students’ participation in the activities such as Poetry Recitation, Storytell
 
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_121013__3_.jpg" style="width:50%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230717_115625__2_.jpg" style="width:80%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_085644__1_.jpg" style="width:80%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_130208__1_.jpg" style="width:60%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230717_141353__2_.jpg" style="width:80%"></p>
 
-Through these activities, I got to know more about the Tamil language culture. <p>– Krithivik, Primary 2.</p>
+Through these activities, I got to know more about the Tamil language culture. – Krithivik, Primary 2.
 <p>I eagerly participate in Tamil Language games which are very interesting.</p><p> – Deeksha, Primary 4. </p>
 
 
@@ -46,7 +46,7 @@ The Primary 3 and 4 students went for a learning journey to the Indian Heritage 
 
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21_1__2_.jpg" style="width:100%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21__2_.jpg" style="width:100%"></p>
 
-Through this learning journey, I have learnt a lot about the contribution of our Indian pioneers in the development of Singapore. <p>– Saathvika, Primary 5. </p>
+Through this learning journey, I have learnt a lot about the contribution of our Indian pioneers in the development of Singapore. – Saathvika, Primary 5. 
 
 <p><strong>Inquiry Based Learning in Tamil</strong></p>
 
@@ -58,4 +58,4 @@ Inquiry Based Learning (IBL) engaged our students in self-directed and collabora
 
 They gather information and data based on the topic, and discuss with their peers to gain a better understanding. Teachers, as facilitators, provide the platform and guidance for students support them in their learning process. 
 
-Through this learning, I understood very well that we must keep our country clean. I also learnt more about how to navigate around the relevant websites to enhance my learning <p>– Rishi, Primary 4. </p>
+Through this learning, I understood very well that we must keep our country clean. I also learnt more about how to navigate around the relevant websites to enhance my learning – Rishi, Primary 4. 
