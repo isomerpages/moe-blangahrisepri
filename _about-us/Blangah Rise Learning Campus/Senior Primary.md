@@ -39,17 +39,29 @@ Ms Munirah – Assistant Year Head Senior Primary
 ‘TSR time is a great way to build meaningful relationships with my students. I am able to strengthen my bond with my class before the lesson and am able to interact freely with them. Most of all, it starts the day on a chirpy and engaging tone that keeps them motivated for the day’, quoted Ms Munirah!
 </p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photo_1.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_1.jpg">
+</p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photo_2.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_2.jpg">
+</p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photo_3.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_3.jpg">
+</p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photp_4.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photp_4.jpg">
+</p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photo_5.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_5.jpg">
+</p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photo_6.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_6.jpg">
+</p>
 
 <p><strong>P6 Motivation Camp<br></strong></p>
 <p>Our annual Primary 6 Motivation camp kicked off on 21 March 2023 with the theme, “I Can’t, I Can, I Will”. The camp aimed not only to provide opportunities for the students to build camaraderie among one another, it was also designed to incorporate activities that would help build confidence.</p>
@@ -57,49 +69,84 @@ Ms Munirah – Assistant Year Head Senior Primary
 <p>On the second day of the camp, our students continued to challenge themselves and worked together to overcome many challenges in five different stations. The theme, “Reach For Your Goal”, put their teamwork skills to a test as they overcame challenges encountered in the five stations located around the school compound. The students relied on their strong bonds with their friends to overcome potential obstacles, even as the tasks provided opportunities for students to solve problems creatively.</p>
 <p>It was heartening to see the students demonstrating virtues learnt throughout the camp! These are life skills that they would take them a long way even as they leave our gates.</p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photo_H.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_H.jpg">
+</p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photo_G.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_G.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_F.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_E.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_D.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_A.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_B.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_C.jpg">
+</p>
 
-![](/images/2024%20Photos/SP%20Webpage/Photo_F.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_E.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_D.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_A.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_B.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/Photo_C.jpg)
 
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br></strong>A large amount of the student’s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
 <p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let’s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
-<img src="/images/20220131_090200-2048x1536.jpg">
-<img src="/images/20220131_094926-1-2048x1536.jpg">
-<img src="/images/20220131_095223-1937x2048.jpg">
-<img src="/images/PXL_20220128_003441169MP_-scaled.jpg">
-<img src="/images/PXL_20220128_003532615MP_-scaled.jpg">
-<img src="/images/PXL_20220128_040453154MP_-scaled.jpg">
-<img src="/images/PXL_20220128_040513008MP_-scaled.jpg">
+<p>
+<img style="width: 65%;" src="/images/20220131_090200-2048x1536.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/20220131_094926-1-2048x1536.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/20220131_095223-1937x2048.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/PXL_20220128_003441169MP_-scaled.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/PXL_20220128_003532615MP_-scaled.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/PXL_20220128_040453154MP_-scaled.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/PXL_20220128_040513008MP_-scaled.jpg">
+</p>
+
 <p><strong>Inter-House Games </strong></p>
 <p>Experience the excitement of our Interhouse games on the final day of the term! Students came together in their respective houses for a thrilling round of floorball. It was heartening to witness the heartwarming sight of students showcasing sportsmanship and enthusiastically cheering each other on throughout the game.</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/IHG_1.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/IHG_2.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/IHG_3.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/IHG_4.jpg">
+</p>
 
-![](/images/2024%20Photos/SP%20Webpage/IHG_1.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/IHG_2.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/IHG_3.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/IHG_4.jpg)
 
 <p><strong>BRPS LOVES SINGAPORE: National Education Show<br></strong>A P5 student’s dream comes true! What could be more satisfying than to celebrate our country’s birthday together with thousands of people wishing our nation HAPPY BIRTHDAY! </p>
 
-![](/images/2024%20Photos/SP%20Webpage/NE_1.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/NE2.jpg)
-
-![](/images/2024%20Photos/SP%20Webpage/NE3.jpg)
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/NE_1.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/NE2.jpg">
+</p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/NE3.jpg">
+</p>
 
 <p><strong>P5 Young Photographers Programme<br></strong>This is a structured 4-day programme that allows students to learn about the different skills needed in photography to take excellent pictures. After going through the theory lessons, our students are given the opportunity to do an outdoor shoot at Marina Barrage!</p>
 <img src="/images/senior5.png">

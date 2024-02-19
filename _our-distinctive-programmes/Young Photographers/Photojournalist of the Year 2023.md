@@ -16,7 +16,7 @@ third_nav_title: Young Photographers
 
 <h4 style="text-align: center;"><strong>Best Photo Story</strong></h4>
 <img style="width: 100%;" src="/images/2023%20Photos/POTY%202023/Andrew_.png">
-<p style="text-align: center;"><strong>ANDREW LEONG EE HARN, 2 Opal</strong></p>
+<p style="text-align: center;"><strong>ANDREW LEONG EE HARNG, 2 Opal</strong></p>
 <p style="text-align: left;">Bamboos are special plants because they can be used to make many things like fences, baskets, huts, musical instruments, and brooms. Bamboos can also be used as mugs, cups, or for cooking meals. This makes the bamboo plant a very special plant! I used the leading lines technique for the photograph.</p>
 
 <h4 style="text-align: center;"><strong>Honourable Mention</strong></h4>
