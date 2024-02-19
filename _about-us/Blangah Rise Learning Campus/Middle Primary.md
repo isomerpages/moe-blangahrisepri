@@ -15,7 +15,7 @@ variant: markdown
 <p>Thank you for your partnership and support in your child’s education. We look forward to an exciting year of learning and growth for your child.</p>
 
 <p>
-<img style="width: 80%;" src="/images/2024%20Photos/Middle%20Primary/YH.jpg">
+<img style="width: 80%;" src="/images/2024%20Photos/Middle%20Primary/MP_YH.jpg">
 </p>
 
 <p><strong>Click on the following links to view our P3 and P4 Level videos:</strong></p>
