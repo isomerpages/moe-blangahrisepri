@@ -20,8 +20,8 @@ variant: markdown
 
 <p><strong>Click on the following links to view our P3 and P4 Level videos:</strong></p>
 <ol>
-<li><a href="https://youtu.be/JMqjCL_w0bM" target="_blank" rel="noopener">P3 Level Video</a></li>
-<li><a href="https://youtu.be/zciUA4uToso" target="_blank" rel="noopener">P4 Level Video</a></li>
+<li><a href="https://youtu.be/XCs26PknOz4" target="_blank" rel="noopener">P3 Level Video</a></li>
+<li><a href="https://youtu.be/Csq1j8rstqM" target="_blank" rel="noopener">P4 Level Video</a></li>
 </ol>
 <p><strong>LEARNING ENVIRONMENT<br></strong>Our students love to come to school and enjoy learning because our teachers create a non-threatening and conducive environment that welcomes them. Our students beam with pride when the teachers regularly put up their good work done in class! </p>
 
