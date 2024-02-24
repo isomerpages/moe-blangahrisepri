@@ -47,7 +47,11 @@ Our Primary 5 students went to Marina Barrage for their outdoor shoot. They had 
 <p></p><h4><strong>Practice is Key</strong></h4>
 <p>Students are given the opportunity to apply and practise photography skills through outdoor shoots at Telok Blangah Heights, Singapore Botanic Gardens, Gardens by the Bay – Flower Dome, Marina Barrage and Jurong Lake Gardens. They capture images based on the theme for each level. While doing so, students’ confidence in handling the cameras grows.</p>
 
-![](/images/2024%20Photos/Young%20Photographers/IMG_6366.jpg)
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/IMG_6366.jpg">
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/IMG_6369.jpg">
+</p>
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/YP.jpg">
 
 
 <p></p><h4><strong>Outdoor Shoot: Some of our students' works</strong></h4>
@@ -79,7 +83,7 @@ Our Primary 5 students went to Marina Barrage for their outdoor shoot. They had 
 
 <img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%2011.JPG">
 
-<p>After the outdoor shoots, students share compelling stories and perspectives through their own photographs. There are many enriching learning opportunities. Primary 2 students practise using rich vocabulary to describe their photographs and share their thoughts. To extend their knowledge on plants, Primary 3 students create a classification chart to list the different plants’ edges. Primary 4 to Primary 6 students hone their English Language skills through photojournalism using Google Classroom –&nbsp;<a href="/viewpoints/">Viewpoints</a></p>
+<p>After the outdoor shoots, students share compelling stories and perspectives through their own photographs. There are many enriching learning opportunities. Our Primary 4 to Primary 6 students hone their English Language skills through photojournalism via our Viewpoints programme. This activity provides enriching learning opportunities by encouraging students to become active contributors and collaborate with one another.  &nbsp;<a href="/viewpoints/">Viewpoints</a></p>
 <h4><strong>Creative Photography: Some of our students' works</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
