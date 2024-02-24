@@ -6,7 +6,7 @@ third_nav_title: Young Photographers
 variant: markdown
 ---
 <img src="/images/2023%20Photos/resized_yp_1.JPG">
-<h4><strong>Learning Through Photography</strong></h4>
+<h4><strong>Photo Appreciation</strong></h4>
   
 The Primary 2 students have been given a task – they need to apply photography skills to capture different shapes that they see at Telok Blangah neighbourhood. What did they use? A camera and knowledge on Shapes gleaned from their Mathematics lessons.
 <table style="border-collapse: collapse; width: 100%;" border="1">
