@@ -12,7 +12,8 @@ variant: markdown
 
 This is one of the questions our Primary 2 and 3 students think about and share their ideas with their peers. They observe, analyse photographs and share their stories with their peers. Through this activity, our students have the opportunity to develop observational, creativity and critical thinking skills. 
 
-![](/images/2024%20Photos/Young%20Photographers/IMG20240117101804.jpg)
+<img style="width: 80%;" src="/images/2024%20Photos/Young%20Photographers/IMG20240117101804.jpg">
+
 
 Students also get to learn about composition techniques which they could leverage to tell a more interesting story. They get to apply their learning through hands-on activities and analysing photographs taken by their peers at our photo gallery, Rising Expressions.	
 
@@ -28,9 +29,10 @@ Students also get to learn about composition techniques which they could leverag
 
 The Primary 4 students have been given a task – they need to apply photography skills to capture flowers with bright coloured petals, leaves with different edges and shapes. What did they use? A DSLR camera and knowledge on plants gleaned from their Science lessons. 
 
-![](/images/2024%20Photos/Young%20Photographers/30.jpg)
-
-![](/images/2024%20Photos/Young%20Photographers/IMG_6373.jpg)
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/30.jpg">
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/IMG_6373.jpg">
+</p>
 
 <p>They learnt composition techniques such as layering and leading lines using the DSLR camera and applied their skills at Gardens by The Bay – Flower Dome. They were able to observe the different colours and shapes of flowers and plants in real life as compared to images found in textbooks and videos.</p>
 
@@ -38,19 +40,15 @@ The Primary 4 students have been given a task – they need to apply photography
 
 Dave shared, “Young Photographers was very enjoyable and interactive. It was my first time using a DSLR! I learnt new composition techniques such as layering and framing. We saw and learnt about some exotic flowers and plants which we had never seen before.”
 
-![](/images/2024%20Photos/Young%20Photographers/PXL_20230505_004202436.jpg)
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/PXL_20230505_004202436.jpg">
 
 Our Primary 5 students went to Marina Barrage for their outdoor shoot. They had learnt about the threefold benefits of the location and its importance to Singapore. Just like the other levels, they applied photography skills gleaned to capture the beauty of Marina Barrage. 
 
 <p></p><h4><strong>Practice is Key</strong></h4>
 <p>Students are given the opportunity to apply and practise photography skills through outdoor shoots at Telok Blangah Heights, Singapore Botanic Gardens, Gardens by the Bay – Flower Dome, Marina Barrage and Jurong Lake Gardens. They capture images based on the theme for each level. While doing so, students’ confidence in handling the cameras grows.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%208.JPG"></td><td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%209.JPG"></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%2010.jpg"></td></tr>
-</tbody>
-</table>
+
+![](/images/2024%20Photos/Young%20Photographers/IMG_6366.jpg)
+
 
 <p></p><h4><strong>Outdoor Shoot: Some of our students' works</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
