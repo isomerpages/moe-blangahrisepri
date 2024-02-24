@@ -36,3 +36,13 @@ There is no difference in the way students interact in the real and cyber world.
 <p>Beyond the school gates, our outreach extended to families and the wider community. Parents were encouraged to access the toolkit from home, fostering meaningful discussions about responsible digital citizenship within households. Their good work was affirmed by attaining a Bronze Award at NCAC 2023. </p>
 
 <p>With their dedication and innovative approach, our Cyberwellness Ambassadors continued to lead the charge in promoting a safer and more informed digital environment for all.</p>
+
+<p><strong>Safer Internet Day 2024</strong></p>
+
+![](/images/2024%20Photos/ICT%20Webpage/WhatsApp_Image_2024_02_14_at_14_01_43.jpg)
+
+<p>Safer Internet Day took place on 6 February and it is an annual global initiative which aims to promote safer and more responsible use of online platforms and mobile devices among children. </p>
+
+<p>We commemorated Safer Internet Day starting with an announcement during assembly of its importance to foster a safer online environment for everyone. During recess, our Cyberwellness Ambassadors and Peer Support Leaders provided great support, and engaged their peers in discussions on the importance of balancing their time online and how to cultivate a healthy and balanced relationship with technology. Our Cyberwellness Ambassadors and Peer Support Leaders then guided their peers to make pledges for responsible screen use. </p>
+
+<p>Click&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/safer-internet-day-2024/](https://www.blangahrisepri.moe.edu.sg/highlights/2024/safer-internet-day-2024/)">here</a> to read more about Safer Internet Day 2024. </p>
