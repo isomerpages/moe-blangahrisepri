@@ -2,9 +2,10 @@
 title: Infocomm Technology
 permalink: /departments/infocomm-technology/
 description: ""
+variant: markdown
 ---
 <img src="/images/br-junior-reporter_20230308_img_2259-scaled.jpeg">
-<h4 style="text-align: center;"><strong>Developing Self-Directed and Collaborative Learners</strong></h4>
+<h4 style="text-align: left;"><strong>Developing Self-Directed and Collaborative Learners</strong></h4>
 <img src="/images/br-junior-reporter_20230331_img_2823-scaled.jpeg">
 <p>“We are going to go to the Computer Lab today!” It is the students’ weekly lesson in the computer lab and they got ready excitedly. Teachers engage the students in blended learning whereby they have the opportunity to learn at their own pace and discover new knowledge. In addition, students extend their learning through collaboration with their peers and share ideas to gain new perspectives in online activities. As learning can take place anytime and anywhere, students are able to access the learning materials from home too.</p>
 <p><strong>Effectiveness of ICT-based lessons</strong></p>
