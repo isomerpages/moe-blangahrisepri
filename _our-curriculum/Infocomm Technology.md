@@ -26,12 +26,13 @@ variant: markdown
 	<img src="/images/2023%20Photos/ICT%20Department/ict%203_img_9534.jpg">
 	
 There is no difference in the way students interact in the real and cyber world. Technology has advanced greatly where communications and sharing of information is made possible through social media or a simple click of a button. It is important to equip our students with Cyberwellness values to develop them to be responsible and discerning users of technology. Topics such as online identity and expression, balanced use of ICT, netiquette, copyright, cyberbullying and cyber contacts are taught to students in a fun and engaging manner. Students learn about these topics through interactive talks, ICT enrichment, Young Photographers, games and activities during recess. As the technology landscape progresses rapidly, it is important to educate our students to make responsible choices online.</p>
-<p><strong>National Cyberwellness Advocacy Challenege (NCAC) 2022 - Silver Award<br></strong>Meet our Cyberwellness Ambassadors! Zheng Hao, Ishaan, Khush, Catherine and Ser Yen!</p>
+<p><strong>National Cyberwellness Advocacy Challenege (NCAC) 2023 - Bronze Award<br></strong></p>
 
-<img src="/images/2023%20Photos/ICT%20Department/ict%205_whatsapp%20image%202022-11-14%20.jpeg">
-<p>Did you know that you could be stuck in a filter bubble? Our Cyberwellness Ambassadors participated in the NCAC to design a toolkit to educate others on this phenomenon. For their hard work, they were presented with a silver medal! </p>
+<img src="/images/2024%20Photos/ICT%20Webpage/IMG_20231116_WA0011.jpg">
+<p>Introducing our Cyberwellness Ambassadors' latest endeavor! Inspired by their dedication to promoting media literacy and cyberwellness, our Cyberwellness Ambassadors, consisting of Kai Xiang, Marvell, Aria, Dave and Batrisyia, developed an innovative toolkit aimed at empowering individuals to navigate the digital landscape critically for NCAC 2023.</p>
 
-<p>Modeled after the popular concept of an Escape Room, our Primary 4 students designed a gamified toolkit for users to learn more about filter bubbles. The e-Escape Room allows the users to explore filter bubbles, its effectiveness and ways to bypass algorithms to overcome human biases. The multimodal toolkit, through a mixture of pictures, videos, and text, engages participants to draw and take part in the game to learn concepts.</p> 
+<p>Through an engaging presentation during the school assembly, students were introduced to the importance of media literacy. Following this, they delved into hands-on learning experiences in the computer lab sessions, utilising our comprehensive Google Site toolkit to discern facts from opinions and evaluate the reliability of online news. </p> 
 
-<p>The easily-accessible toolkit was marketed through a three-pronged approach to the family, class and community. In the class, teachers shared information on filter bubbles, bypassing algorithms and human biases. Students were then given the opportunity to explore the toolkit and to encourage their family members to try the toolkit together at their own time and convenience.
-</p>
+<p>Beyond the school gates, our outreach extended to families and the wider community. Parents were encouraged to access the toolkit from home, fostering meaningful discussions about responsible digital citizenship within households. Their good work was affirmed by attaining a Bronze Award at NCAC 2023. </p>
+
+<p>With their dedication and innovative approach, our Cyberwellness Ambassadors continued to lead the charge in promoting a safer and more informed digital environment for all.</p>
