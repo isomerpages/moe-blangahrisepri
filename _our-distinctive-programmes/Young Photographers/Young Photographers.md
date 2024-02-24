@@ -36,7 +36,11 @@ The Primary 4 students have been given a task – they need to apply photography
 
 <p>Ka Shing said, “I had learnt about plants during Science lessons in school and Student Learning Space (SLS). Learning was more exciting when I observed the plants at Flower Dome in real. I applied my knowledge from Science and took photographs of leaves with different edges.”</p>
 
+Dave shared, “Young Photographers was very enjoyable and interactive. It was my first time using a DSLR! I learnt new composition techniques such as layering and framing. We saw and learnt about some exotic flowers and plants which we had never seen before.”
 
+![](/images/2024%20Photos/Young%20Photographers/PXL_20230505_004202436.jpg)
+
+Our Primary 5 students went to Marina Barrage for their outdoor shoot. They had learnt about the threefold benefits of the location and its importance to Singapore. Just like the other levels, they applied photography skills gleaned to capture the beauty of Marina Barrage. 
 
 <p></p><h4><strong>Practice is Key</strong></h4>
 <p>Students are given the opportunity to apply and practise photography skills through outdoor shoots at Telok Blangah Heights, Singapore Botanic Gardens, Gardens by the Bay – Flower Dome, Marina Barrage and Jurong Lake Gardens. They capture images based on the theme for each level. While doing so, students’ confidence in handling the cameras grows.</p>
