@@ -6,46 +6,53 @@ third_nav_title: Young Photographers
 variant: markdown
 ---
 <img src="/images/2023%20Photos/resized_yp_1.JPG">
-<h4><strong>Learning Through Photography</strong></h4>
+<h4><strong>Photo Appreciation</strong></h4>
   
-The Primary 2 students have been given a task – they need to apply photography skills to capture different shapes that they see at Telok Blangah neighbourhood. What did they use? A camera and knowledge on Shapes gleaned from their Mathematics lessons.
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%202.JPG"></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%203.JPG"></td></tr>
-</tbody>
-</table>
+<p>“What story does this photograph tell us?” </p>
+
+This is one of the questions our Primary 2 and 3 students think about and share their ideas with their peers. They observe, analyse photographs and share their stories with their peers. Through this activity, our students have the opportunity to develop observational, creativity and critical thinking skills. 
+
+<img style="width: 80%;" src="/images/2024%20Photos/Young%20Photographers/IMG20240117101804.jpg">
 
 
-Kai Rou said, “Shapes are all around us. I have learnt to look at them closely and take photographs of them in different ways.”
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%204.JPG"></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%205.JPG">
-</td><td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%206.JPG"></td></tr>
-</tbody>
-</table>
+Students also get to learn about composition techniques which they could leverage to tell a more interesting story. They get to apply their learning through hands-on activities and analysing photographs taken by their peers at our photo gallery, Rising Expressions.	
 
-Learning takes place beyond the classroom contexts. The Primary 3 students had the opportunity to capture leaves with different edges and plants with different colours and shapes at Singapore Botanic Gardens through their lenses. Aurelia shared, “I had learnt about plants during Science lessons in school and Student Learning Space (SLS). Learning was more exciting when I observed the plants at Singapore Botanic Gardens in real. I applied my knowledge from Science and took photographs of leaves with different edges.” Jay said, “I am looking forward to use my photographs to create classification charts in Google Classroom!”
-In Young Photographers, students leverage the power of photography to achieve the 3Cs – Create, Communicate and Collaborate. 
-To capture photographs that tell a story or a concept, students acquire photography skills and composition techniques such as rule of thirds, leading lines, framing and symmetry. Students acquire these composition techniques and outdoor shoot locations through Student Learning Space (SLS). This provides them with opportunities to be an active and self-directed learner. 
-	
+<h4><strong>Learning Through Photography </strong></h4>
+
 <img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%207.jpg">
 
+<p>In Young Photographers, students leverage the power of photography to achieve the 3Cs – Create, Communicate and Collaborate. </p>
+<p>To capture photographs that tell a story or a concept, students acquire photography skills and composition techniques such as rule of thirds, leading lines, layering, framing and symmetry. Students acquire these composition techniques and outdoor shoot locations through Student Learning Space (SLS). This provides them with opportunities to be an **active and self-directed learner.** </p>
+<p>All students attend face to face sessions and outdoor shoots in Young Photographers, which equip them with valuable skills to **create and communicate stories** through their lenses using DSLR cameras.</p>  
 
-All students attend face to face sessions and outdoor shoots in Young Photographers, which equip them with valuable skills to create and communicate stories through their lenses. Primary 2 and Primary 3 students build their proficiency using compact cameras. Primary 4 to Primary 6 students extend their skills through DSLR cameras.
-After the outdoor shoots, students share compelling stories and perspectives through their own photographs. Our Primary 4 to Primary 6 students hone their English Language skills through photojournalism via our Viewpoints programme. This activity provides enriching learning opportunities by encouraging students to become active contributors and collaborate with one another. 
+<h4><strong>Learning beyond the classrooms  </strong></h4>
+
+The Primary 4 students have been given a task – they need to apply photography skills to capture flowers with bright coloured petals, leaves with different edges and shapes. What did they use? A DSLR camera and knowledge on plants gleaned from their Science lessons. 
+
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/30.jpg">
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/IMG_6373.jpg">
+</p>
+
+<p>They learnt composition techniques such as layering and leading lines using the DSLR camera and applied their skills at Gardens by The Bay – Flower Dome. They were able to observe the different colours and shapes of flowers and plants in real life as compared to images found in textbooks and videos.</p>
+
+<p>Ka Shing said, “I had learnt about plants during Science lessons in school and Student Learning Space (SLS). Learning was more exciting when I observed the plants at Flower Dome in real. I applied my knowledge from Science and took photographs of leaves with different edges.”</p>
+
+Dave shared, “Young Photographers was very enjoyable and interactive. It was my first time using a DSLR! I learnt new composition techniques such as layering and framing. We saw and learnt about some exotic flowers and plants which we had never seen before.”
+
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/PXL_20230505_004202436.jpg">
+
+Our Primary 5 students went to Marina Barrage for their outdoor shoot. They had learnt about the threefold benefits of the location and its importance to Singapore. Just like the other levels, they applied photography skills gleaned to capture the beauty of Marina Barrage. 
+
 <p></p><h4><strong>Practice is Key</strong></h4>
 <p>Students are given the opportunity to apply and practise photography skills through outdoor shoots at Telok Blangah Heights, Singapore Botanic Gardens, Gardens by the Bay – Flower Dome, Marina Barrage and Jurong Lake Gardens. They capture images based on the theme for each level. While doing so, students’ confidence in handling the cameras grows.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%208.JPG"></td><td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%209.JPG"></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%2010.jpg"></td></tr>
-</tbody>
-</table>
+
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/IMG_6366.jpg">
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/IMG_6369.jpg">
+</p>
+<img style="width: 65%;" src="/images/2024%20Photos/Young%20Photographers/YP.jpg">
+
 
 <p></p><h4><strong>Outdoor Shoot: Some of our students' works</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -76,7 +83,7 @@ After the outdoor shoots, students share compelling stories and perspectives thr
 
 <img style="width: 65%;" src="/images/2023%20Photos/yp%20page%20photo%2011.JPG">
 
-<p>After the outdoor shoots, students share compelling stories and perspectives through their own photographs. There are many enriching learning opportunities. Primary 2 students practise using rich vocabulary to describe their photographs and share their thoughts. To extend their knowledge on plants, Primary 3 students create a classification chart to list the different plants’ edges. Primary 4 to Primary 6 students hone their English Language skills through photojournalism using Google Classroom –&nbsp;<a href="/viewpoints/">Viewpoints</a></p>
+<p>After the outdoor shoots, students share compelling stories and perspectives through their own photographs. There are many enriching learning opportunities. Our Primary 4 to Primary 6 students hone their English Language skills through photojournalism via our Viewpoints programme. This activity provides enriching learning opportunities by encouraging students to become active contributors and collaborate with one another.  &nbsp;<a href="/viewpoints/">Viewpoints</a></p>
 <h4><strong>Creative Photography: Some of our students' works</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>

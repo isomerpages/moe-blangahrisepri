@@ -46,14 +46,15 @@ sections:
       description: The President's Award for Teachers (PAT) recognises excellent and
         experienced educators who are role models for the teaching profession.
   - infopic:
-      title: Chinese New Year Celebration 2024
+      title: "Serving the Telok Blangah Community "
       subtitle: HIGHLIGHTS
       id: infopic
-      description: Our school celebrated Chinese New Year on February 9.
+      description: "Together with our community partners, Blangah Rise Primary School
+        organises a monthly active ageing programme "
       button: CLICK HERE TO READ MORE
       alt: Image alt text
-      url: /highlights/2024/chinese-new-year-2024/
-      image: /images/2024 Photos/CNY 2024/CNY_7.JPG
+      url: /highlights/2024/telok-blangah/
+      image: /images/2024 Photos/Telok Blangah Community /Pic_4.jpg
   - infopic:
       title: Safer Internet Day 2024
       subtitle: HIGHLIGHTS
