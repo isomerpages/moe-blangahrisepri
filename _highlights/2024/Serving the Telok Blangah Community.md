@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: "2024"
 ---
+<img style="width: 60%;" src="/images/2024%20Photos/Telok%20Blangah%20Community%20/VIA.jpg">
+
 <p>Together with our community partners, Blangah Rise Primary School organises
 a monthly active ageing programme that promotes intergenerational bonding
 between senior citizens and students.</p>
@@ -34,3 +36,9 @@ especially those who were handicapped. All these build a more understanding
 and caring younger generation.”</p>
 <p>- Mdm Sophy, Telok Blangah resident</p>
 <p>We are definitely looking forward to the next session!</p>
+
+<img style="width: 60%;" src="/images/2024%20Photos/Telok%20Blangah%20Community%20/Pic_3.jpg">
+<p>
+<img style="width: 60%;" src="/images/2024%20Photos/Telok%20Blangah%20Community%20/Pic_4.jpg">
+</p>
+<img style="width: 60%;" src="/images/2024%20Photos/Telok%20Blangah%20Community%20/Pic_5.jpg">
