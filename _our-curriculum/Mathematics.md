@@ -36,9 +36,9 @@ The Student Learning Space (SLS) provides an online learning platform where stud
 </p>
 
 <p></p><p><strong>Description of programmes:<br></strong><strong>E2K Mathematics Programme</strong></p>
-<p><em>How do we deepen our students’ learning in Mathematics?</em></p>
+
 <p>Our students in the&nbsp;<strong>A</strong>ccelerated&nbsp;<strong>P</strong>rogramme to&nbsp;<strong>E</strong>nhance students’ e<strong>X</strong>perience (APEX) attend the E2K Mathematics Programme. The materials are taken from the MOE Gifted Education Branch. We aim to develop students’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.</p>
-<p> Kai Xiang, a Primary 4 student in APEX, shared, “We look forward to every lesson as we get to solve challenging puzzles. We are happy to work with our friends to discuss and solve them. We present our solutions to our teachers and friends so that they can help us improve.”</p><p>
+<p>The students gave positive feedback about the programme. “We look forward to every lesson as we get to solve challenging puzzles. We are happy to work with our friends to discuss and solve them. We present our solutions to our teachers and friends so that they can help us improve.”</p><p>
 	
 </p><p><strong>LEGO Building<br>
 	
