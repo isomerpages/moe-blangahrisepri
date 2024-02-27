@@ -61,10 +61,12 @@ The objectives of Math Challenge are as follows:
 
 	•	Inspire interest in mathematics - spark enthusiasm and curiosity in students
 	
-<img src="/images/2023%20Photos/Mathematics/photo%206.JPG"><br>
-<img src="/images/2023%20Photos/Mathematics/photo%207.jpg"><br>
-<img src="/images/2023%20Photos/Mathematics/photo%208.jpeg"><br>
-<img src="/images/2023%20Photos/Mathematics/photo%209.jpeg"><br>
+<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%207.jpg">
+<p>
+<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%208.jpeg">
+	</p>
+
+
 
 <p><strong>Math Star Award</strong></p>
 <p style="text-align: center;"><strong><em>Hard work&nbsp;</em><em>&nbsp;Perseverance = Success</em></strong></p>
