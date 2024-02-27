@@ -24,6 +24,16 @@ Additionally, incorporating authentic examples from everyday life make learning 
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%201.jpg">
 </p>
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%203.jpg">
+<p>
+</p><p><strong>Use of ICT<br></strong>
+We hope infusing thinking routines and Information and Communication Technology (ICT) tools into lessons can enhance student engagement and understanding. 
+</p>
+<p>
+For example, the ‘See, Think, Wonder’ Thinking Routine encourages students to observe, analyse, and question real-life situations through the lens of mathematical concepts. By prompting them to "see" what's happening, "think" critically about the mathematical concepts involved, and "wonder" about potential solutions or implications, students develop a deeper understanding of how mathematics applies to the world around them. 
+</p>
+<p>
+The Student Learning Space (SLS) provides an online learning platform where students can access learning resources, collaborate with peers, and engage in interactive learning activities. Through SLS, students have the flexibility to explore concepts at their own pace and receive immediate feedback, fostering a more personalised learning experience.
+</p>
 
 <p></p><p><strong>Description of programmes:<br></strong><strong>E2K Mathematics Programme</strong></p>
 <p><em>How do we deepen our students’ learning in Mathematics?</em></p>
@@ -38,7 +48,7 @@ Additionally, incorporating authentic examples from everyday life make learning 
 
 <p><strong>Mathematics Olympiad<br></strong></p><p></p><p><strong>Mathematics Olympiad workshops are organised for Primary 4 to 6 students who are keen to enrich and enhance their learning in Mathematics. Students who perform well are selected to represent the school in external competitions such as the National Mathematical Olympiad of Singapore (NMOS) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</strong></p><strong>
 <p>Rian, a Primary 6 student who had taken part in the annual Mathlympics competition, said, “We ask questions to help us understand the questions better. We persevere in our efforts to solve the questions.”</p>
-<p><strong>Use of ICT<br></strong>To motivate and engage our students in learning, ICT is infused into Mathematics lessons. Students use the ‘See, Think, Wonder’ thinking routine to apply the mathematical concepts they have learnt to real-life situations. The Student Learning Space (SLS) and ICT tools (such as Microsoft Excel and GeoGebra) provide opportunities for students to work collaboratively, deepen their understanding and be self-directed learners.</p>
+
 
 <p><strong>BRPS Math Challenge<br></strong>Students have the opportunities to take part in challenging, fun and engaging math challenge activities every term. These activities include magic number, sudoku, secret codes and multiplication tables. 
 
