@@ -38,19 +38,21 @@ sections:
       description: Blangah Rise Primary School received the Vanda Miss Joaquim Award
         at the School Green Awards (SGA) Presentation in November 2023.
   - infopic:
-      title: President’s Award for Teachers 2024
+      title: "Building Towers and Teamwork: A Recess Success Story!"
       button: Click Here to read more
-      url: /annoucements/presidents-award-for-teachers/
+      url: /highlights/2024/building-towers-and-teamwork/
       alt: Image alt text
-      image: /images/2024 Photos/Announcements/PAT_2024_website_publicity_image.gif
-      description: The President's Award for Teachers (PAT) recognises excellent and
-        experienced educators who are role models for the teaching profession.
+      image: /images/2024 Photos/ALP   Highlights/Photo_1.png
+      description: Recess took on a whole new dimension thanks to the incredible
+        collaboration between our students, teachers, and the amazing Parent
+        Support Group (PSG)!
+      subtitle: HIGHLIGHTS
   - infopic:
-      title: "Serving the Telok Blangah Community "
+      title: Serving the Telok Blangah Community
       subtitle: HIGHLIGHTS
       id: infopic
-      description: "Together with our community partners, Blangah Rise Primary School
-        organises a monthly active ageing programme "
+      description: Together with our community partners, Blangah Rise Primary School
+        organises a monthly active ageing programme
       button: CLICK HERE TO READ MORE
       alt: Image alt text
       url: /highlights/2024/telok-blangah/
