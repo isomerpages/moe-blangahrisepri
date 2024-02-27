@@ -39,8 +39,8 @@ and the dedicated parents who are such a vital part of our success.</p>
 in making this event a success! We look forward to hosting more collaborative
 activities in the future, building connections and enriching the learning
 experience for our students.</p>
-<p>Click on the video <a href="https://youtu.be/mkyGkDyF-v8" rel="noopener noreferrer nofollow" target="_blank">link</a> to view our students and parents
-in action.</p>
+<p>Click on the video <strong><a href="https://youtu.be/mkyGkDyF-v8" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> to
+view our students and parents in action.</p>
 <p>Do you have photos or videos of the straw tower that you had created?
 Share them with us on social media using #brpsalp</p>
 <p></p>
