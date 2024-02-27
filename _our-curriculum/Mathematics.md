@@ -2,21 +2,28 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
-<img src="/images/Banner-photo.jpg">
+
+<img style="width: 60%;" src="/images/Banner-photo.jpg">
 <p><strong>Vision:<br></strong>Creative and confident problem solvers who have a passion for Mathematics</p>
 <p><strong>Mission:<br></strong>To develop reasoning, thinking skills and problem solving skills in every child</p>
 <p><strong>MOE Mathematics Framework:</strong></p>
 <img src="/images/Math-Framework.png">
 <p>The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related.</p>
-<p><strong>Approach<br></strong>We believe that all students can learn and want to learn mathematics. We create opportunities for all students to be actively engaged in learning Mathematics. We foster positive attitudes in students towards Mathematics and make learning fun and meaningful through a variety of learning experiences. </p>
-<img src="/images/2023%20Photos/Mathematics/photo%201.jpg">
-<p>As explained by Ms Eileen Puah, Head of Department for Mathematics, “We have shopping time in class and learning journeys to help our students relate Mathematics to everyday life. We use a variety of manipulatives such as fraction discs and place value cards to help our students understand concepts better.”</p>
-<img src="/images/2023%20Photos/Mathematics/photo%202.jpg">
+<p><strong>Approach<br></strong>We believe that all students can learn and want to learn Mathematics. We create opportunities for all students to be actively engaged in learning Mathematics. We foster positive attitudes in students towards Mathematics and make learning fun and meaningful through a variety of learning experiences.
+</p>
 <p>
-<img src="/images/2023%20Photos/Mathematics/photo%203.jpg">
+Using manipulatives such as cubes, fraction discs and place value cards provide our students with concrete representations of abstract mathematical concepts, which make those concepts easier to understand.
+</p>
 
-</p><p><strong>Description of programmes:<br></strong><strong>E2K Mathematics Programme</strong></p>
+<img style="width: 50%;" src="/images/2023%20Photos/Mathematics/photo%201.jpg">
+<p>
+<img style="width: 50%;" src="/images/2023%20Photos/Mathematics/photo%202.jpg">
+</p>
+<img style="width: 50%;" src="/images/2023%20Photos/Mathematics/photo%203.jpg">
+
+<p></p><p><strong>Description of programmes:<br></strong><strong>E2K Mathematics Programme</strong></p>
 <p><em>How do we deepen our students’ learning in Mathematics?</em></p>
 <p>Our students in the&nbsp;<strong>A</strong>ccelerated&nbsp;<strong>P</strong>rogramme to&nbsp;<strong>E</strong>nhance students’ e<strong>X</strong>perience (APEX) attend the E2K Mathematics Programme. The materials are taken from the MOE Gifted Education Branch. We aim to develop students’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.</p>
 <p> Kai Xiang, a Primary 4 student in APEX, shared, “We look forward to every lesson as we get to solve challenging puzzles. We are happy to work with our friends to discuss and solve them. We present our solutions to our teachers and friends so that they can help us improve.”</p><p>
