@@ -8,7 +8,7 @@ variant: markdown
 <p><strong>Vision:<br></strong>Creative and confident problem solvers who have a passion for Mathematics</p>
 <p><strong>Mission:<br></strong>To develop reasoning, thinking skills and problem solving skills in every child</p>
 <p><strong>MOE Mathematics Framework:</strong></p>
-<img src="/images/Math-Framework.png">
+<img style="width: 60%;" src="/images/Math-Framework.png">
 <p>The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related.</p>
 <p><strong>Approach<br></strong>We believe that all students can learn and want to learn Mathematics. We create opportunities for all students to be actively engaged in learning Mathematics. We foster positive attitudes in students towards Mathematics and make learning fun and meaningful through a variety of learning experiences.
 </p>
