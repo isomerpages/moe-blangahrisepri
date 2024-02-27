@@ -42,3 +42,7 @@ and caring younger generation.”</p>
 <img style="width: 60%;" src="/images/2024%20Photos/Telok%20Blangah%20Community%20/Pic_4.jpg">
 </p>
 <img style="width: 60%;" src="/images/2024%20Photos/Telok%20Blangah%20Community%20/Pic_5.jpg">
+<p>
+<img style="width: 60%;" src="/images/2024%20Photos/Telok%20Blangah%20Community%20/Pic_6.jpg">
+</p>
+<img style="width: 60%;" src="/images/2024%20Photos/Telok%20Blangah%20Community%20/Pic_7.jpg">
