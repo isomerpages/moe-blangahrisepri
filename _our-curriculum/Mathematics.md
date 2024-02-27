@@ -4,7 +4,6 @@ permalink: /departments/mathematics/
 description: ""
 variant: markdown
 ---
-
 <img style="width: 60%;" src="/images/Banner-photo.jpg">
 <p><strong>Vision:<br></strong>Creative and confident problem solvers who have a passion for Mathematics</p>
 <p><strong>Mission:<br></strong>To develop reasoning, thinking skills and problem solving skills in every child</p>
@@ -17,11 +16,14 @@ variant: markdown
 Using manipulatives such as cubes, fraction discs and place value cards provide our students with concrete representations of abstract mathematical concepts, which make those concepts easier to understand.
 </p>
 
-<img style="width: 50%;" src="/images/2023%20Photos/Mathematics/photo%201.jpg">
+<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%202.jpg">
+
+Additionally, incorporating authentic examples from everyday life make learning of mathematics more relevant and meaningful to students. By connecting mathematical concepts to real-world situations, our students can see how Mathematics is used in their daily lives and understand its practical applications. This approach can also help our students develop problem-solving skills and critical thinking abilities as they apply mathematical concepts and skills to solve real-world problems.
+
 <p>
-<img style="width: 50%;" src="/images/2023%20Photos/Mathematics/photo%202.jpg">
+<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%201.jpg">
 </p>
-<img style="width: 50%;" src="/images/2023%20Photos/Mathematics/photo%203.jpg">
+<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%203.jpg">
 
 <p></p><p><strong>Description of programmes:<br></strong><strong>E2K Mathematics Programme</strong></p>
 <p><em>How do we deepen our students’ learning in Mathematics?</em></p>
