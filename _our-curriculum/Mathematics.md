@@ -40,14 +40,13 @@ The Student Learning Space (SLS) provides an online learning platform where stud
 <p>Our students in the&nbsp;<strong>A</strong>ccelerated&nbsp;<strong>P</strong>rogramme to&nbsp;<strong>E</strong>nhance students’ e<strong>X</strong>perience (APEX) attend the E2K Mathematics Programme. The materials are taken from the MOE Gifted Education Branch. We aim to develop students’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.</p>
 <p>The students gave positive feedback about the programme. “We look forward to every lesson as we get to solve challenging puzzles. We are happy to work with our friends to discuss and solve them. We present our solutions to our teachers and friends so that they can help us improve.”</p><p>
 	
-</p><p><strong>LEGO Building<br>
-	
-</strong></p><p><strong>The creative process of building with lego engages students in a hands-on and interactive experience that promote mathematical thinking.  The construction of lego objects involves problem-solving skills as students plan and analyse the pieces they have, envision the desired outcome and figure out required steps to achieve it. They develop spatial and pattern reasoning ability as they visualize how different pieces fit together.</strong></p><strong>
-	
-<img src="/images/2023%20Photos/Mathematics/photo%204.jpg">
+</p><p><strong>LEGO Building<br></strong></p><p>The creative process of building with lego engages students in a hands-on and interactive experience that promote mathematical thinking.  The construction of lego objects involves problem-solving skills as students plan and analyse the pieces they have, envision the desired outcome and figure out required steps to achieve it. They develop spatial and pattern reasoning ability as they visualize how different pieces fit together.</p>
 
-<p><strong>Mathematics Olympiad<br></strong></p><p></p><p><strong>Mathematics Olympiad workshops are organised for Primary 4 to 6 students who are keen to enrich and enhance their learning in Mathematics. Students who perform well are selected to represent the school in external competitions such as the National Mathematical Olympiad of Singapore (NMOS) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</strong></p><strong>
-<p>Rian, a Primary 6 student who had taken part in the annual Mathlympics competition, said, “We ask questions to help us understand the questions better. We persevere in our efforts to solve the questions.”</p>
+<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%204.jpg">
+
+
+<p><strong>Mathematics Olympiad<br></strong></p><p></p><p>Mathematics Olympiad workshops are organised for selected Primary 4 to 6 students to nurture their interest and talent in Mathematics. Students who demonstrate exceptional performance and dedication can be selected to represent the school in external Mathematics competitions such as Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS), Raffles Mathematical Olympiad (RMO), Visual Spatial Mathlympics and Annual Mathlympics.</p>
+
 
 
 <p><strong>BRPS Math Challenge<br></strong>Students have the opportunities to take part in challenging, fun and engaging math challenge activities every term. These activities include magic number, sudoku, secret codes and multiplication tables. 
@@ -87,4 +86,4 @@ The objectives of Math Challenge are as follows:
 	
 <img src="/images/2023%20Photos/Mathematics/photo%2015.jpg"><br>
 
-<p>Click&nbsp;<a href="/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p></strong></strong></strong>
+<p>Click&nbsp;<a href="/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p></strong>
