@@ -69,13 +69,12 @@ The objectives of Math Challenge are as follows:
 
 
 <p><strong>Math Star Award</strong></p>
-<p style="text-align: center;"><strong><em>Hard work&nbsp;</em><em>&nbsp;Perseverance = Success</em></strong></p>
-<p>The Math Star Award recognizes students who have exhibited proficiency and shown exceptional potential in mastering mathematics. The award nurtures a sense of pride and encouragement in learning mathematics. Students are inspired and motivated to pursue excellence in mathematics.
- “I am delighted to win the Math Star Award this term. I will continue to do my best in math. I hope to win the award next term again,” says Zheng Hao, a Primary 5 student, proudly.
+<p style="text-align: center;"><em>Hard work&nbsp;</em><em>&nbsp;Perseverance = Success</em></p>
+<p>The Math Star Award recognises students who have exhibited proficiency and shown exceptional potential in mastering mathematics. The award nurtures a sense of pride and encouragement in learning mathematics. Students are inspired and motivated to pursue excellence in the subject.
 </p>
-<img src="/images/2023%20Photos/Mathematics/photo%2010.jpg">
+
 	
-<p><strong>Fun with Math Programme<br>
+<p><strong>Fun with Math Programme</strong><br>
 	The Parent Support Group (PSG) works collaboratively with the school to enhance the learning experience and academic success of students. Students are engaged in math games and a variety of activities that include story-telling to build students’ factual fluency and foster interest in learning math.
 “I look forward to the Fun with Math programme. I used to think math is difficult. Now I think I can do the math questions and I want to do more, says Cindy, a Primary 2 student.
 
@@ -83,7 +82,7 @@ The objectives of Math Challenge are as follows:
 <img src="/images/2023%20Photos/Mathematics/photo%2012.jpg"><br>
 <img src="/images/2023%20Photos/Mathematics/photo%2013.jpg"><br>
 
-</strong></p><p><strong><strong>STEM Programme - ALP<br></strong>This programme aims to leverage on STEM to create more meaningful and engaging activities that integrate engineering and technology in Mathematics and Science to fuel students’ enthusiasm in learning as well as to promote 21<sup>st</sup>&nbsp;century skills – critical thinking, decision-making, collaboration, communication and creativity. It provides students with opportunities to innovate and apply content knowledge to bridge the gap between key theoretical concepts and real-world applications.</strong></p><strong>
+</p><p><strong><strong>STEM Programme - ALP<br></strong>This programme aims to leverage on STEM to create more meaningful and engaging activities that integrate engineering and technology in Mathematics and Science to fuel students’ enthusiasm in learning as well as to promote 21<sup>st</sup>&nbsp;century skills – critical thinking, decision-making, collaboration, communication and creativity. It provides students with opportunities to innovate and apply content knowledge to bridge the gap between key theoretical concepts and real-world applications.</strong></p><strong>
 <img src="/images/2023%20Photos/Mathematics/photo%2014.jpg"><br>
 	
 <img src="/images/2023%20Photos/Mathematics/photo%2015.jpg"><br>
