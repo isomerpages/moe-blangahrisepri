@@ -97,12 +97,7 @@ Besides covering the syllabus, the school provides school-based programmes for t
   text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
   mso-list:l0 level1 lfo1"><span style="font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#484848"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="TA" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#484848">Ukulele (P4)</span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#484848"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
-  text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
-  mso-list:l0 level1 lfo1"><span style="font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#484848"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="TA" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#484848">Cajon (P6)</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#484848">Ukulele (P6)</span><span style="font-family:&quot;Arial&quot;,sans-serif;
   color:#484848"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
   text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
   mso-list:l0 level1 lfo1"><span style="font-family:Symbol;
@@ -140,8 +135,12 @@ Besides covering the syllabus, the school provides school-based programmes for t
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:115.7pt"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
   text-indent:-.25in;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol;color:#484848"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="TA" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#484848">Stomp </span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#484848">After School Enrichment Programme (ASEP Aesthetics)</span><span style="font-family:&quot;Arial&quot;,sans-serif;
   color:#484848">(s<span lang="TA">elected students)</span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
+  text-indent:-.25in;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;color:#484848"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="TA" style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#484848">ASEP Choir (selected students)</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#484848"> - <span lang="TA"></span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
   text-indent:-.25in;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol;color:#484848"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="TA" style="font-family:&quot;Arial&quot;,sans-serif;
   color:#484848">Learning Journeys</span><span style="font-family:&quot;Arial&quot;,sans-serif;
