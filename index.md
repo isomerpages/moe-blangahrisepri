@@ -30,13 +30,13 @@ sections:
       url: /annoucements/principal-january-letter-2024/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: School Green Awards 2023
+      title: "Inspiring Teacher of English Award 2024 "
       button: READ MORE
-      url: /annoucements/school-green-awards-2023/
-      image: /images/2024 Photos/Announcements/SGA_Award_2023.jpg
+      url: /annoucements/inspiring-teacher-english-award2024/
+      image: /images/2024 Photos/Announcements/EL_Teacher_Nomination.jpg
       alt: Image alt text
-      description: Blangah Rise Primary School received the Vanda Miss Joaquim Award
-        at the School Green Awards (SGA) Presentation in November 2023.
+      description: "If you have been inspired by an English Teacher in BRPS, nominate
+        him / her for the Inspiring Teacher of English Award 2024 today. "
   - infopic:
       title: "Building Towers and Teamwork: A Recess Success Story!"
       button: Click Here to read more
