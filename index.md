@@ -38,6 +38,15 @@ sections:
       description: If you have been inspired by an English Teacher in BRPS, nominate
         him / her for the Inspiring Teacher of English Award 2024 today.
   - infopic:
+      title: Total Defence Day 2024
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2024 Photos/TDD 2024/WhatsApp_Image_2024_03_01_at_10_53_28.jpg
+      url: /highlights/2024/total-defence-day2024//
+      description: On 6th February, our Blangnites commemorated Total Defence Day. It
+        is crucial for our students to be prepared, vigilant, and knowledgeable
+  - infopic:
       title: "Building Towers and Teamwork: A Recess Success Story!"
       button: Click Here to read more
       url: /highlights/2024/building-towers-and-teamwork/
@@ -57,15 +66,6 @@ sections:
       alt: Image alt text
       url: /highlights/2024/telok-blangah/
       image: /images/2024 Photos/Telok Blangah Community /Pic_4.jpg
-  - infopic:
-      title: Total Defence Day 2024
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2024 Photos/TDD 2024/WhatsApp_Image_2024_03_01_at_10_53_28.jpg
-      url: /highlights/2024/total-defence-day2024//
-      description: On 6th February, our Blangnites commemorated Total Defence Day. It
-        is crucial for our students to be prepared, vigilant, and knowledgeable
   - resources:
       title: Publications
       button: Click here to see more
