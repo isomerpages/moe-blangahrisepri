@@ -30,13 +30,22 @@ sections:
       url: /annoucements/principal-january-letter-2024/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: School Green Awards 2023
+      title: Inspiring Teacher of English Award 2024
       button: READ MORE
-      url: /annoucements/school-green-awards-2023/
-      image: /images/2024 Photos/Announcements/SGA_Award_2023.jpg
+      url: /annoucements/inspiring-teacher-english-award2024/
+      image: /images/2024 Photos/Announcements/EL_Teacher_Nomination.jpg
       alt: Image alt text
-      description: Blangah Rise Primary School received the Vanda Miss Joaquim Award
-        at the School Green Awards (SGA) Presentation in November 2023.
+      description: If you have been inspired by an English Teacher in BRPS, nominate
+        him / her for the Inspiring Teacher of English Award 2024 today.
+  - infopic:
+      title: Total Defence Day 2024
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2024 Photos/TDD 2024/WhatsApp_Image_2024_03_01_at_10_53_28.jpg
+      url: /highlights/2024/total-defence-day2024//
+      description: On 6th February, our Blangnites commemorated Total Defence Day. It
+        is crucial for our students to be prepared, vigilant, and knowledgeable
   - infopic:
       title: "Building Towers and Teamwork: A Recess Success Story!"
       button: Click Here to read more
@@ -57,16 +66,6 @@ sections:
       alt: Image alt text
       url: /highlights/2024/telok-blangah/
       image: /images/2024 Photos/Telok Blangah Community /Pic_4.jpg
-  - infopic:
-      title: Safer Internet Day 2024
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2024 Photos/Safer Internet
-        Day/WhatsApp_Image_2024_02_14_at_14_01_41.jpeg
-      url: /highlights/2024/safer-internet-day-2024/
-      description: Safer Internet Day took place on 6 February and it is an annual
-        global initiative
   - resources:
       title: Publications
       button: Click here to see more
