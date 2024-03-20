@@ -2,6 +2,7 @@ collections:
   annoucements:
     output: true
     order:
+      - Principal's March Letter.md
       - Inspiring Teacher of English Award 2024.md
       - School Green Awards 2023.md
       - Principal's January Letter.md
