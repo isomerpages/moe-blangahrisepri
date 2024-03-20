@@ -24,7 +24,7 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's January Letter
+      title: Principal's March Letter
       button: Read More
       alt: Image alt text
       url: /annoucements/principal-january-letter-2024/
