@@ -43,7 +43,7 @@ sections:
       button: Click here to read more
       alt: Image alt text
       image: /images/2024 Photos/TDD 2024/WhatsApp_Image_2024_03_01_at_10_53_28.jpg
-      url: https://blangahrisepri.moe.edu.sg/highlights/2024/total-defence-day2024/
+      url: /highlights/2024/total-defence-day2024/
       description: On 6th February, our Blangnites commemorated Total Defence Day. It
         is crucial for our students to be prepared, vigilant, and knowledgeable
   - infopic:
