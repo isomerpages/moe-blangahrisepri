@@ -1,0 +1,6 @@
+collections:
+  archived-pages:
+    output: true
+    order:
+      - Floorball.md
+      - Frisbee.md

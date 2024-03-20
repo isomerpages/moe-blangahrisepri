@@ -2,7 +2,6 @@
 title: Frisbee
 permalink: /departments/ccas/frisbee/
 description: ""
-third_nav_title: CCA
 ---
 <img src="/images/Ultimate-Frsibee-1.jpg">
 <p><strong>Holistic learning<br></strong>To provide more meaningful, holistic learning and sporting opportunities for our students, we introduced Ultimate Frisbee as an afterschool CCA in 2020. Ultimate Frisbee is a low-contact sport that requires overall fitness, hand-eye co-ordination and agility. Unlike most sports, Ultimate Frisbee focuses on self-officiating and is an excellent platform for students to learn and practice core values such as honesty and respect.</p>
