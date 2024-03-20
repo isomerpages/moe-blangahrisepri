@@ -24,10 +24,10 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's January Letter
+      title: Principal's March Letter
       button: Read More
       alt: Image alt text
-      url: /annoucements/principal-january-letter-2024/
+      url: /annoucements/principal-march-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
       title: Inspiring Teacher of English Award 2024
