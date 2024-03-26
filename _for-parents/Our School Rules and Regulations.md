@@ -70,11 +70,11 @@ variant: markdown
 <li>3.4.	If students cheat, attempt to cheat or assist in cheating, misbehave or do not follow the examination regulations during the examination, they may be prohibited from taking the examination or have their examination results imposed with a grade penalty.</li>
 </ul>
 <ol start="4">
-<li>If you are not feeling well and not able to sit the examination, you need to provide the school with a medical certificate as a valid reason.&nbsp;Otherwise, zero marks may be awarded. If you have a valid reason for not taking the examination, your examination grade will be:</li>
+<li>If students are not feeling well and not able to sit the examination, they need to provide the school with a medical certificate as a valid reason. Otherwise, zero marks may be awarded. If they have a valid reason for not taking the examination, their examination grade will be:</li>
 </ol>
 <ul>
-<li>indicated as “VR”, if you have missed a major component of the examination; and</li>
-<li>pro-rated, if you have missed a minor component of the examination (e.g. Oral Communication, Listening Comprehension).</li>
+<li>4.1.	indicated as “VR”, if they have missed a major component of the examination; and</li>
+<li>4.2.	pro-rated, if they have missed a minor component of the examination (e.g. Oral Communication, Listening Comprehension).</li>
 </ul>
 </div>
 </li></ul>
