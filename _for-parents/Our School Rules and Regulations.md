@@ -45,9 +45,9 @@ variant: markdown
 <label for="accordion3">C) Consequences of Wrong Conduct</label>
 <div>
 <p><strong>1.Attire and Appearance<br></strong>1.1 Students who do not observe the rules of attire, particularly the school uniform and PE attire, will be noted down by the Form Teachers. The Form Teachers will follow up with calls to parents/ guardians.<br>1.2 Students who do not conform to the rules with regard to accessories and jewellery will have their items confiscated. Parent/guardian should make an appointment, with the teacher, to collect the confiscated item in person.</p>
-<p><strong>2. Punctuality<br></strong>2.1 Students who are late for school more than three times will be issued a Letter of Warning.<br>2.2 If late-coming by student continues, further consequences, such as after school detention, may be meted out.<br>2.3 Repeated late-coming will have an impact on reported conduct and considerations for award nominations.</p>
+<p><strong>2. Punctuality<br></strong>2.1	Consequences, such as after-school detention, may be meted out to students who are frequently late for school. Repeated late-coming will have an impact on reported conduct grade and considerations for award nominations and recommendations.</p>
 <p><strong>3. Possession of banned and restricted items<br></strong>3.1 Mobile phones, smart watches, music/video players, electronic games, toys, card games and other electronic devices and expensive items brought to school will be confiscated. Parent/guardian should make an appointment, with the teacher, to collect the confiscated item in person.</p>
-<p><strong>4. Acts of misbehaviour<br></strong>4.1 The school does not condone acts of misbehaviour committed by students. To support students in learning from their mistakes, disciplinary actions (consequences) will be meted out according to the severity of the offences. Disciplinary actions may include: Personal reflection; (b) Peer apology; (c) Teacher-student conference; (d) Guidance / Counselling; (e) Confiscation of item; (f) Compensation for damaged item(s); (g) Behavioural Agreement; (h) After-school detention; (i) Adverse conduct grade;Suspension from identified school activities / school; (k) Caning; and/or (l) Reporting to relevant authorities such as the Police,&nbsp;Health Promotion Board, Compulsory Education Unit, etc.<br>4.2 Serious and repeated offences, for example, rudeness, use of inappropriate language, defiance, violence, fighting, bullying, vandalism, theft, and playing truant will not be tolerated. The school will administer caning for boys should they commit any of these serious and/or repeated offences. For girls, appropriate disciplinary action(s) will be taken depending on the offence committed.<br>4.3 Students who commit serious and repeated offences may also be liable for suspension or expulsion from school. Parents of such students will be called in for discussion with the Principal.</p>
+<p><strong>4. Acts of misbehaviour<br></strong>4.1 The school does not condone acts of misbehaviour committed by students. To support students in learning from their mistakes, disciplinary actions (consequences) will be meted out according to the severity of the offences. Disciplinary actions may include: Personal reflection; (b) Peer apology; (c) Teacher-student conference; (d) Guidance / Counselling; (e) Confiscation of item; (f) Compensation for damaged item(s); (g) Behavioural Agreement; (h) After-school detention; (i) Adverse conduct grade; (j) Suspension from identified school activities / school; (k) Caning; and/or (l) Reporting to relevant authorities such as the Police,&nbsp;Health Promotion Board, Compulsory Education Unit, etc.<br>4.2 Serious and repeated offences, for example, rudeness, use of inappropriate language, defiance, violence, fighting, bullying, vandalism, theft, and playing truant will not be tolerated. The school will administer caning for boys should they commit any of these serious and/or repeated offences. For girls, appropriate disciplinary action(s) will be taken depending on the offence committed.<br>4.3 Students who commit serious and repeated offences may also be liable for suspension or expulsion from school. Parents of such students will be called in for discussion with the Principal.</p>
 </div>
 </li>
 <li>
@@ -55,19 +55,19 @@ variant: markdown
 <label for="accordion4">D) Examination Matters</label>
 <div>
 <ol>
-<li>Be punctual for all examination papers. You will not be given make-up time if you are late without valid reason.</li>
+<li>Students should be punctual for all examination papers. They will not be given make-up time if they are late without valid reason.</li>
 </ol>
 <ol start="2">
-<li>Bring all materials needed for the examination. They include blue/black ink or ballpoint pens, 2B pencils, soft erasers, sharpeners and standard mathematical instruments (ruler, protractor and set-squares). Unauthorised materials or equipment should not be brought in. You are not allowed to share materials, dictionaries and calculators with other candidates during the examination.</li>
+<li>Students should bring all materials needed for the examination. These include blue/black ink or ballpoint pens, 2B pencils, soft erasers, sharpeners and standard mathematical instruments (ruler, protractor and set-squares). Unauthorised materials or equipment should not be brought in. Students are not allowed to share materials, dictionaries and calculators with other students during the examination.</li>
 </ol>
 <ol start="3">
-<li>You must follow these regulations:</li>
+<li>Students must follow these regulations:</li>
 </ol>
 <ul>
-<li>Do not cheat or assist in cheating.</li>
-<li>Do not turn and look around at other students, as this may be mistaken for cheating.</li>
-<li>Do not talk or communicate (verbally or non-verbally) with other students during the examination.</li>
-<li>If you cheat, attempt to cheat or assist in cheating, misbehave or do not follow the examination regulations during the examination, you may be prohibited from taking the examination or have your examination results imposed with a grade penalty.</li>
+<li>3.1 Do not cheat or assist in cheating.</li>
+<li>3.2 Do not turn and look around at other students, as this may be mistaken for cheating.</li>
+<li>3.3 Do not talk or communicate (verbally or non-verbally) with other students during the examination.</li>
+<li>3.4.	If students cheat, attempt to cheat or assist in cheating, misbehave or do not follow the examination regulations during the examination, they may be prohibited from taking the examination or have their examination results imposed with a grade penalty.</li>
 </ul>
 <ol start="4">
 <li>If you are not feeling well and not able to sit the examination, you need to provide the school with a medical certificate as a valid reason.&nbsp;Otherwise, zero marks may be awarded. If you have a valid reason for not taking the examination, your examination grade will be:</li>
