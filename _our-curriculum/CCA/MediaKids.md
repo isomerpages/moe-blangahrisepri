@@ -61,7 +61,7 @@ They apply composition techniques as such Rule of Thirds, Leading Lines and Fram
 <img src="/images/2023%20Photos/Media%20Kids/media%20collage_5.JPG">
 <p><strong>Bicentennial-Themed Coffee Table Book</strong></p>
 <img src="/images/Photo-8-2-1024x576.jpg">
-<p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed coffee table book, “Singapore Through Children’s Eyes” which was presented to President Halimah Yacob on 28 July 2019. President Halimah had written a foreword for the book, which was supported by the Singapore Bicentennial Office. Click here&nbsp;<a href="/bicentennial-coffee-table-book/">bicentennial coffee table book</a>&nbsp;to find out more about the book.</p>
+<p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed coffee table book, “Singapore Through Children’s Eyes” which was presented to President Halimah Yacob on 28 July 2019. President Halimah had written a foreword for the book, which was supported by the Singapore Bicentennial Office. Click here&nbsp;<a href="/our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/">bicentennial coffee table book</a>&nbsp;to find out more about the book.</p>
 <img src="/images/2023%20Photos/Media%20Kids/1.png">
 <p><strong>Here Comes The Storm Now: Our Covid-19 Diary</strong></p>
 <img style="width: 65%;" src="/images/Covid-19-274x300.jpg">
