@@ -45,4 +45,4 @@ There is no difference in the way students interact in the real and cyber world.
 
 <p>We commemorated Safer Internet Day starting with an announcement during assembly of its importance to foster a safer online environment for everyone. During recess, our Cyberwellness Ambassadors and Peer Support Leaders provided great support, and engaged their peers in discussions on the importance of balancing their time online and how to cultivate a healthy and balanced relationship with technology. Our Cyberwellness Ambassadors and Peer Support Leaders then guided their peers to make pledges for responsible screen use. </p>
 
-<p>Click&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/safer-internet-day-2024/](https://www.blangahrisepri.moe.edu.sg/highlights/2024/safer-internet-day-2024/)">here</a> to read more about Safer Internet Day 2024. </p>
+<p>Click&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/safer-internet-day-2024/">here</a> to read more about Safer Internet Day 2024. </p>

@@ -22,8 +22,8 @@ Students also get to learn about composition techniques which they could leverag
 <img style="width: 50%;" src="/images/2023%20Photos/yp%20page%20photo%207.jpg">
 
 <p>In Young Photographers, students leverage the power of photography to achieve the 3Cs – Create, Communicate and Collaborate. </p>
-<p>To capture photographs that tell a story or a concept, students acquire photography skills and composition techniques such as rule of thirds, leading lines, layering, framing and symmetry. Students acquire these composition techniques and outdoor shoot locations through Student Learning Space (SLS). This provides them with opportunities to be an **active and self-directed learner.** </p>
-<p>All students attend face to face sessions and outdoor shoots in Young Photographers, which equip them with valuable skills to **create and communicate stories** through their lenses using DSLR cameras.</p>  
+<p>To capture photographs that tell a story or a concept, students acquire photography skills and composition techniques such as rule of thirds, leading lines, layering, framing and symmetry. Students acquire these composition techniques and outdoor shoot locations through Student Learning Space (SLS). This provides them with opportunities to be an active and self-directed learner </p>
+<p>All students attend face to face sessions and outdoor shoots in Young Photographers, which equip them with valuable skills to create and communicate stories through their lenses using DSLR cameras.</p>  
 
 <h4><strong>Learning beyond the classrooms  </strong></h4>
 
@@ -83,7 +83,7 @@ Our Primary 5 students went to Marina Barrage for their outdoor shoot. They had 
 
 <img style="width: 50%;" src="/images/2023%20Photos/yp%20page%20photo%2011.JPG">
 
-<p>After the outdoor shoots, students share compelling stories and perspectives through their own photographs. There are many enriching learning opportunities. Our Primary 4 to Primary 6 students hone their English Language skills through photojournalism via our Viewpoints programme. This activity provides enriching learning opportunities by encouraging students to become active contributors and collaborate with one another.  &nbsp;<a href="/viewpoints/">Viewpoints</a></p>
+<p>After the outdoor shoots, students share compelling stories and perspectives through their own photographs. There are many enriching learning opportunities. Our Primary 4 to Primary 6 students hone their English Language skills through photojournalism via our &nbsp;<a href="/viewpoints/">Viewpoints</a> programme. This activity provides enriching learning opportunities by encouraging students to become active contributors and collaborate with one another.</p>
 <h4><strong>Creative Photography: Some of our students' works</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
