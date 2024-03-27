@@ -103,19 +103,19 @@ variant: markdown
 </tr>
 
 <tr>
-<td style="text-align: center; width: 175px;">Gan Eng Seng Pr School</td>
-<td style="text-align: center; width: 219px;">100 Redhill Close (158901)</td>
-<td style="text-align: center; width: 164px;">87647603</td>
+<td style="text-align: center; width: 175px;">CHIJ Kellock Primary School</td>
+<td style="text-align: center; width: 219px;">1 Bukit Teresa Rd S(099757)</td>
+<td style="text-align: center; width: 164px;">8764 7293</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 175px;">Zhangde Pr School</td>
-<td style="text-align: center; width: 219px;">51 Jalan Membina (169485)</td>
-<td style="text-align: center; width: 164px;">89400375</td>
+<td style="text-align: center; width: 175px;">Gan Eng Seng Primary School </td>
+<td style="text-align: center; width: 219px;">100 Redhill Cl S(158901)</td>
+<td style="text-align: center; width: 164px;">8764 7603</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 175px;">Mobile Dental Clinic 18</td>
-<td style="text-align: center; width: 219px;">&nbsp;</td>
-<td style="text-align: center; width: 164px;">92707796</td>
+<td style="text-align: center; width: 175px;">MDC 18</td>
+<td style="text-align: center; width: 219px;">(please contact clinic for address)</td>
+<td style="text-align: center; width: 164px;">9389 5301</td>
 </tr>
 </tbody>
 </table>
