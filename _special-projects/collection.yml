@@ -2,6 +2,7 @@ collections:
   special-projects:
     output: true
     order:
+      - In Pursuit of A Dream.md
       - Bicentennial Coffee Table Book/.keep
       - Bicentennial Coffee Table Book/Bicentennial Coffee Table Book.md
       - "Bicentennial Coffee Table Book/Telok Blangah Song: Our Bicentennial
