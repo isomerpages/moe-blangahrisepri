@@ -57,12 +57,11 @@ sections:
         Support Group (PSG)!
       subtitle: HIGHLIGHTS
   - infopic:
-      title: STEM Challenge Competition by Science Centre
+      title: STEM Challenge by Science Centre
       subtitle: HIGHLIGHTS
       id: infopic
-      description: "The recent STEM Challenge, organized by Science Centre Singapore
+      description: The recent STEM Challenge, organized by Science Centre Singapore
         tasked students from Primary 3 to 6 with constructing cotton reel tanks
-        "
       button: CLICK HERE TO READ MORE
       alt: Image alt text
       url: /highlights/2024/stem-challenge/
