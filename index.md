@@ -57,7 +57,7 @@ sections:
         Support Group (PSG)!
       subtitle: HIGHLIGHTS
   - infopic:
-      title: STEM Challenge by Science Centre
+      title: STEM Challenge by Science Centre Singapore
       subtitle: HIGHLIGHTS
       id: infopic
       description: The recent STEM Challenge, organized by Science Centre Singapore
