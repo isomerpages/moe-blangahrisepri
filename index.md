@@ -57,15 +57,15 @@ sections:
         Support Group (PSG)!
       subtitle: HIGHLIGHTS
   - infopic:
-      title: Serving the Telok Blangah Community
+      title: STEM Challenge by Science Centre Singapore
       subtitle: HIGHLIGHTS
       id: infopic
-      description: Together with our community partners, Blangah Rise Primary School
-        organises a monthly active ageing programme
+      description: The recent STEM Challenge, organized by Science Centre Singapore
+        tasked students from Primary 3 to 6 with constructing cotton reel tanks
       button: CLICK HERE TO READ MORE
       alt: Image alt text
-      url: /highlights/2024/telok-blangah/
-      image: /images/2024 Photos/Telok Blangah Community /Pic_4.jpg
+      url: /highlights/2024/stem-challenge/
+      image: /images/2024 Photos/Highlight/STEM_Challenge.jpg
   - resources:
       title: Publications
       button: Click here to see more
