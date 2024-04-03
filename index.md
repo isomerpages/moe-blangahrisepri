@@ -38,14 +38,14 @@ sections:
       description: If you have been inspired by an English Teacher in BRPS, nominate
         him / her for the Inspiring Teacher of English Award 2024 today.
   - infopic:
-      title: Total Defence Day 2024
+      title: World Water Day 2024
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2024 Photos/TDD 2024/WhatsApp_Image_2024_03_01_at_10_53_28.jpg
-      url: /highlights/2024/total-defence-day2024/
-      description: On 6th February, our Blangnites commemorated Total Defence Day. It
-        is crucial for our students to be prepared, vigilant, and knowledgeable
+      image: /images/2024 Photos/World Water Day/Photo_1.jpg
+      url: /highlights/2024/world-water-day/
+      description: Our school commemorated World Water Day on March 19, initiating
+        efforts to promote water sustainability.
   - infopic:
       title: "Building Towers and Teamwork: A Recess Success Story!"
       button: Click Here to read more
