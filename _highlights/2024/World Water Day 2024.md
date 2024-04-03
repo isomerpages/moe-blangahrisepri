@@ -14,7 +14,8 @@ Interactive classroom sessions, categorised by grade levels, enabled students to
 
 ![](/images/2024%20Photos/World%20Water%20Day/Photo_2.jpg)
 
-![](/images/2024%20Photos/World%20Water%20Day/Photo_3.jpg)
+<img style="width: 65%;" src="/images/2024%20Photos/World%20Water%20Day/Photo_3.jpg">
+
 
 ![](/images/2024%20Photos/World%20Water%20Day/Photo_4.jpg)
 
@@ -22,6 +23,6 @@ Recess activities encouraged collective participation, with our Parent Support G
 Jolene from Primary 3 shared, "Through World Water Day activities, I have learnt that our small actions matter. It is important that each of us play a role in saving water." 
 There were post-activities offering quizzes and reflective exercises to deepen students' comprehension of water conservation. A group of our students also participated in a World Water Day infographic-design competition organised by Dunman High School. Additionally, specialised science lessons, including making a Water Filtering System and exploring rain harvesting techniques in our Garden of Hope, expanded students' horizons, ensuring a comprehensive approach to water sustainability education. 
 
-![](/images/2024%20Photos/World%20Water%20Day/Photo_5.jpg)
+<img style="width: 65%;" src="/images/2024%20Photos/World%20Water%20Day/Photo_5.jpg">
 
 The commemoration was not merely an event but a transformative experience, nurturing critical skills like collaboration, inventive thinking, and responsibility among students. It celebrated the synergy between the school, parents, and the community, highlighting the collective commitment towards a sustainable water future.
