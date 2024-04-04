@@ -30,41 +30,44 @@ sections:
       url: /annoucements/principal-march-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Inspiring Teacher of English Award 2024
+      title: International School Collaborations
       button: READ MORE
-      url: /annoucements/inspiring-teacher-english-award2024/
-      image: /images/2024 Photos/Announcements/EL_Teacher_Nomination.jpg
+      url: /international-school-collaborations/
+      image: /images/2024 Photos/HK Exchange /1__2_.jpg
       alt: Image alt text
-      description: If you have been inspired by an English Teacher in BRPS, nominate
-        him / her for the Inspiring Teacher of English Award 2024 today.
+      description: "On 27 March, we were happy to meet students and teachers from
+        S.K.H Tin Shui Wai Ling Oi Primary School, Hong Kong. "
+      subtitle: HIGHLIGHTS
   - infopic:
-      title: World Water Day 2024
+      title: Motivation Camp and JA Singapore Partnership
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: To promote a supportive learning environment leading up to the
+        upcoming Primary School Leaving Examination, Primary 6 students attended
+        a motivational camp
+      button: CLICK HERE TO READ MORE
+      alt: Image alt text
+      url: /building-a-solar-buddy-motivation-camp-and-ja-singapore-partnership/
+      image: /images/2024 Photos/P6 Motiv Camp/Solar_Buddy_3.jpg
+  - infopic:
+      title: International Friendship Day 2024
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2024 Photos/World Water Day/Photo_1.jpg
-      url: /highlights/2024/world-water-day/
-      description: Our school commemorated World Water Day on March 19, initiating
-        efforts to promote water sustainability.
+      image: /images/2024 Photos/IFD/Edited_Emcee_Photo.jpg
+      url: /international-friendship-day-2024/
+      description: "We commemorated International Friendship Day on 2 April. There
+        were activities which aimed to foster friendships and collaborations
+        amongst our students. "
   - infopic:
       title: Term 1 Inter-House Games 2024
       button: Click Here to read more
       url: /highlights/2024/term-1-inter-house-games-2024/
       alt: Image alt text
       image: /images/2024 Photos/Interhouse Games/T1Games_Image002.jpg
-      description: "Our school held our Term 1 Inter-House Games for 2024 with the
-        games reflecting our student’s growth from their House Practices. "
+      description: Our school held our Term 1 Inter-House Games for 2024 with the
+        games reflecting our student’s growth from their House Practices.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: STEM Challenge by Science Centre Singapore
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: The recent STEM Challenge, organized by Science Centre Singapore
-        tasked students from Primary 3 to 6 with constructing cotton reel tanks
-      button: CLICK HERE TO READ MORE
-      alt: Image alt text
-      url: /highlights/2024/stem-challenge/
-      image: /images/2024 Photos/Highlight/STEM_Challenge.jpg
   - resources:
       title: Publications
       button: Click here to see more
