@@ -47,14 +47,13 @@ sections:
       description: Our school commemorated World Water Day on March 19, initiating
         efforts to promote water sustainability.
   - infopic:
-      title: "Building Towers and Teamwork: A Recess Success Story!"
+      title: Term 1 Inter-House Games 2024
       button: Click Here to read more
-      url: /highlights/2024/building-towers-and-teamwork/
+      url: /highlights/2024/term-1-inter-house-games-2024/
       alt: Image alt text
-      image: /images/2024 Photos/ALP   Highlights/Photo_1.png
-      description: Recess took on a whole new dimension thanks to the incredible
-        collaboration between our students, teachers, and the amazing Parent
-        Support Group (PSG)!
+      image: /images/2024 Photos/Interhouse Games/T1Games_Image002.jpg
+      description: "Our school held our Term 1 Inter-House Games for 2024 with the
+        games reflecting our student’s growth from their House Practices. "
       subtitle: HIGHLIGHTS
   - infopic:
       title: STEM Challenge by Science Centre Singapore

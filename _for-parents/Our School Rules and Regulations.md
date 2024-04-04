@@ -18,14 +18,13 @@ variant: markdown
 <p><strong>5. Fingernails<br></strong>5.1 For hygiene reasons, fingernails must be kept short and clean.<br>5.2 No nail polish or strengthener should be applied to fingernails.</p>
 <p><strong>6. Jewellery<br></strong>6.1 Girls may wear plain and simple stud earrings. Multiple earrings are not allowed.<br>6.2 No other jewellery and any form of adornment is to be worn in school.</p>
 <p><strong>7. Others<br></strong>7.1 Students must not have visible tattoos and must not wear any make-up except when they are performing in a concert.</p>
-<p><strong>OUR SCHOOL UNIFORM</strong></p>
-<img style="width: 65%;" src="/images/capture1.jpeg">
-<p><strong>OUR P.E. ATTIRE</strong></p>
-<img style="width: 65%;" src="/images/capture2.jpeg">
-<p><strong>ACCEPTABLE HAIRSTYLES</strong><br>For Boys</p>
-<img style="width: 65%;" src="/images/boyshair.jpg">
-<p>For Girls</p>
-<img style="width: 65%;" src="/images/girlshair.jpg">
+
+<p><img style="width: 80%;" src="/images/2024%20Photos/Rules%20&amp;%20Regulations/School_Uniform.jpg"></p>
+
+<p><img style="width: 80%;" src="/images/2024%20Photos/Rules%20&amp;%20Regulations/PE_Attire.jpg"></p>
+
+<p><img style="width: 80%;" src="/images/2024%20Photos/Rules%20&amp;%20Regulations/Hairstyles.jpg"></p>
+
 </div>
 </li>
 <li>

@@ -1,6 +1,6 @@
 ---
 title: In Pursuit of A Dream
-permalink: /in-pursuit-of-a-dream/
+permalink: /special-projects/in-pursuit-of-a-dream/
 variant: markdown
 description: ""
 ---
