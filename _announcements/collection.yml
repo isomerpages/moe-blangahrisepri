@@ -1,5 +1,5 @@
 collections:
-  annoucements:
+  announcements:
     output: true
     order:
       - Principal's March Letter.md
