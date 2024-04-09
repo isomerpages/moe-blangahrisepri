@@ -15,3 +15,15 @@ Dave agreed, relaying that, “Young Photographers was fun and memorable as we g
 Through Young Photographers, our Primary 5 students had learnt more than composition techniques. Their eyes were opened to the wonders of nature and they were imbued with a sense of creativity and environmental stewardship. 
 
 Our students will be leveraging their photographs to create and communicate stories through their lenses through Viewpoints – a photojournalism activity to enhance language skills and deliver an authentic learning experience. Students will be using Google Classroom for this photojournalism activity! We look forward to reading their stories!
+
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/P5%20YP/20240404_084511.jpg">
+</p>
+
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/P5%20YP/20240404_084647.jpg">
+</p>
+
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/P5%20YP/20240404_090648.jpg">
+</p>
