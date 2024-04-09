@@ -28,3 +28,6 @@ Through the Broadcast Journalism module, our students have been provided with in
 <p>
 <img style="width: 65%;" src="/images/2024%20Photos/Broadcast%20Journalism/IMG_3606.jpg">
 </p>
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Broadcast%20Journalism/IMG_3567.jpg">
+</p>
