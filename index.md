@@ -60,7 +60,7 @@ sections:
         activities which aimed to foster friendships and collaborations amongst
         our students.
   - infopic:
-      title: Term 1 Inter-House Games 2024
+      title: Broadcast Journalism
       button: Click Here to read more
       url: /highlights/2024/broadcast-journalism/
       alt: Image alt text
