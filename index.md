@@ -50,15 +50,14 @@ sections:
       url: /building-a-solar-buddy-motivation-camp-and-ja-singapore-partnership/
       image: /images/2024 Photos/P6 Motiv Camp/Solar_Buddy_3.jpg
   - infopic:
-      title: International Friendship Day 2024
+      title: P5 Young Photographers
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2024 Photos/IFD/Edited_Emcee_Photo.jpg
-      url: /international-friendship-day-2024/
-      description: We commemorated International Friendship Day on 2 April. There were
-        activities which aimed to foster friendships and collaborations amongst
-        our students.
+      image: /images/2024 Photos/P5 YP/20240404_084511.jpg
+      url: /highlights/2024/p5-young-photographers/
+      description: "Our Young Photographers programme provided an exciting opportunity
+        for students to explore the world of photography "
   - infopic:
       title: Broadcast Journalism
       button: Click Here to read more
