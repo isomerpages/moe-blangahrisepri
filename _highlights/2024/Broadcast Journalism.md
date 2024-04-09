@@ -18,4 +18,7 @@ Throughout the programme, students acquired valuable presentation skills, includ
 
 Through the Broadcast Journalism module, our students have been provided with invaluable opportunities to develop as active contributors, confident individuals, and self-directed learners, preparing them for success in the dynamic world of communication and media.
 
-
+<img style="width: 65%;" src="/images/2024%20Photos/Broadcast%20Journalism/IMG_7003.jpg">
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Broadcast%20Journalism/IMG_6924.jpg">
+</p>
