@@ -33,3 +33,7 @@ Our students will be leveraging their photographs to create and communicate stor
 <p>
 <img style="width: 65%;" src="/images/2024%20Photos/P5%20YP/IMG_3880.jpg">
 </p>
+
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/P5%20YP/IMG_3882.jpg">
+</p>
