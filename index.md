@@ -35,8 +35,8 @@ sections:
       url: /international-school-collaborations/
       image: /images/2024 Photos/HK Exchange /1__2_.jpg
       alt: Image alt text
-      description: "On 27 March, we were happy to meet students and teachers from
-        S.K.H Tin Shui Wai Ling Oi Primary School, Hong Kong. "
+      description: On 27 March, we were happy to meet students and teachers from S.K.H
+        Tin Shui Wai Ling Oi Primary School, Hong Kong.
       subtitle: HIGHLIGHTS
   - infopic:
       title: Motivation Camp and JA Singapore Partnership
@@ -50,23 +50,23 @@ sections:
       url: /building-a-solar-buddy-motivation-camp-and-ja-singapore-partnership/
       image: /images/2024 Photos/P6 Motiv Camp/Solar_Buddy_3.jpg
   - infopic:
-      title: International Friendship Day 2024
+      title: P5 Young Photographers
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2024 Photos/IFD/Edited_Emcee_Photo.jpg
-      url: /international-friendship-day-2024/
-      description: "We commemorated International Friendship Day on 2 April. There
-        were activities which aimed to foster friendships and collaborations
-        amongst our students. "
+      image: /images/2024 Photos/P5 YP/20240404_084511.jpg
+      url: /highlights/2024/p5-young-photographers/
+      description: "Our Young Photographers programme provided an exciting opportunity
+        for students to explore the world of photography "
   - infopic:
-      title: Term 1 Inter-House Games 2024
+      title: Broadcast Journalism
       button: Click Here to read more
-      url: /highlights/2024/term-1-inter-house-games-2024/
+      url: /highlights/2024/broadcast-journalism/
       alt: Image alt text
-      image: /images/2024 Photos/Interhouse Games/T1Games_Image002.jpg
-      description: Our school held our Term 1 Inter-House Games for 2024 with the
-        games reflecting our student’s growth from their House Practices.
+      image: /images/2024 Photos/Broadcast Journalism/IMG_3856.jpg
+      description: In alignment with our commitment to foster 21st-century
+        competencies and further develop the talents and proficiencies of our
+        students
       subtitle: HIGHLIGHTS
   - resources:
       title: Publications
