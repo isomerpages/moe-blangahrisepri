@@ -30,25 +30,23 @@ sections:
       url: /annoucements/principal-march-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: International School Collaborations
-      button: READ MORE
-      url: /international-school-collaborations/
-      image: /images/2024 Photos/HK Exchange /1__2_.jpg
-      alt: Image alt text
-      description: On 27 March, we were happy to meet students and teachers from S.K.H
-        Tin Shui Wai Ling Oi Primary School, Hong Kong.
-      subtitle: HIGHLIGHTS
-  - infopic:
-      title: Motivation Camp and JA Singapore Partnership
+      title: Hari Raya Celebrations 2024
       subtitle: HIGHLIGHTS
       id: infopic
-      description: To promote a supportive learning environment leading up to the
-        upcoming Primary School Leaving Examination, Primary 6 students attended
-        a motivational camp
+      description: We had a memorable Hari Raya celebration on Tuesday!
       button: CLICK HERE TO READ MORE
       alt: Image alt text
-      url: /building-a-solar-buddy-motivation-camp-and-ja-singapore-partnership/
-      image: /images/2024 Photos/P6 Motiv Camp/Solar_Buddy_3.jpg
+      url: /hari-raya-celebrations-2024/
+      image: /images/2024 Photos/Hari Raya/Hari_Raya_7.png
+  - infopic:
+      title: Feature on Our Alumni
+      button: READ MORE
+      url: /feature-on-our-alumni/
+      image: /images/2024 Photos/Alumni/Yi_Xuan__Outstanding_Student_Award_.jpg
+      alt: Image alt text
+      description: In this special feature, we like to celebrate one of our alumni.
+        Choo Yi Xuan graduated from Blangah Rise Primary School in 2017
+      subtitle: HIGHLIGHTS
   - infopic:
       title: P5 Young Photographers
       subtitle: HIGHLIGHTS
@@ -56,8 +54,8 @@ sections:
       alt: Image alt text
       image: /images/2024 Photos/P5 YP/20240404_084511.jpg
       url: /highlights/2024/p5-young-photographers/
-      description: "Our Young Photographers programme provided an exciting opportunity
-        for students to explore the world of photography "
+      description: Our Young Photographers programme provided an exciting opportunity
+        for students to explore the world of photography
   - infopic:
       title: Broadcast Journalism
       button: Click Here to read more
