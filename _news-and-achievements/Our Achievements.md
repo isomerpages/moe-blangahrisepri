@@ -5,6 +5,12 @@ description: ""
 variant: markdown
 ---
 <img src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
+<h4><strong>2024</strong></h4>
+<ul>
+23rd Inter-School National Scrabble Championship, ISNSC, 2024 - Individual Event
+<li>Premier Cup, 1st Position - Gold: Ong Han Hua, 4 Topaz</li>
+<li>Cup, 3rd Position, Bronze: Ning Haohan, 4 Topaz</li>
+<li>Cup, 1st Position - Gold, Soon Cai Jun, 5 Sapphire</li>
 <h4><strong>2023</strong></h4>
 <ul>
 	<li>Green Schools at South West 2023 - Three stars</li>
@@ -265,4 +271,4 @@ Top 8 in South Zone
 </li>
 </ul>
 <p>Thinking Culture Award 2005/2006</p>
-</div>
+</div></ul>
