@@ -7,7 +7,7 @@ variant: markdown
 <img src="/images/br-junior-reporter_20230308_img_2259-scaled.jpeg">
 <h4 style="text-align: left;"><strong>Developing Self-Directed and Collaborative Learners</strong></h4>
 <img src="/images/br-junior-reporter_20230331_img_2823-scaled.jpeg">
-<p>“We are going to go to the Computer Lab today!” It is the students’ weekly lesson in the computer lab and they got ready excitedly. Teachers engage the students in blended learning whereby they have the opportunity to learn at their own pace and discover new knowledge. In addition, students extend their learning through collaboration with their peers and share ideas to gain new perspectives in online activities. As learning can take place anytime and anywhere, students are able to access the learning materials from home too.</p>
+<p>“We will be using the iPads for the next segment of the lesson and go through some of your homework - in Student Learning Space (SLS) and your workbook!” - This instruction never fails to get our students excited! Our teachers engage students in blended and flipped learning, whereby students are given the opportunity to explore concepts through self-directed learning at home. They deepen their knowledge and understanding when they are back in the classrooms through face-to-face discussions and collaborations. The classrooms are filled with lively and engaging discussions, where our students are sharing their ideas gleaned from SLS. </p>
 <p><strong>Effectiveness of ICT-based lessons</strong></p>
 <img src="/images/2023%20Photos/ICT%20Department/ict%201_img_3758.JPG">
 <p>
