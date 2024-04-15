@@ -89,7 +89,7 @@ Titled Virtues of Creativity and Flexibility, this photograph was taken at Labra
 Accompanying her photograph was a write-up:
 I like to experiment and try new things. This is my first time capturing the landscape by using a lensball. The landscape of Labrador Nature Reserve appears as an inverted image in the lensball. This image resonates with me as it reminds me of being creative, flexible and looking at things from different perspectives, especially when we are facing difficulties.
 
-Ser Yen said, “Our CCA lessons are conducted by a professional photographer. Through him, we learn more than just taking photographs. Our outdoor shoots include understanding the environment and nature, and how our cameras can capture how nature interact.”
+Ser Yen said, “Our CCA lessons are conducted by a professional photographer. Through him, we learn more than just taking photographs. Our outdoor shoots include understanding the environment and nature, and how our cameras can capture how nature interacts.”
 
 **11th National Primary School Competition Award**
 
