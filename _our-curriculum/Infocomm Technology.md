@@ -36,6 +36,10 @@ Technology has advanced greatly where communications and sharing of information 
 
 <p>Beyond the school gates, our outreach extended to families and the wider community. Parents were encouraged to access the toolkit from home, fostering meaningful discussions about responsible digital citizenship within households. Their good work was affirmed by attaining a Bronze Award at NCAC 2023. </p>
 
+<p>Aria said, “Being a Cyber Wellness Ambassador, I have the opportunity to share with my peers about Cyber Welless  and its importance. I have a learnt a lot from this role and working on NCAC.”</p>
+<p>Our Cyber Wellness Ambassadors’ passion was affirmed by Kai Xiang. He shared, “I am proud to be a Cyber Wellness Ambassador! I was able to share with my friends how to stay safe online, and created a toolkit which was useful in identifying reliable information for our project works in school.”
+</p>
+
 <p>With their dedication and innovative approach, our Cyberwellness Ambassadors continued to lead the charge in promoting a safer and more informed digital environment for all.</p>
 
 <p><strong>Safer Internet Day 2024</strong></p>
