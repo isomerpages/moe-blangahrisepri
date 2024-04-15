@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img src="/images/2024%20Photos/Media%20Kids/BR_Webpage_20240318_IMG_3500__3_.jpg">
 
-MediaKids is an extension of our [Young Photographers](https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/) programme, where our students acquire advanced photography skills and work on school publications.
+MediaKids is an extension of our [Young Photographers](https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/) programme, where our students acquire advanced photography skills and work on school publications. It is also a platform to develop 21st century competencies in our students through leveraging photography to communicate their ideas. 
 <p>As an opportunity to hone their photography skills, our MediaKids take on the role of official photographer for school events and participate in national competitions. Through these platforms, our MediaKids develop their creativity, interpersonal skills and collaboration skills.</p>
 <p><strong>Telling Their Own Stories</strong></p>
 <img src="/images/2023%20Photos/Media%20Kids/media_29.JPG">
