@@ -40,7 +40,7 @@ Technology has advanced greatly where communications and sharing of information 
 <p>Our Cyber Wellness Ambassadors’ passion was affirmed by Kai Xiang. He shared, “I am proud to be a Cyber Wellness Ambassador! I was able to share with my friends how to stay safe online, and created a toolkit which was useful in identifying reliable information for our project works in school.”
 </p>
 
-<p>With their dedication and innovative approach, our Cyberwellness Ambassadors continued to lead the charge in promoting a safer and more informed digital environment for all.</p>
+<p>With their dedication and innovative approach, our Cyber Wellness Ambassadors continued to lead the charge in promoting a safer and more informed digital environment for all.</p>
 
 <p><strong>Safer Internet Day 2024</strong></p>
 
@@ -48,6 +48,6 @@ Technology has advanced greatly where communications and sharing of information 
 
 <p>Safer Internet Day took place on 6 February and it is an annual global initiative which aims to promote safer and more responsible use of online platforms and mobile devices among children. </p>
 
-<p>We commemorated Safer Internet Day starting with an announcement during assembly of its importance to foster a safer online environment for everyone. During recess, our Cyberwellness Ambassadors and Peer Support Leaders provided great support, and engaged their peers in discussions on the importance of balancing their time online and how to cultivate a healthy and balanced relationship with technology. Our Cyberwellness Ambassadors and Peer Support Leaders then guided their peers to make pledges for responsible screen use. </p>
+<p>We commemorated Safer Internet Day starting with an announcement during assembly of its importance to foster a safer online environment for everyone. During recess, our Cyber Wellness Ambassadors and Peer Support Leaders provided great support, and engaged their peers in discussions on the importance of balancing their time online and how to cultivate a healthy and balanced relationship with technology. Our Cyber Wellness Ambassadors and Peer Support Leaders then guided their peers to make pledges for responsible screen use. </p>
 
 <p>Click&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/safer-internet-day-2024/">here</a> to read more about Safer Internet Day 2024. </p>
