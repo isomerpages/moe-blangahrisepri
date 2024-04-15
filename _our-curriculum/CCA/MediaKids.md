@@ -13,11 +13,11 @@ MediaKids is an extension of our [Young Photographers](https://blangahrisepri.mo
 <img src="/images/2023%20Photos/Media%20Kids/media_29.JPG">
 <p>These are some of the composition techniques which our MediaKids have learnt in photography. During their weekly CCA, they have the opportunity to handle a DSLR, as well as learn about its functions and how each of the functions is vital to capturing a good photograph. They extend their skills in school&nbsp;through creative photography with props.
 
-Carys, a Primary 3 student says, “We get to take photographs using the DSLR, and learn about the different functions and buttons!”
+Carys, a Primary 4 student says, “We get to take photographs using the DSLR, and learn about the different functions and buttons!”
 
 Our MediaKids’ works are reviewed by their trainer, who gives them constructive feedback on their photographs. This provides our MediaKids an insight on what they did well and how they can improve in their photographs.
 
-“I learn that sharing and reviewing each other’s work help us to become better in our skills and techniques,” says Rishi, a Primary 3 student.</p>
+“I learn that sharing and reviewing each other’s work help us to become better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <p><strong>Creative Photography<br></strong><strong>Shadows</strong></p>
 <img src="/images/2023%20Photos/Media%20Kids/2.png">
 <p><strong>Photoelasticity</strong></p><p>
