@@ -32,7 +32,7 @@ Technology has advanced greatly where communications and sharing of information 
 <img src="/images/2024%20Photos/ICT%20Webpage/IMG_20231116_WA0011.jpg">
 <p>Introducing our Cyber Wellness Ambassadors' latest endeavor! Inspired by their dedication to promoting media literacy and cyber wellness, our Cyber Wellness Ambassadors, Kai Xiang, Marvell, Aria, Dave and Batrisyia, developed an innovative toolkit aimed at empowering individuals to navigate the digital landscape critically for NCAC 2023.</p>
 
-<p>Through an engaging presentation during the school assembly, students were introduced to the importance of staying safe online. Following this, they delved into hands-on learning experiences in the computer lab sessions, utilising our comprehensive Google Site toolkit to discern facts from opinions and evaluate the reliability of online news. </p> 
+<p>Through an engaging presentation during the school assembly, students were introduced to the importance of staying safe online. Following this, our students delved into hands-on learning experiences in the computer lab sessions, leveraging our comprehensive Google Site toolkit to discern facts from opinions and evaluate the reliability of online news. </p> 
 
 <p>Beyond the school gates, our outreach extended to families and the wider community. Parents were encouraged to access the toolkit from home, fostering meaningful discussions about responsible digital citizenship within households. Their good work was affirmed by attaining a Bronze Award at NCAC 2023. </p>
 
