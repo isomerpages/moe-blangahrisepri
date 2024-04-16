@@ -61,7 +61,7 @@ Newly appointed Rakan Bahasa, Illiyyin (5 Topaz) said, “I am looking forward t
 Syahmina (5 Topaz), who was also appointed Rakan Bahasa added “Looking at Rakan Bahasa from other schools during networking and training session  s makes me feel excited. I know we are not alone trying to carry out our Bahasa missions. I hope I can interact with them in the future.”
 </p>
 
-<p><em><strong>Rentas Pantas 2023<br></strong></em>Rentas Pantas, is an annual event organised by Nanyang Technological University / National Institute of Education's Malay Language and Cultural Society (NTU/NIE MLCS), aims to instill the love of Malay Language and Culture amongst primary and secondary school students. Five Primary 5 students represented our school in Rentas Pantas 2023. Read more about Rentas Pantas <a href="/2023/03/23/rentas-pantas-2023/"><strong>here</strong></a>.</p>
+<p><em><strong>Rentas Pantas 2023<br></strong></em>Rentas Pantas, is an annual event organised by Nanyang Technological University / National Institute of Education's Malay Language and Cultural Society (NTU/NIE MLCS), aims to instill the love of Malay Language and Culture amongst primary and secondary school students. Five Primary 5 students represented our school in Rentas Pantas 2023. Read more about Rentas Pantas <a href="https://www.blangahrisepri.moe.edu.sg/2023/03/23/rentas-pantas-2023/"><strong>here</strong></a>.</p>
 
 <img src="/images/2023%20Photos/ml%20page_rentas%20pantas%201.jfif"><br>
 <img src="/images/2023%20Photos/ml%20page_rentas%20pantas%202.jfif"><br>
