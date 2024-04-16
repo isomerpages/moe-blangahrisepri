@@ -7,10 +7,10 @@ third_nav_title: "2023"
 ---
 "Miss Gui introduced audiobooks to us using Student Learning Space (SLS), and it was awesome! We got to read different stories and answer questions online. It was like reading in a whole new way!" Katherine, from Primary 2, reflected.
 
-![](/images/2024%20Photos/Special%20Feature%20on%20Educators/Gui_1.jpg)
-
-![](/images/2024%20Photos/Special%20Feature%20on%20Educators/Gui_2.jpg)
-
+<img style="width: 65%;" src="/images/2024%20Photos/Special%20Feature%20on%20Educators/Gui_1.jpg">
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/Special%20Feature%20on%20Educators/Gui_2.jpg">
+</p>
 Indeed, this was one of the platforms which Miss Jasmine Gui had leveraged technology to transform and enhance her students’ learning experiences. 
 
 Miss Jasmine Gui was a recipient of the BRPS ICT Star Award 2023. Being a Primary 1 and Science Department e-Coach, she demonstrated her expertise in guiding colleagues through ICT matters and seamlessly integrating technology into teaching methodologies. Recognised for her approachability, Miss Gui has created a supportive community of educators through her generous sharing of knowledge.
