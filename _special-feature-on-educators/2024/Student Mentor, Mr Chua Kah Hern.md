@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: "2024"
 ---
+<img style="width: 65%;" src="/images/2024%20Photos/Special%20Feature%20on%20Educators/KH_1.jpg">
+
 <p>In the realm of education, where character development is as crucial as
 academic achievement, Mr. Chua Kah Hern stands as an inspiring figure.
 His holistic approach integrates integrating virtues, the 7 habits, and
@@ -17,6 +19,9 @@ Mr. Chua's ability to forge meaningful connections with students is a testament
 to his genuine and warm approach. Amos, another student, echoes this sentiment,
 stating, "Mr. Chua helps me learn and grow. He always listens and encourages
 us to do our best."</p>
+
+<img style="width: 65%;" src="/images/2024%20Photos/Special%20Feature%20on%20Educators/KH_2.jpg">
+
 <p>A distinguishing feature of Mr. Chua's educational tapestry is his adeptness
 in collaborating with parents. As Mr Cai, a parent, attests, "Mr. Chua's
 open communication style has helped me understand my child better. Mr.
@@ -37,6 +42,9 @@ the discipline and routines he sets." he adds, recognizing the importance
 of a structured yet supportive educational setting. From morning rituals
 to daily activities, Mr. Chua's routines nurture a conducive environment
 for optimal learning.</p>
+
+<img style="width: 95%;" src="/images/2024%20Photos/Special%20Feature%20on%20Educators/KH_3.jpg">
+
 <p>As a strong mentor, Mr. Chua employs the strategies of the Virtues Project,
 a framework that emphasizes the cultivation of positive qualities and virtues
 in individuals. Through intentional character education, he guides students
