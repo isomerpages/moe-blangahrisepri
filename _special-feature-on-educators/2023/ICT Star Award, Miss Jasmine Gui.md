@@ -9,14 +9,13 @@ third_nav_title: "2023"
 
 <img style="width: 65%;" src="/images/2024%20Photos/Special%20Feature%20on%20Educators/Gui_1.jpg">
 <p>
-<img style="width: 65%;" src="/images/2024%20Photos/Special%20Feature%20on%20Educators/Gui_2.jpg">
-</p>
+
 Indeed, this was one of the platforms which Miss Jasmine Gui had leveraged technology to transform and enhance her students’ learning experiences. 
 
 Miss Jasmine Gui was a recipient of the BRPS ICT Star Award 2023. Being a Primary 1 and Science Department e-Coach, she demonstrated her expertise in guiding colleagues through ICT matters and seamlessly integrating technology into teaching methodologies. Recognised for her approachability, Miss Gui has created a supportive community of educators through her generous sharing of knowledge.
 
 **Culture of Knowledge-Sharing**
-<p>Through her commitment to innovation, she had spearheaded a paradigm shift in educational resources - a centralised repository on Google Drive for the seamless sharing of departmental teaching and learning resources. This initiative has not only facilitated greater collaboration among the Science teachers but has also nurtured a culture of knowledge-sharing, thus, enriching the overall learning experiences for our students. Mr. Ooi, HOD Character and Citizenship Education and fellow Science teacher, affirmed Miss Gui's work, saying, "Jasmine had revamped our P5 Science teaching materials to make them more exciting and encouraged student participation through collaboration."</p>
+</p><p>Through her commitment to innovation, she had spearheaded a paradigm shift in educational resources - a centralised repository on Google Drive for the seamless sharing of departmental teaching and learning resources. This initiative has not only facilitated greater collaboration among the Science teachers but has also nurtured a culture of knowledge-sharing, thus, enriching the overall learning experiences for our students. Mr. Ooi, HOD Character and Citizenship Education and fellow Science teacher, affirmed Miss Gui's work, saying, "Jasmine had revamped our P5 Science teaching materials to make them more exciting and encouraged student participation through collaboration."</p>
 
 ![](/images/2024%20Photos/Special%20Feature%20on%20Educators/Gui_3.jpg)
 
