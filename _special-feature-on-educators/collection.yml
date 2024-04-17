@@ -2,6 +2,9 @@ collections:
   special-feature-on-educators:
     output: true
     order:
+      - 2024/Student Mentor, Mr Chua Kah Hern.md
+      - 2024/.keep
+      - 2023/ICT Star Award, Miss Jasmine Gui.md
       - 2023/Coach and Counsel.md
       - 2023/2023 Inspiring Teacher of CCA, Mr Kumar.md
       - 2023/.keep
