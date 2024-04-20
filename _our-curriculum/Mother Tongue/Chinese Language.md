@@ -32,8 +32,20 @@ variant: markdown
 
 <p><strong><em>Mother Tongue (Chinese) Camps<br></em></strong>Have you painted a traditional Chinese face mask before? What about Chinese Calligraphy? All these cultural activities keep our students busy during our Chinese Language camps. The annual camp deepens our students’ understanding of the Chinese culture and its traditions and encourages the use of the Chinese Language. An engaging environment is created for our P4 and P6 students to learn and use the Chinese Language frequently and in an authentic setting. During the camps, students are exposed to various learning experiences that will involve the Chinese Language and culture. </p>
 <img src="/images/chinese3.png">
+
+![](/images/2024%20Photos/Chinese%20Language/CL_5.jpg)
+
 <p><strong><em>MTL Challenge (Chinese Language)<br></em></strong>Learning takes place when students can apply what they had learnt in their classrooms. As such, MTL Challenge (Chinese Language) are organised for our students every semester. These internal competitions varied from speaking to writing, and students get to pit their creativity and knowledge against each other.</p>
+
+![](/images/2024%20Photos/Chinese%20Language/CL_6.jpg)
+
+![](/images/2024%20Photos/Chinese%20Language/CL_7.jpg)
+
+![](/images/2024%20Photos/Chinese%20Language/CL_8.jpg)
 
 <p><strong><em>National Competitions<br></em></strong>
 <img src="/images/2023%20Photos/cl_external%20competition_cl.jpg">
+	
+![](/images/2024%20Photos/Chinese%20Language/CL_9.jpg)
+	
 </p><p>Students are also given opportunities to represent the school in various national competitions. The variety of competitions available allows students to have a chance to shine on the national stage. Students get to practice the virtues of confidence and courage when they face off with students from other schools.</p><p></p><p><strong>The Chinese Junior Reporters’ Programme<br></strong>For students with stronger Chinese Language abilities, the Chinese Junior Reporters Programme stretches their language skills in an engaging and authentic way. Find out more about the Chinese Junior Reporters Programme&nbsp;<a href="/our-distinctive-programmes/chinese-junior-reporters/"><strong>here</strong></a>.</p>
