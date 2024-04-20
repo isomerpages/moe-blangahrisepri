@@ -11,9 +11,16 @@ variant: markdown
 <img src="/images/2023%20Photos/cl_jr%204.jpg"><br>
 <img src="/images/2023%20Photos/cl_jr%203.jpg">
 
-<p>Through this programme, students will be able to improve their language skills holistically as the platform creates opportunities for them to practise the four language skills – listening, speaking, reading and writing.</p>
+<p>Through this programme, students will be able to improve their language skills holistically as the platform creates opportunities for them to practise the four language skills – listening, speaking, reading and writing.
+</p>
+
+<img src="/images/2023%20Photos/cl_jr%205.jpg"><br>
+
 <p>This programme further promotes 21<sup>st</sup>&nbsp;century skills such as communication skills, collaborative skills, technology literacy and critical thinking skills. These skills are important as we prepare our students for the 21<sup>st</sup>&nbsp;century workforce. In addition, they will be equipped with public speaking and social interaction skills. They become more confident and learn the importance of teamwork. Our Junior Reporters also had the chance to learn from external partners such as SPH News Reporter and Radio Deejay!</p>
-<img src="/images/2023%20Photos/cl_jr%205.jpg"><br><img src="/images/2023%20Photos/cl_jr%202.jpg">
+
+![](/images/2024%20Photos/Chinese%20Junior%20Reporters/Junior_Reporters_1.jpg)
+
+<img src="/images/2023%20Photos/cl_jr%202.jpg">
 
 <p>Listen to what our students have to say about the programme!</p>
 <p>“I like the Junior Reporters programme because we have the opportunity to learn more things. I like interviewing people and writing articles. I learnt to write newsworthy articles, edit videos, interview people and how to be a good news anchor through the programme. I also learnt to be responsible, confident and diligent.” (Phua Ser Yen 6 Topaz)
