@@ -14,7 +14,7 @@ variant: markdown
 <p>In class, our students also get to use iPads for interactive activities to support their learning. Students can use these activities, such as educational games on Nearpod, to assess their own learning. Teachers can also provide immediate and individualised feedback after the students have completed the activities.</p>
 <img src="/images/2023%20Photos/cl_blended%20learning%201.jpg"> <br>
 <img src="/images/2023%20Photos/cl_blended%20learning%202.jpg"><br>
-<img src="/images/2023%20Photos/cl_blended%20learning%203.jpg">
+<img style="width: 60%;" src="/images/2023%20Photos/cl_blended%20learning%203.jpg">
 <p><strong><em>Inquiry-based Learning<br></em></strong>“May I conduct an interview with you? I would like to find out what you do and learn in your CCA.”&nbsp;</p>
 <p>During our Inquiry-based Learning (IBL) week, we can often hear our students busy interviewing their peers or conducting surveys as they work on different IBL tasks assigned to them. Through Inquiry-based Learning (IBL), our students engage in self-directed and collaborative learning. IBL, paired with authentic learning, promotes critical and inventive thinking skills in our students as they attempt to solve real-world problems. For instance, students apply the sentence structures they learnt in their Chinese Language lessons and present them confidently to their peers. </p>
 <img src="/images/chinese2.png"> <img src="/images/2023%20Photos/cl_ibl%201.jpg"><br>
@@ -28,7 +28,7 @@ variant: markdown
 
 ![](/images/2024%20Photos/Chinese%20Language/CL_3.jpg)
 
-![](/images/2024%20Photos/Chinese%20Language/CL_4.jpg)
+<img style="width: 60%;" src="/images/2024%20Photos/Chinese%20Language/CL_4.jpg">
 
 <p><strong><em>Mother Tongue (Chinese) Camps<br></em></strong>Have you painted a traditional Chinese face mask before? What about Chinese Calligraphy? All these cultural activities keep our students busy during our Chinese Language camps. The annual camp deepens our students’ understanding of the Chinese culture and its traditions and encourages the use of the Chinese Language. An engaging environment is created for our P4 and P6 students to learn and use the Chinese Language frequently and in an authentic setting. During the camps, students are exposed to various learning experiences that will involve the Chinese Language and culture. </p>
 <img src="/images/chinese3.png">
