@@ -21,6 +21,15 @@ variant: markdown
 <img src="/images/2023%20Photos/cl_ibl%202.jpg">
 <p><strong><em>Chinese Language Fortnight<br></em></strong>Every year, the Chinese Fortnight will be conducted for Chinese Language students. It is an important platform for experiential learning of the Chinese Language. Students get to experience and appreciate the Chinese Language and the Chinese culture through engaging cultural activities, such as traditional handicraft making, language-related games (think idioms and riddles!) and even performing arts (allegro). </p>
 <img src="/images/CL-Fortnight-2-2048x1536.jpg">
+
+<p><img src="/images/2024%20Photos/Chinese%20Language/CL_1.jpg"></p>
+
+![](/images/2024%20Photos/Chinese%20Language/CL_2.jpg)
+
+![](/images/2024%20Photos/Chinese%20Language/CL_3.jpg)
+
+![](/images/2024%20Photos/Chinese%20Language/CL_4.jpg)
+
 <p><strong><em>Mother Tongue (Chinese) Camps<br></em></strong>Have you painted a traditional Chinese face mask before? What about Chinese Calligraphy? All these cultural activities keep our students busy during our Chinese Language camps. The annual camp deepens our students’ understanding of the Chinese culture and its traditions and encourages the use of the Chinese Language. An engaging environment is created for our P4 and P6 students to learn and use the Chinese Language frequently and in an authentic setting. During the camps, students are exposed to various learning experiences that will involve the Chinese Language and culture. </p>
 <img src="/images/chinese3.png">
 <p><strong><em>MTL Challenge (Chinese Language)<br></em></strong>Learning takes place when students can apply what they had learnt in their classrooms. As such, MTL Challenge (Chinese Language) are organised for our students every semester. These internal competitions varied from speaking to writing, and students get to pit their creativity and knowledge against each other.</p>
