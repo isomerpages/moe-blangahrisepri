@@ -30,14 +30,16 @@ sections:
       url: /annoucements/principal-march-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Hari Raya Celebrations 2024
+      title: Earth Day Commemoration 2024
       subtitle: HIGHLIGHTS
       id: infopic
-      description: We had a memorable Hari Raya celebration on Tuesday!
+      description: We commemorated Earth Day on 16 April, aligning with the global
+        theme of "Planet VS Plastics - 60% Reduction of Plastic Production by
+        2040."
       button: CLICK HERE TO READ MORE
       alt: Image alt text
-      url: /hari-raya-celebrations-2024/
-      image: /images/2024 Photos/Hari Raya/Hari_Raya_7.png
+      url: /earth-day-commemoration/
+      image: /images/2024 Photos/Earth Day/ed2.jpg
   - infopic:
       title: Feature on Our Alumni
       button: READ MORE
