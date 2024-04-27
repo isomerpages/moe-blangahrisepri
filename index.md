@@ -59,14 +59,13 @@ sections:
       description: Our Young Photographers programme provided an exciting opportunity
         for students to explore the world of photography
   - infopic:
-      title: Broadcast Journalism
+      title: ‘Scientist-in-School’ Programme
       button: Click Here to read more
-      url: /highlights/2024/broadcast-journalism/
+      url: /scientist-in-school-programme/
       alt: Image alt text
-      image: /images/2024 Photos/Broadcast Journalism/IMG_3856.jpg
-      description: In alignment with our commitment to foster 21st-century
-        competencies and further develop the talents and proficiencies of our
-        students
+      image: /images/2024 Photos/Scientist School Program/P3.jpg
+      description: "We participated in the Scientist-in-School programme, an
+        initiative organised by the Ministry of Education (MOE) of Singapore. "
       subtitle: HIGHLIGHTS
   - resources:
       title: Publications
