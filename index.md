@@ -41,13 +41,14 @@ sections:
       url: /earth-day-commemoration/
       image: /images/2024 Photos/Earth Day/ed2.jpg
   - infopic:
-      title: Feature on Our Alumni
+      title: "Robotics: Recycle Robot"
       button: READ MORE
-      url: /feature-on-our-alumni/
-      image: /images/2024 Photos/Alumni/Yi_Xuan__Outstanding_Student_Award_.jpg
+      url: /robotics-recycle-robot/
+      image: /images/2024 Photos/Robotics/2.jpg
       alt: Image alt text
-      description: In this special feature, we like to celebrate one of our alumni.
-        Choo Yi Xuan graduated from Blangah Rise Primary School in 2017
+      description: "In the first two weeks of Term 2, Primary 4 students embarked upon
+        an engaging exploration of robotics, teamwork, and environmental
+        stewardship. "
       subtitle: HIGHLIGHTS
   - infopic:
       title: Tamil Language Month Activity for Primary 6 students
