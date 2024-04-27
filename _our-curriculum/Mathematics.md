@@ -60,8 +60,8 @@ We encourage all students to participate in the challenge and embark on this exc
 </p>
 
 	
-<p><strong>Fun with Math Programme</strong><br>
-	The Parent Support Group (PSG) works collaboratively with the school to enhance the learning experience and academic success of students. Students are engaged in math games and a variety of activities that include story-telling to build students’ factual fluency and foster interest in learning math.<br>
+<p><strong>Numeracy Enrichment Program </strong><br>
+The Numeracy Enrichment Program, conducted in partnership with the Self-help group and supported by our dedicated Parent Support Group (PSG), offers an exciting after-school experience for junior primary students who need an additional support in Math. This program goes far beyond traditional tutoring. A stimulating environment with engaging activities, including interactive games and captivating storytelling sessions, is created. All designed to provide positive learning experiences in numeracy skills. Our team of committed parents plays a vital role, helping students delve into the world of math in a fun and memorable way. Through curated games and activities, the program aims to boost students' confidence and motivation in Math. By making learning feel fun and engaging, we hope the students can foster a positive attitude towards Math that extends far beyond the classroom walls.<br>
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%2011.jpg">
 </p><p>
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%2012.jpg">
@@ -69,13 +69,3 @@ We encourage all students to participate in the challenge and embark on this exc
 <p>
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%2013.jpg">
 </p>
-
-<p></p><p><strong>STEM Programme - ALP<br></strong>This programme aims to leverage on STEM to create more meaningful and engaging activities that integrate engineering and technology in Mathematics and Science to fuel students’ enthusiasm in learning as well as to promote 21<sup>st</sup>&nbsp;century skills. It provides students with opportunities to innovate and apply content knowledge to bridge the gap between key theoretical concepts and real-world applications.</p>
-
-<p>
-<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%2014.jpg">
-</p>
-<p>
-<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%2015.jpg">
-
-</p><p>Click&nbsp;<a href="/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p>
