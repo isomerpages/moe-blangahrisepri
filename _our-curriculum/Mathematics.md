@@ -45,17 +45,9 @@ The Student Learning Space (SLS) p rovides an online learning platform where stu
 
 
 
-<p><strong>BRPS Math Challenge<br></strong>Students have the opportunities to take part in challenging, fun and engaging math challenge activities every term. These activities include magic number, sudoku, secret codes and multiplication tables. 
-
-Students build confidence and resilience as they persist and persevere to solve problems. The results are displayed on the level board to celebrate students’ success. Learning is made joyful and enriching for students. </p>
-
-The objectives of Math Challenge are as follows:
-
-	•	Enhance mathematical knowledge and skills - students deeepen their understanding of various mathematical topics and improve their mathematical fluency
-
-	•	Promote mathematical skills - students think critically and creatively to solve the problems
-
-	•	Inspire interest in mathematics - spark enthusiasm and curiosity in students
+<p><strong>BRPS Math Challenge<br></strong>The BRPS Math Challenge fosters a love of lifelong learning by encouraging the students to explore concepts independently and discover the endless possibilities of math. The challenge isn't just about memorising formulas – it is about igniting student’s passion for math! Every semester, we offer exciting activities tailored to each grade level, challenging them with brain-teasing Sudoku puzzles that combine numbers or shapes, or dive into challenges that put their number operations skills to the test. Through these creative problem-solving challenges, we hope to build confidence in their abilities and develop critical thinking skills that extend far beyond the classroom. 
+We encourage all students to participate in the challenge and embark on this exciting journey of mathematical discovery!
+ </p>
 	
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%207.jpg">
 <p>
@@ -63,8 +55,8 @@ The objectives of Math Challenge are as follows:
 	</p>
 
 <p><strong>Math Star Award</strong></p>
-<p style="text-align: center;"><em>Hard work&nbsp;</em><em>&nbsp;Perseverance = Success</em></p>
-<p>The Math Star Award recognises students who have exhibited proficiency and shown exceptional potential in mastering mathematics. The award nurtures a sense of pride and encouragement in learning mathematics. Students are inspired and motivated to pursue excellence in the subject.
+
+<p>The Math Star Award goes beyond top scores; it celebrates the growth mindset of our students. Each term, we recognize those who show significant improvement and a determined approach to Math. We value grit, the powerful combination of passion and perseverance that fuels students to tackle challenges and achieve long-term goals. This award acknowledges students who are determined and resilient, sticking with Math and not giving up when faced with difficulties. In doing so, it fosters a love of learning that extends far beyond the classroom.
 </p>
 
 	
