@@ -16,3 +16,11 @@ Adaptive thinking was also evident as students tackled challenges requiring them
 The final challenge served as the zenith of the learning experience, demonstrating the cumulative, progressive nature of their knowledge acquisition and their ability to collaborate effectively towards a common goal. Kai Ting said, “We took on different roles during the sessions. I enjoyed both designing and coding.”
 
 This was truly an enriching learning experience for our students!
+
+![](/images/2024%20Photos/Robotics/1.jpg)
+
+![](/images/2024%20Photos/Robotics/2.jpg)
+
+![](/images/2024%20Photos/Robotics/3.jpg)
+
+![](/images/2024%20Photos/Robotics/4.jpg)
