@@ -12,33 +12,33 @@ variant: markdown
 <p>The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related.</p>
 <p><strong>Approach<br></strong>We believe that all students can learn and want to learn Mathematics. We create opportunities for all students to be actively engaged in learning Mathematics. We foster positive attitudes in students towards Mathematics and make learning fun and meaningful through a variety of learning experiences.
 </p>
-<p>
-Using manipulatives such as cubes, fraction discs and place value cards provide our students with concrete representations of abstract mathematical concepts, which make those concepts easier to understand.
-</p>
+
+Manipulatives such as cubes, fractions and place value cards that are used during lessons provide our students with concrete representations of abstract mathematical concepts and thus make the concepts easier to understand.
 
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%202.jpg">
 
-Additionally, incorporating authentic examples from everyday life make learning of mathematics more relevant and meaningful to students. By connecting mathematical concepts to real-world situations, our students can see how Mathematics is used in their daily lives and understand its practical applications. This approach can also help our students develop problem-solving skills and critical thinking abilities as they apply mathematical concepts and skills to solve real-world problems.
+Additionally, incorporating authentic examples from everyday life make learning of mathematics more relevant and meaningful to students. By connecting mathematical concepts to real-world situations, our students can see how Mathematics is used in their daily lives and understand its practical applications. This approach can also help our students develop problem-solving skills and critical thinking abilities as they apply mathematical concepts and skills to solve real-world problems. 
 
 <p>
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%201.jpg">
 </p>
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%203.jpg">
 <p>
-</p><p><strong>Use of ICT<br></strong>
-We hope infusing thinking routines and Information and Communication Technology (ICT) tools into lessons can enhance student engagement and understanding. 
+
+We believe infusing thinking routines and Information and Communication Technology (ICT) tools into lessons will enhance student engagement and understanding.  
 </p>
 <p>
 For example, the ‘See, Think, Wonder’ Thinking Routine encourages students to observe, analyse, and question real-life situations through the lens of mathematical concepts. By prompting them to "see" what's happening, "think" critically about the mathematical concepts involved, and "wonder" about potential solutions or implications, students develop a deeper understanding of how mathematics applies to the world around them. 
 </p>
 <p>
-The Student Learning Space (SLS) provides an online learning platform where students can access learning resources, collaborate with peers, and engage in interactive learning activities. Through SLS, students have the flexibility to explore concepts at their own pace and receive immediate feedback, fostering a more personalised learning experience.
+The Student Learning Space (SLS) p rovides an online learning platform where students can access learning resources, collaborate with peers, and engage in interactive learning activities. Through SLS, students have the flexibility to explore concepts at their own pace and receive immediate feedback, fostering a more personalised learning experience.
 </p>
 
-<p></p><p><strong>Description of programmes:<br></strong><strong>E2K Mathematics Programme</strong></p>
+<p></p><p><strong>Deepening our students’ learning in Mathematics<br></strong>
+<strong>E2K Mathematics Programme</strong></p>
 
-<p>Our students in the&nbsp;<strong>A</strong>ccelerated&nbsp;<strong>P</strong>rogramme to&nbsp;<strong>E</strong>nhance students’ e<strong>X</strong>perience (APEX) attend the E2K Mathematics Programme. The materials are taken from the MOE Gifted Education Branch. We aim to develop students’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.</p>
-<p>The students gave positive feedback about the programme. “We look forward to every lesson as we get to solve challenging puzzles. We are happy to work with our friends to discuss and solve them. We present our solutions to our teachers and friends so that they can help us improve.”</p><p>
+<p>Our students in the&nbsp;<strong>A</strong>ccelerated&nbsp;<strong>P</strong>rogramme to&nbsp;<strong>E</strong>nhance students’ e<strong>X</strong>perience (APEX) attend the E2K Mathematics Programme. The materials are curated the MOE Gifted Education Branch. We aim to develop students’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.</p>
+<p>Kai Xiang, a Primary 5 student in APEX, gave positive feedback about the programme. “We look forward to every lesson as we get to solve challenging puzzles. We are happy to work with our friends to discuss and solve them. We present our solutions to our teachers and friends so that they can help us improve.”</p><p>
 	
 </p><p><strong>LEGO Building<br></strong></p><p>The creative process of building with lego engages students in a hands-on and interactive experience that promote mathematical thinking.  The construction of lego objects involves problem-solving skills as students plan and analyse the pieces they have, envision the desired outcome and figure out required steps to achieve it. They develop spatial and pattern reasoning ability as they visualize how different pieces fit together.</p>
 
