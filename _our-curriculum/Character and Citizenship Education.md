@@ -52,5 +52,13 @@ In our school, we prioritize the holistic well-being o f our students -  academi
 
 ![](/images/2024%20Photos/CCE/CCE9.jpg)
 
-Our Enhanced Education and Career Guidance (ECG) program goes beyond traditional classroom learning. We provide numerous hands-on opportunities for students to delve into their values, interests, and skills. This not only equips them with the mindset and abilities essential for lifelong learning but also prepares them to make informed decisions about their secondary school education and beyond. 
+Our Enhanced Education and Career Guidance (ECG) program goes beyond traditional classroom learning. We provide numerous hands-on opportunities for students to delve into their values, interests, and skills. This not only equips them with the mindset and abilities essential for lifelong learning but also prepares them to make informed decisions about their secondary school education and beyond.
 
+![](/images/2024%20Photos/CCE/CCE10.jpg)
+
+**Cyber Wellness**   
+
+![](/images/2024%20Photos/CCE/CCE11.jpg)
+
+In today's interconnected world, technology is in every part of our lives. Yet, alongside these benefits come risks that are addressed by our Cyber Wellness education. At our school, we recognise technology has the potential to greatly support our students’ learning and growth. We take proactive steps to educate our students to use technology for positive purposes, staying safe online, and becoming responsible digital citizens.  We also offer our BRPS CAPE cyber wellness programme, which includes specially designed lessons, curated resources and additional support to help students manage their digital engagement. By promoting healthy online habits, we empower them to lead balanced lives.
+Click here to read more about our Cyber Wellness Ambassadors in action! 
