@@ -55,9 +55,9 @@ sections:
       button: Click here to read more
       alt: Image alt text
       image: /images/2024 Photos/TL Language Activity/Pic_4.jpg
-      url: /highlights/2024/p5-young-photographers/
-      description: "Our Primary 6 Tamil Language students had the opportunity to
-        attend a Tamil Language Workshop on 16 April 2024. "
+      url: /tamil-language-month-activity-for-primary-6-students/
+      description: Our Primary 6 Tamil Language students had the opportunity to attend
+        a Tamil Language Workshop on 16 April 2024.
   - infopic:
       title: ‘Scientist-in-School’ Programme
       button: Click Here to read more
