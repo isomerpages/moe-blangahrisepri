@@ -40,12 +40,8 @@ The Student Learning Space (SLS) p rovides an online learning platform where stu
 <p>Our students in the&nbsp;<strong>A</strong>ccelerated&nbsp;<strong>P</strong>rogramme to&nbsp;<strong>E</strong>nhance students’ e<strong>X</strong>perience (APEX) attend the E2K Mathematics Programme. The materials are curated the MOE Gifted Education Branch. We aim to develop students’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.</p>
 <p>Kai Xiang, a Primary 5 student in APEX, gave positive feedback about the programme. “We look forward to every lesson as we get to solve challenging puzzles. We are happy to work with our friends to discuss and solve them. We present our solutions to our teachers and friends so that they can help us improve.”</p><p>
 	
-</p><p><strong>LEGO Building<br></strong></p><p>The creative process of building with lego engages students in a hands-on and interactive experience that promote mathematical thinking.  The construction of lego objects involves problem-solving skills as students plan and analyse the pieces they have, envision the desired outcome and figure out required steps to achieve it. They develop spatial and pattern reasoning ability as they visualize how different pieces fit together.</p>
 
-<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%204.jpg">
-
-
-<p><strong>Mathematics Olympiad<br></strong></p><p></p><p>Mathematics Olympiad workshops are organised for selected Primary 4 to 6 students to nurture their interest and talent in Mathematics. Students who demonstrate exceptional performance and dedication can be selected to represent the school in external Mathematics competitions such as Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS), Raffles Mathematical Olympiad (RMO), Visual Spatial Mathlympics and Annual Mathlympics.</p>
+</p><p><strong>Mathematics Olympiad<br></strong></p><p></p><p>Mathematics Olympiad workshops are organised for selected Primary 4 to 6 students to nurture their interest and talent in Mathematics. Students who demonstrate exceptional performance and dedication can be selected to represent the school in external Mathematics competitions such as Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS), Raffles Mathematical Olympiad (RMO), Visual Spatial Mathlympics and Annual Mathlympics.</p>
 
 
 
