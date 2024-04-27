@@ -32,7 +32,7 @@ This project serves as a powerful tool for parents and teachers alike, empowerin
 
 Our school-based CCE curriculum integrates the 7-Habits   . Learning Experiences, programmes to benefit the community and opportunities to practice and demonstrate these habits are specially designed for our students. By working alongside partners such as Lion Befrienders, People’s Association, and Sports SG, as well as through our Values in Action initiatives, we actively demonstrate these habits to support those in need.
 
-Click here to read more about our 7-Habits curriculum!
+Click [here](https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/the-leader-in-me/) to read more about our 7-Habits curriculum!
 
 ![](/images/2024%20Photos/CCE/CCE5.jpg)
 
@@ -61,4 +61,4 @@ Our Enhanced Education and Career Guidance (ECG) program goes beyond traditional
 ![](/images/2024%20Photos/CCE/CCE11.jpg)
 
 In today's interconnected world, technology is in every part of our lives. Yet, alongside these benefits come risks that are addressed by our Cyber Wellness education. At our school, we recognise technology has the potential to greatly support our students’ learning and growth. We take proactive steps to educate our students to use technology for positive purposes, staying safe online, and becoming responsible digital citizens.  We also offer our BRPS CAPE cyber wellness programme, which includes specially designed lessons, curated resources and additional support to help students manage their digital engagement. By promoting healthy online habits, we empower them to lead balanced lives.
-Click here to read more about our Cyber Wellness Ambassadors in action! 
+Click here to read more about our Cyber Wellness Ambassadors in action!
