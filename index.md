@@ -46,9 +46,9 @@ sections:
       url: /robotics-recycle-robot/
       image: /images/2024 Photos/Robotics/2.jpg
       alt: Image alt text
-      description: "In the first two weeks of Term 2, Primary 4 students embarked upon
+      description: In the first two weeks of Term 2, Primary 4 students embarked upon
         an engaging exploration of robotics, teamwork, and environmental
-        stewardship. "
+        stewardship.
       subtitle: HIGHLIGHTS
   - infopic:
       title: Tamil Language Month Activity for Primary 6 students
