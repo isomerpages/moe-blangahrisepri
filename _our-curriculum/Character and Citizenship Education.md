@@ -61,4 +61,5 @@ Our Enhanced Education and Career Guidance (ECG) program goes beyond traditional
 ![](/images/2024%20Photos/CCE/CCE11.jpg)
 
 In today's interconnected world, technology is in every part of our lives. Yet, alongside these benefits come risks that are addressed by our Cyber Wellness education. At our school, we recognise technology has the potential to greatly support our students’ learning and growth. We take proactive steps to educate our students to use technology for positive purposes, staying safe online, and becoming responsible digital citizens.  We also offer our BRPS CAPE cyber wellness programme, which includes specially designed lessons, curated resources and additional support to help students manage their digital engagement. By promoting healthy online habits, we empower them to lead balanced lives.
-Click here to read more about our Cyber Wellness Ambassadors in action!
+
+Click [here](https://www.blangahrisepri.moe.edu.sg/departments/infocomm-technology/) to read more about our Cyber Wellness Ambassadors in action!
