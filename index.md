@@ -50,22 +50,22 @@ sections:
         Choo Yi Xuan graduated from Blangah Rise Primary School in 2017
       subtitle: HIGHLIGHTS
   - infopic:
-      title: P5 Young Photographers
+      title: Tamil Language Month Activity for Primary 6 students
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2024 Photos/P5 YP/20240404_084511.jpg
+      image: /images/2024 Photos/TL Language Activity/Pic_4.jpg
       url: /highlights/2024/p5-young-photographers/
-      description: Our Young Photographers programme provided an exciting opportunity
-        for students to explore the world of photography
+      description: "Our Primary 6 Tamil Language students had the opportunity to
+        attend a Tamil Language Workshop on 16 April 2024. "
   - infopic:
       title: ‘Scientist-in-School’ Programme
       button: Click Here to read more
       url: /scientist-in-school-programme/
       alt: Image alt text
       image: /images/2024 Photos/Scientist School Program/P3.jpg
-      description: "We participated in the Scientist-in-School programme, an
-        initiative organised by the Ministry of Education (MOE) of Singapore. "
+      description: We participated in the Scientist-in-School programme, an initiative
+        organised by the Ministry of Education (MOE) of Singapore.
       subtitle: HIGHLIGHTS
   - resources:
       title: Publications
