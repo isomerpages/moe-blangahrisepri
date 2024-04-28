@@ -30,41 +30,43 @@ sections:
       url: /annoucements/principal-march-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Hari Raya Celebrations 2024
+      title: Earth Day Commemoration 2024
       subtitle: HIGHLIGHTS
       id: infopic
-      description: We had a memorable Hari Raya celebration on Tuesday!
+      description: We commemorated Earth Day on 16 April, aligning with the global
+        theme of "Planet VS Plastics - 60% Reduction of Plastic Production by
+        2040."
       button: CLICK HERE TO READ MORE
       alt: Image alt text
-      url: /hari-raya-celebrations-2024/
-      image: /images/2024 Photos/Hari Raya/Hari_Raya_7.png
+      url: /earth-day-commemoration/
+      image: /images/2024 Photos/Earth Day/ed2.jpg
   - infopic:
-      title: Feature on Our Alumni
+      title: "Robotics: Recycle Robot"
       button: READ MORE
-      url: /feature-on-our-alumni/
-      image: /images/2024 Photos/Alumni/Yi_Xuan__Outstanding_Student_Award_.jpg
+      url: /robotics-recycle-robot/
+      image: /images/2024 Photos/Robotics/2.jpg
       alt: Image alt text
-      description: In this special feature, we like to celebrate one of our alumni.
-        Choo Yi Xuan graduated from Blangah Rise Primary School in 2017
+      description: In the first two weeks of Term 2, Primary 4 students embarked upon
+        an engaging exploration of robotics, teamwork, and environmental
+        stewardship.
       subtitle: HIGHLIGHTS
   - infopic:
-      title: P5 Young Photographers
+      title: Tamil Language Month Activity for Primary 6 students
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/2024 Photos/P5 YP/20240404_084511.jpg
-      url: /highlights/2024/p5-young-photographers/
-      description: Our Young Photographers programme provided an exciting opportunity
-        for students to explore the world of photography
+      image: /images/2024 Photos/TL Language Activity/Pic_4.jpg
+      url: /tamil-language-month-activity-for-primary-6-students/
+      description: Our Primary 6 Tamil Language students had the opportunity to attend
+        a Tamil Language Workshop on 16 April 2024.
   - infopic:
-      title: Broadcast Journalism
+      title: ‘Scientist-in-School’ Programme
       button: Click Here to read more
-      url: /highlights/2024/broadcast-journalism/
+      url: /scientist-in-school-programme/
       alt: Image alt text
-      image: /images/2024 Photos/Broadcast Journalism/IMG_3856.jpg
-      description: In alignment with our commitment to foster 21st-century
-        competencies and further develop the talents and proficiencies of our
-        students
+      image: /images/2024 Photos/Scientist School Program/P3.jpg
+      description: We participated in the Scientist-in-School programme, an initiative
+        organised by the Ministry of Education (MOE) of Singapore.
       subtitle: HIGHLIGHTS
   - resources:
       title: Publications
