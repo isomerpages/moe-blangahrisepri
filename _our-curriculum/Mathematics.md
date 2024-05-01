@@ -64,8 +64,8 @@ We encourage all students to participate in the challenge and embark on this exc
 The Numeracy Enrichment Program, conducted in partnership with the Self-help group and supported by our dedicated Parent Support Group (PSG), offers an exciting after-school experience for junior primary students who need an additional support in Math. This program goes far beyond traditional tutoring. A stimulating environment with engaging activities, including interactive games and captivating storytelling sessions, is created. All designed to provide positive learning experiences in numeracy skills. Our team of committed parents plays a vital role, helping students delve into the world of math in a fun and memorable way. Through curated games and activities, the program aims to boost students' confidence and motivation in Math. By making learning feel fun and engaging, we hope the students can foster a positive attitude towards Math that extends far beyond the classroom walls.<br>
 <img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%2011.jpg">
 </p><p>
-<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%2012.jpg">
+<img style="width: 40%;" src="/images/2024%20Photos/Math%20Dept/MA_1.jpg">
 </p>
 <p>
-<img style="width: 40%;" src="/images/2023%20Photos/Mathematics/photo%2013.jpg">
+<img style="width: 40%;" src="/images/2024%20Photos/Math%20Dept/MA_2.jpg">
 </p>
