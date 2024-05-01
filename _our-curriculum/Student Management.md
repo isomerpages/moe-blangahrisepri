@@ -134,3 +134,36 @@ and biodiversity, and how they can play a part in caring for Mother Earth.</p>
 <p>Check out our Student Leaders sharing about our publications –<a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/" rel="noopener noreferrer nofollow" target="_blank">The Green Dragonflies and Their Swampy Friends </a>and
 <a href="https://www.blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/" rel="noopener noreferrer nofollow" target="_blank">Friends of Berlayer Creek</a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/SM /Picture_11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/SM /Picture_12.jpg">
+</div>
+<p><strong>Learning Through Collaborations</strong> – The school partners
+external organisations to develop leadership, communication, and adaptive
+skills in student leaders. Through collaborative projects, the school empowers
+them to address environmental challenges with creativity and adaptability.
+Since 2023, the school has collaborated with the National University of
+Singapore (NUS) Sustainability Strategic Unit in their development of a
+Sustainability Resource Pack for Primary Schools. Student Leaders are provided
+with authentic learning experiences through waste contamination study within
+the school and curated learning journeys to recycling related facilities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/SM /Picture_13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/SM /Picture_14.jpg">
+</div>
+<p>In early 2024, our Student Leaders also had the opportunity to present
+on our collaborative project with our partners. Together with their NUS
+facilitators, our student Leaders shared about the school's collaboration
+with Minister Gan Kim Yong, Mayor Low Yen Ling and members of the public
+at the Clean-Up at SWCDC 2024 @ Westgate, The Courtyard.</p>
+<p>Click <a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/clean-up-at-swcdc/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+read more about our Student Leaders’ experience.</p>
+<p></p>
+<p></p>
