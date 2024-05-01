@@ -73,8 +73,15 @@ Ms Munirah – Assistant Year Head Senior Primary
 <p>
 <img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/P6_Bond_1.png">
 </p>
-
-
+<p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/P6_Bond_2.png">
+</p>
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/P6_Bond_3.png">
+<p></p><img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/P6_Bond_4.png">
+<p></p><p></p><img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/P6_Bond_5.png">
+<p></p><p>
+<img style="width: 55%;" src="/images/2024%20Photos/SP%20Webpage/P6_Bond_6.png">
+</p>
 
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br></strong>A large amount of the student’s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
 <p>Our students and teachers take ownership of the classrooms that they used. They worked together to decorate and put up posters/notices in their classes. Let’s take a peek into the classrooms in the Senior Primary.&nbsp;</p>
