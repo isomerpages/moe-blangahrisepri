@@ -122,4 +122,15 @@ Nature Reserve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/SM /Picture_10.jpg">
 </div>
+<p><strong>Storytelling </strong>– The student leaders front storytelling
+sessions beyond schools such as library@harbourfront, giving them platforms
+to hone their communication skills &amp; civic literacy in an authentic
+manner. Following such storytelling sessions, our student leaders and teachers
+would also lead participants in a hands-on art and craft session where
+they create their own art masterpieces using recycled materials. Student
+Leaders participate enthusiastically in the preparatory stage – props making
+– and it has also sparked their interest to learn more about the environment
+and biodiversity, and how they can play a part in caring for Mother Earth.</p>
+<p>Check out our Student Leaders sharing about our publications –<a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/" rel="noopener noreferrer nofollow" target="_blank">The Green Dragonflies and Their Swampy Friends </a>and
+<a href="https://www.blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/" rel="noopener noreferrer nofollow" target="_blank">Friends of Berlayer Creek</a>.</p>
 <p></p>
