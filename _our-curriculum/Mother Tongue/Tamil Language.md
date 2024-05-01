@@ -12,10 +12,6 @@ variant: markdown
 
 “In the sweetness of our Tamil language, there is beauty and grace.” – **Bharathidasan**
 
-
-<p><strong>Department:&nbsp;</strong>Tamil Unit (Mother Tongue Department)<br><strong>Vision:&nbsp;</strong>Every child is able to use the Tamil language effectively.<br><strong>Mission:&nbsp;</strong>To nurture passion and love for the Tamil language and the Tamil culture in our students.</p>
-
-
 <p><strong>Tamil Language Fortnight</strong></p>
 
 Tamil Language Fortnight creates an immersive and meaningful environment for the students to learn and appreciate Tamil Language. It provides platforms with authentic settings for the students to associate and experience the Indian culture. 
@@ -44,7 +40,7 @@ The Primary 3 and 4 students went for a learning journey to the Indian Heritage 
 
 <p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21_1__2_.jpg" style="width:100%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21__2_.jpg" style="width:100%"></p>
 
-Through this learning journey, I have learnt a lot about the contribution of our Indian pioneers in the development of Singapore. – Saathvika, Primary 5. 
+Through this learning journey, I have learnt a lot about the contribution of our Indian pioneers to the development of Singapore. – Saathvika, Primary 5. 
 
 <p><strong>Inquiry Based Learning in Tamil</strong></p>
 
