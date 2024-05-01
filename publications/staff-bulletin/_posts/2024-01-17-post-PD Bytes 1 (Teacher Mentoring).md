@@ -9,6 +9,10 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/PD Bytes/Staff_Bulletin_PD_Bytes_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/PD Bytes/Staff_Bulletin_PD_Bytes_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/PD Bytes/Staff_Bulletin_PD_Bytes_2.jpg">
 </div>
 <p></p>
