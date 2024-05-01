@@ -63,37 +63,17 @@ Ms Munirah – Assistant Year Head Senior Primary
 <img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_6.jpg">
 </p>
 
-<p><strong>P6 Motivation Camp<br></strong></p>
-<p>Our annual Primary 6 Motivation camp kicked off on 21 March 2023 with the theme, “I Can’t, I Can, I Will”. The camp aimed not only to provide opportunities for the students to build camaraderie among one another, it was also designed to incorporate activities that would help build confidence.</p>
-<p>On the first day of the camp, our students worked in their groups and used the concepts they learnt in their Science lessons to build a solar oven made of recycled materials. At the end of the project, they tested out their solar oven and even managed to melt some chocolate that they dipped with marshmallow. “I enjoyed the making of the solar oven! I was able to put my knowledge on Materials into good use in this experiment. The best thing is I was able to melt the chocolate and enjoy the marsh mallow candies at the end of the experiment.” shared Lucas from Primary 6 Sapphire.</p>
-<p>On the second day of the camp, our students continued to challenge themselves and worked together to overcome many challenges in five different stations. The theme, “Reach For Your Goal”, put their teamwork skills to a test as they overcame challenges encountered in the five stations located around the school compound. The students relied on their strong bonds with their friends to overcome potential obstacles, even as the tasks provided opportunities for students to solve problems creatively.</p>
-<p>It was heartening to see the students demonstrating virtues learnt throughout the camp! These are life skills that they would take them a long way even as they leave our gates.</p>
+<p><strong>P6 Bonding Camp<br></strong></p>
+<p>Our annual Primary 6 Bonding Camp commenced on 26 March 2024 under the inspiring theme, “We Can’t, We Can, We Will”. The camp aimed to enhance students' spirits through a blend of enjoyable and challenging activities, fostering enduring memories and a profound sense of belonging, confidence, and camaraderie among peers.</p>
+<p>Throughout the first day of camp, students embodied the habit of think win-win as they embraced healthy competition while maintaining a supportive and collaborative atmosphere. They were engaged in various team-building endeavors, honing effective communication and trust-building skills to conquer shared challenges across different stations. Students pushed their boundaries while relying on strong bonds to overcome obstacles and innovate problem-solving strategies to achieve a common shared goal.</p>
+<p>The camp also served as a platform for breaking down barriers, uniting students from different classes to promote inclusivity and mutual respect as they had to seek first to understand, then to be understood. Cheryl and Li Ting from 6 Sapphire shared, “The camp was awesome! We played in many fun activities with our friends from both the classes. We had to work together to finish the activities as a team. It was tough at first as we were not familiar with some of them, but we all helped one another out and at the end, we became friends”.</p>
+<p>On the second day, students engaged in a collaborative initiative with JA Singapore, focusing on real-world skills and career readiness through an enriching learning journey. Activities were designed to cultivate empathy and awareness of global issues, fostering a deeper appreciation for education and inspiring altruistic action. Through assembling solar-powered lights for distribution in Cambodia, students demonstrated compassion and solidarity, further strengthening their sense of shared purpose and global citizenship. “We synergized with our peers to address global issues and I really enjoyed making a positive impact on the world around me through the thoughtful activity”, said Shahan from 6 Topaz.</p>
+<p>Witnessing students' personal growth, enriched relationships, and application of learned habits highlighted the camp's success in nurturing life skills and forging enduring friendships that will support our students in their journey even after they leave the school.</p>
 
 <p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_H.jpg">
+<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/P6_Bond_1.png">
 </p>
 
-<p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_G.jpg">
-</p>
-<p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_F.jpg">
-</p>
-<p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_E.jpg">
-</p>
-<p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_D.jpg">
-</p>
-<p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_A.jpg">
-</p>
-<p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_B.jpg">
-</p>
-<p>
-<img style="width: 65%;" src="/images/2024%20Photos/SP%20Webpage/Photo_C.jpg">
-</p>
 
 
 <p><strong>A glimpse into our Primary 5 and 6 classrooms<br></strong>A large amount of the student’s time is spent sitting in a classroom. It is important to make this learning space vibrant and inviting so that learning can take place in a comfortable and safe environment.</p>
