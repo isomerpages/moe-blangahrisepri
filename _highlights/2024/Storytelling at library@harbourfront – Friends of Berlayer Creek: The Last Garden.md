@@ -101,6 +101,63 @@ Reduce, Reuse, Recycle and Repurpose.</p>
 </tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4577.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4579.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>After the storytelling segment, our Student Leaders led the children in
+a hands-on activity whereby they used recycled materials and repurposed
+them into a pencil holder.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4600.jpg">
+</div>
+</th>
+<th rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4604.jpg">
+</div>
+</th>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4614.jpg">
+</div>
+</td>
+<td rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4610.jpg">
+</div>
+</td>
+</tr>
+<tr></tr>
 </tbody>
 </table>
 <p></p>
