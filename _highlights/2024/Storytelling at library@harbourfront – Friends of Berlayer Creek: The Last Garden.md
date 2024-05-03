@@ -8,7 +8,7 @@ third_nav_title: "2024"
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4544___banner.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4544___banner.jpg">
 </div>
 <p>On 27 April, our Student Leaders brought our latest e-book come alive
 at library@harbourfront with their eloquence and confidence.</p>
