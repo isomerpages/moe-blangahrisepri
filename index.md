@@ -30,16 +30,15 @@ sections:
       url: /annoucements/principal-march-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: Earth Day Commemoration 2024
+      title: Storytelling at library@harbourfront
       subtitle: HIGHLIGHTS
       id: infopic
-      description: We commemorated Earth Day on 16 April, aligning with the global
-        theme of "Planet VS Plastics - 60% Reduction of Plastic Production by
-        2040."
+      description: On 27 April, our Student Leaders brought our latest e-book come
+        alive at library@harbourfront with their eloquence and confidence.
       button: CLICK HERE TO READ MORE
       alt: Image alt text
-      url: /earth-day-commemoration/
-      image: /images/2024 Photos/Earth Day/ed2.jpg
+      url: /storytelling-at-library-harbourfront-friends-of-berlayer-creek-the-last-garden/
+      image: /images/2024 Photos/Storytelling   The Last Garden/IMG_4544___banner.jpg
   - infopic:
       title: "Robotics: Recycle Robot"
       button: READ MORE
