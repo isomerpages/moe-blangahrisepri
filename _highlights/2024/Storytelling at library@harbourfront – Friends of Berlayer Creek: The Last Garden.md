@@ -115,6 +115,20 @@ Reduce, Reuse, Recycle and Repurpose.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4586.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4583.jpg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p>After the storytelling segment, our Student Leaders led the children in
@@ -147,7 +161,7 @@ them into a pencil holder.</p>
 <td rowspan="2" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4614.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4614.jpg">
 </div>
 </td>
 <td rowspan="2" colspan="2">
@@ -160,4 +174,92 @@ them into a pencil holder.</p>
 <tr></tr>
 </tbody>
 </table>
+<p>Marvell from 5 Sapphire shared, “The storytelling was a great experience
+for me. I feel more confident presenting to the public now. I also had
+a lot of fun interacting with my young audience.”</p>
+<p>The student leaders were committed in giving their very best for the storytelling
+session. Kai Xiang from 5 Topaz said, “I was delighted that I was able
+to memorise and deliver my lines emotionally well. It was a humbling experience
+to be able to interact with children younger than me!”</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4571.jpg">
+</div>
+</th>
+<th rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4570.jpg">
+</div>
+</th>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p>Abigail from 5 Sapphire added, “I was honestly surprised that I enjoyed
+myself doing something way out of my comfort zone. Through this experience,
+I am more confident when speaking to strangers.”</p>
+<p>Indeed, the storytelling session was a resounding success. It definitely
+left an indelible mark not only on the audience, but our Student Leaders
+too as they continue to grow and serve the community and beyond.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4611.jpg">
+</div>
+</th>
+<th rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4596.jpg">
+</div>
+</th>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4625.jpg">
+</div>
+</td>
+<td rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4604.jpg">
+</div>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p>Would you like to listen to our Student Leaders narrate the story in Blangah
+Rise Primary School? Join us at our Open House on 25 May!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4556.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Storytelling   The Last Garden/IMG_4628.jpg">
+</div>
 <p></p>
