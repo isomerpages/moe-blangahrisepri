@@ -30,7 +30,7 @@ sections:
       url: /annoucements/principal-march-letter/
       image: /images/Announcements/mr foo.JPG
   - infopic:
-      title: "Storytelling at library@harbourfront "
+      title: Storytelling at library@harbourfront
       subtitle: HIGHLIGHTS
       id: infopic
       description: On 27 April, our Student Leaders brought our latest e-book come
