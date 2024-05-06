@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Blangah Rise Primary School Open House 2024.md
       - Principal's March Letter.md
       - Inspiring Teacher of English Award 2024.md
       - School Green Awards 2023.md
