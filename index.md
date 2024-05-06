@@ -24,11 +24,11 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's March Letter
+      title: Join us at our Open House on 25 May 2024!
       button: Read More
       alt: Image alt text
-      url: /annoucements/principal-march-letter/
-      image: /images/Announcements/mr foo.JPG
+      url: /blangah-rise-primary-school-open-house-2024/
+      image: /images/2024 Photos/Open House/Open_House_Poster.jpg
   - infopic:
       title: Storytelling at library@harbourfront
       subtitle: HIGHLIGHTS
