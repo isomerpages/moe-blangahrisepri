@@ -30,6 +30,15 @@ sections:
       url: /blangah-rise-primary-school-open-house-2024/
       image: /images/2024 Photos/Open House/Open_House_Poster.jpg
   - infopic:
+      title: Primary Four Mother Tongue Language Camp
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2024 Photos/P4 MTL Camp/CL_Pic_5_1_Bean_Portrait.jpg
+      url: /primary-four-mother-tongue-language-camp/
+      description: Our school recently organised a Primary 4 Mother Tongue Language
+        Camp on 24th April for our Primary 4 students.
+  - infopic:
       title: Storytelling at library@harbourfront
       subtitle: HIGHLIGHTS
       id: infopic
@@ -49,15 +58,6 @@ sections:
         an engaging exploration of robotics, teamwork, and environmental
         stewardship.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: Tamil Language Month Activity for Primary 6 students
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2024 Photos/TL Language Activity/Pic_4.jpg
-      url: /tamil-language-month-activity-for-primary-6-students/
-      description: Our Primary 6 Tamil Language students had the opportunity to attend
-        a Tamil Language Workshop on 16 April 2024.
   - infopic:
       title: ‘Scientist-in-School’ Programme
       button: Click Here to read more
