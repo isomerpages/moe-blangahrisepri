@@ -65,8 +65,8 @@ sections:
       alt: Image alt text
       image: /images/2024 Photos/P4 MTL Camp/CL_Pic_5_1_Bean_Portrait.jpg
       url: /primary-four-mother-tongue-language-camp/
-      description: "Our school recently organised a Primary 4 Mother Tongue Language
-        Camp on 24th April for our Primary 4 students. "
+      description: Our school recently organised a Primary 4 Mother Tongue Language
+        Camp on 24th April for our Primary 4 students.
   - resources:
       title: Publications
       button: Click here to see more
