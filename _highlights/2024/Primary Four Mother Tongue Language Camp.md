@@ -80,11 +80,11 @@ Danish enjoyed the thrill of spinning the top and testing his skills at
 keeping it going.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P4 MTL Camp/ML_Pic_3_1_Batik_Painting.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P4 MTL Camp/ML_Pic_3_1_Batik_Painting.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P4 MTL Camp/ML_Pic_3___Batik_Painting.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P4 MTL Camp/ML_Pic_3___Batik_Painting.jpg">
 </div>
 <p>"Batik painting was awesome! I never knew I could create such beautiful
 designs. And spinning the top was so adventurous. I want to do it again
@@ -93,11 +93,11 @@ next year and put my skills to practice during Art lessons," shared Mya.</p>
 could keep it going.”</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P4 MTL Camp/ML_Pic_3_3_Gasing.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P4 MTL Camp/ML_Pic_3_3_Gasing.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P4 MTL Camp/ML_Pic_3_4_Gasing.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P4 MTL Camp/ML_Pic_3_4_Gasing.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
