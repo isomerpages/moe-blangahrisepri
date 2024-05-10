@@ -30,6 +30,15 @@ sections:
       url: /blangah-rise-primary-school-open-house-2024/
       image: /images/2024 Photos/Open House/Open_House_Poster.jpg
   - infopic:
+      title: Primary Four Mother Tongue Language Camp
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2024 Photos/P4 MTL Camp/CL_Pic_5_1_Bean_Portrait.jpg
+      url: /primary-four-mother-tongue-language-camp/
+      description: Our school recently organised a Primary 4 Mother Tongue Language
+        Camp on 24th April for our Primary 4 students.
+  - infopic:
       title: Storytelling at library@harbourfront
       subtitle: HIGHLIGHTS
       id: infopic
@@ -58,15 +67,6 @@ sections:
       description: We participated in the Scientist-in-School programme, an initiative
         organised by the Ministry of Education (MOE) of Singapore.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: Primary Four Mother Tongue Language Camp
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2024 Photos/P4 MTL Camp/CL_Pic_5_1_Bean_Portrait.jpg
-      url: /primary-four-mother-tongue-language-camp/
-      description: Our school recently organised a Primary 4 Mother Tongue Language
-        Camp on 24th April for our Primary 4 students.
   - resources:
       title: Publications
       button: Click here to see more
