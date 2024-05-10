@@ -2,7 +2,6 @@ collections:
   special-projects:
     output: true
     order:
-      - "Friends of Berlayer Creek: The Last Garden.md"
       - Bicentennial Coffee Table Book/.keep
       - Bicentennial Coffee Table Book/Bicentennial Coffee Table Book.md
       - "Bicentennial Coffee Table Book/Telok Blangah Song: Our Bicentennial
@@ -21,5 +20,6 @@ collections:
       - Reflections of an Overcomer/Posters.md
       - The Green Dragonflies and Their Swampy Friends.md
       - Friends of Berlayer Creek.md
+      - "Friends of Berlayer Creek: The Last Garden.md"
       - A Bowl of Nature.md
       - In Pursuit of A Dream.md
