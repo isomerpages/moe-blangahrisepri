@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/The Last Garden Webpage/Book_Cover.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/The Last Garden Webpage/Book_Cover.jpg">
 </div>
 <p>This 3rd series of our publication, is produced by a team of teachers
 and students with a keen interest in raising environmental awareness and
