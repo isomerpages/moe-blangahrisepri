@@ -98,6 +98,10 @@ Click [here](/2023/03/23/science-educational-talk-birds/) to find out more about
 
 <p><strong>Garden Trails - Blooming Garden and The Garden of Hope<br></strong>With the objectives of providing our students with outdoor experiential learning to complement the teaching and learning of Science as well as to provide our students with an authentic platform for Value-in-Action (VIA) project, P3 to P6 classes are each assigned a garden plot to take care of the plants. This provides opportunity for students and teachers to build positive teacher-student relationships as well as imbue in students a sense of responsibility to take care of the environment.</p>
 
+![](/images/2024%20Photos/Science%20Webpage/Photo_7.jpg)
+
+![](/images/2024%20Photos/Science%20Webpage/Photo_8.png)
+
 Our NEW Garden – Tranquil Garden
 
 As part of our continuing efforts to enhance the physical and learning environment in the school for our students, we have added Tranquil Garden to the school’s Biodiversity Corridor next to the Primary 1 classrooms. The Tranquil Garden provides a calming and serene space to promote students’ wellness. Within the garden, students will be able to explore under the canopy of the Auracaria Pine Trees. This garden is designed with seating areas for personal or small group contemplation as it is divided into sections by bamboo lattices and boulders. The tables &amp; seats are customised to blend in with the natural environment. Teachers and students may utilize the space in the garden to engage in wellness activities.
