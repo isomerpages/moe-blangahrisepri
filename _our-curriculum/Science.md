@@ -135,8 +135,8 @@ Click [here](https://www.blangahrisepri.moe.edu.sg/highlights/2023/scienceaward/
 <img src="/images/Photo-22.jpg">
 
 
-**Click [here](https://blangahrisepri.moe.edu.sg/2023/03/23/science-lesson-with-k2-students-human-digestive-system/) to find out more about our collaboration with MOE Kindergarten (Blangah Rise)
+Click [here](https://blangahrisepri.moe.edu.sg/2023/03/23/science-lesson-with-k2-students-human-digestive-system/) to find out more about our collaboration with MOE Kindergarten (Blangah Rise)
 
-Click here to find out more about our collaboration with JA Singapore and Solar Buddy.
+Click [here](https://www.blangahrisepri.moe.edu.sg/building-a-solar-buddy-motivation-camp-and-ja-singapore-partnership/) to find out more about our collaboration with JA Singapore and Solar Buddy.
 
 *JA Singapore partners with Blangah Rise Primary School in conducting STEM-related and Entrepreneurial workshops for the students. Students engage in interactive programs.*
