@@ -20,50 +20,28 @@ the same passion and dedication witnessed within these pages.</p>
 representing Singapore at the 2024 Paris Olympics and Paralympics. May
 their commitment and dedication inspire the best in all of us.</p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Online version of In Pursuit Of A Dream</strong>
+<p><strong>1. Online version of In Pursuit Of A Dream</strong>
 </p>
-</li>
-</ol>
 <p><a href="https://online.fliphtml5.com/imxpa/irby/#p=1" rel="noopener noreferrer nofollow" target="_blank">https://online.fliphtml5.com/imxpa/irby/#p=1</a>
 </p>
 <p></p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Well Wishes from Blangah Rise Primary School</strong>
+<p><strong>2. Well Wishes from Blangah Rise Primary School</strong>
 </p>
-</li>
-</ol>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lxV6Qy9kUSk?si=h6T_i-0Z5t6c7I02"></iframe>
 </div>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Artmaking Process by student, Leia Lay</strong>
+<p><strong>3. Artmaking Process by student, Leia Lay</strong>
 </p>
-</li>
-</ol>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RxKr1g4YQbc?si=ljBz4a4J3TdAB-Mg"></iframe>
 </div>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><strong>Dedication Wall by Art and Design Club</strong>
+<p><strong>4. Dedication Wall by Art and Design Club</strong>
 </p>
-</li>
-</ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/Dedication_Wall_to_Team_SG.jpg">
 </div>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p><strong>Acknowledgement</strong>
+<p><strong>5. Acknowledgement</strong>
 </p>
-<p></p>
-</li>
-</ol>
 <p>We had fun bringing the book together. Let’s watch what is behind the
 scene.</p>
 <div class="iframe-wrapper">
