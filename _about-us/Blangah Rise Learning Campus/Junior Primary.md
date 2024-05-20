@@ -49,127 +49,13 @@ Together with an identified virtue for each term, our students will also be nurt
 
 The following are further details on the programme:
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="141" colspan="2" valign="top" style="width:105.55pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="117" valign="top" style="width:88.0pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Term 1</span></b></p></td><td width="114" valign="top" style="width:85.3pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Term 2</span></b></p></td><td width="114" valign="top" style="width:85.4pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Term 3</span></b></p></td><td width="115" valign="top" style="width:86.55pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Term 4</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="141" colspan="2" rowspan="4" style="width:105.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">7 Habits</span></b></p></td><td width="231" colspan="2" valign="top" style="width:173.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Private Victory</span></p></td><td width="229" colspan="2" valign="top" style="width:171.95pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Public Victory</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="231" colspan="2" valign="top" style="width:173.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Habit 1: Be proactive</span></p></td><td width="229" colspan="2" valign="top" style="width:171.95pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Habit 4: Think win-win</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="231" colspan="2" valign="top" style="width:173.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Habit 2: Begin with the end in mind</span></p></td><td width="229" colspan="2" valign="top" style="width:171.95pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Habit 5: Seek first to understand then to be understood</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="231" colspan="2" valign="top" style="width:173.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Habit 3: Put first things first</span></p></td><td width="229" colspan="2" valign="top" style="width:171.95pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Habit 6: Synergise</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="141" colspan="2" valign="top" style="width:105.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Identified Virtue</span></b></p><p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">(I discover…)</span></b></p></td><td width="117" valign="top" style="width:88.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Confidence</span></b></p></td><td width="114" valign="top" style="width:85.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Flexibility</span></b></p></td><td width="114" valign="top" style="width:85.4pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Creativity</span></b></p></td><td width="115" valign="top" style="width:86.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Joyfulness</span></b></p></td></tr><tr style="mso-yfti-irow:6"><td width="85" rowspan="2" style="width:63.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Activities Planned <i>(non-exhaustive and subject to changes)</i></span></b></p></td><td width="56" valign="top" style="width:42.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">P1</span></b></p></td><td width="117" valign="top" style="width:88.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Self-Management Skills lessons</span></p></td><td width="228" colspan="2" valign="top" style="width:170.7pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Robotics,</span></p><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">ICT touch-typing</span></p><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="115" valign="top" style="width:86.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Performing Arts: Choir</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td width="56" valign="top" style="width:42.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><b><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">P2</span></b></p></td><td width="117" valign="top" style="width:88.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Performing Arts: Choir</span></p></td><td width="228" colspan="2" valign="top" style="width:170.7pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Young Photographers,</span></p><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Co-Curricular Activities (CCA) Immersion,</span></p><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Engineering ReLated Activities (ERLA)</span></p></td><td width="115" valign="top" style="width:86.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG">Performing Arts: Drama</span></p></td></tr></tbody></table>
+![](/images/2024%20Photos/JP/JP_Idiscover.jpg)
 
 **Opportunities for Confidence Building**
 
-Healthy self-esteem should be inculcated from young, and the Junior Primary (JP) Team believes every child can. Since 2020, we reinforce self-confidence and resilient in our students when we present them with the opportunities to showcase their talents while they immerse themselves in the joy of learning. Teachers teach the skillset necessary for performance during Music, English Language and Programme for Active Learning (PAL) lessons.
+Healthy self-esteem should be inculcated from young, and the Junior Primary (JP) Team believes every child can be nurtured and learn.  Since 2020, we reinforce self-confidence and resilience in our students when we present them with the opportunities to showcase their talents while they immerse themselves in the joy of learning. Teachers teach the skillset necessary for performance during Music, English Language and Programme for Active Learning (PAL) lessons. In 2023, through iDiscover Programme, our P1 and P2 students had the chance to also showcase their talents in both choir and drama performances during school events. 
 
-Some of the highlights include BRLC Celebrates! Reader Theatre performance, a handbell performance to commemorate Beethoven’s 250th&nbsp;Anniversary and a virtual choir on National Day.
-
-Our P2 students also performed on stage during our term 1 Gem Award Ceremony, conducted on 9 March 2023.
+Some of the highlights from the past years include BRLC Celebrates! Reader Theatre performance, a handbell performance to commemorate Beethoven’s 250th Anniversary and a virtual choir on National Day. 
 
 You can watch some of the videos here.
 
-[P1 Topaz: The Tortoise and the Hare](https://youtu.be/o4rFW3apjVM)
-
-[P1 Virtual Choir NDP 2021](https://youtu.be/1eIbSl5auqo)
