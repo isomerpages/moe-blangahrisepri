@@ -20,7 +20,10 @@ variant: markdown
 <img src="/images/2024%20Photos/Science%20Webpage/Photo_2.jpg"><br>
 <img src="/images/2024%20Photos/Science%20Webpage/Photo_3.jpg">
 <p><em>“It is fun to experience new things. When my Science teacher asks questions in class, I can use the experiment to remember how to answer.”</em></p>
-<p style="text-align: right;"><em>Lucas, Primary 5</em></p>
+<p style="text-align: right;"><em>Lucas, Primary 6 (2023)</em></p>
+
+<br>**Outdoor Experiential Learning Experience**<br>
+The outdoor classroom fosters active, hands-on, inquiry-based learning in a real world setting; making learning a multi-sensory experience to retain knowledge more effectively. Learning in a less-structured environment, students are provided with a different learning experience from that of the classroom. Learning Journeys are also integral to enriching the learning experience of students.  They help to make real and concrete what has been learnt in the classrooms and broaden the mental horizons of our students.
 
 <table class="table table-bordered table-responsive table-striped dark-header" style="border-style: solid;">
 <tbody>
@@ -40,10 +43,11 @@ variant: markdown
 <tr>
 <td style="text-align: center;">P4</td>
 <td style="text-align: center;">Science Centre
-<p>Gardens by the bay</p>
+<p></p>
 </td>
 <td>
 <p style="text-align: center;">Students participate in hands-on activities, gallery trail and science demonstrations on energy as they embark on an experiential journey to learn how to harness energy from different sources. They will learn the fundamentals of energy and its importance. The activities also encourage character building through teamwork, time management and strategic problem solving.</p>
+	
 <p>Collaborating with the Young Photographers programme, students took photographs of water bodies during their visit to Gardens by the Bay. This activity serves as an extension of the World Water Day activities that were conducted in school to advocate the importance of water conservation in Singapore.</p>
 <p>Click&nbsp;<a href="/our-distinctive-programmes/young-photographers/"><strong>here</strong></a>&nbsp;to find out more about our Young Photographers Programme.</p>
 </td>
