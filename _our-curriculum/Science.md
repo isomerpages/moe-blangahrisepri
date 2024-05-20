@@ -102,15 +102,13 @@ Click [here](/2023/03/23/science-educational-talk-birds/) to find out more about
 
 ![](/images/2024%20Photos/Science%20Webpage/Photo_8.png)
 
-Our NEW Garden – Tranquil Garden
+**Tranquil Garden**
 
-As part of our continuing efforts to enhance the physical and learning environment in the school for our students, we have added Tranquil Garden to the school’s Biodiversity Corridor next to the Primary 1 classrooms. The Tranquil Garden provides a calming and serene space to promote students’ wellness. Within the garden, students will be able to explore under the canopy of the Auracaria Pine Trees. This garden is designed with seating areas for personal or small group contemplation as it is divided into sections by bamboo lattices and boulders. The tables &amp; seats are customised to blend in with the natural environment. Teachers and students may utilize the space in the garden to engage in wellness activities.
-
-The Tranquil Garden is built to engage students through a multi-sensory approach. From the moment students step into the garden, they will be greeted by a wide variety of plants visually. One of the special features is the Tamarind Tree. The living tree is repositioned almost horizontally to house a wide variety of epiphytes and orchids. Beneath its trunk, the moist and shaded environment provides a conducive habitat for other organisms like moss to thrive. The garden also has a cascading water fountain and built-in outdoor speakers which allow for recorded music or storytelling to be played in certain parts of the garden. We are sure our staff and students will love the garden!
+Adjacent to the Primary 1 classrooms lies the Tranquil Garden, designed to enhance student wellness. Bamboo lattices and boulders define the space, offering areas for personal reflection and small group gatherings. Custom tables and seats blend seamlessly with the surroundings. The garden employs a multi-sensory approach. It features visually striking plants like the Auracaria Pine Trees, a creatively arranged Tamarind Tree hosting epiphytes and orchids, a cascading water fountain and outdoor speakers. Our staff and students love this garden! 
 
 ![](/images/2023%20Photos/science%20department_1%20.jpg)
 
-![](/images/2023%20Photos/science%20department_2.jpg)
+
 
 <img src="/images/science5.png">
 <p><strong>Go&nbsp;<a href="mailto:Green@BRPS">Green@BRPS</a><br></strong>Going green is an integral part of being a Blangahnite. It teaches our students to respect self, others and the environment. Events such as Earth Week, World Water Day and practices such as the 4Rs (Reduce, Reuse, Recycle and Refuse) are emphasised by our Green Ambassadors and Science teachers. Selected students are also given leadership opportunities to work with organisations such as NEA and Sembwaste to provide authentic platforms for them to explore environmental issues. Through such partnerships, they learn to take action to improve the environment around them and achieve awards that accredit the school’s green practices. These activities include conducting recycling drives in the school, taking part in environmental challenges and creating educational posters for both the school community and neighbourhood.</p>
