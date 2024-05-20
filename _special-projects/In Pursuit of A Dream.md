@@ -31,14 +31,14 @@ their commitment and dedication inspire the best in all of us.</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Well Wishes from Blangah Rise Primary School </strong>
+<p><strong>Well Wishes from Blangah Rise Primary School</strong>
 </p>
 </li>
 </ol>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Artmaking Process by student, Leia Lay</strong> 
+<p><strong>Artmaking Process by student, Leia Lay</strong>
 </p>
 </li>
 </ol>
@@ -52,7 +52,7 @@ their commitment and dedication inspire the best in all of us.</p>
 <p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p><strong>Acknowledgement </strong>
+<p><strong>Acknowledgement</strong>
 </p>
 <p></p>
 </li>
