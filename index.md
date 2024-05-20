@@ -30,6 +30,15 @@ sections:
       url: /blangah-rise-primary-school-open-house-2024/
       image: /images/2024 Photos/Open House/Open_House_Poster.jpg
   - infopic:
+      title: BRPS Parenting Workshop 2024
+      button: READ MORE
+      url: /brps-parenting-workshop-2024/
+      image: /images/2024 Photos/Parents Workshop/BRPS_PW_Pic_1.jpg
+      alt: Image alt text
+      description: 'We organised a parenting workshop titled "Internet Addiction: How
+        to Prevent or Help Our Children Overcome It?"'
+      subtitle: HIGHLIGHTS
+  - infopic:
       title: Primary Four Mother Tongue Language Camp
       subtitle: HIGHLIGHTS
       button: Click here to read more
@@ -48,16 +57,6 @@ sections:
       alt: Image alt text
       url: /storytelling-at-library-harbourfront-friends-of-berlayer-creek-the-last-garden/
       image: /images/2024 Photos/Storytelling   The Last Garden/IMG_4544___banner.jpg
-  - infopic:
-      title: "Robotics: Recycle Robot"
-      button: READ MORE
-      url: /robotics-recycle-robot/
-      image: /images/2024 Photos/Robotics/2.jpg
-      alt: Image alt text
-      description: In the first two weeks of Term 2, Primary 4 students embarked upon
-        an engaging exploration of robotics, teamwork, and environmental
-        stewardship.
-      subtitle: HIGHLIGHTS
   - infopic:
       title: ‘Scientist-in-School’ Programme
       button: Click Here to read more
