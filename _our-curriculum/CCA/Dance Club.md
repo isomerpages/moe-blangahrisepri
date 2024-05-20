@@ -3,13 +3,28 @@ title: Dance Club
 permalink: /departments/ccas/dance-club/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<img src="/images/1-SYF-Presentation-2018.jpg">
-<p>Our Dance Club members train under a team of accomplished and experienced dance instructors. Besides participating in the Singapore Youth Festival (SYF) Arts Presentation (Dance) every two years, we also perform during annual school events and celebrations such as Chinese New Year and BRLC Celebrates!</p>
-<p>Besides the sheer joy of dancing, learning dance builds confidence, discipline and relationships. Our members have mastered basic dance moves and developed skills, such as balance, coordination, flexibility and musicality. With months of intensive training and amazing teamwork, we have consistently attained the &ldquo;Accomplishment Award&rdquo; at the bi-annual Singapore Youth Festival (SYF) Arts Festival since 2012</p>
-<img src="/images/Pic_3SYF-1536x1152.jpg"><br>
-<img src="/images/Pic_4SYF-Rehearsal-2048x1536.jpg">
-<p>Our members have expressed a deep interest in dance. Lee Ning (Primary 6) plans to apply to her choice secondary schools via Direct School Admission (DSA) in the talent area of dance. She reflected, &ldquo;I enjoy dancing as I&rsquo;m able to express myself through movement. I can also relieve stress while doing what I love. Dance has helped me to build confidence as I perform to an audience. It is my aspiration to further my training in dance in my secondary school.&rdquo;</p>
-<img src="/images/Dance-Pic_5Lee-Ning-2048x1536.jpg">
-<p>As Singapore moves towards a Covid-19 endemic status, Co-Curricular Activities (CCAs) resumed with relevant safe management measure in place. In anticipation of the SYF Arts Presentation (Dance) 2022 that will be held in July, our dancers have been putting extra hours to practice and rehearse for their performance. Cheryl Lei (Primary 4) shared,&rdquo; This is my first time participating in SYF. I feel nervous dancing before an audience, but at the same time I am also excited that I am can dance on stage for the first time in my life.&rdquo;</p>
-<img src="/images/Practice_1-2048x1536.jpg">
+Our Modern Dance CCA equips students in fundamental dance skills such as balance, coordination, flexibility, and musicality. We also develop students in character excellence through the practice of virtues such as confidence, discipline, and teamwork.
+
+![](/images/2024%20Photos/Dance%20Club/Dance_Pic_1_1.jpg)
+
+Besides participating in the Singapore Youth Festival (SYF) Arts Presentation for Dance, we also perform in external and internal events (e.g. School Open House, Chinese New Year Celebration and BRLC Celebrates!) to serve the school and wider community. In 2023, we participated in the National Active Ageing and Intergenerational Bonding initiative – Active X by SportsSG. Through this participation, our young students get to connect with and relate to Senior Citizens better. 
+
+![](/images/2024%20Photos/Dance%20Club/Dance_Pic_2_1.jpg)
+
+Modern Dance CCA provides a pathway for our students to pursue their interest and life-long learning. A few of P6 dancers plan to apply to their choice secondary schools via Direct School Admission (DSA) in the talent area of dance. Lea Store (6 Sapphire) reflected, “I love dancing as I’m able to express myself through movement. I can pursue my dreams through dancing. Dance has helped me to learn determination as I cannot give up when everyone has been working hard for the dance. It is my aspiration to further my training in dance in my secondary school.” 
+
+![](/images/2024%20Photos/Dance%20Club/Dance_Pic_3_1.jpg)
+
+![](/images/2024%20Photos/Dance%20Club/Dance_Pic_3_2.jpg)
+
+To prepare the SYF Arts Presentation of Dance 2024, our dancers have been putting extra hours to practice and rehearse for their performance. Qistina (4 Topaz) shared,” This is my first time participating in SYF. I feel excited and I practice hard. I attend every CCA session, and I also practice at home. I believe we can do well in the SYF Presentation.” 
+
+![](/images/2024%20Photos/Dance%20Club/Dance_Pic_4_1.jpg)
+
+![](/images/2024%20Photos/Dance%20Club/Dance_Pic_4_2.jpg)
+
+As a cohesive team, we have consistently been awarded the “Accomplishment Award” at the biennial Singapore Youth Festival (SYF) Arts Presentation for Dance. 
+
+![](/images/2024%20Photos/Dance%20Club/Dance_Pic_5_2.jpg)
