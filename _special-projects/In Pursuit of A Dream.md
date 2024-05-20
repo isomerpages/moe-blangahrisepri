@@ -38,7 +38,6 @@ their commitment and dedication inspire the best in all of us.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lxV6Qy9kUSk?si=h6T_i-0Z5t6c7I02"></iframe>
 </div>
-<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Artmaking Process by student, Leia Lay</strong>
@@ -62,4 +61,7 @@ their commitment and dedication inspire the best in all of us.</p>
 </ol>
 <p>We had fun bringing the book together. Let’s watch what is behind the
 scene.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vGm-RyhA-9w?si=5rQKIWQwDHhtDH3W"></iframe>
+</div>
 <p></p>
