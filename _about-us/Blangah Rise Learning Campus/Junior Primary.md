@@ -43,9 +43,9 @@ A Virtues Challenge Board displays the target virtue which we would like the stu
 
 **iDiscover Programme**
 
-As a 7-Habits school, we strive to grow our students progressively in the maturity continuum where interdependency can be achieved over time through our school’s programmes. Thus, in our mission to develop students holistically and to provide more fun and meaningful learning opportunities, all our P1 &amp; P2 students will be involved in a i-Discover programme unique to the school. The programme will be carried out on Monday, 7.30 am – 9 a.m.
+As a 7-Habits school, we strive to grow our students progressively in the maturity continuum where interdependency can be achieved over time through our school’s programmes. Thus, in line with  our mission to develop students holistically and to provide more fun and meaningful learning opportunities, all our P1 &amp; P2 students will be involved in a i-Discover programme unique to the school. The programme will be carried out on Monday, 7.30 am – 9 a.m. 
 
-Together with an identified virtue for each term, our students will also be nurtured in values and basic qualities they need to be successful throughout their lives. i-Discover will provide opportunities such as CCA experiences, social skills learning, engagement in the school’s distinctive programmes and learning journeys.
+Together with an identified virtue for each term, our students will also be nurtured in values and basic qualities they need to be successful throughout their lives. i-Discover will provide opportunities such as CCA experiences, social skills learning, engagement in the school’s distinctive programmes and learning journeys. 
 
 The following are further details on the programme:
 
