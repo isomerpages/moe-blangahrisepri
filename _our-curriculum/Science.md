@@ -79,18 +79,24 @@ The outdoor classroom fosters active, hands-on, inquiry-based learning in a real
 The Science Department conducts activities during recess every Wednesday of Weeks 3, 6, and 9 from Term 1 to Term 3. This initiative thrives on the collaboration between our dedicated teachers and the outstanding Parent Support Group (PSG). The objectives are to enhance Science learning for our students and to develop students’ social and emotional learning. Through these activities, we aim to transcend the classroom setting, teaching science through the experiential approach  and instilling a passion for the subject. The activities encompass a range of engaging experiences. These include introducing or reinforcing scientific concepts through card games, interactive Wordwall sessions using iPads, PSG-led demonstrations and explanations of science experiments. Additionally, we incorporate STEM Champion challenges to further enrich the learning experience and stimulate curiosity among students.
 	
 Click here to find out more about STEM Champion challenges 
+	
 <img src="/images/2024%20Photos/Science%20Webpage/Photo_4.jpg"><br>
 <img src="/images/2024%20Photos/Science%20Webpage/Photo_5.jpg"><br>
 <img src="/images/science2.png">
-</p><p><span style="text-decoration: underline;"><strong>Animal Moments</strong></span><br>This programme aims to raise awareness on animal-related issues and educate students on responsible pet ownership through assembly talks conducted by teachers and government organisations like the SPCA and AVA. Students then learn to be kind and empathetic to our four-legged friends. Under the supervision of our teachers and Science Assistant, students are given the opportunities to have hands-on experiences to learn to take care of small animals.
-
+</p><p><span style="text-decoration: underline;"><strong>Animal Moments</strong></span><br>This program is designed to include environmental education in our Science learning activities. Activities include assembly talks led by teachers and governmental organizations such as the SPCA and AVA and hands-on opportunities to learn how to care for small animals at the Animal Corner.
+	
+This programme aims to raise awareness on animal-related issues and educate students on responsible pet ownership through assembly talks conducted by teachers and government organisations like the SPCA and AVA. Students then learn to be kind and empathetic to our four-legged friends. Under the supervision of our teachers and Science Assistant, students are given the opportunities to have hands-on experiences to learn to take care of small animals. 
+	
 Click [here](/2023/03/23/science-educational-talk-birds/) to find out more about our Science educational talk on Birds
 	
 </p>
 <img src="/images/science3.png"><br>
 <img src="/images/science4.png">
-<p><strong>Biodiversity Corridor<br></strong>The Biodiversity Corridor is part of the school’s effort to equip students with socio-emotional skills and leadership qualities. We inculcate virtues such as care, respect and responsibility to create a lasting impact on the students’ own personal and interpersonal growth through the school’s Learning for Life Programme (LLP) led by the Science Department. The opportunity to observe, interact, care and learn about animals not only enriches their learning about nature, ecology and relationships, it also inspires them on their learning and discovery journeys as students will be curious to find out more about the animals.&nbsp;</p>
-<p><strong>Garden Trails - Blooming Garden and The Garden of Hope<br></strong>With the objectives of providing our students with outdoor experiential learning to complement the teaching and learning of Science as well as to provide our students with an authentic platform for Value-in-Action (VIA) project, classes are each assigned a garden plot to take care of the plants. This provides opportunity for students and teachers to build positive teacher-student relationships as well as imbue in students a sense of responsibility to take care of the environment.</p>
+<p><strong>Biodiversity Corridor<br></strong>The Science department emphasizes environment education by designing learning experiences and school spaces accordingly. The Biodiversity Corridor exemplifies the school's commitment to fostering socio-emotional skills and leadership qualities in students. Through the Learning for Life Programme (LLP) spearheaded by the Science Department, virtues such as care, respect, and responsibility are instilled, contributing to students' personal and interpersonal growth. Engaging with animals offers students opportunities to observe, interact, and learn, enriching their understanding of nature, ecology, and relationships. Additionally, it ignites curiosity, inspiring students on their learning and discovery journeys.</p>
+
+![](/images/2024%20Photos/Science%20Webpage/Photo_6.jpg)
+
+<p><strong>Garden Trails - Blooming Garden and The Garden of Hope<br></strong>With the objectives of providing our students with outdoor experiential learning to complement the teaching and learning of Science as well as to provide our students with an authentic platform for Value-in-Action (VIA) project, P3 to P6 classes are each assigned a garden plot to take care of the plants. This provides opportunity for students and teachers to build positive teacher-student relationships as well as imbue in students a sense of responsibility to take care of the environment.</p>
 
 Our NEW Garden – Tranquil Garden
 
