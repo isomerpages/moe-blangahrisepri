@@ -83,7 +83,7 @@ Click here to find out more about STEM Champion challenges
 <img src="/images/2024%20Photos/Science%20Webpage/Photo_4.jpg"><br>
 <img src="/images/2024%20Photos/Science%20Webpage/Photo_5.jpg"><br>
 <img src="/images/science2.png">
-</p><p><span style="text-decoration: underline;"><strong>Animal Moments</strong></span><br>This program is designed to include environmental education in our Science learning activities. Activities include assembly talks led by teachers and governmental organizations such as the SPCA and AVA and hands-on opportunities to learn how to care for small animals at the Animal Corner.
+</p><p><strong>Animal Moments</strong><br>This program is designed to include environmental education in our Science learning activities. Activities include assembly talks led by teachers and governmental organizations such as the SPCA and AVA and hands-on opportunities to learn how to care for small animals at the Animal Corner.
 	
 This programme aims to raise awareness on animal-related issues and educate students on responsible pet ownership through assembly talks conducted by teachers and government organisations like the SPCA and AVA. Students then learn to be kind and empathetic to our four-legged friends. Under the supervision of our teachers and Science Assistant, students are given the opportunities to have hands-on experiences to learn to take care of small animals. 
 	
@@ -135,7 +135,7 @@ Click [here](https://www.blangahrisepri.moe.edu.sg/highlights/2023/scienceaward/
 <img src="/images/Photo-22.jpg">
 
 
-Click [here](https://blangahrisepri.moe.edu.sg/2023/03/23/science-lesson-with-k2-students-human-digestive-system/) to find out more about our collaboration with MOE Kindergarten (Blangah Rise)
+Click [here](https://blangahrisepri.moe.edu.sg/2023/03/23/science-lesson-with-k2-students-human-digestive-system/) to find out more about our collaboration with MOE Kindergarten (Blangah Rise).
 
 Click [here](https://www.blangahrisepri.moe.edu.sg/building-a-solar-buddy-motivation-camp-and-ja-singapore-partnership/) to find out more about our collaboration with JA Singapore and Solar Buddy.
 
