@@ -54,6 +54,9 @@ their commitment and dedication inspire the best in all of us.</p>
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/Dedication_Wall_to_Team_SG.jpg">
+</div>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>Acknowledgement</strong>
