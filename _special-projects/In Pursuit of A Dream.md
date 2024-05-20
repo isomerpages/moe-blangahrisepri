@@ -35,14 +35,18 @@ their commitment and dedication inspire the best in all of us.</p>
 </p>
 </li>
 </ol>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lxV6Qy9kUSk?si=h6T_i-0Z5t6c7I02"></iframe>
+</div>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Artmaking Process by student, Leia Lay</strong>
 </p>
 </li>
 </ol>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RxKr1g4YQbc?si=ljBz4a4J3TdAB-Mg"></iframe>
+</div>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Dedication Wall by Art and Design Club</strong>
@@ -50,6 +54,9 @@ their commitment and dedication inspire the best in all of us.</p>
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/Dedication_Wall_to_Team_SG.jpg">
+</div>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>Acknowledgement</strong>
@@ -59,4 +66,7 @@ their commitment and dedication inspire the best in all of us.</p>
 </ol>
 <p>We had fun bringing the book together. Let’s watch what is behind the
 scene.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vGm-RyhA-9w?si=5rQKIWQwDHhtDH3W"></iframe>
+</div>
 <p></p>
