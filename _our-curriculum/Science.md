@@ -43,12 +43,12 @@ The outdoor classroom fosters active, hands-on, inquiry-based learning in a real
 <tr>
 <td style="text-align: center;">P4</td>
 <td style="text-align: center;">Science Centre
-<p></p>
-</td>
+<div style="margin-top: 372px"><p>Gardens by the Bay</p>
+</div></td>
 <td>
 <p style="text-align: center;">Students participate in hands-on activities, gallery trail and science demonstrations on energy as they embark on an experiential journey to learn how to harness energy from different sources. They will learn the fundamentals of energy and its importance. The activities also encourage character building through teamwork, time management and strategic problem solving.</p>
 	
-<p>Collaborating with the Young Photographers programme, students took photographs of water bodies during their visit to Gardens by the Bay. This activity serves as an extension of the World Water Day activities that were conducted in school to advocate the importance of water conservation in Singapore.</p>
+<p style="text-align: center;">Collaborating with the Young Photographers programme, students took photographs of water bodies during their visit to Gardens by the Bay. This activity serves as an extension of the World Water Day activities that were conducted in school to advocate the importance of water conservation in Singapore.</p>
 <p>Click&nbsp;<a href="/our-distinctive-programmes/young-photographers/"><strong>here</strong></a>&nbsp;to find out more about our Young Photographers Programme.</p>
 </td>
 </tr>
