@@ -6,7 +6,6 @@ description: ""
 third_nav_title: "2024"
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Parents Workshop/BRPS_PW_Pic_2.jpg">
 </div>
