@@ -117,18 +117,12 @@ Adjacent to the Primary 1 classrooms lies the Tranquil Garden, designed to enhan
 <p><strong>Go&nbsp;<a href="mailto:Green@BRPS">Green@BRPS</a><br></strong>Going green is an integral part of being a Blangahnite. It teaches our students to respect self, others and the environment. Events such as Earth Week, World Water Day and practices such as the 4Rs (Reduce, Reuse, Recycle and Refuse) are emphasised by our Green Ambassadors and Science teachers. Selected students are also given leadership opportunities to work with organisations such as NEA and Sembwaste to provide authentic platforms for them to explore environmental issues. Through such partnerships, they learn to take action to improve the environment around them and achieve awards that accredit the school’s green practices. These activities include conducting recycling drives in the school, taking part in environmental challenges and creating educational posters for both the school community.</p>
 <img src="/images/science6.png">
 <p>Click&nbsp;<a href="/our-distinctive-programmes/learning-for-life-programme/"><strong>here</strong></a>&nbsp;to find out more about our Learning for Life Programme (LLP)</p>
-<p><strong>STEM Programme - ALP</strong><br>This programme aims to leverage on STEM to create more meaningful and engaging activities that integrate engineering and technology in Mathematics and Science to fuel students’ enthusiasm in learning as well as to promote 21st&nbsp;century skills - critical thinking, decision-making, collaboration, communication and creativity. It provides students with opportunities to innovate and apply content knowledge to bridge the gap between key theoretical concepts and their real-world applications.</p>
-<img src="/images/science7.png">
-<p>Click&nbsp;<a href="/our-distinctive-programmes/applied-learning-programme-alp/"><strong>here</strong></a>&nbsp;to find out more about our Applied Learning Programme (ALP)</p>
-<p><strong>STEM Programme - APEX</strong><br>Our students in the Accelerated Programme to Enhance students’ eXperience (APEX) attend the STEM Programme. These include Robotics, Innovation Programme, Toy-making, Design Thinking, E2K and Project Work where students conduct research in areas such as aerodynamism and water conservation for group projects. We aim to help our students develop skills, habits of mind and attitudes necessary for scientific inquiry.</p>
 
-![](/images/2023%20Photos/science%20department_4.jpg)
+**STEM Programme - APEX**
+<p>Our students in the Accelerated Programme to Enhance students’ eXperience (APEX) attend the STEM Programme. These include Robotics, Innovation Programme, Toy-making, Design Thinking, E2K and Project Work where students conduct research in areas such as aerodynamism and water conservation for group projects. We aim to help our students develop skills, habits of mind and attitudes necessary for scientific inquiry.</p>
 
-<img src="/images/Photo-18-1024x735.jpg"><br>
-<img src="/images/Photo-19.jpg">
 <p>Click&nbsp;<a href="/our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/"><strong>here</strong></a>&nbsp;to find out more about our APEX (MA &amp; SC)</p>
 <p><strong>Science Olympiad Training<br></strong>We provide opportunities for P4 and P5 high progress students to develop their skills in creative thinking, problem solving and analytical thinking. The training sessions are based on broad science themes in the elementary science curriculum. These lessons focus on introducing Physics, Chemistry and Biology to students as well as enhance their general knowledge.</p>
-<img src="/images/science8.png">
 
 ![](/images/2023%20Photos/science%20department_3.jpg)
 
@@ -140,6 +134,9 @@ Click [here](https://www.blangahrisepri.moe.edu.sg/highlights/2023/scienceaward/
 <p></p><p><strong>Young Einstein Award<br></strong>Each year, we recognize the effort of our budding scientists who have demonstrated good work attitude such as diligence, motivation, perseverance, and enthusiasm in the learning of Science. Students from each level get to select&nbsp;from a list of curated projects to complete. Each awardee receives a Young Einstein certificate from the Science Department based on their number of completed projects.</p>
 <img src="/images/Photo-22.jpg">
 
-**Collaboration with MOE Kindergarten (Blangah Rise)**
 
-**Click [here](https://blangahrisepri.moe.edu.sg/2023/03/23/science-lesson-with-k2-students-human-digestive-system/) to find out more about our collaborations.**
+**Click [here](https://blangahrisepri.moe.edu.sg/2023/03/23/science-lesson-with-k2-students-human-digestive-system/) to find out more about our collaboration with MOE Kindergarten (Blangah Rise)
+
+Click here to find out more about our collaboration with JA Singapore and Solar Buddy.
+
+*JA Singapore partners with Blangah Rise Primary School in conducting STEM-related and Entrepreneurial workshops for the students. Students engage in interactive programs.*
