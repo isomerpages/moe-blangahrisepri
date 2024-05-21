@@ -44,7 +44,4 @@ their commitment and dedication inspire the best in all of us.</p>
 </p>
 <p>We had fun bringing the book together. Let’s watch what is behind the
 scene.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UtU6NimgSlk?si=Cw1VEIf95PFUQ9xj"></iframe>
-</div>
 <p></p>
