@@ -28,7 +28,7 @@ were strongly encouraged to put in place rules that are consistent and
 be firm with boundaries set when it comes to using the Internet. The workshop
 presenters also highlighted the importance of parents nurturing feelings
 of warmth towards their children, and occupying their time with purposeful
-activities so that they would not be too much of a reliance on their gadgets.</p>
+activities so that there would not be too much of a reliance on their gadgets.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Parents Workshop/BRPS_PW_Pic_1.jpg">
@@ -45,7 +45,7 @@ addiction, promoting overall well-being and healthy home-school partnership.</p>
 for parents, reinforcing the school's commitment to supporting the holistic
 development of all students. We are also very grateful for the active participation
 and positive feedback from parents who attended the workshop. We look forward
-to organising such informative and beneficial sessions in the future.</p>
+to organising more of such informative and beneficial sessions in the future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Parents Workshop/BRPS_PW_Pic_3.jpg">
