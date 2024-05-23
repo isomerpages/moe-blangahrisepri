@@ -174,7 +174,7 @@ activities that promote emotional and mental well-being. Through their
 dedication and proactive initiatives, our Level Ambassadors contribute
 significantly to creating a safe, inclusive, and supportive learning environment
 where every student can thrive.</p>
-<p><strong>Principle 3: Every Teacher a Mentor - Guiding, Supporting, and Celebrating Success      </strong>
+<p><strong>Principle 3: Every Teacher a Mentor - Guiding, Supporting, and Celebrating Success</strong>
 </p>
 <p>Our Teacher Mentoring Programme supports our efforts to promote the holistic
 well-being of our students. Every teacher is a mentor, guiding students
@@ -183,6 +183,6 @@ at our school, serving as coaches, counselors, and cheerleaders for our
 students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_4.png">
 </div>
 <p></p>
