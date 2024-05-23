@@ -14,6 +14,10 @@ are given opportunities to collaborate with their peers and engage in problem-so
 and scientific thinking.</p>
 <p><strong>Sony Toy Creative (Primary 3)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/APEX/APEX_1.jpg">
+</div>
 <p>In this programme, students learn to design and build their own unique
 toy in pairs. They will be introduced to the Sony Creative Science Award
 Toy Competition and learn how to incorporate science concepts into their
@@ -25,6 +29,10 @@ By the end of the programme, students would have completed their toys and
 journals for submission to the competition.</p>
 <p><strong>Amazing Fly Machine (Primary 4)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/APEX/APEX_2.jpg">
+</div>
 <p>In this programme, students will get hands-on experience to learn about
 the science of flight and prepare for the Amazing Flying Machine Competition
 held by the Science Centre. They will be introduced to the different forces
@@ -37,6 +45,10 @@ planes' performance. The course will culminate in a competition where students
 will showcase their best paper airplane designs.</p>
 <p><strong>Innovation Programme (Primary 5)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/APEX/APEX_3.jpg">
+</div>
 <p>In the Innovation Programme (IvP), students embark on a journey of problem-solving,
 tapping on their creativity. They begin by exploring the background of
 a real-world issue, gathering comprehensive data to understand its context.
@@ -51,8 +63,13 @@ valuable feedback and data to further enhance their creation. This entire
 process culminates in the presentation of a 3D prototype and a comprehensive
 slide deck, showcasing their innovative solution and the journey they took
 to arrive at it.</p>
+<p></p>
 <p><strong>Scientists-in-School Programme (Primary 6)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/APEX/APEX_4.jpg">
+</div>
 <p>
 <br>Under Dr. Zhou Jun's (A*Star) expert guidance, P6 APEX students have been
 delving into the captivating realm of artificial intelligence (AI). They
