@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Wellness.md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
@@ -13,6 +12,7 @@ collections:
       - Science.md
       - Character and Citizenship Education.md
       - Student Management.md
+      - Student Wellness.md
       - Infocomm Technology.md
       - Aesthetics Education.md
       - PE Education.md
