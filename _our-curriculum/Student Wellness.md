@@ -185,4 +185,72 @@ students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_4.png">
 </div>
+<p><strong>Coach:</strong> Our teachers act as coaches, guiding students through
+their learning journey. With a focus on support and guidance, they help
+students by providing encouragement and resources.</p>
+<p><strong>Counselor:</strong> Recognizing the importance of emotional well-being,
+our teachers also serve as counselors. They create a safe space for personal
+discussions where students can share their challenges and joys. By actively
+listening, they help students build emotional resilience and grow.</p>
+<p><strong>Cheerleader:</strong> Celebrating success is a big part of our
+culture. Our teachers act as cheerleaders, celebrating achievements and
+reinforcing positive behavior. By celebrating both big and small milestones,
+we help build students' confidence and create a positive environment for
+learning.</p>
+<p><em>Teacher Mentors (TM) in action</em>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image018.jpg">
+</div>
+<p>One of the many opportunities for teachers to mentor students is the daily
+Teacher-Student Relationship (TSR) time which helps our students start
+the day right. The time is dedicated to short activities that build bonds,
+small group mentoring, and Heart-to-Heart Talks, where form teachers connect
+with students through open and meaningful conversations. These interactions
+create connections that last beyond the classroom.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_5.png">
+</div>
+<p>Additionally, our students also look forward to group mentoring sessions
+led by CCA teachers. These sessions not only provide personalized guidance
+but also create an enjoyable atmosphere for students to connect with their
+peers and mentors. These sessions offer a supportive space for students
+to discuss challenges, set goals, and receive valuable advice on both academic
+and personal development. Our TM guide students in pursuing their passion
+projects and guide those interested in DSA. By combining mentorship with
+fun bonding activities, we foster a vibrant community where students feel
+supported, empowered, and connected to their peers and mentors.</p>
+<p><strong>Principle 4: Working Together</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_6.png">
+</div>
+<p>The school works in partnership with our parents and the community to
+support our students.</p>
+<p>Our teachers connect and work with parents to ensure every child feels
+seen, heard, and supported. Teachers tap on various class communication
+platforms to keep our students informed about their progress and successes.</p>
+<p>Our parents volunteer their time and effort to support school activities.
+This includes festive and commemorative events as well as recess art and
+science activities.</p>
+<p>Our community partners include A* Agency, Junior Achievement Singapore
+and Telok Blangah Community Club who support our teachers in various student
+programmes. We also have established partnerships with secondary schools
+and higher institutions to mentor and motivate our students during <a href="https://www.blangahrisepri.moe.edu.sg/departments/ccas/" rel="noopener noreferrer nofollow" target="_blank">CCA</a> as
+well as support our talent development efforts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_7.png">
+</div>
+<p>In our Blangahnite Family, every student matters, and every success is
+shared. Our parents and community partners share our belief that each child
+is like a treasure chest full of talents just waiting to be discovered.
+We make it a point to acknowledge and celebrate the individual strengths
+and talents of each student in our vibrant community. Whether it is a gift
+for creativity, a love for science, or a talent in sports, we take the
+time to uncover and honor the unique qualities that make each student stand
+out. With our hearts and hands joined, we ensure each child reaches their
+full potential and shines brightly.</p>
