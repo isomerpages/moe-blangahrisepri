@@ -16,7 +16,7 @@ four guiding principles that shape our commitment to student well-being:</p>
 </div>
 <p><strong>Principle 1: Total Wellness</strong>
 </p>
-<p><em>Nurturing a Healthy Body and a Curious Mind </em>
+<p><em>Nurturing a Healthy Body and a Curious Mind</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -84,7 +84,7 @@ learner, that is one who is able to balance his physical, mental, social
 and emotional well-being.</p>
 <p><strong>Principle 2: Every Student Matters</strong>
 </p>
-<p><em>Empowering Students </em>
+<p><em>Empowering Students</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -116,7 +116,7 @@ journalism as well as public speaking. Through these programs, students
 not only express themselves but also learn to listen to and respect the
 viewpoints of their peers, contributing to a more inclusive and vibrant
 school environment.</p>
-<p><em>Forging friendships </em>
+<p><em>Forging friendships</em>
 </p>
 <p>We create opportunities for students to form meaningful relationships
 with both their peers and teachers. The monthly Student Wellness Day is
@@ -125,4 +125,64 @@ encourage positive contributions to the class community but also foster
 a sense of connection and appreciation for the world around them. The experiences
 are design also to provide opportunities for our students to practice the
 7-habits and virtues they have learnt.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image008.jpg">
+</div>
+<p>As shared by Ms. Maddie Wong, during the morning exploration of the Garden
+of Hope, students engaged in relaxing walks while not only sharing their
+observations of plants and animals but also offering each other support
+and assistance along the way. These immersive experiences serve to not
+only promote well-being but also cultivate close bonds and long-lasting
+friendships among students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image019.jpg">
+</div>
+<p>As Alicia from Primary 2 beautifully expressed, "The Fukkuwarai game which
+we played during Student Wellness Day was fun! I learnt teamwork and active
+listening from the activity." Such firsthand experiences highlight the
+effectiveness of interactive and engaging activities in fostering not only
+academic growth but a lasting sense of camaraderie among students, enriching
+their school experience and fostering a supportive community spirit.</p>
+<p><em>Level Ambassadors: Advocates for Student Wellness</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_2.png">
+</div>
+<p>Our Level Ambassadors are more than just student leaders; they are dedicated
+advocates for student wellness. Equipped with empathy, trustworthiness,
+and patience, they undergo comprehensive training, both online and face-to-face,
+to fully understand their roles. These ambassadors play a vital part in
+fostering a sense of belonging and inclusivity within our school community,
+welcoming new students, befriending those who may feel excluded, and promoting
+a culture of care in every classroom and peer group.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_3.png">
+</div>
+<p></p>
+<p>Our Level Ambassadors actively help teachers in planning and conducting
+Student Wellness Day activities, garnering ideas from their classmates
+to ensure relevance and engagement. They take charge of conducting assembly
+talks, imparting practical handles to students on various topics such as
+cyber wellness and emotional well-being during exam periods. Additionally,
+they work with teachers to organize recess activities aimed at promoting
+wellness among students, such as cyber wellness pledge card writing, and
+activities that promote emotional and mental well-being. Through their
+dedication and proactive initiatives, our Level Ambassadors contribute
+significantly to creating a safe, inclusive, and supportive learning environment
+where every student can thrive.</p>
+<p><strong>Principle 3: Every Teacher a Mentor - Guiding, Supporting, and Celebrating Success      </strong>
+</p>
+<p>Our Teacher Mentoring Programme supports our efforts to promote the holistic
+well-being of our students. Every teacher is a mentor, guiding students
+through their personal growth journey. Our teachers wear multiple hats
+at our school, serving as coaches, counselors, and cheerleaders for our
+students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_4.png">
+</div>
 <p></p>
