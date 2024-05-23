@@ -56,9 +56,10 @@ their stories in front of the camera.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Viewpoints/Picture_2.png">
 </div>
-<p>BRavo! is an EL e-newsletter, written for students, by students in the
-APEX Writing programme. Students with a flair for debating are identified
-for EL APEX Debates. They deepen their debating skills under the guidance
-of coaches and take part in competitions.</p>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/files/Bravo/BRavo_4_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">BRavo!</a> is
+an EL e-newsletter, written for students, by students in the APEX Writing
+programme. Students with a flair for debating are identified for EL APEX
+Debates. They deepen their debating skills under the guidance of coaches
+and take part in competitions.</p>
 <p></p>
 <p></p>
