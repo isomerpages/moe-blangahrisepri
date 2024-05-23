@@ -188,11 +188,11 @@ environmental awareness and responsibility through engaging activities.</p>
 links:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a> 
+<p><a href="https://www.blangahrisepri.moe.edu.sg/2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/robotics-recycle-robot/" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a> 
+<p><a href="https://www.blangahrisepri.moe.edu.sg/robotics-recycle-robot/" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
 </li>
 <li>
@@ -205,29 +205,148 @@ with JA Singapore)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/alp%20-%206.jpg">
 </div>
-<p>Primary 6 students from APEX created simple games using the tools they
-have learnt from BBC micro:bit. Students also wrote programmes to create
-a step tracker using micro:bit’s accelerometer and onboard light sensor.
-Using HuskyLens - an easy to use AI machine vision sensor with 7 built-in
-functions, students learned in depth about the face recognition function
-which can detect any face contour, recognise and track the learned face.</p>
-<p><strong>ALP Competitions</strong>
+<p>Tier 2 students are identified for participation in the STEM Club and/or
+APEX program, where they receive specialised training in engineering-related
+learning activities (ERLA) and robotics. The program includes competitive
+events designed to develop creativity, critical thinking, problem-solving,
+and decision-making skills. Additionally, students benefit from learning
+journeys and mentorship opportunities.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/departments/ccas/stem/" rel="noopener noreferrer nofollow" target="_blank">STEM Club</a>
 </p>
-<p>Throughout the school year, students are encouraged to take part in competitions
-to further deepen their interest and passion in STEM. As some of these
-competitions are opened to all students in the school, every student has
-the opportunity to showcase their creativity and problem solving skills.</p>
-<p>“I learned more about aerodynamics principles like drag and thrust, and
-how to apply them to make planes go further.”</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marvell,
-Primary 4 Click <a href="/2023/03/30/singapore-amazing-flying-machine-competition-2023/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-read about our experience at the Singapore Amazing Flying Machine Competition.</p>
+</li>
+<li>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/" rel="noopener noreferrer nofollow" target="_blank">APEX</a>
+</p>
+</li>
+</ul>
+<p><strong>Competitions</strong>
+</p>
+<p><strong>STEM Champion (jointly organised with Parent Support Group)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/ALP Webpage/ALP_3.png">
+</div>
+<p>In 2024, with the enthusiastic support of our Parent Support Group (PSG),
+we introduced our STEM Champion Challenge. This program invites students
+to participate in termly sessions focused on collaborative, hands-on STEM
+activities. The challenges are designed to promote creative thinking, teamwork,
+and the application of core STEM concepts during recess.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/building-towers-and-teamwork/" rel="noopener noreferrer nofollow" target="_blank">STEM Champion</a> 
+</p>
+</li>
+</ul>
+<p><strong>STEM Challenge</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/alp%20-%207.jpg">
 </div>
-<p>Our P5 students participated in the STEM Playground Challenge organised
-by Science Centre Singapore in Term 1. For this challenge, students were
-tasked to build bridges that could hold at least five books using satay
-sticks.</p>
-<p>Click <a href="/2023/03/30/stem-playground-satay-stick-challenge/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-read about our submission for STEM Playground - Satay Stick Challenge.</p>
+<p>The school consistently participates in the biannual STEM Playground Challenge,
+a collaborative initiative organised by the Science Centre Singapore and
+the James Dyson Foundation. This program challenges students to engage
+in independent problem-solving through a series of STEM-based activities.
+School performance is evaluated based on two key metrics: student participation
+rates and social media engagement. The school achieved recognition as one
+of the top five primary schools in Singapore for demonstrating the highest
+student participation rate in the recent challenge.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/2023/03/30/stem-playground-satay-stick-challenge/" rel="noopener noreferrer nofollow" target="_blank">Satay Stick Bridge</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/p/CvPkF8LBemc/" rel="noopener noreferrer nofollow" target="_blank">Sea-Rious Challenger</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/stem-challenge/" rel="noopener noreferrer nofollow" target="_blank">Cotton Reel Tank</a>
+</p>
+</li>
+</ul>
+<p><strong>Partnerships</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/ALP Webpage/ALP_2.png">
+</div>
+<p>BRPS aims to enhance students' learning experiences by connecting them
+and educators with industry and community partners. This approach offers
+specialised programs, fosters collaboration, and creates a diverse learning
+environment to equip students with essential skills, knowledge, and real-world
+experiences critical for future-ready individuals.</p>
+<p><strong>A*Star Agency</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Scientist-in-School: Utilising micro:bits and Huskylens technology to
+develop a face recognition system in collaboration with A*Star.</p>
+</li>
+</ul>
+<p><strong>Junior Achievers (JA) Singapore</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Solar Buddy: Constructing solar-powered LED lights to share with children
+from developing countries.</p>
+</li>
+<li>
+<p>Fun with AR/VR: Addressing United Nations Sustainability Development Goals
+through augmented reality (AR) and virtual reality (VR) technologies.</p>
+</li>
+<li>
+<p>Cue Robots: Introducing basic programming concepts to selected students
+as an after-school enrichment programme.</p>
+</li>
+<li>
+<p>JA It's My Business: Cultivating entrepreneurship skills relevant to education,
+career development, and community service.</p>
+</li>
+</ul>
+<p><strong>Infocomm Media Development Authority (IMDA)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Code for Fun: Acquiring coding and computational thinking skills using
+visual/syntax-based programming and hardware.</p>
+</li>
+<li>
+<p>Social Robotics: Exploring artificial intelligence (AI) concepts, social
+robotics applications in various fields and developing community outreach
+projects.</p>
+</li>
+<li>
+<p>Drones Adventures: Acquiring advanced drone piloting skills and fundamental
+Python programming for autonomous flight.</p>
+</li>
+<li>
+<p>Game Development with MICROSOFT: Utilising Minecraft Education and Microsoft
+Makecode Arcade to create single and multiplayer games.</p>
+</li>
+</ul>
+<p><strong>School of Science and Technology (SST)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student Mentoring (Astronomy): Collaboration with SST students on designing
+and launching water rockets, observing the sun, and learning about telescopes.</p>
+</li>
+<li>
+<p>Student Mentoring (Programming): Learning about Python programming from
+SST students after school.</p>
+</li>
+</ul>
+<p><strong>Parent Support Group (PSG)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>STEM Champion: A termly three-day recess competition series focused on
+STEM activities.</p>
+</li>
+<li>
+<p>Science Demonstrations: A termly hands-on session for students to engage
+with STEM activities during recess.</p>
+</li>
+</ul>
+<p></p>
