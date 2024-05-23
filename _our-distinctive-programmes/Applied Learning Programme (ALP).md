@@ -235,7 +235,7 @@ activities. The challenges are designed to promote creative thinking, teamwork,
 and the application of core STEM concepts during recess.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/building-towers-and-teamwork/" rel="noopener noreferrer nofollow" target="_blank">STEM Champion</a> 
+<p><a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/building-towers-and-teamwork/" rel="noopener noreferrer nofollow" target="_blank">STEM Champion</a>
 </p>
 </li>
 </ul>
