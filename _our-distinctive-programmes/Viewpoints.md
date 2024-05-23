@@ -31,8 +31,16 @@ and learn basic news-reporting skills to convey facts and opinions.</p>
 critical thinking skills to present viewpoints to support a stand. Through
 intra and inter-class debates, most students get to pit their wits against
 one other on topics that are thought-provoking and relevant.</p>
-<p></p>
-<p></p>
+<p>Primary 4 to 6 students participate in the <a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/" rel="noopener noreferrer nofollow" target="_blank">Young Photographers programme</a>.
+They learn skills progressively to create and communicate stories through
+their lenses. From their photographs, the learning is extended into the
+language arena, as creative or poetry writing in EL or MTL.</p>
+<p>The <a href="https://www.blangahrisepri.moe.edu.sg/departments/ccas/mediakids/" rel="noopener noreferrer nofollow" target="_blank">Mediakids CCA</a> is
+a Tier 2 communication programme for students interested in photography.
+They acquire advanced skills through authentic photography experiences.
+Their writing skills are also augmented through training to express themselves
+through creative writing and poetry alongside their photography. The members
+of the MediaKids CCA are the official photographers for school events.</p>
 <p></p>
 <p></p>
 <p>Similarly, our primary 3 Chinese students come together to pen a level
