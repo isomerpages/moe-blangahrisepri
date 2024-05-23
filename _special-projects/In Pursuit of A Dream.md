@@ -20,6 +20,10 @@ the same passion and dedication witnessed within these pages.</p>
 representing Singapore at the 2024 Paris Olympics and Paralympics. May
 their commitment and dedication inspire the best in all of us.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/Dream.jpg">
+</div>
+<p></p>
 <p><strong>1. Online version of In Pursuit Of A Dream</strong>
 </p>
 <p><a href="https://online.fliphtml5.com/imxpa/irby/#p=1" rel="noopener noreferrer nofollow" target="_blank">https://online.fliphtml5.com/imxpa/irby/#p=1</a>
