@@ -2,83 +2,232 @@
 title: Applied Learning Programme (ALP)
 permalink: /our-distinctive-programmes/applied-learning-programme-alp/
 description: ""
+variant: tiptap
 ---
-![](/images/2023%20Photos/alp%20-%20banner.JPG)
-<h4 style="text-align: center;"><strong>Aspiring Confident Engineers (ACE) @ BRPS</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/alp%20-%20banner.JPG">
+</div>
+<h4><strong>Aspiring Confident Engineers (ACE) @ BRPS</strong></h4>
 <blockquote>
-<p style="text-align: center;"><span style="color: #000000;">"You cannot teach a man anything; you can only help him discover it in himself."</span></p>
-<p style="text-align: right;"><span style="color: #000000;"><em>-Galileo Galilei-</em></span></p>
+<p>"You cannot teach a man anything; you can only help him discover it in
+himself."</p>
+<p><em>-Galileo Galilei-</em>
+</p>
 </blockquote>
-<p>Our Applied Learning Programme (ALP), also known as&nbsp;<strong>Aspiring Confident Engineers (</strong><strong><em>ACE</em></strong><strong>) @ BRPS</strong>, anchors on STEM (Science, Technology, Engineering and Mathematics) Education to provide our students with opportunities to work on STEM-related projects. Students explore, investigate and ask questions through analysing problems and solving them through real world examples.</p>
+<p>Our Applied Learning Programme (ALP), also known as&nbsp;<strong>Aspiring Confident Engineers (<em>ACE</em>) @ BRPS</strong>,
+anchors on STEM (Science, Technology, Engineering and Mathematics) Education
+to provide our students with opportunities to work on STEM-related projects.
+Students explore, investigate and ask questions through analysing problems
+and solving them through real world examples.</p>
 <p>This programme aims to:</p>
-<ul>
-<li>leverage on STEM to create more meaningful and engaging activities that integrate engineering and technology in Mathematics and Science;</li>
-<li>build students’ enthusiasm in learning;</li>
-<li>promote 21<sup>st</sup>&nbsp;century skills ̶ critical thinking, decision-making, collaboration, communication, creativity; and</li>
-<li>inculcate values – resilience, learning from failure, respect, self-discipline.</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>leverage on STEM to create more meaningful and engaging activities that
+integrate engineering and technology in Mathematics and Science;</p>
+</li>
+<li>
+<p>build students’ enthusiasm in learning;</p>
+</li>
+<li>
+<p>promote 21<sup>st</sup>&nbsp;century skills ̶ critical thinking, decision-making,
+collaboration, communication, creativity; and</p>
+</li>
+<li>
+<p>inculcate values – resilience, learning from failure, respect, self-discipline.</p>
+</li>
 </ul>
-<p><strong>Process Cycle</strong></p>
-<p>The school uses the ‘Engineering Design Process’ in STEM lessons to provide structures for learning in order to scaffold children’s thinking. The process is adopted from the Engineering is Elementary (EiE) project that was developed by the Museum of Science in Boston.</p>
-<img src="/images/Capture-7.jpg">
-<p>The platforms for STEM activities include Robotics and Engineering-related Learning Activities (ERLA). Learning robotics provides students with hands-on opportunities to learn STEM concepts through creating their own robots and drawing connections to what they have learnt in the classrooms. It enables students to apply content knowledge and innovate in order to bridge the gap between key theoretical concepts and their real-world applications. Learning robots programming also becomes an opportunity for students to develop their linguistic and logical skills. It is a fun and simple way to get students exposed to basic engineering concepts at an early age.</p>
-
-![](/images/2023%20Photos/alp%20-%202a.jpg)
-
-![](/images/2023%20Photos/alp%20-%202b.jpg)
-
-<p>“It was fun making our own parachutes! I was excited to test if our parachutes worked!”</p>
-<p style="text-align: right;">Heidi, 2 Saphhire.</p>
-<p>Click&nbsp;<strong><a href="/departments/junior-primary/">here</a></strong>&nbsp;to read about our Primary 2 Engineering-related Learning Activity (ERLA).</p>
-
-![](/images/2023%20Photos/alp%20-%203.jpg)
-
-<p>“I enjoyed the P5 Robotics session as it challenged me to think of how to design a robot out of Lego to clean up the beach. We had to do research on how we wanted our robot to reduce water pollution and programming it with the use of an iPad to pick up trash. I felt that the project was very meaningful as beach pollution is a real-world issue faced by many countries!”</p>
-<p style="text-align: right;">Richie, 5 Sapphire</p>
-<p>Click&nbsp;<strong><a href="/2021/04/28/engineering-related-learning-activities-erla-and-robotics/">here</a></strong>&nbsp;to read about our Primary 5 Engineering-related Learning Activity (ERLA).
-	
-</p><p><strong>A Taste of Robotics &amp; Engineering for our Primary 1!</strong></p>
-<p>Click&nbsp;<strong><a href="/2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/">here</a></strong>&nbsp;to read about our Primary 1 Engineering-related Learning Activity (ERLA) and Robotics.</p>
-
-<p><strong>A tiered approach</strong></p>
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="111"><col width="231"><col width="261"></colgroup><tbody><tr style="height:30pt"><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Level</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Robotics</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">STEM-related Project Work</span></p></td></tr><tr style="height:30pt"><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P1</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">i-Discover:</span></p><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Let’s Build It! (integrated with KUBO)</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">i-Discover:</span></p><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Material Engineering</span></p></td></tr><tr style="height:30pt"><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P2</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">i-Discover:</span></p><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Let’s Move It! (integrated with LEGO EDUCATION SPIKE)</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">i-Discover:</span></p><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Material Engineering</span></p></td></tr><tr style="height:30pt"><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P3</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Let’s Cool It!</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Transport Engineering</span></p></td></tr><tr style="height:30pt"><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P4</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Let’s Recycle!</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Environmental Engineering</span></p></td></tr><tr style="height:30pt"><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P5</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Let’s Clean Up!</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Electrical Engineering</span></p></td></tr><tr style="height:30pt"><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P6</span></p></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;background-color:#9e9e9e;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><br></td><td style="border-left:solid #000000 0.6666667500000001pt;border-right:solid #000000 0.6666667500000001pt;border-bottom:solid #000000 0.6666667500000001pt;border-top:solid #000000 0.6666667500000001pt;vertical-align:top;padding:8pt 8pt 8pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-left: 15pt;margin-right: 15pt;margin-top:15pt;margin-bottom:33pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Green Engineering</span></p></td></tr></tbody></table>
-
-
-
-
-<p>ALP is structured in two tiers. Tier 1 is for all students and Tier 2 is for students who show greater aptitude and interest. For Tier 1, all students will be engaged in robotics and&nbsp;<em>engineering-related learning activities</em>-related (ERLA) project work as shown in Table 1 below. Students in Tier 2 are identified for STEM Club where they are involved in specialised training on&nbsp;<em>engineering-related learning activities</em>-related (ERLA) activities and robotics as well as participate in competitions in order to develop their creativity, critical thinking, problem-solving and decision-making skills. Learning journeys are organised to expose students to STEM. Robotics and ERLA activities are carried out in our discovery rooms - Da Vinci’s Workbench and Edison’s Hub.</p>
-
-Click [here](/departments/ccas/stem/) to find out more about our STEM Club.
-
-![](/images/2023%20Photos/alp%20-%204a.jpg)
-
-![](/images/2023%20Photos/alp%20-%204b.jpg)
-
-![](/images/2023%20Photos/alp%20-%204c.jpg)
-
-![](/images/2023%20Photos/alp%20-%204d.jpg)
-
-Using the thinking routine ‘See-Think-Wonder’, our APEX teachers led students through one of the activities that aligned with the school’s commemoration of Singapore World Water Day 2021. Students did their research on flooding in Singapore and how our government overcame the problem with the construction of Marina Barrage. Our students worked in pairs to create their own robotic floodgate and programmed it to model after the ones at Marina Barrage.
-
-![](/images/2023%20Photos/alp%20-%205a.jpeg)
-
-![](/images/2023%20Photos/alp%20-%205b.jpeg)
-
-Primary 6 students from APEX created simple games using the tools they have learnt from BBC micro:bit. Students also wrote programmes to create a step tracker using micro:bit’s accelerometer and onboard light sensor. Using HuskyLens - an easy to use AI machine vision sensor with 7 built-in functions, students learned in depth about the face recognition function which can detect any face contour, recognise and track the learned face.
-
-**ALP Competitions**
-
-![](/images/2023%20Photos/alp%20-%206.jpg)
-
-Throughout the school year, students are encouraged to take part in competitions to further deepen their interest and passion in STEM. As some of these competitions are opened to all students in the school, every student has the opportunity to showcase their creativity and problem solving skills.
-
-“I learned more about aerodynamics principles like drag and thrust, and how to apply them to make planes go further.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marvell, Primary 4
-																																													Click [here](/2023/03/30/singapore-amazing-flying-machine-competition-2023/) to read about our experience at the Singapore Amazing Flying Machine Competition.		
-																																													
-![](/images/2023%20Photos/alp%20-%207.jpg)		
-
-Our P5 students participated in the STEM Playground Challenge organised by Science Centre Singapore in Term 1. For this challenge, students were tasked to build bridges that could hold at least five books using satay sticks.
-
-Click [here](/2023/03/30/stem-playground-satay-stick-challenge/) to read about our submission for STEM Playground - Satay Stick Challenge.
+<p><strong>Process Cycle</strong>
+</p>
+<p>The school uses the ‘Engineering Design Process’ in STEM lessons to provide
+structures for learning in order to scaffold children’s thinking. The process
+is adopted from the Engineering is Elementary (EiE) project that was developed
+by the Museum of Science in Boston.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Capture-7.jpg">
+</div>
+<p>STEM activity platforms, specifically those dedicated to Robotics and
+Engineering-related Learning Activities (ERLA), offer valuable educational
+experiences. By constructing their own robots, students engage in hands-on
+applications of STEM principles, solidifying the connection between classroom
+theory and real-world implementation. This process fosters innovation as
+students seek to bridge the gap between theoretical concepts and their
+practical uses. Additionally, learning programming enhances linguistic
+and logical reasoning skills. Robotics-focused education provides an engaging
+and accessible introduction to fundamental engineering concepts at an early
+stage in student development.</p>
+<p><strong>A Tiered Approach</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/ALP Webpage/ALP_1.png">
+</div>
+<p>The Applied Learning Program (ALP) is designed based on a two-tiered structure.
+Tier 1 offers a comprehensive curriculum designed for all students. Tier
+2 provides advanced learning opportunities for those demonstrating exceptional
+aptitude and engagement in STEM disciplines. Specialised STEM activities
+are conducted within our dedicated discovery spaces: Da Vinci's Workbench
+and Edison's Hub.</p>
+<p><strong>Tier 1 - Robotics &amp; STEM-related Project Work</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/ALP Webpage/ALP_4.png">
+</div>
+<p>As part of the Tier 1 curriculum, all students will participate in project-based
+learning focused on robotics and engineering-related activities (ERLA).
+In collaboration with Junior Achievement (JA) Singapore, the school provides
+enriching learning experiences for students. Students will interact with
+industry professionals, exploring emerging trends and gaining valuable
+industry exposure. This partnership also emphasises the cultivation of
+environmental awareness and responsibility through engaging activities.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Robotics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>STEM-related Project Work</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>i-Discover:</p>
+<p>Let’s Move It!</p>
+<p>(integrated with KUBO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>i-Discover:</p>
+<p>Material Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>i-Discover:</p>
+<p>Let’s Move It! (integrated with LEGO EDUCATION SPIKE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>i-Discover:</p>
+<p>Material Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Let’s Cool It!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transport Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Let’s Recycle!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environmental Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AR / VR Coding</p>
+<p>(Collaboration with JA Singapore)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Electrical Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green Engineering</p>
+<p>(Collaboration with JA Singapore)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For more information on the various activities, please click on the following
+links:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a> 
+</p>
+</li>
+<li>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/robotics-recycle-robot/" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a> 
+</p>
+</li>
+<li>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/building-a-solar-buddy-motivation-camp-and-ja-singapore-partnership/" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a> (Collaboration
+with JA Singapore)</p>
+</li>
+</ul>
+<p><strong>Tier 2 - STEM Club &amp; APEX</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/alp%20-%206.jpg">
+</div>
+<p>Primary 6 students from APEX created simple games using the tools they
+have learnt from BBC micro:bit. Students also wrote programmes to create
+a step tracker using micro:bit’s accelerometer and onboard light sensor.
+Using HuskyLens - an easy to use AI machine vision sensor with 7 built-in
+functions, students learned in depth about the face recognition function
+which can detect any face contour, recognise and track the learned face.</p>
+<p><strong>ALP Competitions</strong>
+</p>
+<p>Throughout the school year, students are encouraged to take part in competitions
+to further deepen their interest and passion in STEM. As some of these
+competitions are opened to all students in the school, every student has
+the opportunity to showcase their creativity and problem solving skills.</p>
+<p>“I learned more about aerodynamics principles like drag and thrust, and
+how to apply them to make planes go further.”</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marvell,
+Primary 4 Click <a href="/2023/03/30/singapore-amazing-flying-machine-competition-2023/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+read about our experience at the Singapore Amazing Flying Machine Competition.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/alp%20-%207.jpg">
+</div>
+<p>Our P5 students participated in the STEM Playground Challenge organised
+by Science Centre Singapore in Term 1. For this challenge, students were
+tasked to build bridges that could hold at least five books using satay
+sticks.</p>
+<p>Click <a href="/2023/03/30/stem-playground-satay-stick-challenge/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+read about our submission for STEM Playground - Satay Stick Challenge.</p>
