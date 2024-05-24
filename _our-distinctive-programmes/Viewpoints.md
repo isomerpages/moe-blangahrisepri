@@ -2,27 +2,64 @@
 title: Viewpoints
 permalink: /viewpoints/
 description: ""
+variant: tiptap
 ---
-<p><strong>Introducing&nbsp;<em>Viewpoints</em>!</strong></p>
-<p><em>Lights, camera, action!</em></p>
-<p>After weeks of preparation, our Primary 3 Blangahnites were ready to show off their presenting chops in front of the camera. Still a little jittery about presenting in front of a camera, they pulled their courage together and presented their scripts, which introduced their favorite places in school such as the eco-pond and the school field. This special part of their English Language classes is part of BRPS&rsquo;s unique<strong><em>&nbsp;Viewpoints</em>&nbsp;</strong>programme.</p>
-<p><em>Viewpoints&nbsp;</em>is BRPS&rsquo;s very own journalism programme, designed to promote 21<sup>st</sup>&nbsp;century competencies such as communication and collaboration skills, technology and civic literacy as well as critical thinking skills.&nbsp;<em>Viewpoints</em>&nbsp;leverages on journalism as a central idea to also help students improve their language skills holistically in the English and Mother Tongue Languages, as it provides a natural platform for the practice of the four key language skills &ndash; listening, speaking, reading and writing.</p>
-<p>To this end,&nbsp;<em>Viewpoints</em>&nbsp;taps on department programmes from the English Language Department, Mother Tongue Language Department, and Young Photographers programme to enhance language skills and deliver an authentic learning experience for all students through Print, Broadcast, and Photo journalism. Amongst these offerings, some programmes are targeted at all students, while others at our High Ability Learners.</p>
-<p><strong>A general programme for students</strong></p>
-<p>As part of our English Language Department&rsquo;s Oracy Programmes, all Middle Primary students attend a Broadcast Journalism module, which aims to build students&rsquo; confidence in presentation. Our students go through training to present in front of the camera, including practising verbal and non-verbal cues of confidence. They then script their presentations and present their lines in front of the camera with confidence. Watch the video starring our Primary 3 students below!</p><center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/lWKBZPWIADk" title="Our favourite places in school!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-<p>Similarly, our primary 3 Chinese students come together to pen a level newsletter for their Mother Tongue classes, where they learn to basic news-reporting skills and to convey facts and opinions.</p>
-<p>Through our Young Photographers programme, all students are equipped with valuable skills to create and communicate stories through their lenses. From their photographic products, the learning is then extended into the language arena, as creative or poetry writing in the English or Mother Tongue languages.</p>
-<img src="/images/awt.jpg">
-<p><strong>Deeping the learning for our High Ability Learners</strong></p>
-<p>High Ability Learners of the English and Mother Tongue Languages are also selected for our Accelerated Programme to Enhance students&rsquo; eXperience (APEX), and Chinese Junior Reporter programme respectively, where we further impart the craft of journalism to them.</p>
-<p>Under the Chinese Junior Reporters Programme, students are equipped with basic news-reporting skills and play the role of a junior reporter to conduct interviews and write news reports. Students are also given opportunities to act as a columnist to tell their personal stories and express their opinions. Click&nbsp;<strong><a href="/2020/11/11/chinese-junior-reporters-dian-dian-di-di-vol-2-2020/">here</a></strong>&nbsp;to read our Dian Dian Di Di student newsletter, and watch one of the videos produced by our Chinese Junior Reports below!</p>
-<img style="width: 60%;" src="/images/Dian-Dian-Di-Di-1.jpg">
-<br><center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/1QXlpIo1TJ8" title="House Practice Video with English subtitles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-<p>English APEX offers a platform for our High Ability Learners of English to come together to brainstorm content and pen their very own student newsletter. BRavo! Is our BRPS student e-newsletter, written for students, by students. Guided by Mr Roger Jenkins, a renowned Singaporean storyteller and drama coach, our English APEX students shared tips on surviving HBL, lessons learnt from Covid-19, anecdotes of their fondest memories of the unprecedented year and creative acoustic poems of a pandemic. Read the first issue of BRavo!&nbsp;<strong><a href="/files/BRAVO_final_13Jan2020_FINAL-1.pdf">here</a></strong>!</p>
-<img style="width: 60%;" src="/images/Bravo-1.png">
-<p>Finally, a special cadre of young photographers also continue to deepen their photography skills at the MediaKids CCA. Through the CCA, they acquire advanced skills through authentic photography experiences. Their writing skills are also augmented through training to express themselves through creative writing and poetry alongside their photography. The MediaKids are the official photographers for school events and even national events such as the Singapore Youth Festival. Visit our Young Photographers’ webpage<a href="/our-distinctive-programmes/young-photographers/"><strong>here</strong></a> and MediaKids’ webpage<a href="/departments/ccas/mediakids/"><strong>here</strong></a> to view our works.</p>
-<img style="width: 60%;" src="/images/Jayden.png">
-<p>Photos taken by our Blangahnites are also captured in our school and student publications such as&nbsp;<strong><a href="/2021/02/02/here-comes-the-storm-now-our-covid-19-diary/">Here Comes the Storm Now: Our Covid-19 Diary</a></strong>&nbsp;and our student newsletters, Dian Dian Di Di and BRavo!</p>
-<p><strong>[The videos were recorded with prevailing Safe Management Measures in place.]</strong></p>
+<p><strong>Viewpoints: Empowering our Blangahnites!</strong>
+</p>
+<p>Viewpoints, a tiered modular communication programme, brings out the critical
+writer, confident debater, creative photographer, and conscientious journalist
+in every Blangahnite!</p>
+<p>Viewpoints promotes 21st century competencies such as civic literacy,
+communication, collaboration, and critical thinking skills. Students are
+empowered to express their viewpoints in written, and verbal form - from
+newsletters, photographs to news broadcasts and debates.</p>
+<p>All students benefit from Tier 1 English (EL) and Mother Tongue (MTL)
+communication programmes that enhance language skills and design authentic
+learning experiences through Photo, Print and Broadcast journalism.</p>
+<p>Broadcast journalism equips the middle primary students with script writing
+and presentation skills. They present their scripts in front of the camera
+with confidence. In addition, in the MTL programme, they pen a level newsletter,
+and learn basic news-reporting skills to convey facts and opinions.</p>
+<div class="iframe-wrapper">
+<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lWKBZPWIADk"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Viewpoints/IMG_4055___SELECTED.jpg">
+</div>
+<p>The EL debating programme equips upper primary students with oracy and
+critical thinking skills to present viewpoints to support a stand. Through
+intra and inter-class debates, most students get to pit their wits against
+one other on topics that are thought-provoking and relevant.</p>
+<p>Primary 4 to 6 students participate in the <a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/" rel="noopener noreferrer nofollow" target="_blank">Young Photographers programme</a>.
+They learn skills progressively to create and communicate stories through
+their lenses. From their photographs, the learning is extended into the
+language arena, as creative or poetry writing in EL or MTL.</p>
+<p>The <a href="https://www.blangahrisepri.moe.edu.sg/departments/ccas/mediakids/" rel="noopener noreferrer nofollow" target="_blank">Mediakids CCA</a> is
+a Tier 2 communication programme for students interested in photography.
+They acquire advanced skills through authentic photography experiences.
+Their writing skills are also augmented through training to express themselves
+through creative writing and poetry alongside their photography. The members
+of the MediaKids CCA are the official photographers for school events.</p>
+<p>The EL and MTL Accelerated Programmes to Enhance students’ eXperience
+(APEX) are Tier 3 communication programmes for specially selected High
+Ability Learners.</p>
+<p>Students in the APEX <a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/chinese-junior-reporters/" rel="noopener noreferrer nofollow" target="_blank">Chinese Junior Reporters Programme</a> conduct
+interviews and write reports on school events. They act as columnists to
+tell their personal stories and express their opinions as well as report
+their stories in front of the camera.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Viewpoints/VPoint.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Viewpoints/Picture_2.png">
+</div>
+<p><a href="https://www.blangahrisepri.moe.edu.sg/files/Bravo/BRavo_4_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">BRavo!</a> is
+an EL e-newsletter, written for students, by students in the APEX Writing
+programme. Students with a flair for debating are identified for EL APEX
+Debates. They deepen their debating skills under the guidance of coaches
+and take part in competitions.</p>
+<p></p>
+<p></p>
