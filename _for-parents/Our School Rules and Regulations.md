@@ -4,6 +4,10 @@ permalink: /parent-support-group/our-school-rules-and-regulations/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Rules &amp; Regulations/Option_1.jpg">
+</div>
 <p>A) Attire and Appearance</p>
 <p><strong>1. Uniform<br></strong>
 </p>
