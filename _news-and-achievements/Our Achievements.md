@@ -79,10 +79,7 @@ Ong Han Hua (4 Topaz)</p>
 <p></p>
 </li>
 </ul>
-</li>
-<li>
-<p><strong>2023</strong>
-</p>
+<h4><strong>2023</strong></h4>
 <ul>
 <li>
 <p>Green Schools at South West 2023 - Three stars</p>
