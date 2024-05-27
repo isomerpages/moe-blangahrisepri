@@ -81,8 +81,19 @@ by cutting-edge technology, fostering a culture of innovation and exploration!</
 <p>Click <a href="https://www.blangahrisepri.moe.edu.sg/scientist-in-school-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 read more.</p>
 <p>
-<br>
+<br><strong>Broadcast Journalism</strong>
 </p>
+<p>In alignment with our commitment to foster 21st-century competencies and
+further develop the talents and proficiencies of our students, the English
+Department conducted a Broadcast Journalism module as part of its Oracy
+Package for Primary 3 and 4 students. The primary objective of this programme
+was to enrich the oracy skills of our students through immersive learning
+experiences and hands-on practice.</p>
+<p>Throughout the programme, students acquired valuable presentation skills,
+including effective verbal and non-verbal communication techniques, and
+the ability to speak with confidence, incorporating voice projection, clear
+articulation, and intonation.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
