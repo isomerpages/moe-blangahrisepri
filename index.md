@@ -24,27 +24,21 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Join us at our Open House on 25 May 2024!
-      button: Read More
-      alt: Image alt text
-      url: /blangah-rise-primary-school-open-house-2024/
-      image: /images/2024 Photos/Open House/Open_House_Poster.jpg
-  - infopic:
-      title: " 23rd Inter-School National Scrabble Championship, 2024"
+      title: 23rd Inter-School National Scrabble Championship, 2024
       subtitle: HIGHLIGHTS
       button: Click here to read more
       alt: Image alt text
       image: /images/2024 Photos/Scrabble/IMG_0762.jpg
       url: /23rd-inter-school-national-scrabble-championship-2024/
-      description: "Our students had the opportunity to apply English Language in an
+      description: Our students had the opportunity to apply English Language in an
         authentic platform through the 23rd Inter-School National Scrabble
-        Championship. "
+        Championship.
   - infopic:
       title: Piala Cendekia 2024
       subtitle: HIGHLIGHTS
       id: infopic
-      description: "Our Primary 5 students participated in the Atur Cara Sahibba
-        (Malay Scrabble) Competition on 18 May. "
+      description: Our Primary 5 students participated in the Atur Cara Sahibba (Malay
+        Scrabble) Competition on 18 May.
       button: CLICK HERE TO READ MORE
       alt: Image alt text
       url: /piala-cendekia-2024/
@@ -55,9 +49,8 @@ sections:
       url: /robotics-for-primary-3-students/
       alt: Image alt text
       image: /images/2024 Photos/Robotics 2/Photo_1.jpg
-      description: "Our Primary 3 students recently embarked on a thrilling 5-session
-        adventure in the \"Let's Keep Cool!\" Robotics programme in Week 9 and
-        10. "
+      description: Our Primary 3 students recently embarked on a thrilling 5-session
+        adventure in the "Let's Keep Cool!" Robotics programme in Week 9 and 10.
       subtitle: HIGHLIGHTS
   - infopic:
       title: BRPS Parenting Workshop 2024
@@ -68,6 +61,14 @@ sections:
       description: 'We organised a parenting workshop titled "Internet Addiction: How
         to Prevent or Help Our Children Overcome It?"'
       subtitle: HIGHLIGHTS
+  - infopic:
+      title: Primary Four Mother Tongue Language Camp
+      button: Read More
+      alt: Image alt text
+      url: /primary-four-mother-tongue-language-camp/
+      image: /images/2024 Photos/P4 MTL Camp/CL_Pic_5_1_Bean_Portrait.jpg
+      description: Our school recently organised a Primary 4 Mother Tongue Language
+        Camp on 24th April for our Primary 4 students.
   - resources:
       title: Publications
       button: Click here to see more
