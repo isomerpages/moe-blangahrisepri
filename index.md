@@ -30,6 +30,36 @@ sections:
       url: /blangah-rise-primary-school-open-house-2024/
       image: /images/2024 Photos/Open House/Open_House_Poster.jpg
   - infopic:
+      title: " 23rd Inter-School National Scrabble Championship, 2024"
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2024 Photos/Scrabble/IMG_0762.jpg
+      url: /23rd-inter-school-national-scrabble-championship-2024/
+      description: "Our students had the opportunity to apply English Language in an
+        authentic platform through the 23rd Inter-School National Scrabble
+        Championship. "
+  - infopic:
+      title: Piala Cendekia 2024
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: "Our Primary 5 students participated in the Atur Cara Sahibba
+        (Malay Scrabble) Competition on 18 May. "
+      button: CLICK HERE TO READ MORE
+      alt: Image alt text
+      url: /piala-cendekia-2024/
+      image: /images/2024 Photos/Malay Scrabble /Pic_1.jpg
+  - infopic:
+      title: Robotics for Primary 3 Students
+      button: Click Here to read more
+      url: /robotics-for-primary-3-students/
+      alt: Image alt text
+      image: /images/2024 Photos/Robotics 2/Photo_1.jpg
+      description: "Our Primary 3 students recently embarked on a thrilling 5-session
+        adventure in the \"Let's Keep Cool!\" Robotics programme in Week 9 and
+        10. "
+      subtitle: HIGHLIGHTS
+  - infopic:
       title: BRPS Parenting Workshop 2024
       button: READ MORE
       url: /brps-parenting-workshop-2024/
@@ -37,34 +67,6 @@ sections:
       alt: Image alt text
       description: 'We organised a parenting workshop titled "Internet Addiction: How
         to Prevent or Help Our Children Overcome It?"'
-      subtitle: HIGHLIGHTS
-  - infopic:
-      title: Primary Four Mother Tongue Language Camp
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2024 Photos/P4 MTL Camp/CL_Pic_5_1_Bean_Portrait.jpg
-      url: /primary-four-mother-tongue-language-camp/
-      description: Our school recently organised a Primary 4 Mother Tongue Language
-        Camp on 24th April for our Primary 4 students.
-  - infopic:
-      title: Storytelling at library@harbourfront
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: On 27 April, our Student Leaders brought our latest e-book come
-        alive at library@harbourfront with their eloquence and confidence.
-      button: CLICK HERE TO READ MORE
-      alt: Image alt text
-      url: /storytelling-at-library-harbourfront-friends-of-berlayer-creek-the-last-garden/
-      image: /images/2024 Photos/Storytelling   The Last Garden/IMG_4544___banner.jpg
-  - infopic:
-      title: ‘Scientist-in-School’ Programme
-      button: Click Here to read more
-      url: /scientist-in-school-programme/
-      alt: Image alt text
-      image: /images/2024 Photos/Scientist School Program/P3.jpg
-      description: We participated in the Scientist-in-School programme, an initiative
-        organised by the Ministry of Education (MOE) of Singapore.
       subtitle: HIGHLIGHTS
   - resources:
       title: Publications
