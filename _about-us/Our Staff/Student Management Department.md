@@ -5,10 +5,14 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-<img src="/images/image15.jpg">
+
+![](/images/2024%20Photos/SM%20/SM_Team_2024.jpg)
 
 **ROW 1 (FRONT):** <br>
-Mrs Chan, Mr Chua Kah Hern, Ms Lee Sok Lai, Mr Muhammad Salim Ahmad Jamil&nbsp;, Mr Victor Lim, Ms Ivy Teo, Ms Munirah Binte Talat Mahmood
+Mr Muhd Salim Ahmad Jamil, Mrs Jenny Quek, Mdm Noor Sa’adah Mas’od, Mdm Tan Guat Khim, Ms Ivy Teo
 
-**ROW 2 (BACK):** <br>
-Ms Yanti Rahim, Ms Esther Teo, Ms Usha Rani, Mdm Noor Sa’adah Binte Mas’od, Ms Sharon Teo, Ms Genevieve Thong, Ms Junaidah Begam, Ms Chermaine Chua, Ms Syikin, Mrs Grace Lee
+**ROW 2 (MID):** <br>
+Ms Anjanaa Sankar, Mdm Kimberly Koh, Mr Patrick Goh, Mdm Stephanie Song, Ms Yanti Rahim
+
+**ROW 3 (BACK):** <br>
+Mr Muhd Salim Ahmad Jamil, Mrs Jenny Quek, Mdm Noor Sa’adah Mas’od, Mdm Tan Guat Khim, Ms Ivy Teo
