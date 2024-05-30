@@ -46,11 +46,12 @@ sections:
   - infopic:
       title: Robotics for Primary 3 Students
       button: Click Here to read more
-      url: /robotics-for-primary-3-students/
+      url: https://blangahrisepri.moe.edu.sg/learning-journey-to-ngee-ann-polytechnic/
       alt: Image alt text
-      image: /images/2024 Photos/Robotics 2/Photo_1.jpg
-      description: Our Primary 3 students recently embarked on a thrilling 5-session
-        adventure in the "Let's Keep Cool!" Robotics programme in Week 9 and 10.
+      image: /images/2024 Photos/Ngee Ann
+        Poly/WhatsApp_Image_2024_05_21_at_8_30_31_AM__1_.jpg
+      description: "Our Primary 3 students had an amazing experience at Ngee Ann
+        Polytechnic - School of Film and Media Studies! "
       subtitle: HIGHLIGHTS
   - infopic:
       title: Jewel Youth Floral Cup 2024
