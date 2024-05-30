@@ -31,7 +31,7 @@ sections:
         spaces from the comfort of your home.
       button: CLICK HERE TO READ MORE
       alt: Image alt text
-      url: /piala-cendekia-2024/
+      url: https://blangahrisepri.moe.edu.sg/school-virtual-tour/
       image: /images/2024 Photos/Highlight/School_Virtual_Tour.jpg
   - infopic:
       title: 23rd Inter-School National Scrabble Championship, 2024
