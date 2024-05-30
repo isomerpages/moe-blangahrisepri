@@ -44,14 +44,14 @@ sections:
       url: /piala-cendekia-2024/
       image: /images/2024 Photos/Malay Scrabble /Pic_1.jpg
   - infopic:
-      title: Robotics for Primary 3 Students
+      title: Learning Journey to Ngee Ann Polytechnic
       button: Click Here to read more
       url: https://blangahrisepri.moe.edu.sg/learning-journey-to-ngee-ann-polytechnic/
       alt: Image alt text
       image: /images/2024 Photos/Ngee Ann
         Poly/WhatsApp_Image_2024_05_21_at_8_30_31_AM__1_.jpg
-      description: "Our Primary 3 students had an amazing experience at Ngee Ann
-        Polytechnic - School of Film and Media Studies! "
+      description: Our Primary 3 students had an amazing experience at Ngee Ann
+        Polytechnic - School of Film and Media Studies!
       subtitle: HIGHLIGHTS
   - infopic:
       title: Jewel Youth Floral Cup 2024
