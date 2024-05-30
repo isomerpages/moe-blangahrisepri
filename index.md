@@ -62,13 +62,14 @@ sections:
         to Prevent or Help Our Children Overcome It?"'
       subtitle: HIGHLIGHTS
   - infopic:
-      title: Primary Four Mother Tongue Language Camp
+      title: In Pursuit of A Dream
       button: Read More
       alt: Image alt text
-      url: /primary-four-mother-tongue-language-camp/
-      image: /images/2024 Photos/P4 MTL Camp/CL_Pic_5_1_Bean_Portrait.jpg
-      description: Our school recently organised a Primary 4 Mother Tongue Language
-        Camp on 24th April for our Primary 4 students.
+      url: https://blangahrisepri.moe.edu.sg/in-pursuit-of-a-dream/
+      image: /images/2024 Photos/Highlight/IMG_5191.jpg
+      description: "The Singapore National Paralympic Council hosted a heartwarming
+        Meet and Greet session that brought together our Paralympians, student
+        artists, and MediaKids. "
   - resources:
       title: Publications
       button: Click here to see more
