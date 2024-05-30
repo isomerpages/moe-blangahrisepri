@@ -24,6 +24,16 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: School Virtual Tour
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Experience our school's vibrant community and innovative learning
+        spaces from the comfort of your home.
+      button: CLICK HERE TO READ MORE
+      alt: Image alt text
+      url: /piala-cendekia-2024/
+      image: /images/2024 Photos/Highlight/School_Virtual_Tour.jpg
+  - infopic:
       title: 23rd Inter-School National Scrabble Championship, 2024
       subtitle: HIGHLIGHTS
       button: Click here to read more
@@ -33,16 +43,6 @@ sections:
       description: Our students had the opportunity to apply English Language in an
         authentic platform through the 23rd Inter-School National Scrabble
         Championship.
-  - infopic:
-      title: Piala Cendekia 2024
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Our Primary 5 students participated in the Atur Cara Sahibba (Malay
-        Scrabble) Competition on 18 May.
-      button: CLICK HERE TO READ MORE
-      alt: Image alt text
-      url: /piala-cendekia-2024/
-      image: /images/2024 Photos/Malay Scrabble /Pic_1.jpg
   - infopic:
       title: Learning Journey to Ngee Ann Polytechnic
       button: Click Here to read more
