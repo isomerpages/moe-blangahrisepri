@@ -34,15 +34,23 @@ sections:
       url: https://blangahrisepri.moe.edu.sg/school-virtual-tour/
       image: /images/2024 Photos/Highlight/School_Virtual_Tour.jpg
   - infopic:
-      title: 23rd Inter-School National Scrabble Championship, 2024
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
+      title: In Pursuit of A Dream
+      button: Read More
       alt: Image alt text
-      image: /images/2024 Photos/Scrabble/IMG_0762.jpg
-      url: /23rd-inter-school-national-scrabble-championship-2024/
-      description: Our students had the opportunity to apply English Language in an
-        authentic platform through the 23rd Inter-School National Scrabble
-        Championship.
+      url: https://blangahrisepri.moe.edu.sg/in-pursuit-of-a-dream/
+      image: /images/2024 Photos/Highlight/IMG_5191.jpg
+      description: The Singapore National Paralympic Council hosted a heartwarming
+        Meet and Greet session that brought together our Paralympians, student
+        artists, and MediaKids.
+  - infopic:
+      title: Jewel Youth Floral Cup 2024
+      button: READ MORE
+      url: https://blangahrisepri.moe.edu.sg/jewel-youth-floral-cup-2024/
+      image: /images/2024 Photos/Jewel/College.jpg
+      alt: Image alt text
+      description: Well done to the 12 students who participated in Jewel Youth Floral
+        Cup 2024 at Jewel Changi Airport on 24 May 2024.
+      subtitle: HIGHLIGHTS
   - infopic:
       title: Learning Journey to Ngee Ann Polytechnic
       button: Click Here to read more
@@ -54,23 +62,15 @@ sections:
         Polytechnic - School of Film and Media Studies!
       subtitle: HIGHLIGHTS
   - infopic:
-      title: Jewel Youth Floral Cup 2024
-      button: READ MORE
-      url: https://blangahrisepri.moe.edu.sg/jewel-youth-floral-cup-2024/
-      image: /images/2024 Photos/Jewel/College.jpg
-      alt: Image alt text
-      description: Well done to the 12 students who participated in Jewel Youth Floral
-        Cup 2024 at Jewel Changi Airport on 24 May 2024.
+      title: 23rd Inter-School National Scrabble Championship, 2024
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: In Pursuit of A Dream
-      button: Read More
+      button: Click here to read more
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/in-pursuit-of-a-dream/
-      image: /images/2024 Photos/Highlight/IMG_5191.jpg
-      description: The Singapore National Paralympic Council hosted a heartwarming
-        Meet and Greet session that brought together our Paralympians, student
-        artists, and MediaKids.
+      image: /images/2024 Photos/Scrabble/IMG_0762.jpg
+      url: /23rd-inter-school-national-scrabble-championship-2024/
+      description: Our students had the opportunity to apply English Language in an
+        authentic platform through the 23rd Inter-School National Scrabble
+        Championship.
   - resources:
       title: Publications
       button: Click here to see more
