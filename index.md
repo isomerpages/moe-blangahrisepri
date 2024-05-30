@@ -53,13 +53,13 @@ sections:
         adventure in the "Let's Keep Cool!" Robotics programme in Week 9 and 10.
       subtitle: HIGHLIGHTS
   - infopic:
-      title: BRPS Parenting Workshop 2024
+      title: Jewel Youth Floral Cup 2024
       button: READ MORE
-      url: /brps-parenting-workshop-2024/
-      image: /images/2024 Photos/Parents Workshop/BRPS_PW_Pic_1.jpg
+      url: https://blangahrisepri.moe.edu.sg/jewel-youth-floral-cup-2024/
+      image: /images/2024 Photos/Jewel/College.jpg
       alt: Image alt text
-      description: 'We organised a parenting workshop titled "Internet Addiction: How
-        to Prevent or Help Our Children Overcome It?"'
+      description: Well done to the 12 students who participated in Jewel Youth Floral
+        Cup 2024 at Jewel Changi Airport on 24 May 2024.
       subtitle: HIGHLIGHTS
   - infopic:
       title: In Pursuit of A Dream
@@ -67,9 +67,9 @@ sections:
       alt: Image alt text
       url: https://blangahrisepri.moe.edu.sg/in-pursuit-of-a-dream/
       image: /images/2024 Photos/Highlight/IMG_5191.jpg
-      description: "The Singapore National Paralympic Council hosted a heartwarming
+      description: The Singapore National Paralympic Council hosted a heartwarming
         Meet and Greet session that brought together our Paralympians, student
-        artists, and MediaKids. "
+        artists, and MediaKids.
   - resources:
       title: Publications
       button: Click here to see more
