@@ -24,6 +24,44 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: School Virtual Tour
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Experience our school's vibrant community and innovative learning
+        spaces from the comfort of your home.
+      button: CLICK HERE TO READ MORE
+      alt: Image alt text
+      url: https://blangahrisepri.moe.edu.sg/school-virtual-tour/
+      image: /images/2024 Photos/Highlight/School_Virtual_Tour.jpg
+  - infopic:
+      title: In Pursuit of A Dream
+      button: Read More
+      alt: Image alt text
+      url: https://blangahrisepri.moe.edu.sg/in-pursuit-of-a-dream/
+      image: /images/2024 Photos/Highlight/IMG_5191.jpg
+      description: The Singapore National Paralympic Council hosted a heartwarming
+        Meet and Greet session that brought together our Paralympians, student
+        artists, and MediaKids.
+  - infopic:
+      title: Jewel Youth Floral Cup 2024
+      button: READ MORE
+      url: https://blangahrisepri.moe.edu.sg/jewel-youth-floral-cup-2024/
+      image: /images/2024 Photos/Jewel/College.jpg
+      alt: Image alt text
+      description: Well done to the 12 students who participated in Jewel Youth Floral
+        Cup 2024 at Jewel Changi Airport on 24 May 2024.
+      subtitle: HIGHLIGHTS
+  - infopic:
+      title: Learning Journey to Ngee Ann Polytechnic
+      button: Click Here to read more
+      url: https://blangahrisepri.moe.edu.sg/learning-journey-to-ngee-ann-polytechnic/
+      alt: Image alt text
+      image: /images/2024 Photos/Ngee Ann
+        Poly/WhatsApp_Image_2024_05_21_at_8_30_31_AM__1_.jpg
+      description: Our Primary 3 students had an amazing experience at Ngee Ann
+        Polytechnic - School of Film and Media Studies!
+      subtitle: HIGHLIGHTS
+  - infopic:
       title: 23rd Inter-School National Scrabble Championship, 2024
       subtitle: HIGHLIGHTS
       button: Click here to read more
@@ -33,42 +71,6 @@ sections:
       description: Our students had the opportunity to apply English Language in an
         authentic platform through the 23rd Inter-School National Scrabble
         Championship.
-  - infopic:
-      title: Piala Cendekia 2024
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Our Primary 5 students participated in the Atur Cara Sahibba (Malay
-        Scrabble) Competition on 18 May.
-      button: CLICK HERE TO READ MORE
-      alt: Image alt text
-      url: /piala-cendekia-2024/
-      image: /images/2024 Photos/Malay Scrabble /Pic_1.jpg
-  - infopic:
-      title: Robotics for Primary 3 Students
-      button: Click Here to read more
-      url: /robotics-for-primary-3-students/
-      alt: Image alt text
-      image: /images/2024 Photos/Robotics 2/Photo_1.jpg
-      description: Our Primary 3 students recently embarked on a thrilling 5-session
-        adventure in the "Let's Keep Cool!" Robotics programme in Week 9 and 10.
-      subtitle: HIGHLIGHTS
-  - infopic:
-      title: BRPS Parenting Workshop 2024
-      button: READ MORE
-      url: /brps-parenting-workshop-2024/
-      image: /images/2024 Photos/Parents Workshop/BRPS_PW_Pic_1.jpg
-      alt: Image alt text
-      description: 'We organised a parenting workshop titled "Internet Addiction: How
-        to Prevent or Help Our Children Overcome It?"'
-      subtitle: HIGHLIGHTS
-  - infopic:
-      title: Primary Four Mother Tongue Language Camp
-      button: Read More
-      alt: Image alt text
-      url: /primary-four-mother-tongue-language-camp/
-      image: /images/2024 Photos/P4 MTL Camp/CL_Pic_5_1_Bean_Portrait.jpg
-      description: Our school recently organised a Primary 4 Mother Tongue Language
-        Camp on 24th April for our Primary 4 students.
   - resources:
       title: Publications
       button: Click here to see more
