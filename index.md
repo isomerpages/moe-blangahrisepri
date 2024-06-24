@@ -39,7 +39,7 @@ sections:
       button: Click here to read more
       alt: Image alt text
       image: /images/Announcements/mr foo.JPG
-      url: /23rd-inter-school-national-scrabble-championship-2024/
+      url: /principal-s-june-letter-2024/
   - infopic:
       title: In Pursuit of A Dream
       button: Read More
