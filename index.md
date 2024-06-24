@@ -34,6 +34,13 @@ sections:
       url: https://blangahrisepri.moe.edu.sg/school-virtual-tour/
       image: /images/2024 Photos/Highlight/School_Virtual_Tour.jpg
   - infopic:
+      title: Principal's June Letter 2024
+      subtitle: ANNOUNCEMENTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/Announcements/mr foo.JPG
+      url: /23rd-inter-school-national-scrabble-championship-2024/
+  - infopic:
       title: In Pursuit of A Dream
       button: Read More
       alt: Image alt text
@@ -61,16 +68,6 @@ sections:
       description: Our Primary 3 students had an amazing experience at Ngee Ann
         Polytechnic - School of Film and Media Studies!
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: 23rd Inter-School National Scrabble Championship, 2024
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2024 Photos/Scrabble/IMG_0762.jpg
-      url: /23rd-inter-school-national-scrabble-championship-2024/
-      description: Our students had the opportunity to apply English Language in an
-        authentic platform through the 23rd Inter-School National Scrabble
-        Championship.
   - resources:
       title: Publications
       button: Click here to see more
