@@ -24,16 +24,6 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: School Virtual Tour
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Experience our school's vibrant community and innovative learning
-        spaces from the comfort of your home.
-      button: CLICK HERE TO READ MORE
-      alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/school-virtual-tour/
-      image: /images/2024 Photos/Highlight/School_Virtual_Tour.jpg
-  - infopic:
       title: Principal's June Letter 2024
       subtitle: ANNOUNCEMENTS
       button: Click here to read more
