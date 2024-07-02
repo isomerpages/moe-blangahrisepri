@@ -1,4 +1,5 @@
 collections:
   feature-on-our-alumni:
     output: true
-    order: []
+    order:
+      - Feature on Our Alumni.md
