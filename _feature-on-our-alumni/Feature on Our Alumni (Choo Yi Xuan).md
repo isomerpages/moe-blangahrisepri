@@ -1,11 +1,10 @@
 ---
-title: Feature on Our Alumni
+title: Feature on Our Alumni (Choo Yi Xuan)
 permalink: /feature-on-our-alumni/
 variant: tiptap
 description: ""
-third_nav_title: "2024"
 ---
-<h4>Feature on Our Alumni</h4>
+<h4>Feature on Our Alumni (Choo Yi Xuan)</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="500" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g2Aqhy4L5Sw?si=P5DKF16BiGBulH8i"></iframe>
 </div>
