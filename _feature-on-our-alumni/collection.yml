@@ -2,4 +2,5 @@ collections:
   feature-on-our-alumni:
     output: true
     order:
+      - Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva).md
       - Feature on Our Alumni.md
