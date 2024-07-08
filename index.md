@@ -31,6 +31,14 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: /principal-s-june-letter-2024/
   - infopic:
+      title: Thank You for Making Our Open House a Success!
+      button: Read More
+      alt: Image alt text
+      url: /thank-you-for-making-our-open-house-a-success/
+      image: /images/2024 Photos/Open House/BRPS_Slide.jpg
+      description: We are delighted by the positive response and enthusiasm at our
+        Open House on 25 May 2024!
+  - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
       button: Click Here to read more
       url: https://blangahrisepri.moe.edu.sg/feature-on-our-alumni-series-2-tham-xuan-yi-nathan-silva/
@@ -40,15 +48,6 @@ sections:
         During his time with BRPS, Nathan served as the Deputy Head Prefect and
         Football CCA Leader.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: In Pursuit of A Dream
-      button: Read More
-      alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/in-pursuit-of-a-dream/
-      image: /images/2024 Photos/Highlight/IMG_5191.jpg
-      description: The Singapore National Paralympic Council hosted a heartwarming
-        Meet and Greet session that brought together our Paralympians, student
-        artists, and MediaKids.
   - infopic:
       title: Jewel Youth Floral Cup 2024
       button: READ MORE
