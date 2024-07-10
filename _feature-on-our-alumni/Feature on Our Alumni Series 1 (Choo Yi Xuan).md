@@ -1,5 +1,5 @@
 ---
-title: Feature on Our Alumni (Choo Yi Xuan)
+title: Feature on Our Alumni Series 1 (Choo Yi Xuan)
 permalink: /feature-on-our-alumni/
 variant: tiptap
 description: ""
