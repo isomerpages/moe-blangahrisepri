@@ -18,7 +18,5 @@ affirmed the vibrant school community that we are building together.</p>
 please do not hesitate to get in touch with us. We look forward to welcoming
 you again and continuing this journey to grow future-ready learners together
 with you.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cPD6flcbE1A?si=7zbbLOhTJcwjXhey"></iframe>
-</div>
-<p></p>
+<p>Click <a href="https://youtu.be/cPD6flcbE1A?si=iIoZgov6RJjQA7Sk" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+watch our open house video!</p>
