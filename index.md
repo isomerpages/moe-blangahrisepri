@@ -49,13 +49,13 @@ sections:
         Football CCA Leader.
       subtitle: HIGHLIGHTS
   - infopic:
-      title: Jewel Youth Floral Cup 2024
+      title: Feature on Our Alumni Series 1 (Choo Yi Xuan)
       button: READ MORE
-      url: https://blangahrisepri.moe.edu.sg/jewel-youth-floral-cup-2024/
-      image: /images/2024 Photos/Jewel/College.jpg
+      url: /feature-on-our-alumni/
+      image: /images/2024 Photos/Alumni/Yi_Xuan__Outstanding_Student_Award_.jpg
       alt: Image alt text
-      description: Well done to the 12 students who participated in Jewel Youth Floral
-        Cup 2024 at Jewel Changi Airport on 24 May 2024.
+      description: In this special feature, we like to celebrate one of our alumni.
+        Choo Yi Xuan graduated from Blangah Rise Primary School in 2017.
       subtitle: HIGHLIGHTS
   - resources:
       title: Publications
