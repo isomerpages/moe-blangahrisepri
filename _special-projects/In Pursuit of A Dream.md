@@ -24,11 +24,22 @@ their commitment and dedication inspire the best in all of us.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/Dream.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/WhatsApp_Image_2024_07_04_at_16_02_28.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/WhatsApp_Image_2024_07_04_at_16_02_29.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/WhatsApp_Image_2024_07_04_at_16_03_33.jpg">
+</div>
+<p></p>
 <p><strong>1. Online version of In Pursuit Of A Dream</strong>
 </p>
 <p><a href="https://online.fliphtml5.com/imxpa/irby/#p=1" rel="noopener noreferrer nofollow" target="_blank">https://online.fliphtml5.com/imxpa/irby/#p=1</a>
 </p>
-<p></p>
 <p><strong>2. Well Wishes from Blangah Rise Primary School</strong>
 </p>
 <div class="iframe-wrapper">
@@ -50,5 +61,13 @@ their commitment and dedication inspire the best in all of us.</p>
 scene.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2rgSs44u1bc?si=qr4QdzBdOW8Q-j2s"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/Meet___Greet_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Pursuit of a Dream/Meet___Greet_2.png">
 </div>
 <p></p>
