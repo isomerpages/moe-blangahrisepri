@@ -31,6 +31,17 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: /principal-s-june-letter-2024/
   - infopic:
+      title: People’s Association (PA) Community Spirit Awards
+      subtitle: Add an image and text
+      id: infopic
+      description: The People’s Association (PA) Community Spirit Awards shines a
+        spotlight on partner organisations that have demonstrated outstanding
+        dedication and efforts
+      button: Button Text
+      url: https://blangahrisepri.moe.edu.sg/people-s-association-pa-community-spirit-awards/
+      image: /images/2024 Photos/People Association/photo_with_Minister.jpg
+      alt: Image alt text
+  - infopic:
       title: "STEM Day: Inspiring the Next Generation of Innovators"
       button: Read More
       alt: Image alt text
