@@ -2,6 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - Co Curricular Experiences.md
       - Applied Learning Programme (ALP).md
       - Accelerated Programme to Enhance Students' eXperience (APEX).md
       - Chinese Junior Reporters.md
