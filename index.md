@@ -32,7 +32,6 @@ sections:
       url: /principal-s-june-letter-2024/
   - infopic:
       title: People’s Association (PA) Community Spirit Awards
-      subtitle: Add an image and text
       id: infopic
       description: The People’s Association (PA) Community Spirit Awards shines a
         spotlight on partner organisations that have demonstrated outstanding
