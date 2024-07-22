@@ -10,6 +10,9 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul>
 <li>
+<p>People’s Association (PA) Community Spirit Awards - Merit Award</p>
+</li>
+<li>
 <p>Jewel Youth Floral Cup 2024</p>
 <p>- Teo Kai Ting (P4 Sapphire) - Bronze Award (Category B)</p>
 <p>- Judith Seow (P6 Topaz) - Merit Award (Category B)</p>
