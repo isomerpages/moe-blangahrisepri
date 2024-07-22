@@ -31,13 +31,12 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: /principal-s-june-letter-2024/
   - infopic:
-      title: Thank You for Making Our Open House a Success!
+      title: "STEM Day: Inspiring the Next Generation of Innovators"
       button: Read More
       alt: Image alt text
-      url: /thank-you-for-making-our-open-house-a-success/
-      image: /images/2024 Photos/Open House/BRPS_Slide.jpg
-      description: We are delighted by the positive response and enthusiasm at our
-        Open House on 25 May 2024!
+      url: https://blangahrisepri.moe.edu.sg/stem-day/
+      image: /images/2024 Photos/STEM Day/S2.jpg
+      description: We hosted our inaugural STEM Day on 12 July, in partnership with Stick'Em
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
       button: Click Here to read more
