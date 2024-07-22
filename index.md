@@ -35,7 +35,7 @@ sections:
       button: Read More
       alt: Image alt text
       url: https://blangahrisepri.moe.edu.sg/stem-day/
-      image: /images/2024 Photos/STEM Day/S2.jpg
+      image: /images/2024 Photos/STEM Day/S3.jpg
       description: We hosted our inaugural STEM Day on 12 July, in partnership with Stick'Em
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
