@@ -10,6 +10,12 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul>
 <li>
+<p>Jewel Youth Floral Cup 2024</p>
+<p>- Teo Kai Ting (P4 Sapphire) - Bronze Award (Category B)</p>
+<p>- Judith Seow (P6 Topaz) - Merit Award (Category B)</p>
+<p>- Jolyn Seow (P3 Topaz) - Merit Award (Category B)</p>
+</li>
+<li>
 <p>23rd Inter-School National Scrabble Championship, ISNSC, 2024 - Individual
 Event</p>
 <ul>
