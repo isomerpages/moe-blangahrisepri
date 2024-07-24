@@ -41,12 +41,14 @@ sections:
       image: /images/2024 Photos/People Association/photo_with_Minister.jpg
       alt: Image alt text
   - infopic:
-      title: "STEM Day: Inspiring the Next Generation of Innovators"
+      title: The Green Snapshots (TGS) 2024
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/stem-day/
-      image: /images/2024 Photos/STEM Day/S3.jpg
-      description: We hosted our inaugural STEM Day on 12 July, in partnership with Stick'Em
+      url: /the-green-snapshots-tgs-2024/
+      image: /images/2024 Photos/TGS/20240713_092318.jpg
+      description: In its 10th edition this year, The Green Snapshots (TGS) continues
+        to be a standout initiative that started in 2015 as part of Singapore’s
+        Jubilee Celebrations.
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
