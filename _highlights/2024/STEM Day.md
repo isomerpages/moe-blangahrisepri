@@ -22,11 +22,11 @@ of engaging challenges. Participants were introduced to the concept of
 global issues.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S4.jpg">
 </div>
 <p><strong>Hands-On Learning Experiences:</strong>
 </p>
@@ -41,11 +41,11 @@ an impressive 2.5 metres, demonstrating remarkable teamwork and ingenuity.</p>
 relay race, showcasing their robots' speed, agility, and control.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S5.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S6.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S6.jpg">
 </div>
 <p><strong>Parental Involvement</strong>
 </p>
@@ -75,11 +75,11 @@ built towers even taller than themselves, showcasing their creative and
 problem-solving skills.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S9.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S9.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S10.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S10.jpg">
 </div>
 <p><strong>Student Testimonials:</strong>
 </p>
@@ -106,6 +106,6 @@ Day, where we will continue to nurture young minds and empower them to
 become the innovators of tomorrow.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S12.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/STEM Day/S12.jpg">
 </div>
 <p></p>
