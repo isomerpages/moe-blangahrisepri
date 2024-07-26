@@ -41,14 +41,13 @@ sections:
       image: /images/2024 Photos/People Association/photo_with_Minister.jpg
       alt: Image alt text
   - infopic:
-      title: The Green Snapshots (TGS) 2024
+      title: International Partnerships
       button: Read More
       alt: Image alt text
-      url: /the-green-snapshots-tgs-2024/
-      image: /images/2024 Photos/TGS/20240713_092318.jpg
-      description: In its 10th edition this year, The Green Snapshots (TGS) continues
-        to be a standout initiative that started in 2015 as part of Singapore’s
-        Jubilee Celebrations.
+      url: /international-partnerships/
+      image: /images/2024 Photos/School Exchange/2.jpg
+      description: Our Primary 5 students had an exciting day as they hosted students
+        from Pat Heung Primary School, Hong Kong.
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
