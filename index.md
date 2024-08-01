@@ -41,13 +41,13 @@ sections:
       image: /images/2024 Photos/People Association/photo_with_Minister.jpg
       alt: Image alt text
   - infopic:
-      title: International Partnerships
+      title: Mother Tongue Language (MTL) Fortnight 2024
       button: Read More
       alt: Image alt text
-      url: /international-partnerships/
-      image: /images/2024 Photos/School Exchange/2.jpg
-      description: Our Primary 5 students had an exciting day as they hosted students
-        from Pat Heung Primary School, Hong Kong.
+      url: /mother-tongue-language-mtl-fortnight-2024/
+      image: /images/2024 Photos/MTL Fortnight/CL2.png
+      description: The MTL Fortnight in Weeks 3 and 4 of Term 3, aimed to inspire a
+        passion for cultural learning among students.
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
