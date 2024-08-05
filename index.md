@@ -41,13 +41,13 @@ sections:
       image: /images/2024 Photos/People Association/photo_with_Minister.jpg
       alt: Image alt text
   - infopic:
-      title: Mother Tongue Language (MTL) Fortnight 2024
+      title: Racial Harmony Day 2024
       button: Read More
       alt: Image alt text
-      url: /mother-tongue-language-mtl-fortnight-2024/
-      image: /images/2024 Photos/MTL Fortnight/CL2.png
-      description: The MTL Fortnight in Weeks 3 and 4 of Term 3, aimed to inspire a
-        passion for cultural learning among students.
+      url: https://blangahrisepri.moe.edu.sg/racial-harmony-day-2024/
+      image: /images/2024 Photos/RHD/IMG_9232.jpg
+      description: We commemorated Racial Harmony Day with the theme “Singapore,
+        Multicultural Mosaic
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
