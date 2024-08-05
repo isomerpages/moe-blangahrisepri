@@ -40,6 +40,7 @@ sections:
       url: https://blangahrisepri.moe.edu.sg/people-s-association-pa-community-spirit-awards/
       image: /images/2024 Photos/People Association/photo_with_Minister.jpg
       alt: Image alt text
+      subtitle: HIGHLIGHTS
   - infopic:
       title: Traffic Games at Road Safety Community Park
       subtitle: HIGHLIGHTS
