@@ -41,6 +41,16 @@ sections:
       image: /images/2024 Photos/People Association/photo_with_Minister.jpg
       alt: Image alt text
   - infopic:
+      title: Traffic Games at Road Safety Community Park
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: The Primary 4 students went on a learning journey to the Road
+        Safety Community Park at East Coast
+      button: Button Text
+      url: https://blangahrisepri.moe.edu.sg/traffic-games-at-road-safety-community-park/
+      image: /images/2024 Photos/Traffic Games/TG4.jpg
+      alt: Image alt text
+  - infopic:
       title: Racial Harmony Day 2024
       button: Read More
       alt: Image alt text
