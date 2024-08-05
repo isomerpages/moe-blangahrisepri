@@ -31,23 +31,23 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: /principal-s-june-letter-2024/
   - infopic:
-      title: People’s Association (PA) Community Spirit Awards
+      title: Traffic Games at Road Safety Community Park
+      subtitle: HIGHLIGHTS
       id: infopic
-      description: The People’s Association (PA) Community Spirit Awards shines a
-        spotlight on partner organisations that have demonstrated outstanding
-        dedication and efforts
-      button: Read More
-      url: https://blangahrisepri.moe.edu.sg/people-s-association-pa-community-spirit-awards/
-      image: /images/2024 Photos/People Association/photo_with_Minister.jpg
+      description: The Primary 4 students went on a learning journey to the Road
+        Safety Community Park at East Coast
+      button: Button Text
+      url: https://blangahrisepri.moe.edu.sg/traffic-games-at-road-safety-community-park/
+      image: /images/2024 Photos/Traffic Games/TG4.jpg
       alt: Image alt text
   - infopic:
-      title: Mother Tongue Language (MTL) Fortnight 2024
+      title: Racial Harmony Day 2024
       button: Read More
       alt: Image alt text
-      url: /mother-tongue-language-mtl-fortnight-2024/
-      image: /images/2024 Photos/MTL Fortnight/CL2.png
-      description: The MTL Fortnight in Weeks 3 and 4 of Term 3, aimed to inspire a
-        passion for cultural learning among students.
+      url: https://blangahrisepri.moe.edu.sg/racial-harmony-day-2024/
+      image: /images/2024 Photos/RHD/IMG_9232.jpg
+      description: We commemorated Racial Harmony Day with the theme “Singapore,
+        Multicultural Mosaic
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
