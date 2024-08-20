@@ -41,13 +41,13 @@ sections:
       image: /images/2024 Photos/Traffic Games/TG4.jpg
       alt: Image alt text
   - infopic:
-      title: Racial Harmony Day 2024
+      title: Congratulations to our Students on Winning Science Awards!
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/racial-harmony-day-2024/
-      image: /images/2024 Photos/RHD/IMG_9232.jpg
-      description: We commemorated Racial Harmony Day with the theme “Singapore,
-        Multicultural Mosaic
+      url: https://blangahrisepri.moe.edu.sg/congratulations-to-our-students-on-winning-science-awards/
+      image: /images/2024 Photos/Science Award/S1.jpg
+      description: We are proud to announce that our students have achieved
+        outstanding results in the following Science competitions this year
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
