@@ -11,19 +11,19 @@ variant: tiptap
 <ul>
 <li>
 <p>Innovation Programme (IvP) - Merit Award</p>
-<p>-Joanne Lee Jia Rong</p>
-<p>-Vo Catherine Tu</p>
-<p>-Phua Ser Yen</p>
+<p>-Joanne Lee Jia Rong (P6 Sapphire)</p>
+<p>-Vo Catherine Tu (P6 Sapphire)</p>
+<p>-Phua Ser Yen (P6 Topaz)</p>
 </li>
 <li>
 <p>Raffles Science Olympiad (RSO) - Merit Award</p>
-<p>-Muthurasu Thanushraj</p>
+<p>-Muthurasu Thanushraj (P5 Topaz)</p>
 </li>
 <li>
 <p>Singapore Primary Science Olympiad (SPSO) - Merit Award</p>
-<p>-Muthurasu Thanushraj</p>
-<p>-Lien Heidi Zhao Hui</p>
-<p>-Teo Kai Xiang</p>
+<p>-Muthurasu Thanushraj (P5 Topaz)</p>
+<p>-Lien Heidi Zhao Hui (P5 Topaz)</p>
+<p>-Teo Kai Xiang (P5 Topaz)</p>
 </li>
 <li>
 <p>Tamil Language Storytelling Competition (Indian SG) - Velmurugan Vinisha
