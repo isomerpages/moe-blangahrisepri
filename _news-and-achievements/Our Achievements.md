@@ -10,7 +10,8 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul>
 <li>
-<p>Drone Odyssey Challenge (DOC)</p>
+<p>Drone Odyssey Challenge (DOC) Best Presentation Award category - First
+Place</p>
 <p>-Phua Ser Yen (P6 Topaz)</p>
 <p>-Cai Suxiang (P6 Topaz)</p>
 <p>-Shyong, Ruo-shan (P6 Sapphire)</p>
