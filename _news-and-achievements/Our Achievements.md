@@ -10,6 +10,12 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul>
 <li>
+<p>Drone Odyssey Challenge (DOC)</p>
+<p>-Phua Ser Yen (P6 Topaz)</p>
+<p>-Cai Suxiang (P6 Topaz)</p>
+<p>-Shyong, Ruo-shan (P6 Sapphire)</p>
+</li>
+<li>
 <p>Innovation Programme (IvP) - Merit Award</p>
 <p>-Joanne Lee Jia Rong (P6 Sapphire)</p>
 <p>-Vo Catherine Tu (P6 Sapphire)</p>
