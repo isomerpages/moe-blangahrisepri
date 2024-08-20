@@ -53,3 +53,18 @@ Inquiry Based Learning (IBL) engaged our students in self-directed and collabora
 They gather information and data based on the topic, and discuss with their peers to gain a better understanding. Teachers, as facilitators, provide the platform and guidance for students support them in their learning process. 
 
 Through this learning, I understood very well that we must keep our country clean. I also learnt more about how to navigate around the relevant websites to enhance my learning – Rishi, Primary 4.
+
+**Composition Workshop – ‘Writing the Storm Out’**
+
+Our Tamil Language teacher, Mr Yousoff conducted a Composition Workshop which was specifically designed for our Primary 5 and Primary 6 students. The workshop aimed to enhance students' writing skills, focusing on creative expressions, structures, and the effective use of the Tamil Language.
+
+During the session, students learnt various techniques to brainstorm ideas, develop engaging storylines, and organise their compositions coherently. Mr Yousoff provided hands-on guidance, helping students craft compelling introductions, build strong plots, and conclude their stories effectively.
+
+Interactive activities and peer-sharing sessions were incorporated to make the learning process more engaging. Students were encouraged to express their thoughts creatively and received constructive feedback on their work.
+The workshop was a valuable opportunity for students to sharpen their writing skills, applying language skills in an authentic manner and preparing our students for their future writing tasks.
+
+![](/images/2024%20Photos/TL%20Compo%20Workshop/Picture_1.jpg)
+
+![](/images/2024%20Photos/TL%20Compo%20Workshop/Picture_2.jpg)
+
+![](/images/2024%20Photos/TL%20Compo%20Workshop/Picture_3.jpg)

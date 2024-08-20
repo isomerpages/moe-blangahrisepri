@@ -10,6 +10,33 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul>
 <li>
+<p>Drone Odyssey Challenge (DOC) Best Presentation Award category - First
+Place</p>
+<p>-Phua Ser Yen (P6 Topaz)</p>
+<p>-Cai Suxiang (P6 Topaz)</p>
+<p>-Shyong, Ruo-shan (P6 Sapphire)</p>
+</li>
+<li>
+<p>Innovation Programme (IvP) - Merit Award</p>
+<p>-Joanne Lee Jia Rong (P6 Sapphire)</p>
+<p>-Vo Catherine Tu (P6 Sapphire)</p>
+<p>-Phua Ser Yen (P6 Topaz)</p>
+</li>
+<li>
+<p>Raffles Science Olympiad (RSO) - Merit Award</p>
+<p>-Muthurasu Thanushraj (P5 Topaz)</p>
+</li>
+<li>
+<p>Singapore Primary Science Olympiad (SPSO) - Merit Award</p>
+<p>-Muthurasu Thanushraj (P5 Topaz)</p>
+<p>-Lien Heidi Zhao Hui (P5 Topaz)</p>
+<p>-Teo Kai Xiang (P5 Topaz)</p>
+</li>
+<li>
+<p>Tamil Language Storytelling Competition (Indian SG) - Velmurugan Vinisha
+(1 Opal) - 2nd Prize</p>
+</li>
+<li>
 <p>People’s Association (PA) Community Spirit Awards - Merit Award</p>
 </li>
 <li>

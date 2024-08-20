@@ -31,23 +31,23 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: /principal-s-june-letter-2024/
   - infopic:
-      title: Traffic Games at Road Safety Community Park
+      title: P6 Students Soar to Victory at Drone Odyssey Challenge
       subtitle: HIGHLIGHTS
       id: infopic
-      description: The Primary 4 students went on a learning journey to the Road
-        Safety Community Park at East Coast
+      description: Congratulations to our Primary 6 students, Ser Yen, Suxiang, and
+        Ruo-shan, for their outstanding achievement
       button: Button Text
-      url: https://blangahrisepri.moe.edu.sg/traffic-games-at-road-safety-community-park/
-      image: /images/2024 Photos/Traffic Games/TG4.jpg
+      url: https://blangahrisepri.moe.edu.sg/p6-students-soar-to-victory-at-drone-odyssey-challenge/
+      image: /images/2024 Photos/Science Award/doc1.jpg
       alt: Image alt text
   - infopic:
-      title: Racial Harmony Day 2024
+      title: Congratulations to our Students on Winning Science Awards!
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/racial-harmony-day-2024/
-      image: /images/2024 Photos/RHD/IMG_9232.jpg
-      description: We commemorated Racial Harmony Day with the theme “Singapore,
-        Multicultural Mosaic
+      url: https://blangahrisepri.moe.edu.sg/congratulations-to-our-students-on-winning-science-awards/
+      image: /images/2024 Photos/Science Award/S1.jpg
+      description: We are proud to announce that our students have achieved
+        outstanding results in the following Science competitions this year
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
