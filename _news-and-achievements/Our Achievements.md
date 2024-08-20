@@ -10,6 +10,16 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul>
 <li>
+<p>Innovation Programme (IvP) - Merit Award</p>
+<p>-Joanne Lee Jia Rong</p>
+<p>-Vo Catherine Tu</p>
+<p>-Phua Ser Yen</p>
+</li>
+<li>
+<p>Raffles Science Olympiad (RSO) - Merit Award</p>
+<p>-Muthurasu Thanushraj</p>
+</li>
+<li>
 <p>Singapore Primary Science Olympiad (SPSO) - Merit Award</p>
 <p>-Muthurasu Thanushraj</p>
 <p>-Lien Heidi Zhao Hui</p>
