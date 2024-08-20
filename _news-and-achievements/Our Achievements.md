@@ -10,6 +10,16 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul>
 <li>
+<p>Singapore Primary Science Olympiad (SPSO) - Merit Award</p>
+<p>-Muthurasu Thanushraj</p>
+<p>-Lien Heidi Zhao Hui</p>
+<p>-Teo Kai Xiang</p>
+</li>
+<li>
+<p>Tamil Language Storytelling Competition (Indian SG) - Velmurugan Vinisha
+(1 Opal) - 2nd Prize</p>
+</li>
+<li>
 <p>People’s Association (PA) Community Spirit Awards - Merit Award</p>
 </li>
 <li>
