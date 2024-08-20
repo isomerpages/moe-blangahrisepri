@@ -18,9 +18,6 @@ Presentation Award category, a testament to their dedication and innovative
 thinking.</p>
 <p><strong>About the Drone Odyssey Challenge</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Science Award/doc2.jpg">
-</div>
 <p>The Drone Odyssey Challenge is a thrilling game-based competition designed
 to foster technical skills, critical thinking, and an appreciation for
 cutting-edge technologies. Open to both primary and secondary school students,
