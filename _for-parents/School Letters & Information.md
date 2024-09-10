@@ -13,6 +13,7 @@ variant: markdown
 	
 
 <p><strong>Principal's Letter</strong></p>
+	<p><a href="/files/P's%20Letter/2024_04_Principal.pdf">Principal's September Letter 2024</a></p>
 	<p><a href="/files/P's%20Letter/2024_03_Principal.pdf">Principal's June Letter 2024</a></p>
 <p><a href="/files/P's%20Letter/2024_02_Principal.pdf">Principal's March Letter 2024</a></p>
 <p><a href="/files/P's%20Letter/2024_01_Principal.pdf">Principal's January Letter 2024</a></p>

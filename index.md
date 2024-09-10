@@ -24,12 +24,12 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's June Letter 2024
+      title: Principal's September Letter 2024
       subtitle: ANNOUNCEMENTS
       button: Click here to read more
       alt: Image alt text
       image: /images/Announcements/mr foo.JPG
-      url: /principal-s-june-letter-2024/
+      url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
       title: P6 Students Soar to Victory at Drone Odyssey Challenge
       subtitle: HIGHLIGHTS
