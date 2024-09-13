@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>World Robotics Olympiad (WRO) 2024 - Judges' Award</p>
+<p>World Robotics Olympiad (WRO) - Judges' Award</p>
 </li>
 <li>
 <p>Drone Odyssey Challenge (DOC) Best Presentation Award category - First
