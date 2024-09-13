@@ -31,11 +31,12 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
-      title: P6 Students Soar to Victory at Drone Odyssey Challenge
+      title: World Robotics Olympiad 2024 Judges’ Award
       subtitle: HIGHLIGHTS
       id: infopic
-      description: Congratulations to our Primary 6 students, Ser Yen, Suxiang, and
-        Ruo-shan, for their outstanding achieve
+      description: During the September school holiday, four teams from Blangah Rise
+        Primary School participated in the prestigious World Robotics Olympiad
+        (WRO) 2024
       button: Button Text
       url: https://blangahrisepri.moe.edu.sg/world-robotics-olympiad-2024-judges-award/
       image: /images/2024 Photos/WRO/WhatsApp_Image_2024_09_09_at_10_15_58__1_.jpg
