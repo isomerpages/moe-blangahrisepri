@@ -35,10 +35,10 @@ sections:
       subtitle: HIGHLIGHTS
       id: infopic
       description: Congratulations to our Primary 6 students, Ser Yen, Suxiang, and
-        Ruo-shan, for their outstanding achievement
+        Ruo-shan, for their outstanding achieve
       button: Button Text
-      url: https://blangahrisepri.moe.edu.sg/p6-students-soar-to-victory-at-drone-odyssey-challenge/
-      image: /images/2024 Photos/Science Award/doc1.jpg
+      url: https://blangahrisepri.moe.edu.sg/world-robotics-olympiad-2024-judges-award/
+      image: /images/2024 Photos/WRO/WhatsApp_Image_2024_09_09_at_10_15_58__1_.jpg
       alt: Image alt text
   - infopic:
       title: Congratulations to our Students on Winning Science Awards!
