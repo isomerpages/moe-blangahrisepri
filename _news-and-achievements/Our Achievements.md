@@ -8,7 +8,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 </div>
 <h4><strong>2024</strong></h4>
-<ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>World Robotics Olympiad (WRO) 2024 - Judges' Award</p>
+</li>
 <li>
 <p>Drone Odyssey Challenge (DOC) Best Presentation Award category - First
 Place</p>
