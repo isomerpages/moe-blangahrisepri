@@ -42,13 +42,13 @@ sections:
       image: /images/2024 Photos/WRO/WhatsApp_Image_2024_09_09_at_10_15_58__1_.jpg
       alt: Image alt text
   - infopic:
-      title: Congratulations to our Students on Winning Science Awards!
+      title: P3 and P4 Chinese Language Learning Journey
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/congratulations-to-our-students-on-winning-science-awards/
-      image: /images/2024 Photos/Science Award/S1.jpg
-      description: We are proud to announce that our students have achieved
-        outstanding results in the following Science competitions this year
+      url: https://blangahrisepri.moe.edu.sg/p3-and-p4-chinese-language-learning-journey/
+      image: /images/2024 Photos/CL LJ/IMG_20240912_WA0015.jpg
+      description: Our Primary 3 and 4 students had the opportunity to learn Chinese
+        Language through an engaging theatrical performance
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
