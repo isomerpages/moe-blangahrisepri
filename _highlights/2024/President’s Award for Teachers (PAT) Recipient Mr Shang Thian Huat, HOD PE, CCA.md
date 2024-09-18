@@ -9,11 +9,11 @@ third_nav_title: "2024"
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/PAT 2024/710b1e92_48ff_4e26_a27a_1d3451047f74.jpg">
 </div>
-<p>Congratulations to Mr Shang Thian Huat, HOD PE/CCA for receiving the PAT
-2024! PAT recognises excellent educators for their role in moulding the
-future of our nation. Mr Shang was one of the eight educators who received
-the PAT 2024 from President Tharman Shanmugaratnam during the Teachers’
-Day Reception held on 29 August 2024.</p>
+<p>Congratulations to Mr Shang Thian Huat for receiving the PAT 2024! PAT
+recognises excellent educators for their role in moulding the future of
+our nation. Mr Shang was one of the eight educators who received the PAT
+2024 from President Tharman Shanmugaratnam during the Teachers’ Day Reception
+held on 29 August 2024.</p>
 <p>To Mr Shang, sports is more than just about fitness. He inspires students
 to lead active lives and give back to the community. Collaborating with
 community partners, Mr Shang introduced a school-wide Values-in-Action
