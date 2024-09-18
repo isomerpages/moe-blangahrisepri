@@ -7,7 +7,7 @@ third_nav_title: "2024"
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/PAT 2024/710b1e92_48ff_4e26_a27a_1d3451047f74.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/PAT 2024/710b1e92_48ff_4e26_a27a_1d3451047f74.jpg">
 </div>
 <p>Congratulations to Mr Shang Thian Huat for receiving the PAT 2024! PAT
 recognises excellent educators for their role in moulding the future of
