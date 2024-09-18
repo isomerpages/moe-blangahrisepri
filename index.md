@@ -31,15 +31,14 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
-      title: World Robotics Olympiad 2024 Judges’ Award
+      title: "President’s Award for Teachers: Mr Shang Thian Huat"
       subtitle: HIGHLIGHTS
       id: infopic
-      description: During the September school holiday, four teams from Blangah Rise
-        Primary School participated in the prestigious World Robotics Olympiad
-        (WRO) 2024
+      description: Congratulations to Mr Shang Thian Huat, HOD PE/CCA for receiving
+        the PAT 2024!
       button: Button Text
-      url: https://blangahrisepri.moe.edu.sg/world-robotics-olympiad-2024-judges-award/
-      image: /images/2024 Photos/WRO/WhatsApp_Image_2024_09_09_at_10_15_58__1_.jpg
+      url: https://blangahrisepri.moe.edu.sg/president-s-award-for-teachers-pat-recipient-mr-shang-thian-huat-hod-pe-cca/
+      image: /images/2024 Photos/PAT 2024/710b1e92_48ff_4e26_a27a_1d3451047f74.jpg
       alt: Image alt text
   - infopic:
       title: P3 and P4 Chinese Language Learning Journey
