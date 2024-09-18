@@ -31,7 +31,7 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
-      title: President’s Award for Teachers Recipient - Mr Shang
+      title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
       id: infopic
       description: Congratulations to Mr Shang Thian Huat, HOD PE/CCA for receiving
