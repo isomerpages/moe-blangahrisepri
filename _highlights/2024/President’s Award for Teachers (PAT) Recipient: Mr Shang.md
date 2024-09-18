@@ -23,18 +23,12 @@ senior citizens in Telok Blangah, building bonds with the elderly while
 learning empathy, patience, and teamwork through sports.</p>
 <p>Phua Ser Yen, a Student Leader, shared her heartfelt thoughts at the Teachers’
 Day Reception.</p>
-<p>“Mr Shang taught me to be wise, to be responsible and stay on the right
-path. He recognised my leadership qualities and encouraged me to grow as
-a leader even when I leave primary school.</p>
-<p>Mr Shang taught us that sports is more than just about fitness. He started
-a really interesting Values-in-Action programme. In this programme, students
-will take turns to organise sports and games for the senior citizens in
-Telok Blangah. I cannot wait to be a part of this programme next term and
-teach the elderly how to play modified floorball. It is going to be fun
-and I look forward to connecting with our seniors as I think I can learn
-a lot from them.</p>
-<p>Thank you, Mr Shang, for your listening ear, guidance and support, and
-for teaching me to serve the community.”</p>
+<p><em>“Mr Shang taught me to be wise, to be responsible and stay on the right path. He recognised my leadership qualities and encouraged me to grow as a leader even when I leave primary school.</em>
+</p>
+<p><em>Mr Shang taught us that sports is more than just about fitness. He started a really interesting Values-in-Action programme. In this programme, students will take turns to organise sports and games for the senior citizens in Telok Blangah. I cannot wait to be a part of this programme next term and teach the elderly how to play modified floorball. It is going to be fun and I look forward to connecting with our seniors as I think I can learn a lot from them.</em>
+</p>
+<p><em>Thank you, Mr Shang, for your listening ear, guidance and support, and for teaching me to serve the community.”</em>
+</p>
 <p>Through his practices and actions, Mr Shang is indeed an inspiration to
 our students and colleagues!</p>
 <p>Click <a href="https://youtu.be/hb0TBsF9rzM?si=Jd57PPXU121SZHEs" rel="noopener nofollow" target="_blank">here</a> to
