@@ -36,9 +36,20 @@ sections:
       id: infopic
       description: Congratulations to Mr Shang Thian Huat, HOD PE/CCA for receiving
         the PAT 2024!
-      button: Button Text
+      button: Read More
       url: https://blangahrisepri.moe.edu.sg/president-s-award-for-teachers-pat-recipient-mr-shang-thian-huat-hod-pe-cca/
       image: /images/2024 Photos/PAT 2024/710b1e92_48ff_4e26_a27a_1d3451047f74.jpg
+      alt: Image alt text
+  - infopic:
+      title: MidAutumn Festival Celebration
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: On 17 September, our school celebrated the Mid-Autumn Festival with
+        great enthusiasm. The event was hosted by our students, Han Hua and
+        Rizqah from 4 Topaz.
+      button: Read More
+      url: /mid-autumn-festival-celebration-2024/
+      image: /images/2024 Photos/Mid Autumn Festival/1.jpg
       alt: Image alt text
   - infopic:
       title: P3 and P4 Chinese Language Learning Journey
