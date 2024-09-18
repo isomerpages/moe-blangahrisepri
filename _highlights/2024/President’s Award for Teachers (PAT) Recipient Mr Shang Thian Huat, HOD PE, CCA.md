@@ -37,8 +37,8 @@ a lot from them.</p>
 for teaching me to serve the community.”</p>
 <p>Through his practices and actions, Mr Shang is indeed an inspiration to
 our students and colleagues!</p>
-<p>Click here to view video on how Mr Shang ignites a love for sports in
-his students.</p>
+<p>Click <a href="https://youtu.be/hb0TBsF9rzM?si=Jd57PPXU121SZHEs" rel="noopener nofollow" target="_blank">here</a> to
+view video on how Mr Shang ignites a love for sports in his students.</p>
 <p>Video by Ministry of Education, Singapore</p>
 <p>Click <a href="https://www.schoolbag.edu.sg/story/p-stands-for-possibilities-for-this-pe-teacher/" rel="noopener nofollow" target="_blank">here</a> to
 read a Schoolbag article on Mr Shang’s belief on enabling all students
