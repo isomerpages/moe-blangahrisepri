@@ -10,6 +10,9 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>President’s Award for Teachers (PAT) Recipient: Mr Shang Thian Huat</p>
+</li>
+<li>
 <p>World Robotics Olympiad (WRO) - Judges' Award</p>
 </li>
 <li>
