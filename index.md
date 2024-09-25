@@ -41,24 +41,23 @@ sections:
       image: /images/2024 Photos/PAT 2024/710b1e92_48ff_4e26_a27a_1d3451047f74.jpg
       alt: Image alt text
   - infopic:
-      title: MidAutumn Festival Celebration
+      title: PSLE Care Pack for P6 Students
       subtitle: HIGHLIGHTS
       id: infopic
-      description: On 17 September, our school celebrated the Mid-Autumn Festival with
-        great enthusiasm. The event was hosted by our students, Han Hua and
-        Rizqah from 4 Topaz.
+      description: This week, our Primary 6 students will be sitting for their Primary
+        School Leaving Examinations (PSLE).
       button: Read More
-      url: /mid-autumn-festival-celebration-2024/
-      image: /images/2024 Photos/Mid Autumn Festival/1.jpg
+      url: /psle-care-pack-for-p6-students/
+      image: /images/2024 Photos/Care Pack/Pic_8.jpg
       alt: Image alt text
   - infopic:
-      title: P3 and P4 Chinese Language Learning Journey
+      title: EAS Day 2024
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/p3-and-p4-chinese-language-learning-journey/
-      image: /images/2024 Photos/CL LJ/IMG_20240912_WA0015.jpg
-      description: Our Primary 3 and 4 students had the opportunity to learn Chinese
-        Language through an engaging theatrical performance
+      url: /eas-day-2024/
+      image: /images/2024 Photos/EAS Day/EAS_Day_1.png
+      description: We commemorated EAS Day 2024, an event dedicated to honouring the
+        unsung heroes of the school – the non-teaching staff.
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
