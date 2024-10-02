@@ -44,3 +44,24 @@ and also areas for improvement. I constantly work hard to improve.”</p>
 </div>
 <p>Congratulations to all our student-athletes who achieved new milestones
 in sports. We are so proud of you. Keep up the spirit of excellence!</p>
+<p><strong><u>National School Games (NSG)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior Boys (Badminton): 1st in Tier 4 Group, Singles - Jayden Lei</p>
+</li>
+<li>
+<p>Junior Boys (Badminton): 2nd in Tier 2 Group, Doubles - Ayden Kang and
+G.Aarya</p>
+</li>
+<li>
+<p>Junior Boys (Basketball): 2nd in Tier 3 Group</p>
+</li>
+<li>
+<p>Junior Girls (Basketball): 3rd in Tier 2 Group</p>
+</li>
+<li>
+<p>Senior Boys (Badminton): 2nd in League 5 Group, Team Events</p>
+</li>
+</ul>
+<p></p>
