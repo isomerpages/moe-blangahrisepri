@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
-<p><em>“The five S’s of sports training are: Stamina, Speed, Strength, Skill, and Spirit; but the greatest of these is Spirit.”  </em>–
+<p><em>“The five S’s of sports training are: Stamina, Speed, Strength, Skill, and Spirit; but the greatest of these is Spirit.” </em>–
 Ken Doherty</p>
 <p>As we approach Children’s Day, we would like to celebrate our students
 for their participation and achievements in sports in 2024. This year,
