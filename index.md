@@ -55,7 +55,7 @@ sections:
       button: Read More
       alt: Image alt text
       url: /celebrating-our-students-2024-achievements-in-sports/
-      image: /images/2024 Photos/Sports/image002.jpg
+      image: /images/2024 Photos/Sports/2024_NSG_Basketball.jpg
       description: As we approach Children’s Day, we would like to celebrate our
         students for their participation and achievements in sports in 2024.
       subtitle: HIGHLIGHTS
