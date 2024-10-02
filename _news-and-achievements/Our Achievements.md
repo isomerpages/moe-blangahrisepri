@@ -27,13 +27,25 @@ variant: tiptap
 </li>
 <li>
 <p>National School Games (NSG)</p>
-<p>- Junior Boys (Badminton): 1st in Tier 4 Group, Singles - Jayden Lei (5
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior Boys (Badminton): 1st in Tier 4 Group, Singles - Jayden Lei (5
 Topaz)</p>
-<p>- Junior Boys (Badminton): 2nd in Tier 2 Group, Doubles -</p>
+</li>
+<li>
+<p>Junior Boys (Badminton): 2nd in Tier 2 Group, Doubles -</p>
 <p>Ayden Kang (4 Opal) and G.Aarya (4 Topaz)</p>
-<p>- Junior Boys (Basketball): 2nd in Tier 3 Group</p>
-<p>- Junior Girls (Basketball): 3rd in Tier 2 Group</p>
-<p>- Senior Boys (Badminton): 2nd in League 5 Group, Team Events</p>
+</li>
+<li>
+<p>Junior Boys (Basketball): 2nd in Tier 3 Group</p>
+</li>
+<li>
+<p>Junior Girls (Basketball): 3rd in Tier 2 Group</p>
+</li>
+<li>
+<p>Senior Boys (Badminton): 2nd in League 5 Group, Team Events</p>
+</li>
+</ul>
 </li>
 <li>
 <p>World Robotics Olympiad (WRO) - Judges' Award</p>
