@@ -33,7 +33,7 @@ both look forward to training and growing stronger together. They are motivated
 to compete, progress and excel in the next NSG.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Sports/2024_NSG_Badminton.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Sports/2024_NSG_Badminton.jpg">
 </div>
 <p>Minh Anh shares her NSG Basketball experience, “this is my second year
 representing BRPS. Each time I compete in NSG, I want to play better and
