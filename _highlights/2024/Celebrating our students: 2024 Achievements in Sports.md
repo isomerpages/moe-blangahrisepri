@@ -39,7 +39,6 @@ to compete, progress and excel in the next NSG.</p>
 representing BRPS. Each time I compete in NSG, I want to play better and
 contribute to the team. After every match, I learn about my good points
 and also areas for improvement. I constantly work hard to improve.”</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Sports/2024_NSG_Basketball.jpg">
 </div>
