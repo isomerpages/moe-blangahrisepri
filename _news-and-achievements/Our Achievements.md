@@ -33,8 +33,8 @@ variant: tiptap
 Topaz)</p>
 </li>
 <li>
-<p>Junior Boys (Badminton): 2nd in Tier 2 Group, Doubles -</p>
-<p>Ayden Kang (4 Opal) and G.Aarya (4 Topaz)</p>
+<p>Junior Boys (Badminton): 2nd in Tier 2 Group, Doubles - Ayden Kang (4
+Opal) and G.Aarya (4 Topaz)</p>
 </li>
 <li>
 <p>Junior Boys (Basketball): 2nd in Tier 3 Group</p>
