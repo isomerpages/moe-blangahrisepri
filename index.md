@@ -51,13 +51,13 @@ sections:
       image: /images/2024 Photos/Care Pack/Pic_8.jpg
       alt: Image alt text
   - infopic:
-      title: EAS Day 2024
+      title: "Celebrating our students: 2024 Achievements in Sports"
       button: Read More
       alt: Image alt text
-      url: /eas-day-2024/
-      image: /images/2024 Photos/EAS Day/EAS_Day_1.png
-      description: We commemorated EAS Day 2024, an event dedicated to honouring the
-        unsung heroes of the school – the non-teaching staff.
+      url: /celebrating-our-students-2024-achievements-in-sports/
+      image: /images/2024 Photos/Sports/image002.jpg
+      description: As we approach Children’s Day, we would like to celebrate our
+        students for their participation and achievements in sports in 2024.
       subtitle: HIGHLIGHTS
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
