@@ -2,125 +2,310 @@
 title: School Bus, Uniform & Bookshop
 permalink: /parent-support-group/school-bus-uniform-bookshop/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<div data-node="5c375f4666a41">
-<div>
-<div>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="text-align: center;" rowspan="5"><strong>School Bus<br>Services</strong></td>
-<td colspan="2"><strong>DKJ Transport<br>Service</strong></td>
-</tr>
-<tr>
-<td>Address:</td>
-<td>7 Soon Lee Street #05-12 S(627608)</td>
-</tr>
-<tr>
-<td>Contact Person:</td>
-<td>Mr Leo Bai Ming</td>
-</tr>
-<tr>
-<td>Contact No.:</td>
-<td>97723370</td>
-</tr><tr>
-<td>School Bus Operator and Bus Fare:</td>
-<td><a href="/files/Booklist%202024/School_Bus_Fare.pdf">School Bus Services</a></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Booklist</strong></td>
-<td><strong>Booklist 2024</strong><br><a href="/files/Booklist%202024/Booklist_2024_P1.pdf">P1 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P2.pdf">P2 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P3.pdf">P3 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P4.pdf">P4 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P5.pdf">P5 Booklist 2024</a><br><a href="/files/Booklist%202024/Booklist_2024_P6.pdf">P6 Booklist 2024</a></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="4"><strong>School Uniform<br>Services</strong></td>
-<td colspan="2"><strong>Beau Voix Uniform</strong></td>
-</tr>
-<tr>
-<td>Address:</td>
-<td>2 Sims Close, Gemini @ Sims, #03-08, Singapore 387298</td>
-</tr>
-<tr>
-<td>Contact Person:</td>
-<td>Mr Wilson Ng</td>
-</tr>
-<tr>
-<td>Contact No.:</td>
-<td>6743 6645 / 9101 6350</td>
-</tr>
-</tbody>
-</table>
-<br>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" rowspan="4"><strong>Bookshop<br>Services</strong></td>
-<td colspan="2"><strong>HB Book Centre</strong></td>
-</tr>
-<tr>
-<td>Contact Person:</td>
-<td>Mr Jason Loh (Manager)</td>
-</tr>
-<tr>
-<td>Contact No.:</td>
-<td>6270 1060</td>
-</tr>
-<tr>
-<td>Email:</td>
-<td><a href="mailto:hb.bk.ctr@gmail.com">hb.bk.ctr@gmail.com</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="4"><strong>Student Care<br>Centre in BRPS</strong></td>
-<td colspan="2"><strong>NASCANS@Blangah Rise Student Care Centre</strong></td>
-</tr>
-<tr>
-<td>Contact Person:</td>
-<td>Fionn Ling (Centre Supervisor)</td>
-</tr>
-<tr>
-<td>Contact No.:</td>
-<td>94596376</td>
-</tr>
-<tr>
-<td>Email:</td>
-<td><a href="mailto:brscc@nascans.com">brscc@nascans.com</a></td>
-</tr>
-</tbody>
-</table>
-<br>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>School Dental Clinic</strong></td>
-<td><strong>School Dental Clinic<br><br></strong>The roving dental clinic in school will be moving out on 21st August 2023 and there will be no dental service in school. The roving dental clinic would return in 2024. To book a dental appointment, you may call or WhatsApp us at 9838 9102 and we will respond within 1-3 business days. If you require any URGENT treatment, please call any of the following clinics for assistance:
-<table>
-<tbody>
-<tr>
-<td style="text-align: center; width: 175px;"><strong>Buddy Clinic</strong></td>
-<td style="text-align: center; width: 219px;"><strong>Address</strong></td>
-<td style="text-align: center; width: 164px;"><strong>Tel</strong></td>
-</tr>
-
-<tr>
-<td style="text-align: center; width: 175px;">CHIJ Kellock Primary School</td>
-<td style="text-align: center; width: 219px;">1 Bukit Teresa Rd S(099757)</td>
-<td style="text-align: center; width: 164px;">8764 7293</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 175px;">Gan Eng Seng Primary School </td>
-<td style="text-align: center; width: 219px;">100 Redhill Cl S(158901)</td>
-<td style="text-align: center; width: 164px;">8764 7603</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 175px;">MDC 18</td>
-<td style="text-align: center; width: 219px;">(please contact clinic for address)</td>
-<td style="text-align: center; width: 164px;">9389 5301</td>
-</tr>
-</tbody>
-</table>
+<td rowspan="5" colspan="1">
+<p><strong>School Bus<br>Services</strong>
+</p>
 </td>
-<td>&nbsp;</td>
+<td rowspan="1" colspan="2">
+<p><strong>DKJ Transport<br>Service</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Soon Lee Street #05-12 S(627608)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Person:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Leo Bai Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact No.:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>97723370</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Bus Operator and Bus Fare:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist%202024/School_Bus_Fare.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Services</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Booklist</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Booklist 2024</strong>
+<br><a href="/files/Booklist%202024/Booklist_2024_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2024</a>
+<br><a href="/files/Booklist%202024/Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist 2024</a>
+<br><a href="/files/Booklist%202024/Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2024</a>
+<br><a href="/files/Booklist%202024/Booklist_2024_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2024</a>
+<br><a href="/files/Booklist%202024/Booklist_2024_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2024</a>
+<br><a href="/files/Booklist%202024/Booklist_2024_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>School Uniform<br>Services</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Beau Voix Uniform</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Sims Close, Gemini @ Sims, #03-08, Singapore 387298</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Person:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wilson Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact No.:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6743 6645 / 9101 6350</p>
+</td>
 </tr>
 </tbody>
-</table></div></div></div>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Bookshop<br>Services</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>HB Book Centre</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Person:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Loh (Manager)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact No.:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6270 1060</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hb.bk.ctr@gmail.com" rel="noopener noreferrer nofollow" target="_blank">hb.bk.ctr@gmail.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Student Care<br>Centre in BRPS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>NASCANS@Blangah Rise Student Care Centre</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Person:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fionn Ling (Centre Supervisor)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact No.:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94596376</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:brscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">brscc@nascans.com</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>School Dental Clinic</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>The roving dental clinic is now open and will operate in Term 4/2024.
+Parents interested in scheduling a dental check-up for their children can
+call 9838 9102 to make an appointment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp; Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, Wed &amp; Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8am-5pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue &amp; Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8am-5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<p>In any instances where the dental clinic is closed, parents can contact
+the following buddy dental clinics for any assistance.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Buddy Clinic</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Address</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tel</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Kellock Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bukit Teresa Rd S(099757)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8764 7293</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gan Eng Seng Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100 Redhill Cl S(158901)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8764 7603</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MDC 18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(please contact clinic for address)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9389 5301</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

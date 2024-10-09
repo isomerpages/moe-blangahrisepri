@@ -13,6 +13,41 @@ variant: tiptap
 <p>President’s Award for Teachers (PAT) Recipient: Mr Shang Thian Huat</p>
 </li>
 <li>
+<p>37th Plain English Speaking Awards (PESA) 2024 Semi-Finalist – Chen Yijia
+(2 Topaz)</p>
+</li>
+<li>
+<p>7th National Text Recital Competition 2024 (Chinese Language)</p>
+<p>- Koh En Ya (Bronze)- 2 Opal</p>
+<p>- Yip Yu Xi (Bronze)- 4 Opal</p>
+</li>
+<li>
+<p>National Primary Schools Sport Climbing Championship (NPSSCC)</p>
+<p>Junior Girls: 2nd in Top Rope - Natalie Elise Garde Lawenko (5 Topaz)</p>
+</li>
+<li>
+<p>National School Games (NSG)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior Boys (Badminton): 1st in Tier 4 Group, Singles - Jayden Lei (5
+Topaz)</p>
+</li>
+<li>
+<p>Junior Boys (Badminton): 2nd in Tier 2 Group, Doubles - Ayden Kang (4
+Opal) and G.Aarya (4 Topaz)</p>
+</li>
+<li>
+<p>Junior Boys (Basketball): 2nd in Tier 3 Group</p>
+</li>
+<li>
+<p>Junior Girls (Basketball): 3rd in Tier 2 Group</p>
+</li>
+<li>
+<p>Senior Boys (Badminton): 2nd in League 5 Group, Team Events</p>
+</li>
+</ul>
+</li>
+<li>
 <p>World Robotics Olympiad (WRO) - Judges' Award</p>
 </li>
 <li>
