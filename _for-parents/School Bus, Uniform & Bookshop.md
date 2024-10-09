@@ -192,7 +192,7 @@ variant: tiptap
 </tbody>
 </table>
 <p>
-<br>
+<br><strong>School Dental Clinic</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -202,17 +202,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Dental Clinic</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>The roving dental clinic is now open and will operate in Term 4/2024.
 Parents interested in scheduling a dental check-up for their children can
 call 9838 9102 to make an appointment.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -251,15 +244,10 @@ call 9838 9102 to make an appointment.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>In any instances where the dental clinic is closed, parents can contact
 the following buddy dental clinics for any assistance.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
