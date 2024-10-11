@@ -31,6 +31,16 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
+      title: Clean Up South West! 2024 is here!
+      button: Read More
+      alt: Image alt text
+      url: /clean-up-south-west-2024-is-here/
+      image: /images/2024 Photos/CDC Clean Up/Clean_Up_South_West__2024___BRPS_pdf.png
+      description: Blangah Rise Primary School is excited to join the recycling
+        movement again! We are calling on all students, parents, and staff to
+        recycle for a greener planet.
+      subtitle: ANNOUNCEMENTS
+  - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
       id: infopic
@@ -40,15 +50,6 @@ sections:
       url: https://blangahrisepri.moe.edu.sg/president-s-award-for-teachers-pat-recipient-mr-shang-thian-huat-hod-pe-cca/
       image: /images/2024 Photos/PAT 2024/710b1e92_48ff_4e26_a27a_1d3451047f74.jpg
       alt: Image alt text
-  - infopic:
-      title: "Celebrating our students: 2024 Achievements in Sports"
-      button: Read More
-      alt: Image alt text
-      url: /celebrating-our-students-2024-achievements-in-sports/
-      image: /images/2024 Photos/Sports/2024_NSG_Basketball.jpg
-      description: As we approach Children’s Day, we would like to celebrate our
-        students for their participation and achievements in sports in 2024.
-      subtitle: HIGHLIGHTS
   - infopic:
       title: PSLE Care Pack for P6 Students
       subtitle: HIGHLIGHTS
