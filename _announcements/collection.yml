@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Clean Up South West! 2024 is here!.md
       - Principal's September Letter 2024.md
       - People’s Association (PA) Community Spirit Awards.md
       - Principal's June Letter 2024.md
