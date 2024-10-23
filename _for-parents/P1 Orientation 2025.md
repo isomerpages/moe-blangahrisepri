@@ -177,7 +177,7 @@ to onboard PG in early Dec 23)</p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 <p>&nbsp;Pamphlets:</p>
-<p><a href="/files/P1 Orientation 2025/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">Einglish  Language</a>
+<p><a href="/files/P1 Orientation 2025/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">Einglish Language</a>
 </p>
 <p><a href="/files/P1 Orientation 2025/Document_4b_MOE_FAS_pamphlet__CL_.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
 </p>
