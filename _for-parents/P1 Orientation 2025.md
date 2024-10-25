@@ -64,11 +64,6 @@ of school charges.
 <br>
 <br>Child Development Account (Baby Bonus Account)&nbsp;<strong><u>cannot be used</u></strong>&nbsp;for
 GIRO application.</p>
-<p>&nbsp;</p>
-<p>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -111,9 +106,7 @@ local and overseas enrichment charges.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Please submit this by 6 Nov 2024.</strong>
-</p>
-<p><strong><br>For International Students only.</strong>
+<p><strong>Please submit this by 6 Nov 2024.<br>For International Students only.</strong>
 </p>
 </td>
 </tr>
@@ -128,10 +121,8 @@ local and overseas enrichment charges.</p>
 <td rowspan="1" colspan="1">
 <p>More details will be provided via PG for the completion on the final compulsory
 form.
-<br>
 <br>Submission&nbsp;<strong><u>starts</u></strong>&nbsp;from 25 Nov 2024,
-10am.</p>
-<p>
+10am.
 <br>Submission <strong><u>ends</u></strong> on 31 Dec 2024</p>
 </td>
 </tr>
@@ -201,8 +192,7 @@ refund will be provided.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">DAS - Infocomm Media Development Authority (</a>
-<a rel="noopener noreferrer nofollow" target="_blank">imda.gov.sg</a><a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<p><a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">DAS - Infocomm Media Development Authority</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
