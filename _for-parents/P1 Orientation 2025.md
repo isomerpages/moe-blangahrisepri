@@ -217,7 +217,7 @@ refund will be provided.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Website Link	</strong>
+<p><strong>Website Link</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
