@@ -201,4 +201,96 @@ refund will be provided.
 </tr>
 </tbody>
 </table>
+<p><strong>Other Resources</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vendors</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Website Link	</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HB Book Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.ihuntforbooks.com" rel="noopener noreferrer nofollow" target="_blank">www.ihuntforbooks.com</a>
+</p>
+<p><strong>Sale dates:</strong>
+</p>
+<p>P1 only: 5 Dec 2024</p>
+<p>All levels: 6, 11, 13, 27 Dec 2024</p>
+<p><strong>Booklist:</strong>
+</p>
+<p>Will be provided in T4W10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ordering starts from 18 Nov 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Beau Voix</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.beauvoix.com.sg/</a>
+</p>
+<p><strong>Sale dates:</strong>
+</p>
+<p>P1 only: 5 Dec 2024</p>
+<p>All levels: 6,11, 13, 27 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DKJ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DKJ School Bus Service</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P1_Orientation_2025_QR_Code_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please register your interest via the link. DKJ staff will contact you
+in early Dec 2024.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COMMIT LEARNING SCHOOLHOUSE (CLS) – Student Care Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.jotform.com/242731071192450" rel="noopener nofollow" target="_blank">Enquiry Form</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please indicate your interest by 8 Nov 2024.</p>
+<p></p>
+<p>Email: <a href="mailto:admission_cls_brps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_brps@commitlearning.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
