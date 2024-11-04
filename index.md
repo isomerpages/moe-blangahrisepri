@@ -31,7 +31,7 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
-      title: Clean Up South West! 2024 is here!
+      title: Marine ConservAction Programme
       button: Read More
       alt: Image alt text
       url: /marine-conservaction-programme/
