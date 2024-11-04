@@ -31,15 +31,25 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
-      title: Clean Up South West! 2024 is here!
+      title: Marine ConservAction Programme
       button: Read More
       alt: Image alt text
-      url: /clean-up-south-west-2024-is-here/
-      image: /images/2024 Photos/CDC Clean Up/Clean_Up_South_West__2024___BRPS_pdf.png
-      description: Blangah Rise Primary School is excited to join the recycling
-        movement again! We are calling on all students, parents, and staff to
-        recycle for a greener planet.
-      subtitle: ANNOUNCEMENTS
+      url: /marine-conservaction-programme/
+      image: /images/2024 Photos/P2 LJ/WhatsApp_Image_2024_11_01_at_4_28_26_PM.jpg
+      description: The Primary Two Learning Journey to Sentosa was both fun and
+        educational. Students participated in the Marine ConservAction programme
+      subtitle: HIGHLIGHTS
+  - infopic:
+      title: Deepavali 2024
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: We celebrated Deepavali on 29 October, which saw the hall adorned
+        with vibrant lights, creating an atmosphere brimming with joy and
+        happiness.
+      button: Read More
+      url: /deepavali-2024/
+      image: /images/2024 Photos/Deepavali/Finale_1.jpg
+      alt: Image alt text
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
@@ -49,16 +59,6 @@ sections:
       button: Read More
       url: https://blangahrisepri.moe.edu.sg/president-s-award-for-teachers-pat-recipient-mr-shang-thian-huat-hod-pe-cca/
       image: /images/2024 Photos/PAT 2024/710b1e92_48ff_4e26_a27a_1d3451047f74.jpg
-      alt: Image alt text
-  - infopic:
-      title: PSLE Care Pack for P6 Students
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: This week, our Primary 6 students will be sitting for their Primary
-        School Leaving Examinations (PSLE).
-      button: Read More
-      url: /psle-care-pack-for-p6-students/
-      image: /images/2024 Photos/Care Pack/Pic_8.jpg
       alt: Image alt text
   - infopic:
       title: Feature On Our Alumni Series 2 (Tham Xuan Yi Nathan Silva)
