@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 <p><a href="/files/BRPS-Healthy-Kids-Newsletter-MAY-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">BRPS Healthy Kids Newsletter - May 2021</a>
 </p>
-<p><a href="/files/BRPS-Healthy-Kids-Newsletter-JAN-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">BRPS Healthy Kids Newsletter - Jaunary 2021</a>
+<p><a href="/files/BRPS-Healthy-Kids-Newsletter-JAN-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">BRPS Healthy Kids Newsletter - January 2021</a>
 </p>
 </li>
 <li>
