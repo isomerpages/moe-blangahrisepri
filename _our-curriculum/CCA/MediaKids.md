@@ -40,6 +40,9 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <p><strong>2024 Paris Olympics</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/Toys.jpg">
+</div>
 <p><strong><br>Shadows</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -54,7 +57,6 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <p></p>
 <p><strong>The use of CDs</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/4.png">
 </div>
@@ -62,6 +64,9 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <p><strong>Toy Photography</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/Toys_2.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media%20collage_1.JPG">
 </div>
@@ -73,11 +78,10 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media%20collage_2.JPG">
 </div>
 <p></p>
-<p><strong>Rain</strong>
+<p><strong>Light Bulbs</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media%20collage_3.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/Light.jpg">
 </div>
 <p></p>
 <p><strong>Hands</strong>
