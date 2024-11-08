@@ -70,7 +70,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Sale dates:      </strong>
+</p>
+<p>P1 only: 5 Dec 2024</p>
+<p>All levels: 6, 11, 13, 27 Dec 2024</p>
+<p>Online ordering of uniform will be available from 15 Dec.</p>
+<p>Online ordering of books will be available from 18 Nov</p>
 </td>
 </tr>
 <tr>
