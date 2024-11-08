@@ -105,8 +105,8 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/IMG_8860.JPG">
-<p></p>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/IMG_8858__1_.jpg">
 </div>
@@ -182,6 +182,13 @@ here to read more about “<a href="https://blangahrisepri.moe.edu.sg/special-pr
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media_25.JPG">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_11.jpg">
+</div>
+<p>Our MediaKids photographs were featured in our book publication “In Pursuit
+of a Dream”. Click <a href="https://www.blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p><strong>Other Platforms to extend our MediaKids’ Learning</strong>
 </p>
 <div class="isomer-image-wrapper">
