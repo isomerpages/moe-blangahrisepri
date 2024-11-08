@@ -60,17 +60,22 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Booklist 2024</strong>
-<br><a href="/files/Booklist%202024/Booklist_2024_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2024</a>
-<br><a href="/files/Booklist%202024/Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist 2024</a>
-<br><a href="/files/Booklist%202024/Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2024</a>
-<br><a href="/files/Booklist%202024/Booklist_2024_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2024</a>
-<br><a href="/files/Booklist%202024/Booklist_2024_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2024</a>
-<br><a href="/files/Booklist%202024/Booklist_2024_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2024</a>
+<p><strong>Booklist 2025</strong>
+<br><a href="/files/Booklist 2025/BR_Booklist_2025_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
+<br><a href="/files/Booklist 2025/BR_Booklist_2025_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist 2025</a>
+<br><a href="/files/Booklist 2025/BR_Booklist_2025_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2025</a>
+<br><a href="/files/Booklist 2025/BR_Booklist_2025_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2025</a>
+<br><a href="/files/Booklist 2025/BR_Booklist_2025_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2025</a>
+<br><a href="/files/Booklist 2025/BR_Booklist_2025_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Sale dates:</strong>
+</p>
+<p>P1 only: 5 Dec 2024</p>
+<p>All levels: 6, 11, 13, 27 Dec 2024</p>
+<p>Online ordering of uniform will be available from 15 Dec.</p>
+<p>Online ordering of books will be available from 18 Nov</p>
 </td>
 </tr>
 <tr>
@@ -304,6 +309,34 @@ the following buddy dental clinics for any assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9389 5301</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Administrative Matters</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Change of Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brpschangeofaddress</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for leave of absence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/brpsleaveofabsence" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brpsleaveofabsence</a>
+</p>
 </td>
 </tr>
 </tbody>
