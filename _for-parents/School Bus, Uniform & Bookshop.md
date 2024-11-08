@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sale dates:      </strong>
+<p><strong>Sale dates:</strong>
 </p>
 <p>P1 only: 5 Dec 2024</p>
 <p>All levels: 6, 11, 13, 27 Dec 2024</p>
@@ -309,6 +309,34 @@ the following buddy dental clinics for any assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9389 5301</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Administrative Matters</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Change of Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brpschangeofaddress</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for leave of absence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/brpsleaveofabsence" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brpsleaveofabsence</a>
+</p>
 </td>
 </tr>
 </tbody>
