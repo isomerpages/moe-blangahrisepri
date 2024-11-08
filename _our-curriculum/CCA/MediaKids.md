@@ -105,6 +105,7 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/IMG_8860.JPG">
+<p></p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/IMG_8858__1_.jpg">
