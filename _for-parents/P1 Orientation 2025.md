@@ -238,7 +238,8 @@ refund will be provided.
 <p>All levels: 6, 11, 13, 27 Dec 2024</p>
 <p><strong>Booklist:</strong>
 </p>
-<p>Will be provided in T4W10</p>
+<p><a href="/files/Booklist 2025/BR_Booklist_2025_P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ordering starts from 18 Nov 2024</p>
@@ -257,7 +258,7 @@ refund will be provided.
 <p>All levels: 6, 11, 13, 27 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Online ordering of uniform will be available from 15 Dec.</p>
 </td>
 </tr>
 <tr>
