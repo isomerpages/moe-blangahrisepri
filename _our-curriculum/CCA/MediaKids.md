@@ -6,6 +6,9 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Media Kids/BR_Webpage_20240318_IMG_3500__3_.jpg">
+</div>
 <p>MediaKids is an extension of our <a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/" rel="noopener noreferrer nofollow" target="_blank">Young Photographers</a> programme,
 where our students acquire advanced photography skills and work on school
 publications. It is also a platform to develop 21st century competencies
