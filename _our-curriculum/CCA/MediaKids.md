@@ -55,12 +55,6 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/3.png">
 </div>
 <p></p>
-<p><strong>The use of CDs</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/4.png">
-</div>
-<p></p>
 <p><strong>Toy Photography</strong>
 </p>
 <p></p>
