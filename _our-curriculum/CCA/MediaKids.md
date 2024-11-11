@@ -132,6 +132,9 @@ says Ka Shing, a Primary 5 student.</p>
 <p><strong>Creating a Virtual Gallery with Augmented Reality and Coding</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_1.jpg">
+</div>
 <p>Our students used CoSpaces to design a virtual gallery showcasing their
 own photographs. This interactive exhibit invites visitors to explore each
 student's creative work in an immersive experience. Through augmented reality
