@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Media Kids/BR_Webpage_20240318_IMG_3500__3_.jpg">
 </div>
 <p>MediaKids is an extension of our <a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/" rel="noopener noreferrer nofollow" target="_blank">Young Photographers</a> programme,
 where our students acquire advanced photography skills and work on school
@@ -20,7 +20,7 @@ their creativity, interpersonal skills and collaboration skills.</p>
 <p><strong>Telling Their Own Stories</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media_29.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_13.jpg">
 </div>
 <p>These are some of the composition techniques which our MediaKids have
 learnt in photography. During their weekly CCA, they have the opportunity
@@ -53,12 +53,6 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/3.png">
-</div>
-<p></p>
-<p><strong>The use of CDs</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/4.png">
 </div>
 <p></p>
 <p><strong>Toy Photography</strong>
@@ -135,6 +129,40 @@ says Ka Shing, a Primary 5 student.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media%20collage_5.JPG">
 </div>
+<p><strong>Creating a Virtual Gallery with Augmented Reality and Coding</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_1.jpg">
+</div>
+<p>Our students used CoSpaces to design a virtual gallery showcasing their
+own photographs. This interactive exhibit invites visitors to explore each
+student's creative work in an immersive experience. Through augmented reality
+and coding, students brought their photos to life, highlighting the stories
+and inspirations behind each image in a vibrant, virtual space.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_5.jpg">
+</div>
+<p>After completing their virtual galleries, students held a sharing session
+with fellow MediaKids members, where they discussed the creative process
+behind their work. They shared the thought and intention behind each aesthetic
+decision – explaining why they chose certain colours, themes, and layouts
+to enhance the mood and meaning of their photographs. This session allowed
+students not only to showcase their creations but also to reflect on and
+celebrate the choices that shaped their unique virtual galleries, fostering
+inspiration and mutual support among peers.</p>
+<p></p>
 <p><strong>Bicentennial-Themed Coffee Table Book</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -186,13 +214,13 @@ here to read more about “<a href="https://blangahrisepri.moe.edu.sg/special-pr
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media_25.JPG">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_11.jpg">
-</div>
 <p>Our MediaKids photographs were featured in our book publication “In Pursuit
 of a Dream”. Click <a href="https://www.blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener nofollow" target="_blank">here</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_11.jpg">
+</div>
+<p></p>
 <p><strong>Other Platforms to extend our MediaKids’ Learning</strong>
 </p>
 <div class="isomer-image-wrapper">
