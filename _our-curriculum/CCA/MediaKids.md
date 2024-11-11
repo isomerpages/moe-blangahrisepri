@@ -129,6 +129,14 @@ says Ka Shing, a Primary 5 student.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media%20collage_5.JPG">
 </div>
+<p><strong>Creating a Virtual Gallery with Augmented Reality and Coding</strong>
+</p>
+<p></p>
+<p>Our students used CoSpaces to design a virtual gallery showcasing their
+own photographs. This interactive exhibit invites visitors to explore each
+student's creative work in an immersive experience. Through augmented reality
+and coding, students brought their photos to life, highlighting the stories
+and inspirations behind each image in a vibrant, virtual space.</p>
 <p><strong>Bicentennial-Themed Coffee Table Book</strong>
 </p>
 <div class="isomer-image-wrapper">
