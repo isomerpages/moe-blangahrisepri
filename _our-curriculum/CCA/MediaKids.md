@@ -131,7 +131,6 @@ says Ka Shing, a Primary 5 student.</p>
 </div>
 <p><strong>Creating a Virtual Gallery with Augmented Reality and Coding</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_1.jpg">
 </div>
@@ -140,6 +139,30 @@ own photographs. This interactive exhibit invites visitors to explore each
 student's creative work in an immersive experience. Through augmented reality
 and coding, students brought their photos to life, highlighting the stories
 and inspirations behind each image in a vibrant, virtual space.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_5.jpg">
+</div>
+<p>After completing their virtual galleries, students held a sharing session
+with fellow MediaKids members, where they discussed the creative process
+behind their work. They shared the thought and intention behind each aesthetic
+decision – explaining why they chose certain colours, themes, and layouts
+to enhance the mood and meaning of their photographs. This session allowed
+students not only to showcase their creations but also to reflect on and
+celebrate the choices that shaped their unique virtual galleries, fostering
+inspiration and mutual support among peers.</p>
+<p></p>
 <p><strong>Bicentennial-Themed Coffee Table Book</strong>
 </p>
 <div class="isomer-image-wrapper">
