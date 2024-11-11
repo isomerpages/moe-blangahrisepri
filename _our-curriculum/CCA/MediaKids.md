@@ -6,9 +6,6 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_13.jpg">
-</div>
 <p>MediaKids is an extension of our <a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/" rel="noopener noreferrer nofollow" target="_blank">Young Photographers</a> programme,
 where our students acquire advanced photography skills and work on school
 publications. It is also a platform to develop 21st century competencies
@@ -20,7 +17,7 @@ their creativity, interpersonal skills and collaboration skills.</p>
 <p><strong>Telling Their Own Stories</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media_29.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_13.jpg">
 </div>
 <p>These are some of the composition techniques which our MediaKids have
 learnt in photography. During their weekly CCA, they have the opportunity
