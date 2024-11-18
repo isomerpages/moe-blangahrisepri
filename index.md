@@ -36,7 +36,7 @@ sections:
       alt: Image alt text
       url: https://blangahrisepri.moe.edu.sg/chen-yi-jia-semi-finalist-at-the-37th-plain-english-speaking-awards/
       image: /images/2024 Photos/Plain English Speaking Awards/PESA_1.jpg
-      description: Chen Yi Jia from 4T, who proudly represented our school in the 37th
+      description: Chen Yi Jia from 2T, who proudly represented our school in the 37th
         Plain English Speaking Awards (PESA) this year.
       subtitle: HIGHLIGHTS
   - infopic:
