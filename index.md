@@ -40,15 +40,14 @@ sections:
         educational. Students participated in the Marine ConservAction programme
       subtitle: HIGHLIGHTS
   - infopic:
-      title: Deepavali 2024
+      title: 14th SUPER Zonal Scrabble Competition 2024
       subtitle: HIGHLIGHTS
       id: infopic
-      description: We celebrated Deepavali on 29 October, which saw the hall adorned
-        with vibrant lights, creating an atmosphere brimming with joy and
-        happiness.
+      description: Our students showcased their English language skills at the 14th
+        SUPER Zonal Scrabble Competition 2024.
       button: Read More
-      url: /deepavali-2024/
-      image: /images/2024 Photos/Deepavali/Finale_1.jpg
+      url: https://blangahrisepri.moe.edu.sg/14th-super-zonal-scrabble-competition-2024/
+      image: /images/2024 Photos/Scrabble 2024/Scrabble_2.jpg
       alt: Image alt text
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
