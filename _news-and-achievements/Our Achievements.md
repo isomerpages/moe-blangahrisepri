@@ -8,12 +8,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 </div>
 <h4><strong>2024</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Semi-Finalist at the 37th Plain English Speaking Awards: Chen Yi Jia (2
-Topaz)</p>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Junior Division, Zonal Champion for South Zone: Hannah Leong, Ng Ren Jie,
 Ruqia Binte Muhammad Haekal Mattar, Estaras Judah Maqdiel Torres</p>
