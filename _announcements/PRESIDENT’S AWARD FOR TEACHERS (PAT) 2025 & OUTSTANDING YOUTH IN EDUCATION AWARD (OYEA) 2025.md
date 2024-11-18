@@ -40,7 +40,7 @@ encouragement for the teacher(s).</p>
 <p></p>
 <p>6.&nbsp;For queries and/or feedback about the awards, please contact
 <a rel="noopener noreferrer nofollow" target="_blank">MOE_PATOYEA@moe.gov.sg</a>.</p>
-<p>7.&nbsp;Thank you for your support in recognising the contribution and
+<p>7.&nbsp;Thank you for your support in recognizing the contribution and
 impact of our teachers!</p>
 <p></p>
 <div class="isomer-image-wrapper">
