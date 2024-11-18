@@ -17,7 +17,7 @@ third_nav_title: "2024"
 </p>
 <p></p>
 <p>We are thrilled to shine a spotlight on one of our students, Chen Yi Jia
-from 4T, who proudly represented our school in the 37th Plain English Speaking
+from 2T, who proudly represented our school in the 37th Plain English Speaking
 Awards (PESA) this year. Yi Jia demonstrated her dedication by stepping
 out of her comfort zone to participate in PESA, advancing to the Semi-finals
 and showcasing impressive public speaking skills.</p>
