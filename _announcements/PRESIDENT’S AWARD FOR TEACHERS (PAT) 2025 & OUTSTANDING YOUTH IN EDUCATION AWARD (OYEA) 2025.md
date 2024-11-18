@@ -34,12 +34,20 @@ nomination(s) for one or more deserving teacher(s) by clicking on the URLs
 or scanning the QR codes below. Your nomination(s) will be a source of
 encouragement for the teacher(s).</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/PAT OYEA 2025/QR.jpg">
+</div>
 <p></p>
 <p>6.&nbsp;For queries and/or feedback about the awards, please contact
 <a rel="noopener noreferrer nofollow" target="_blank">MOE_PATOYEA@moe.gov.sg</a>.</p>
 <p>7.&nbsp;Thank you for your support in recognising the contribution and
 impact of our teachers!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/PAT OYEA 2025/PAT_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/PAT OYEA 2025/OYEA_2025.jpg">
+</div>
+<p></p>
