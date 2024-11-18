@@ -31,13 +31,13 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
-      title: Marine ConservAction Programme
+      title: 37th Plain English Speaking Awards
       button: Read More
       alt: Image alt text
-      url: /marine-conservaction-programme/
-      image: /images/2024 Photos/P2 LJ/WhatsApp_Image_2024_11_01_at_4_28_26_PM.jpg
-      description: The Primary Two Learning Journey to Sentosa was both fun and
-        educational. Students participated in the Marine ConservAction programme
+      url: https://blangahrisepri.moe.edu.sg/chen-yi-jia-semi-finalist-at-the-37th-plain-english-speaking-awards/
+      image: /images/2024 Photos/Plain English Speaking Awards/PESA_1.jpg
+      description: Chen Yi Jia from 4T, who proudly represented our school in the 37th
+        Plain English Speaking Awards (PESA) this year.
       subtitle: HIGHLIGHTS
   - infopic:
       title: 14th SUPER Zonal Scrabble Competition 2024
