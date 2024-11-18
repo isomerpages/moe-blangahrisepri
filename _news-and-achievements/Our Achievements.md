@@ -10,6 +10,20 @@ variant: tiptap
 <h4><strong>2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Junior Division, Zonal Champion for South Zone: Hannah Leong, Ng Ren Jie,
+Ruqia Binte Muhammad Haekal Mattar, Estaras Judah Maqdiel Torres</p>
+<p></p>
+</li>
+<li>
+<p>Junior Division, Runner-up for Super-zonal Rounds: Ayden Kang, Chu Po-Wei,
+Ong Han Hua</p>
+<p></p>
+</li>
+<li>
+<p>Best School Player: Kuo Jiu Ting</p>
+<p></p>
+</li>
+<li>
 <p>President’s Award for Teachers (PAT) Recipient: Mr Shang Thian Huat</p>
 </li>
 <li>
