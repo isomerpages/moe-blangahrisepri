@@ -5,6 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Scrabble 2024/Scrabble_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Scrabble 2024/Scrabble_1.jpg">
+</div>
 <p><strong>14th SUPER Zonal Scrabble Competition 2024</strong>
 </p>
 <p></p>
