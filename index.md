@@ -31,6 +31,17 @@ sections:
       image: /images/Announcements/mr foo.JPG
       url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
   - infopic:
+      title: PAT & OYEA 2025
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: Every year, the President’s Award for Teachers (PAT) and the
+        Outstanding Youth in Education Award (OYEA) are given out to teachers in
+        Singapore
+      button: CLICK HERE TO READ MORE
+      url: https://blangahrisepri.moe.edu.sg/president-s-award-for-teachers-pat-2025-outstanding-youth-in-education-award-oyea-2025/
+      image: /images/2024 Photos/PAT OYEA 2025/Cover.jpg
+      alt: Image alt text
+  - infopic:
       title: 37th Plain English Speaking Awards
       button: Read More
       alt: Image alt text
