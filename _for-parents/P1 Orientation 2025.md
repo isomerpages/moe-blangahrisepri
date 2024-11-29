@@ -235,7 +235,7 @@ refund will be provided.
 <p><strong>Sale dates:</strong>
 </p>
 <p>P1 only: 5 Dec 2024</p>
-<p>All levels: 6, 11, 13, 27 Dec 2024</p>
+<p>All levels: 6, 11, 12, 13, 27 Dec 2024</p>
 <p><strong>Booklist:</strong>
 </p>
 <p><a href="/files/Booklist 2025/BR_Booklist_2025_P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
