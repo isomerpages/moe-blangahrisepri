@@ -102,7 +102,7 @@ local and overseas enrichment charges.</p>
 <p>P1 Student Particulars Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brpsstudentparticulars</a>
+<p><a href="https://form.gov.sg/65309b00d7ecd5001195222a" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brpsstudentparticulars</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,7 +115,7 @@ local and overseas enrichment charges.</p>
 <p>Student Details Portal Data Capture</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,7 +147,7 @@ form.
 </p>
 <p>For IOS users:&nbsp; <a href="https://go.gov.sg/pg003" rel="noopener noreferrer nofollow" target="_blank">Parent Gateway for IOS</a>
 </p>
-<p>&nbsp;For the full list of FAQs, you may visit <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/faq</a>
+<p>&nbsp;For the full list of FAQs, you may visit <a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/faq</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
