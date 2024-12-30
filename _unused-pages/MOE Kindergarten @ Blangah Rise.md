@@ -2,7 +2,6 @@
 title: MOE Kindergarten @ Blangah Rise
 permalink: /moe-kindergarten-blangah-rise/
 description: ""
-third_nav_title: Blangah Rise Learning Campus
 variant: markdown
 ---
 <img src="/images/BRPS-and-MK-Banner-Photo2.jpg"><br>
