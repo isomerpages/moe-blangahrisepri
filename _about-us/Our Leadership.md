@@ -15,4 +15,3 @@ Mrs Jenny Quek (HOD Science), Ms Aprilene Goh (HOD English Language), Mdm Chong 
 	
 <strong>ROW 3 :</strong><br>
 Mr Leow Qinjin (Level Head – Science), Mr Shang Thian Huat (HOD PE and CCA), Mr Muhammad Salim Ahmad Jamil (Subject Head – Student Management), Mr Chua Kah Hern (Subject Head – Student Well-being), Mr John Chia (Assistant Year Head – Junior Primary), Mr James Han (School Staff Developer)
-
