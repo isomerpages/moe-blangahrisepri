@@ -8,7 +8,7 @@ variant: markdown
 
 Dear Visitors,
 
-Welcome to Blangah Rise Primary School’s website! As the principal of this vibrant and forward-looking school, I am honored to share with you the exciting learning journey we embark on every day. Our school’s vision—"A joyful school of confident learners and caring leaders"—guides our mission to nurture well-rounded individuals ready to thrive in an ever-changing world.
+Welcome to Blangah Rise Primary School’s website! As the principal of this vibrant and forward-looking school, I am honored to share with you the exciting learning journey we embark on every day. Our school’s vision—"*A joyful school of confident learners and caring leaders*"—guides our mission to nurture well-rounded individuals ready to thrive in an ever-changing world.
 
 Blangah Rise Primary School stands on a strong foundation of nurturing care and innovative practices, led by the dedicated efforts of my predecessor, Mr. Francis Foo. Together with our dedicated staff, I am committed to carrying forward this legacy by fostering a sense of belonging and creating opportunities for every student to feel supported, valued, and empowered.
 
@@ -27,4 +27,3 @@ Warm regards,
 
 Ms Pearly Ng
 Principal
-
