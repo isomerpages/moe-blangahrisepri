@@ -1,7 +1,8 @@
 ---
-title: PE Education
+title: Physical Education
 permalink: /departments/pe-aesthetics-education/
 description: ""
+variant: tiptap
 ---
 <img src="/images/IMG_4616.jpg">
 <p><strong>Vision:<br></strong>Every child competent and confident in movement, art and music.</p>
