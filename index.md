@@ -29,7 +29,7 @@ sections:
       button: Click here to read more
       alt: Image alt text
       image: /images/2025 Photo Album/Principal
-        Photo/Ms_Ng___Photo_for_Letter_on_Website.jpg
+        Photo/ms_ng___downsize_photo_for_letter_.png
       url: /principal-s-term-1-letter/
   - infopic:
       title: PAT & OYEA 2025
