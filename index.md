@@ -24,12 +24,13 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's September Letter 2024
+      title: Principal's Term 1 Letter
       subtitle: ANNOUNCEMENTS
       button: Click here to read more
       alt: Image alt text
-      image: /images/Announcements/mr foo.JPG
-      url: https://blangahrisepri.moe.edu.sg/principal-s-september-letter-2024/
+      image: /images/2025 Photo Album/Principal
+        Photo/Ms_Ng___Photo_for_Letter_on_Website.jpg
+      url: /principal-s-term-1-letter/
   - infopic:
       title: PAT & OYEA 2025
       subtitle: ANNOUNCEMENTS
