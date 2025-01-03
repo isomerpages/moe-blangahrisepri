@@ -8,8 +8,61 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 </div>
 <h4><strong>2024</strong></h4>
-<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p>BRPS Inspiring Teacher Award - Mdm Uuchi Mashaida Khalil Virtucio (Teaching
+&amp; Learning), Ms Maddie Wong Jing Theng (Character &amp; Citizenship
+Education), Ms Ivy Teo Siok Cheng (Co-Curricular Learning)</p>
+<p></p>
+</li>
+<li>
+<p>BRPS ICT Star Award - Mdm Grace Lee Wan Chen</p>
+<p></p>
+</li>
+<li>
+<p>BRPS Teacher Mentor Award - Mdm Mariana Binte Hussain</p>
+<p></p>
+</li>
+<li>
+<p>Outstanding Contribution Award (Team): CCE (CMT &amp; SC) Team - Mdm Stephanie
+Song Peck Ling, Mr Samuel Ooi Junwei, Mr Dinesh s/o Loganadhan, Ms Goh
+Huishan Aprilene, Mdm Koh Yen Ling Kimberly. EAS School Admin Team - Ms
+Sophia Goh, Ms Tan Jing Ting, Mdm Nelita Binte Kadmadi. EL Team - Ms Goh
+Huishan Aprilene, Ms Elaine Heng Ee Hwei, Ms Ivy Teo Siok Cheng, Ms Teo
+Siew Kuang, Mrs Teresa Tay-Leong Pui San, Mdm Uuchi Mashaida Khalil Virtucio.
+MK Team - Ms Chen Huizhu, Mdm Png Siew Li Pauline, Ms Candice Ee Wei Yuan.
+TTL Team - Dr Zheng Yingjiang, Mrs Jenny Quek, Ms Ng Geok Peng Georgina,
+Ms CHong Jie Shi, Mr Han Choon Boon James</p>
+<p></p>
+</li>
+<li>
+<p>Outstanding Contribution Award (Individual) - Ms Abigail Ow, Mr Leow Qinjin,
+Ms Norhidah Binte Othman, Mrs Sabrina Tan-Wang Lee Sin, Mdm Tan Bee Lay</p>
+<p></p>
+</li>
+<li>
+<p>Innergy Award (Gold) - Mr Samuel Ooi Juniwei, Mdm Stephanie Song Peck
+Ling, Mr Goh Leng Wee Patrick, Md Koh Yen Ling Kimberly, Mr Muhammad Salim
+Ahmad Jamil, Ms Hung Mong Ping, Ms Chermaine Chua, Ms Ang Bee Lian, Ms
+Sharon Lee Xunxun, Mr Chua Kah Hern</p>
+<p></p>
+</li>
+<li>
+<p>Associate AST Awards Recipient - Mr Han Choon Boon James</p>
+<p></p>
+</li>
+<li>
+<p>President's Award for Teachers 2024 - Mr Shang Thian Huat</p>
+<p></p>
+</li>
+<li>
+<p>National Day Award: Commendation Medal - Mdm Koh Yen Ling Kimberly</p>
+<p></p>
+</li>
+<li>
+<p>National Day Award: Long Service Medal - Mr Shang Thian Huat</p>
+<p></p>
+</li>
 <li>
 <p>Junior Division, Zonal Champion for South Zone: Hannah Leong, Ng Ren Jie,
 Ruqia Binte Muhammad Haekal Mattar, Estaras Judah Maqdiel Torres</p>
