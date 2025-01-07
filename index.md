@@ -42,6 +42,16 @@ sections:
       image: /images/2024 Photos/PAT OYEA 2025/Cover.jpg
       alt: Image alt text
   - infopic:
+      title: Kicking Off the New School Year
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: We began the year with enthusiasm, welcoming our parents to a
+        meaningful workshop on the 7 Habits.
+      button: Read More
+      url: /kicking-off-the-new-school-year/
+      image: /images/2025 Photo Album/FDoS/1.jpg
+      alt: Image alt text
+  - infopic:
       title: 37th Plain English Speaking Awards
       button: Read More
       alt: Image alt text
@@ -50,16 +60,6 @@ sections:
       description: Chen Yi Jia from 2T, who proudly represented our school in the 37th
         Plain English Speaking Awards (PESA) this year.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: 14th SUPER Zonal Scrabble Competition 2024
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Our students showcased their English language skills at the 14th
-        SUPER Zonal Scrabble Competition 2024.
-      button: Read More
-      url: https://blangahrisepri.moe.edu.sg/14th-super-zonal-scrabble-competition-2024/
-      image: /images/2024 Photos/Scrabble 2024/Scrabble_2.jpg
-      alt: Image alt text
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
