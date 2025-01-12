@@ -31,7 +31,7 @@ opportunity to take my first step, just like the small plant. Although
 I am small, I have the chance to grow, just like the plant. Every step
 I take requires time and effort. Though I do not have a clear dream yet,
 I can start small and dream big.</p>
-<h4><strong>Best Photo Story</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/POTY 2024/4.png">
 </div>
@@ -123,6 +123,10 @@ them into reality.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/POTY 2024/Temperence_1.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/POTY 2024/Temperence_2.jpg">
+</div>
 <p><strong>TEMPERANCE LEE YAN XI, 5 Sapphire</strong>
 </p>
 <p>These photographs were taken at the pond outside my block, where a LEGO
@@ -132,7 +136,3 @@ Singapore's ongoing journey towards a clean and sustainable water supply.</p>
 steps toward ensuring a greener, more sustainable future. This journey,
 like the pursuit of any dream, requires innovation, commitment, and a shared
 desire for progress. I hope to be part of that transformative effort.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/POTY 2024/Temperence_2.jpg">
-</div>
-<p></p>
