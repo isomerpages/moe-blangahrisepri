@@ -24,6 +24,16 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Kicking Off the New School Year
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: We began the year with enthusiasm, welcoming our parents to a
+        meaningful workshop on the 7 Habits.
+      button: Read More
+      url: /kicking-off-the-new-school-year/
+      image: /images/2025 Photo Album/FDoS/1.jpg
+      alt: Image alt text
+  - infopic:
       title: Principal's Term 1 Letter
       subtitle: ANNOUNCEMENTS
       button: Click here to read more
@@ -40,16 +50,6 @@ sections:
       button: CLICK HERE TO READ MORE
       url: https://blangahrisepri.moe.edu.sg/president-s-award-for-teachers-pat-2025-outstanding-youth-in-education-award-oyea-2025/
       image: /images/2024 Photos/PAT OYEA 2025/Cover.jpg
-      alt: Image alt text
-  - infopic:
-      title: Kicking Off the New School Year
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: We began the year with enthusiasm, welcoming our parents to a
-        meaningful workshop on the 7 Habits.
-      button: Read More
-      url: /kicking-off-the-new-school-year/
-      image: /images/2025 Photo Album/FDoS/1.jpg
       alt: Image alt text
   - infopic:
       title: 37th Plain English Speaking Awards
