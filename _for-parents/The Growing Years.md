@@ -48,11 +48,11 @@ variant: markdown
 <p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2025</u>:</strong></p>
 <p style="text-align: center;"><strong>Primary 5</strong></p>
 
-![](/images/Growing%20Years/P5_Growing_Years_1.jpg)
+![](/images/Growing%20Years/Pri_5_Growing_Years.jpg)
 
 <p style="text-align: center;"><strong>Primary 6</strong></p>
 
-![](/images/Growing%20Years/P6_Growing_Years_2.jpg)
+![](/images/Growing%20Years/Pri_6_Growing_Years.jpg)
 
 <p><strong>Please Note:</strong></p>
 <p><strong>*For&nbsp;<u>2025</u>, the Primary 5 lesson “<em>Did You Know</em>?” will also be conducted for the Primary 6 cohort.&nbsp;</strong></p>
