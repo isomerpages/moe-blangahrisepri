@@ -26,7 +26,7 @@ variant: markdown
 <li>Make responsible decisions for yourself, your family and society; and</li>
 <li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ul>
-<p><strong>Overview of Blangah Rise Primary&nbsp;</strong><strong>School’s</strong><strong>&nbsp;Sexuality Education Programme for 2024</strong></p>
+<p><strong>Overview of Blangah Rise Primary&nbsp;</strong><strong>School’s</strong><strong>&nbsp;Sexuality Education Programme for 2025</strong></p>
 <ol start="4">
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach"><u>here</u></a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
 </ol>
@@ -45,20 +45,20 @@ variant: markdown
 <ol start="7">
 <li>The Primary 5 &amp; 6 Growing Years (GY) package aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</li>
 </ol>
-<p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2024</u>:</strong></p>
+<p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2025</u>:</strong></p>
 <p style="text-align: center;"><strong>Primary 5</strong></p>
 
-![](/images/Growing%20Years/P5_Growing_Years_1.jpg)
+![](/images/Growing%20Years/Pri_5_Growing_Years.jpg)
 
 <p style="text-align: center;"><strong>Primary 6</strong></p>
 
-![](/images/Growing%20Years/P6_Growing_Years_2.jpg)
+![](/images/Growing%20Years/Pri_6_Growing_Years.jpg)
 
 <p><strong>Please Note:</strong></p>
-<p><strong>*For&nbsp;<u>2024</u>, the Primary 5 lesson “<em>Did You Know</em>?” will also be conducted for the Primary 6 cohort.&nbsp;</strong></p>
+<p><strong>*For&nbsp;<u>2025</u>, the Primary 5 lesson “<em>Did You Know</em>?” will also be conducted for the Primary 6 cohort.&nbsp;</strong></p>
 <p><strong>Information for Parents</strong></p>
 <ol start="8">
 <li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
-<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Growing%20Years/Growing_Years_Programme_2024_01.pdf"><strong>here</strong></a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>16/02/2024</strong>.</li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Growing%20Years/Parents__Letter___Opt_out_Form_2025__Signed_.pdf"><strong>here</strong></a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>16/02/2025</strong>.</li>
 <li>Parents can contact the school at&nbsp;<strong>brps@moe.edu.sg&nbsp;</strong>or&nbsp;<strong>6271 7387</strong>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li>
 </ol>

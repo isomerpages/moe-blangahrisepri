@@ -165,7 +165,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>NASCANS@Blangah Rise Student Care Centre</strong>
+<p><strong>Commit Learning SchoolHouse (CLS) – Student Care Centre</strong>
 </p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ variant: tiptap
 <p>Contact Person:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fionn Ling (Centre Supervisor)</p>
+<p>Theresa Ann (Centre Head)</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ variant: tiptap
 <p>Contact No.:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>94596376</p>
+<p>89138340</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:brscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">brscc@nascans.com</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">theresa_ann_simon_joseph@commitlearning.com.sg</a>
 </p>
 </td>
 </tr>
