@@ -38,11 +38,13 @@ CCA VIA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Scouts VIA/5.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Scouts VIA/4.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Scouts VIA/6.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Scouts VIA/6.png">
 </div>
 <p></p>
