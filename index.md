@@ -24,6 +24,25 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Lunar New Year Celebration 2025
+      button: Read More
+      alt: Image alt text
+      url: /lunar-new-year-celebration-2025/
+      image: /images/2025 Photo Album/CNY/CNY_1.jpg
+      description: We celebrated the Lunar New Year on 28 January 2025 with great joy
+        and enthusiasm!
+      subtitle: HIGHLIGHTS
+  - infopic:
+      title: Serving, learning and growing together!
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: On 20 January 2025, our Scouts organised sports and games for more
+        than 40 seniors at Telok Blangah Community Club.
+      button: CLICK HERE TO READ MORE
+      url: /serving-learning-and-growing-together/
+      image: /images/2025 Photo Album/Scouts VIA/1.png
+      alt: Image alt text
+  - infopic:
       title: Kicking Off the New School Year
       subtitle: HIGHLIGHTS
       id: infopic
@@ -40,26 +59,6 @@ sections:
       alt: Image alt text
       image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
       url: /principal-s-term-1-letter/
-  - infopic:
-      title: PAT & OYEA 2025
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      description: Every year, the President’s Award for Teachers (PAT) and the
-        Outstanding Youth in Education Award (OYEA) are given out to teachers in
-        Singapore
-      button: CLICK HERE TO READ MORE
-      url: https://blangahrisepri.moe.edu.sg/president-s-award-for-teachers-pat-2025-outstanding-youth-in-education-award-oyea-2025/
-      image: /images/2024 Photos/PAT OYEA 2025/Cover.jpg
-      alt: Image alt text
-  - infopic:
-      title: 37th Plain English Speaking Awards
-      button: Read More
-      alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/chen-yi-jia-semi-finalist-at-the-37th-plain-english-speaking-awards/
-      image: /images/2024 Photos/Plain English Speaking Awards/PESA_1.jpg
-      description: Chen Yi Jia from 2T, who proudly represented our school in the 37th
-        Plain English Speaking Awards (PESA) this year.
-      subtitle: HIGHLIGHTS
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
