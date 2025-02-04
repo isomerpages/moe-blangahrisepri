@@ -63,11 +63,10 @@ and&nbsp;<strong><a href="/chinese-junior-reporters-videos/" rel="noopener noref
 view the journalism broadcast on Channel Dian Dian Di Di Chinese Junior
 Reporters.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BI2HJ8umyNQ?si=XQ590sevxw10HyuD"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tGSSuluDmMw?si=MPYiF9sZJdju2VJe"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2d9k8I2Oqmc?si=YNBfC6Cz4eG3OCAq"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/foqUzwzeYVQ?si=InznMTNkAdioeY_N"></iframe>
 </div>
-<p></p>
 <p></p>
