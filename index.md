@@ -29,7 +29,7 @@ sections:
       button: Click here to read more
       alt: Image alt text
       image: /images/2025 Photo Album/Clean Up @ South West/Clean_Up_3.png
-      url: /principal-s-term-1-letter/
+      url: /blangah-rise-primary-at-clean-up-south-west-2025/
       description: On 25 January, our students proudly took part in the Clean Up @
         South West event at Keat Hong Community Club.
   - infopic:
