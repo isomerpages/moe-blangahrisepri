@@ -24,6 +24,15 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Blangah Rise Primary at Clean Up @ South West 2025
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2025 Photo Album/Clean Up @ South West/Clean_Up_3.png
+      url: /principal-s-term-1-letter/
+      description: On 25 January, our students proudly took part in the Clean Up @
+        South West event at Keat Hong Community Club.
+  - infopic:
       title: Lunar New Year Celebration 2025
       button: Read More
       alt: Image alt text
@@ -52,13 +61,6 @@ sections:
       url: /kicking-off-the-new-school-year/
       image: /images/2025 Photo Album/FDoS/1.jpg
       alt: Image alt text
-  - infopic:
-      title: Principal's Term 1 Letter
-      subtitle: ANNOUNCEMENTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
-      url: /principal-s-term-1-letter/
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
