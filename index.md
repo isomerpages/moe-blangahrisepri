@@ -24,6 +24,16 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Student Leaders’ Investiture 2025
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: We proudly held our annual Student Leaders' Investiture,
+        celebrating the dedication and leadership of our students.
+      button: Read More
+      url: /student-leaders-investiture-2025-a-celebration-of-leadership-and-commitment/
+      image: /images/2025 Photo Album/Student Leader Investiture/IMG_0034.jpg
+      alt: Image alt text
+  - infopic:
       title: Blangah Rise Primary at Clean Up @ South West 2025
       subtitle: HIGHLIGHTS
       button: Click here to read more
@@ -50,16 +60,6 @@ sections:
       button: CLICK HERE TO READ MORE
       url: /serving-learning-and-growing-together/
       image: /images/2025 Photo Album/Scouts VIA/1.png
-      alt: Image alt text
-  - infopic:
-      title: Kicking Off the New School Year
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: We began the year with enthusiasm, welcoming our parents to a
-        meaningful workshop on the 7 Habits.
-      button: Read More
-      url: /kicking-off-the-new-school-year/
-      image: /images/2025 Photo Album/FDoS/1.jpg
       alt: Image alt text
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
