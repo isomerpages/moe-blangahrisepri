@@ -2,13 +2,14 @@
 title: Our Identity
 permalink: /about-us/our-identity/
 description: ""
+variant: markdown
 ---
 <img src="/images/banner_Our-Identity.jpeg">
 <h3><strong>Vision, Mission &amp; Thrust</strong></h3>
 <h4><strong>Our Vision</strong><br>A joyful school of&nbsp;confident learners and caring leaders.</h4>
 <h4><strong>Our Mission</strong><br>Nurturing Every Child Holistically.</h4>
 <h3><strong>School Emblem</strong></h3>
-<img src="/images/BRPS-logo-2019-Final_png-740x1024.png" style="width:50%">
+<img style="/images/2025%20Photo%20Album/BRPS_logo_portrait_2025.jpg">
 <h3><strong>School Song</strong></h3>
 <p>We are steadfast in our aim<br>We shall rise above the others is our claim<br>We trust in our dream<br>United as a team!<br>United as a team!</p>
 <p><em>Chorus:</em><br><strong>Blangah Rise</strong>,&nbsp;<strong>Blangah Rise</strong><br>We sing it with one heart, together<br>We shall strive, we shall rise!<br>Steadfast and glorious forever!</p>
