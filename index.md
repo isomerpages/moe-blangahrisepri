@@ -24,6 +24,16 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: The Straits Times - Little Red Dot
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: The Straits Times - Little Red Dot on 18 February. Check out the
+        article – Quick and tasty school meals on the menu.
+      button: CLICK HERE TO READ MORE
+      url: /the-straits-times-little-red-dot/
+      image: /images/2025 Photo Album/Red_Dot_Article_.png
+      alt: Image alt text
+  - infopic:
       title: Student Leaders’ Investiture 2025
       subtitle: HIGHLIGHTS
       id: infopic
@@ -51,16 +61,6 @@ sections:
       description: We celebrated the Lunar New Year on 28 January 2025 with great joy
         and enthusiasm!
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: Serving, learning and growing together!
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: On 20 January 2025, our Scouts organised sports and games for more
-        than 40 seniors at Telok Blangah Community Club.
-      button: CLICK HERE TO READ MORE
-      url: /serving-learning-and-growing-together/
-      image: /images/2025 Photo Album/Scouts VIA/1.png
-      alt: Image alt text
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
