@@ -24,6 +24,25 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Learning beyond the classrooms!
+      button: Read More
+      alt: Image alt text
+      url: /learning-beyond-the-classrooms/
+      image: /images/2025 Photo Album/Musuem Based Learning/IMG_9911.jpg
+      description: In early February, our Primary 3 students embarked on an enriching
+        learning journey to the Geylang Serai Heritage Gallery
+      subtitle: HIGHLIGHTS
+  - infopic:
+      title: The Straits Times - Little Red Dot
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: The Straits Times - Little Red Dot on 18 February. Check out the
+        article – Quick and tasty school meals on the menu.
+      button: CLICK HERE TO READ MORE
+      url: /the-straits-times-little-red-dot/
+      image: /images/2025 Photo Album/Red_Dot_Article_.png
+      alt: Image alt text
+  - infopic:
       title: Student Leaders’ Investiture 2025
       subtitle: HIGHLIGHTS
       id: infopic
@@ -42,25 +61,6 @@ sections:
       url: /blangah-rise-primary-at-clean-up-south-west-2025/
       description: On 25 January, our students proudly took part in the Clean Up @
         South West event at Keat Hong Community Club.
-  - infopic:
-      title: Lunar New Year Celebration 2025
-      button: Read More
-      alt: Image alt text
-      url: /lunar-new-year-celebration-2025/
-      image: /images/2025 Photo Album/CNY/CNY_1.jpg
-      description: We celebrated the Lunar New Year on 28 January 2025 with great joy
-        and enthusiasm!
-      subtitle: HIGHLIGHTS
-  - infopic:
-      title: Serving, learning and growing together!
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: On 20 January 2025, our Scouts organised sports and games for more
-        than 40 seniors at Telok Blangah Community Club.
-      button: CLICK HERE TO READ MORE
-      url: /serving-learning-and-growing-together/
-      image: /images/2025 Photo Album/Scouts VIA/1.png
-      alt: Image alt text
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
