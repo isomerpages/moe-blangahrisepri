@@ -24,6 +24,15 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Learning beyond the classrooms!
+      button: Read More
+      alt: Image alt text
+      url: /learning-beyond-the-classrooms/
+      image: /images/2025 Photo Album/Musuem Based Learning/IMG_9911.jpg
+      description: In early February, our Primary 3 students embarked on an enriching
+        learning journey to the Geylang Serai Heritage Gallery
+      subtitle: HIGHLIGHTS
+  - infopic:
       title: The Straits Times - Little Red Dot
       subtitle: ANNOUNCEMENTS
       id: infopic
@@ -52,15 +61,6 @@ sections:
       url: /blangah-rise-primary-at-clean-up-south-west-2025/
       description: On 25 January, our students proudly took part in the Clean Up @
         South West event at Keat Hong Community Club.
-  - infopic:
-      title: Lunar New Year Celebration 2025
-      button: Read More
-      alt: Image alt text
-      url: /lunar-new-year-celebration-2025/
-      image: /images/2025 Photo Album/CNY/CNY_1.jpg
-      description: We celebrated the Lunar New Year on 28 January 2025 with great joy
-        and enthusiasm!
-      subtitle: HIGHLIGHTS
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
