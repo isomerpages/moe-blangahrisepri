@@ -24,15 +24,6 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Learning beyond the classrooms!
-      button: Read More
-      alt: Image alt text
-      url: /learning-beyond-the-classrooms/
-      image: /images/2025 Photo Album/Musuem Based Learning/IMG_9911.jpg
-      description: In early February, our Primary 3 students embarked on an enriching
-        learning journey to the Geylang Serai Heritage Gallery
-      subtitle: HIGHLIGHTS
-  - infopic:
       title: The Straits Times - Little Red Dot
       subtitle: ANNOUNCEMENTS
       id: infopic
@@ -42,6 +33,15 @@ sections:
       url: /the-straits-times-little-red-dot/
       image: /images/2025 Photo Album/Red_Dot_Article_.png
       alt: Image alt text
+  - infopic:
+      title: "Learning Journey for P5: Indian Heritage Centre"
+      button: Read More
+      alt: Image alt text
+      url: https://blangahrisepri.moe.edu.sg/learning-journey-for-p5-indian-heritage-centre/
+      image: /images/2025 Photo Album/P5 LJ/IHC_4.jpg
+      description: On 4th March, the Primary 5 students embarked on an enriching
+        learning journey to the Indian Heritage Centre.
+      subtitle: HIGHLIGHTS
   - infopic:
       title: Student Leaders’ Investiture 2025
       subtitle: HIGHLIGHTS
