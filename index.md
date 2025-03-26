@@ -24,6 +24,14 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Principal's Term 2 Letter
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      button: CLICK HERE TO READ MORE
+      url: https://blangahrisepri.moe.edu.sg/principal-s-term-2-letter/
+      image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
+      alt: Image alt text
+  - infopic:
       title: The Straits Times - Little Red Dot
       subtitle: ANNOUNCEMENTS
       id: infopic
