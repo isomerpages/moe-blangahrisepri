@@ -11,9 +11,6 @@ sections:
   - hero:
       background: /images/bannerv2.gif
       key_highlights:
-        - title: Moe Kindergarten
-          description: ""
-          url: /moe-kindergarten-blangah-rise/
         - title: Junior Primary
           description: ""
           url: /departments/junior-primary/
