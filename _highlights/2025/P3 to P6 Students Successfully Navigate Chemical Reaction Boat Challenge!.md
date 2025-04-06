@@ -20,6 +20,6 @@ overcome obstacles – an affirmation to their growing collaboration skills.</p>
 scientific concepts in a real-world context, fostering a deeper understanding
 of how chemical reactions can generate energy and motion.</p>
 <p>To see our students in action and show your support for their amazing
-efforts, please like this reel <strong><a href="https://www.instagram.com/reel/DH-kElYtRX4/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank"><u>here</u></a></strong>.</p>
+efforts, please like this<strong> <a href="https://www.instagram.com/reel/DH-kElYtRX4/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank"><u>reel</u></a></strong>.</p>
 <p>Congratulations to all our young scientists and engineers for their hard
 work and success!</p>
