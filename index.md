@@ -36,7 +36,7 @@ sections:
         test with an exciting challenge
       button: Read More
       url: https://blangahrisepri.moe.edu.sg/p3-to-p6-students-successfully-navigate-chemical-reaction-boat-challenge/
-      image: /images/2025 Photo Album/Student Leader Investiture/IMG_0034.jpg
+      image: /images/2025 Photo Album/STEM_Challenge.jpg
       alt: Image alt text
   - infopic:
       title: The Straits Times - Little Red Dot
