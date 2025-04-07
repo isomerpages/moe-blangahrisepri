@@ -29,6 +29,16 @@ sections:
       image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
       alt: Image alt text
   - infopic:
+      title: Chemical Reaction Boat Challenge!
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Our Primary 3 to 6 students recently put their STEM skills to the
+        test with an exciting challenge
+      button: Read More
+      url: https://blangahrisepri.moe.edu.sg/p3-to-p6-students-successfully-navigate-chemical-reaction-boat-challenge/
+      image: /images/2025 Photo Album/STEM_Challenge.jpg
+      alt: Image alt text
+  - infopic:
       title: The Straits Times - Little Red Dot
       subtitle: ANNOUNCEMENTS
       id: infopic
@@ -47,16 +57,6 @@ sections:
       description: On 4th March, the Primary 5 students embarked on an enriching
         learning journey to the Indian Heritage Centre.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: Student Leaders’ Investiture 2025
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: We proudly held our annual Student Leaders' Investiture,
-        celebrating the dedication and leadership of our students.
-      button: Read More
-      url: /student-leaders-investiture-2025-a-celebration-of-leadership-and-commitment/
-      image: /images/2025 Photo Album/Student Leader Investiture/IMG_0034.jpg
-      alt: Image alt text
   - infopic:
       title: Blangah Rise Primary at Clean Up @ South West 2025
       subtitle: HIGHLIGHTS
