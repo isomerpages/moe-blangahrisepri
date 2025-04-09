@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Have A Question?.md
       - P1 Orientation 2025.md
       - School Calendar.md
       - Guideline On Parents Communication.md
@@ -16,3 +15,4 @@ collections:
       - Our School Rules and Regulations.md
       - MOE FAS Application.md
       - FAQs.md
+      - Have A Question?.md
