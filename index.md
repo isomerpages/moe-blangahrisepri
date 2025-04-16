@@ -29,6 +29,15 @@ sections:
       image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
       alt: Image alt text
   - infopic:
+      title: Building Bridges, Creating Memories
+      subtitle: HIGHLIGHTS
+      button: Click here to read more
+      alt: Image alt text
+      image: /images/2025 Photo Album/P5 Camp/1.jpg
+      url: /building-bridges-creating-memories/
+      description: Our Primary 5 students had a memorable camp experience at MOE Dairy
+        Farm Outdoor Adventure Learning Centre.
+  - infopic:
       title: Chemical Reaction Boat Challenge!
       subtitle: HIGHLIGHTS
       id: infopic
@@ -57,15 +66,6 @@ sections:
       description: On 4th March, the Primary 5 students embarked on an enriching
         learning journey to the Indian Heritage Centre.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: Blangah Rise Primary at Clean Up @ South West 2025
-      subtitle: HIGHLIGHTS
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2025 Photo Album/Clean Up @ South West/Clean_Up_3.png
-      url: /blangah-rise-primary-at-clean-up-south-west-2025/
-      description: On 25 January, our students proudly took part in the Clean Up @
-        South West event at Keat Hong Community Club.
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
