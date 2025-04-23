@@ -29,6 +29,15 @@ sections:
       image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
       alt: Image alt text
   - infopic:
+      title: Commemoration of World Water Day 2025
+      button: Read More
+      alt: Image alt text
+      url: /commemoration-of-world-water-day-2025/
+      image: /images/2025 Photo Album/WWD/20250325_073712.jpg
+      description: This year, our school marked World Water Day with a meaningful week
+        of activities.
+      subtitle: HIGHLIGHTS
+  - infopic:
       title: Building Bridges, Creating Memories
       subtitle: HIGHLIGHTS
       button: Click here to read more
@@ -57,15 +66,6 @@ sections:
       url: /the-straits-times-little-red-dot/
       image: /images/2025 Photo Album/Red_Dot_Article_.png
       alt: Image alt text
-  - infopic:
-      title: "Learning Journey for P5: Indian Heritage Centre"
-      button: Read More
-      alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/learning-journey-for-p5-indian-heritage-centre/
-      image: /images/2025 Photo Album/P5 LJ/IHC_4.jpg
-      description: On 4th March, the Primary 5 students embarked on an enriching
-        learning journey to the Indian Heritage Centre.
-      subtitle: HIGHLIGHTS
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
       subtitle: HIGHLIGHTS
