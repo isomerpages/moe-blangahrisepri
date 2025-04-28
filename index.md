@@ -21,6 +21,15 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Blangah Rise Primary School Open House 2025
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: Join us at our Open House on 5 July 2025!
+      button: CLICK HERE TO READ MORE
+      url: https://blangahrisepri.moe.edu.sg/join-us-at-our-open-house-on-5-july-2025/
+      image: /images/2025 Photo Album/Open_House_poster_2025_FINAL.jpg
+      alt: Image alt text
+  - infopic:
       title: Principal's Term 2 Letter
       subtitle: ANNOUNCEMENTS
       id: infopic
@@ -55,16 +64,6 @@ sections:
       button: Read More
       url: https://blangahrisepri.moe.edu.sg/p3-to-p6-students-successfully-navigate-chemical-reaction-boat-challenge/
       image: /images/2025 Photo Album/STEM_Challenge.jpg
-      alt: Image alt text
-  - infopic:
-      title: The Straits Times - Little Red Dot
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      description: The Straits Times - Little Red Dot on 18 February. Check out the
-        article – Quick and tasty school meals on the menu.
-      button: CLICK HERE TO READ MORE
-      url: /the-straits-times-little-red-dot/
-      image: /images/2025 Photo Album/Red_Dot_Article_.png
       alt: Image alt text
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
