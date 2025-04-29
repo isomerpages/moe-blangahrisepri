@@ -208,51 +208,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p>The roving dental clinic is now open and will operate in Term 4/2024.
-Parents interested in scheduling a dental check-up for their children can
-call 9838 9102 to make an appointment.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Day</strong>
+<p>We wish to inform you that the <strong>Roving Dental Clinic 8 (RDC 8)</strong> have
+moved out from the school on <strong>28th March 2025.</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp; Time</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon, Wed &amp; Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8am-5pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue &amp; Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8am-5.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-<p>In any instances where the dental clinic is closed, parents can contact
-the following buddy dental clinics for any assistance.</p>
+<p>In the event that your child requires urgent dental treatment, please
+contact our staff at any of the following clinics:</p>
 </td>
 </tr>
 </tbody>
@@ -280,13 +241,13 @@ the following buddy dental clinics for any assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHIJ Kellock Primary School</p>
+<p>Roving Dental Clinic 8 (RDC 8)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bukit Teresa Rd S(099757)</p>
+<p>(please contact clinic for address)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8764 7293</p>
+<p>9838 9102</p>
 </td>
 </tr>
 <tr>
@@ -302,13 +263,13 @@ the following buddy dental clinics for any assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDC 18</p>
+<p>Alexandra Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(please contact clinic for address)</p>
+<p>2A Prince Charles Cres, S(159016)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9389 5301</p>
+<p>8764 5584</p>
 </td>
 </tr>
 </tbody>
