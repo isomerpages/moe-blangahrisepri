@@ -50,8 +50,48 @@ animals and even saw real dinosaur egg fossils. They also explored an insect
 museum, where they deepened their understanding of various insect life
 cycles and enjoyed close-up interactions with the insects themselves.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/8__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/14.jpg">
+</div>
 <p>To further immerse themselves in China's rich history, the students visited
 the Gate of China, where they admired the centuries-old architectural masterpiece.
 They also explored the Sun Yat-sen Mausoleum, where they learned about
 the life and contributions of Sun Yat-sen — a renowned physician, revolutionary
 leader, statesman, and political thinker who founded the Republic of China.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/15.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/17.jpg">
+</div>
+<p></p>
