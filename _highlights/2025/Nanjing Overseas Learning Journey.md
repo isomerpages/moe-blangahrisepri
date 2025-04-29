@@ -16,6 +16,34 @@ cultural backgrounds. Highlights of the visit included a storytelling session,
 hands-on Chinese brush painting where they decorated handheld fans with
 peony designs, and even some fun physical activities like rope skipping.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/1__3_.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/5__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/6__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Nanjing/7__2_.jpg">
+</div>
 <p>In addition, the students had the opportunity to visit several renowned
 sites, including the Museum of Paleontology, where they learned about prehistoric
 animals and even saw real dinosaur egg fossils. They also explored an insect
