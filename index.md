@@ -38,13 +38,14 @@ sections:
       image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
       alt: Image alt text
   - infopic:
-      title: Commemoration of World Water Day 2025
+      title: Nanjing Overseas Learning Journey
       button: Read More
       alt: Image alt text
-      url: /commemoration-of-world-water-day-2025/
-      image: /images/2025 Photo Album/WWD/20250325_073712.jpg
-      description: This year, our school marked World Water Day with a meaningful week
-        of activities.
+      url: https://blangahrisepri.moe.edu.sg/nanjing-overseas-learning-journey/
+      image: /images/2025 Photo Album/Nanjing/17.jpg
+      description: As part of our ongoing effort to nurture 21st century competencies,
+        we were thrilled to send a group of students and teachers to Nanjing,
+        China
       subtitle: HIGHLIGHTS
   - infopic:
       title: Building Bridges, Creating Memories
