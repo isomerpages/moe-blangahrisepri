@@ -38,14 +38,13 @@ sections:
       image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
       alt: Image alt text
   - infopic:
-      title: Nanjing Overseas Learning Journey
+      title: Overseas Learning Journey to Nanjing, China
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/nanjing-overseas-learning-journey/
-      image: /images/2025 Photo Album/Nanjing/17.jpg
-      description: As part of our ongoing effort to nurture 21st century competencies,
-        we were thrilled to send a group of students and teachers to Nanjing,
-        China
+      url: /overseas-learning-journey-to-nanjing-china/
+      image: /images/2025 Photo Album/Nanjing/1__3_.jpg
+      description: To develop 21st century competencies, a group of 20 students and 5
+        teachers went on a 4-day overseas learning journey to Nanjing, China.
       subtitle: HIGHLIGHTS
   - infopic:
       title: Building Bridges, Creating Memories
