@@ -284,6 +284,10 @@ not all superheroes wear capes. This photograph highlights that climbing
 a mountain is not easy. It is achievable with support from others. It is
 important that we could use our skills and superpowers to help one another
 grow and scale to greater heights as a nation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Marissa_116_1030_12x16.jpg">
+</div>
+<p>Photograph taken by Marissa</p>
 <p><strong>New Beginnings</strong>
 </p>
 <p>This photograph shows a baby chick hatching from its egg, ready to start
