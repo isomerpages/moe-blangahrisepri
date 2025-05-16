@@ -255,6 +255,46 @@ to overcome obstacles and achieve our goals.</p>
 Through him, we learn more than just taking photographs. Our outdoor shoots
 include understanding the environment and nature, and how our cameras can
 capture how nature interacts.”</p>
+<p><strong>20th Ngee Ann Photographic Exhibition</strong>
+</p>
+<p>Three of our MediaKids’ works were shortlisted for exhibition from 14
+to 24 June 2025 (Closed on Saturdays) at LASALLE College of the Arts. There
+were over 1020 submissions from more than 570 participants.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Ang_Zi_Ning__Carys_101_7924_12x18.jpg">
+</div>
+<p>Photograph taken by Carys</p>
+<p><strong>Towards a Brighter Future</strong>
+</p>
+<p>My photograph shows some people running in a race, with one runner in
+the lead. It reminds me of Singapore moving towards a brighter future.
+This connects to SGSHARE, where people in Singapore work together to make
+our country better. My photograph also shows what makes Singapore special
+— kindness, care for others, and a strong spirit through cheering each
+other on.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Kayleigh_110_0855_12x16.jpg">
+</div>
+<p>Photograph taken by Kayleigh</p>
+<p><strong>Not all superheroes wear capes - scaling greater heights</strong>
+</p>
+<p>This photograph shows chips, resembling a mountain, with a superman figurine.
+I took this photograph because it looks meaningful and reminds me that
+not all superheroes wear capes. This photograph highlights that climbing
+a mountain is not easy. It is achievable with support from others. It is
+important that we could use our skills and superpowers to help one another
+grow and scale to greater heights as a nation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Marissa_116_1030_12x16.jpg">
+</div>
+<p>Photograph taken by Marissa</p>
+<p><strong>New Beginnings</strong>
+</p>
+<p>This photograph shows a baby chick hatching from its egg, ready to start
+a new life. Just like the chick, Singapore is also looking forward to new
+beginnings as it turns 60. I hope this photograph helps us think about
+how far Singapore has come. Since Singapore became independent in 1965,
+everyone worked hard together and never gave up.</p>
 <p><strong>11th National Primary School Competition Award</strong>
 </p>
 <div class="isomer-image-wrapper">
