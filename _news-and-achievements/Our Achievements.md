@@ -7,6 +7,33 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 </div>
+<h4><strong>2025</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>24th Inter-School National Scrabble Championship (Individual Honours Premier
+Cup) 1st Place - Kuo Jiu Ting (4S)</p>
+</li>
+<li>
+<p>24th Inter-School National Scrabble Championship - Team Premier Cup Category
+(Junior Division) Champion - Soren Eng (4T), Kuo Jiu Ting (4S), Ng Ren
+Jie (4T), Ruqia (4T)</p>
+</li>
+<li>
+<p>Wits &amp; Words Inter-School Debate Championship (3rd Place) - Marvell
+Nathaniel Tjong (6S), Charles Saranya Dave Nick (6T), Sri Raman Rajaraman
+5T, Teo Kai Ting (5T), Clara Chu (5S), Duong Lam Khai (5T)</p>
+</li>
+<li>
+<p>Piala Cendekia Sahibba (2nd Place) - FUADAH QASRINA BINTI MOHAMED FAZIL
+(5T), NURUL BASYIRAH BINTI MOHD FIRDAUS (5T), NURUL BATRISYIA BINTI MOHD
+FIRDAUS (6S), NURUL ILLIYYIN BINTE MUHAMAD ROSLAN (6T)</p>
+<p></p>
+</li>
+<li>
+<p>Science Centre Singapore (STEM Challenge) Boat Powered by Chemical Reaction
+- 6th place</p>
+</li>
+</ul>
 <h4><strong>2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
