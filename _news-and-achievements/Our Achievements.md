@@ -10,6 +10,16 @@ variant: tiptap
 <h4><strong>2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>National Primary Schools Sport Climbing Championship 2025 (Top Rope 8th)
+- Natalie Elise Garde (6T)</p>
+</li>
+<li>
+<p>SWWD 2025 - Project D.R.O.P - Zhao ZiYuan (1S), Chen Ye (1T), Julian Mak
+Zun Hong (1T), Shen Arton Shao Chen (2O), Duan Yuray (2R), Julka Seerat
+(2R), Zhu Huaisen (2R), Chin Jian Ming (3S), Tang Zhangzichen (3S), Terence
+and Vivian Low (3O &amp; 6T)</p>
+</li>
+<li>
 <p>Visual-Spatial Mathlympics VSM 2025 (Gold) - Hong Eunje (5S)</p>
 </li>
 <li>
