@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Principal's Term 3 Letter.md
       - Join us at our Open House on 5 July 2025!.md
       - Principal's Term 2 Letter.md
       - The Straits Times, Little Red Dot.md
