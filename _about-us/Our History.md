@@ -33,7 +33,7 @@ the school in 2018.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 - Present</p>
+<p>December 2024 - Present</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pearly Ng</p>
