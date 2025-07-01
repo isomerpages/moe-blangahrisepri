@@ -7,6 +7,66 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
 </div>
+<h4><strong>2025</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Primary Schools Sport Climbing Championship 2025 (Top Rope 8th)
+- Natalie Elise Garde (6T)</p>
+</li>
+<li>
+<p>SWWD 2025 - Project D.R.O.P - Zhao ZiYuan (1S), Chen Ye (1T), Julian Mak
+Zun Hong (1T), Shen Arton Shao Chen (2O), Duan Yuray (2R), Julka Seerat
+(2R), Zhu Huaisen (2R), Chin Jian Ming (3S), Tang Zhangzichen (3S), Terence
+and Vivian Low (3O &amp; 6T)</p>
+</li>
+<li>
+<p>Visual-Spatial Mathlympics VSM 2025 (Gold) - Hong Eunje (5S)</p>
+</li>
+<li>
+<p>Visual-Spatial Mathlympics VSM 2025 (Bronze) - Li Longkuan (5S)</p>
+</li>
+<li>
+<p>Raffles Mathematical Olympiad 2025 (Junior Division) Certificate of Distinction
+- Hong Eunje (5S), Estaras Judah Maqdiel Torres (5T)</p>
+</li>
+<li>
+<p>Raffles Mathematical Olympiad 2025 (Junior Division) Certificate of Merit
+- Chen Sichen (5T), Koo Seo Jun (5O), Hnine Htut Linkar (4T)</p>
+</li>
+<li>
+<p>24th Inter-School National Scrabble Championship 2025 - Team Bowl Category
+(Senior Division) Champion - Fudah Qasrina (5T), Yip Yu Xi (5O), Krystal
+Ye (5O), Deeksha Narayan (5O)</p>
+</li>
+<li>
+<p>24th Inter-School National Scrabble Championship 2025 - Team Plate Category
+(Junior Division) Runners Up - Leticia Tjong (4S), Brian Ye (3T), Lim Ray
+Han (3T), Ethan Booi (3O)</p>
+</li>
+<li>
+<p>24th Inter-School National Scrabble Championship 2025 (Individual Honours
+Premier Cup) 1st Place - Kuo Jiu Ting (4S)</p>
+</li>
+<li>
+<p>24th Inter-School National Scrabble Championship 2025 - Team Premier Cup
+Category (Junior Division) Champion - Soren Eng (4T), Kuo Jiu Ting (4S),
+Ng Ren Jie (4T), Ruqia (4T)</p>
+</li>
+<li>
+<p>Wits &amp; Words Inter-School Debate Championship 2025 (3rd Place) - Marvell
+Nathaniel Tjong (6S), Charles Saranya Dave Nick (6T), Sri Raman Rajaraman
+5T, Teo Kai Ting (5T), Clara Chu (5S), Duong Lam Khai (5T)</p>
+</li>
+<li>
+<p>Piala Cendekia Sahibba 2025 (2nd Place) - FUADAH QASRINA BINTI MOHAMED
+FAZIL (5T), NURUL BASYIRAH BINTI MOHD FIRDAUS (5T), NURUL BATRISYIA BINTI
+MOHD FIRDAUS (6S), NURUL ILLIYYIN BINTE MUHAMAD ROSLAN (6T)</p>
+</li>
+<li>
+<p>Science Centre Singapore (STEM Challenge) Boat Powered by Chemical Reaction
+- 6th place</p>
+</li>
+</ul>
 <h4><strong>2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
