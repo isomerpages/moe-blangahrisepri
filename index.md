@@ -21,13 +21,15 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Blangah Rise Primary School Open House 2025
-      subtitle: ANNOUNCEMENTS
+      title: "Open House 2025: Growing Future Ready Leaders!"
+      subtitle: HIGHLIGHTS
       id: infopic
-      description: Join us at our Open House on 5 July 2025!
-      button: CLICK HERE TO READ MORE
-      url: https://blangahrisepri.moe.edu.sg/join-us-at-our-open-house-on-5-july-2025/
-      image: /images/2025 Photo Album/Open_House_poster_2025_FINAL.jpg
+      description: Blangah Rise Primary School was buzzing with energy as we welcomed
+        prospective students and parents to explore what makes our school so
+        special.
+      button: READ MORE
+      url: /open-house-2025-growing-future-ready-leaders/
+      image: /images/2025 Photo Album/Open House 2025/IMG_8159.jpg
       alt: Image alt text
   - infopic:
       title: Principal's Term 3 Letter
