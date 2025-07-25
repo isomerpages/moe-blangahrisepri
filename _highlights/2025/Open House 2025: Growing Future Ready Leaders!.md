@@ -85,12 +85,12 @@ the entire school came alive across four exciting zones. Visitors enjoyed
 toe-tapping performances by our Choir and Dancers, explored our Character
 &amp; Citizenship Education (CCE) and STEM showcases, trying their hand
 at flying some drones.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Open House 2025/IMG_1343.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Open House 2025/New__Library_Crowd.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Open House 2025/New__Library_Crowd.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
