@@ -31,9 +31,6 @@ variant: markdown
 <p><a href="https://www.blangahrisepri.moe.edu.sg/about-us/our-staff/student-management-teachers/">
 <img src="/images/Blangah-Rise-Departments8.jpeg" style="width:50%">
 </a></p>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/about-us/our-staff/moe-kindergarten-teachers/">
-<img src="/images/Blangah-Rise-Departments9-1.jpeg" style="width:50%">
-</a></p>
 <p><a href="https://www.blangahrisepri.moe.edu.sg/our-community/administrative-and-operations-team/">
 <img src="/images/Blangah-Rise-Departments10.jpeg" style="width:50%">
 </a></p>
