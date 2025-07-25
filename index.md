@@ -58,14 +58,14 @@ sections:
       description: Our Primary 5 students had a memorable camp experience at MOE Dairy
         Farm Outdoor Adventure Learning Centre.
   - infopic:
-      title: Our Alumni Series (Gail Lien Zhao Xin)
+      title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
       subtitle: HIGHLIGHTS
       id: infopic
       description: Gail Lien Zhao Xin studied at Blangah Rise Primary School (BRPS)
         from 2018 to 2023. During her six years at BRPS...
       button: Click here to read more
       url: https://blangahrisepri.moe.edu.sg/our-alumni-series-gail-lien-zhao-xin/
-      image: /images/2025 Photo Album/STEM_Challenge.jpg
+      image: /images/2025 Photo Album/Alumni/Gail_Alumni.jpg
       alt: Image alt text
   - infopic:
       title: "President’s Award for Teachers (PAT) Recipient: Mr Shang"
