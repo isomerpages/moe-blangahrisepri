@@ -49,23 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 and P4</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>9.30 a.m. to 10.00 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>8.30 a.m. to 9.00 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3</p>
+<p>P1 and P2</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>9.00 a.m. to 9.30 a.m.</p>
@@ -73,15 +57,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5</p>
+<p>P3 and P4</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>10.30 a.m. to 11.00 a.m.</p>
+<p>9.30 a.m. to 10.00 a.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6</p>
+<p>P5 and P6</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>10.00 a.m. to 10.30 a.m.</p>
