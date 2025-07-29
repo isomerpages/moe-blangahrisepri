@@ -15,4 +15,10 @@ Thank you for visiting https://www.blangahrisepri.moe.edu.sg/ By accessing and u
 
 #### Privacy Policy
 
-4\. Click [here](https://blangahrisepri.moe.edu.sg/privacy-statement/) to review this website Privacy Statement.
+4. Click [here](https://blangahrisepri.moe.edu.sg/privacy-statement/) to review this website Privacy Statement.
+
+#### Restrictions on use of Materials
+
+5. Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Blangah Rise Primary School.
+
+6. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of QtPS’s copyright and other intellectual property rights. Graphics and img on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Blangah Rise Primary School.
