@@ -15,4 +15,4 @@ Thank you for visiting https://www.blangahrisepri.moe.edu.sg/ By accessing and u
 
 #### Privacy Policy
 
-4\. Click [here](https://blangahrisepri.moe.edu.sg/privacy-statement/) to review this website.
+4\. Click [here](https://blangahrisepri.moe.edu.sg/privacy-statement/) to review this website Privacy Statement.
