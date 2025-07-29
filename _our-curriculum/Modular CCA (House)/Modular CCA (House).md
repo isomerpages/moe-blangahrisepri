@@ -39,5 +39,4 @@ in conjunction to raise fund for Singapore Children’s Society (SC).</p>
 <p></p>
 <h4><strong>Sports and Games</strong></h4>
 <p><strong><a href="/departments/ccas/floorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong> 
-<br><strong><a href="/departments/ccas/frisbee/" rel="noopener noreferrer nofollow" target="_blank">Frisbee</a></strong>
 </p>
