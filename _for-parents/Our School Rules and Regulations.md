@@ -93,8 +93,23 @@ not allowed.</p>
 <p>7.1 Students must not have visible tattoos and must not wear any make-up
 except when they are performing in a concert.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Existing_School_Uniform.jpg">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/New_School_Uniform.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Existing_PE_Uniform.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Hairstyles.jpg">
+</div>
 <p>B) Behaviour</p>
 <p><strong>1. General Conduct<br></strong>
 </p>
