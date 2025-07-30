@@ -2,7 +2,7 @@
 title: Middle Primary
 permalink: /departments/middle-primary/
 description: ""
-third_nav_title: Blangah Rise Learning Campus
+third_nav_title: Blangah Rise Primary School
 variant: tiptap
 ---
 <h4><strong><em>Children live up to what we believe of them.<br>We believe that every child wants to learn and can learn.</em></strong></h4>

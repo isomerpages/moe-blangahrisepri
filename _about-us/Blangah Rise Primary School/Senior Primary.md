@@ -2,7 +2,7 @@
 title: Senior Primary
 permalink: /departments/senior-primary/
 description: ""
-third_nav_title: Blangah Rise Learning Campus
+third_nav_title: Blangah Rise Primary School
 variant: markdown
 ---
 <img src="/images/SP-Level-photo2020.jpg">

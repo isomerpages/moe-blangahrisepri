@@ -16,15 +16,33 @@ comes to school. Any modification to the uniform is not allowed.</p>
 <p>1.2 Uniform is well-pressed, clean and neat at all times.</p>
 <p>1.3 Except for the button closest to the collar, all buttons are buttoned
 up.</p>
-<p>1.4 The name tag must be sewn directly above the shirt pocket.</p>
-<p><strong>Those with leadership appointments e.g. prefects must wear the badge above the nametag.<br></strong>
+<p><strong>1.4 Existing BRPS Uniform</strong>
 </p>
-<p>1.5 The blouse / shirt of the uniform must not be tucked in.</p>
-<p>1.6 The sleeves of the blouse / shirt should not be folded.</p>
-<p>1.7 Skirt is to be of knee length.</p>
-<p>1.8 Unless stated otherwise, the school uniform must be worn at all times
+<p>a. Those with leadership appointments e.g. prefects must wear the badge
+above the nametag.</p>
+<p>b. The blouse / shirt of the uniform must not be tucked in.</p>
+<p>c. The sleeves of the blouse / shirt should not be folded.</p>
+<p>d. Skirt is to be of knee length.</p>
+<p>e. Unless stated otherwise, the school uniform must be worn at all times
 when students report to school, even during the school holidays, for CCAs
 or enrichment classes.</p>
+<p><strong>1.5 New BRPS Uniform</strong>
+</p>
+<p>a. Students with leadership appointments e.g. prefects must wear the badge
+between the second and third button from the top.</p>
+<p>b. The t-shirt of the uniform must not be tucked in.</p>
+<p>c. The sleeves of the t-shirt should not be folded.</p>
+<p>d. Skort is to be of knee length.</p>
+<p>e. Unless stated otherwise, the school uniform must be worn at all times
+when students report to school, even during the school holidays, for CCAs
+or enrichment classes.</p>
+<p><strong>1.6 Transition to New School Uniform</strong>
+</p>
+<p>a. Students are to wear either the existing uniform or the new uniform,
+but NOT a mix of both.</p>
+<p>b. Students can continue wearing their existing uniform until the end
+of 2026. From 2 Jan 2027 onwards, all students are required to wear the
+new school uniform.</p>
 <p><strong>2. Shoes and socks<br></strong>
 </p>
 <p>2.1 Only covered all-black school shoes and black socks are allowed. Black
@@ -38,7 +56,7 @@ when they return to school after their sports competitions.</p>
 and with relevant medical documents, will the school consider the approval
 of alternative footwear, e.g. proper sandals, to be worn. This approval
 is only for the period of the medical condition.</p>
-<p><strong>3. PE Attire<br></strong>
+<p><strong>3. PE Attire for Existing School Uniform<br></strong>
 </p>
 <p>3.1 PE attire must be worn during PE lessons, PAL lessons, CCA and House
 Practice.</p>
@@ -74,14 +92,23 @@ not allowed.</p>
 </p>
 <p>7.1 Students must not have visible tattoos and must not wear any make-up
 except when they are performing in a concert.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/2024%20Photos/Rules%20&amp;%20Regulations/School_Uniform.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Existing_School_Uniform.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/2024%20Photos/Rules%20&amp;%20Regulations/PE_Attire.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/New_School_Uniform.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/2024%20Photos/Rules%20&amp;%20Regulations/Hairstyles.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Existing_PE_Uniform.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Hairstyles.jpg">
 </div>
 <p>B) Behaviour</p>
 <p><strong>1. General Conduct<br></strong>

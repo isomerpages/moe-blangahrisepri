@@ -2,7 +2,7 @@
 title: Junior Primary
 permalink: /departments/junior-primary/
 description: ""
-third_nav_title: Blangah Rise Learning Campus
+third_nav_title: Blangah Rise Primary School
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
