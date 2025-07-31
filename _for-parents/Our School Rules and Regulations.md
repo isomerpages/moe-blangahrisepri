@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Rules &amp; Regulations/Option_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Student Leader Investiture/IMG_0034.jpg">
 </div>
 <p>A) Attire and Appearance</p>
 <p><strong>1. Uniform<br></strong>
