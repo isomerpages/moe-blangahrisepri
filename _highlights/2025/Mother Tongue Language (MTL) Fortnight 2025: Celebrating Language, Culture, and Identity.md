@@ -18,3 +18,20 @@ their oral communication skills, and experienced the joy of expressing
 themselves creatively in their respective Mother Tongue Language. The activities
 were designed to spark curiosity, promote cultural understanding, and provide
 authentic contexts for the use of language.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/Picture_1_P2_Lantern_Art.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_6.jpg">
+</div>
+<p></p>
