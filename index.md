@@ -58,6 +58,16 @@ sections:
       description: Our Primary 5 students had a memorable camp experience at MOE Dairy
         Farm Outdoor Adventure Learning Centre.
   - infopic:
+      title: Mother Tongue Language (MTL) Fortnight 2025
+      subtitle: Highlights
+      id: infopic
+      description: The beauty of our Mother Tongue Languages and the rich cultural
+        heritage they embody came alive during MTL Fortnight 2025!
+      button: Button Text
+      url: https://blangahrisepri.moe.edu.sg/mother-tongue-language-mtl-fortnight-2025-celebrating-language-culture-and-identity/
+      image: /images/2025 Photo Album/ML Fortnight/P2_Pic_1_Kompang.jpg
+      alt: Image alt text
+  - infopic:
       title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
       subtitle: HIGHLIGHTS
       id: infopic
@@ -96,16 +106,6 @@ sections:
       description: In this special feature, we like to celebrate one of our alumni.
         Choo Yi Xuan graduated from Blangah Rise Primary School in 2017.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: Mother Tongue Language (MTL) Fortnight 2025
-      subtitle: Highlights
-      id: infopic
-      description: The beauty of our Mother Tongue Languages and the rich cultural
-        heritage they embody came alive during MTL Fortnight 2025!
-      button: Button Text
-      url: https://blangahrisepri.moe.edu.sg/mother-tongue-language-mtl-fortnight-2025-celebrating-language-culture-and-identity/
-      image: /images/2025 Photo Album/ML Fortnight/P2_Pic_1_Kompang.jpg
-      alt: Image alt text
   - resources:
       title: Publications
       button: Click here to see more
