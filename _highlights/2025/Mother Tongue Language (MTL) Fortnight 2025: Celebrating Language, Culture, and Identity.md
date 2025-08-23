@@ -57,26 +57,67 @@ authentic contexts for the use of language.</p>
 <p>Malay Language</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P6_Pic_2_Wayang_K.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P6_Pic_2_Wayang_K.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P5_Pic_2_Seni_Khat.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P5_Pic_2_Seni_Khat.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P5_Pic_1_Seni_Khat.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P5_Pic_1_Seni_Khat.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P4_Pic_2_Basket_W.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P4_Pic_2_Basket_W.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P4_Pic_1_Basket_W.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P4_Pic_1_Basket_W.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P3_Pic_2_Batik_P.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P3_Pic_2_Batik_P.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P3_Pic_1_Batik_P.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P2_Pic_1_Kompang.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P1_Pic_2__Traditional_Games.jpg">
+</div>
+<p>Tamil Language</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/TL Fortnight/P2_Pic_1_Rangoli.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/TL Fortnight/P3_Pic_2_Kollatum.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/TL Fortnight/P6_Pic_2__Kabadi.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/TL Fortnight/P3_Pic_1__Kollatum.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/TL Fortnight/P6_Pic_1__Kabadi.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/TL Fortnight/Pic_1_P4_Firecrackers.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/TL Fortnight/Pic_2_P5_Musical_Instruments__1_.jpg">
 </div>
 <p></p>
