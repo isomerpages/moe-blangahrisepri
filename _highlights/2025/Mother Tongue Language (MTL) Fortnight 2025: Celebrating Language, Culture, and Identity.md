@@ -18,7 +18,7 @@ their oral communication skills, and experienced the joy of expressing
 themselves creatively in their respective Mother Tongue Language. The activities
 were designed to spark curiosity, promote cultural understanding, and provide
 authentic contexts for the use of language.</p>
-<p></p>
+<p>Chinese Language</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/Picture_1_P2_Lantern_Art.jpg">
 </div>
@@ -33,5 +33,50 @@ authentic contexts for the use of language.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/CL Fortnight/CL_1.jpg">
+</div>
+<p>Malay Language</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P6_Pic_2_Wayang_K.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P5_Pic_2_Seni_Khat.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P5_Pic_1_Seni_Khat.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P4_Pic_2_Basket_W.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P4_Pic_1_Basket_W.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/ML Fortnight/P3_Pic_2_Batik_P.jpg">
 </div>
 <p></p>
