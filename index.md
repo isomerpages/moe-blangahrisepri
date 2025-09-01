@@ -28,7 +28,7 @@ sections:
       image: /images/2025 Photo Album/EAS Day/Screenshot_2025_09_01_112524.png
       url: /eas-day-2025-celebrating-our-everyday-heroes/
       description: "On 5 August 2025, our school came together to celebrate EAS Day:
-        Our Everyday Heroes"
+        Our Everyday Heroes."
   - infopic:
       title: Mother Tongue Language (MTL) Fortnight 2025
       subtitle: Highlights
