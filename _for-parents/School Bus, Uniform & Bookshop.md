@@ -288,7 +288,7 @@ contact our staff at any of the following clinics:</p>
 <p>Change of Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brpschangeofaddress</a>
+<p><a href="https://form.gov.sg/670331d354728a42397d4232" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brpschangeofaddress</a>
 </p>
 </td>
 </tr>
