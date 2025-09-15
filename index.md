@@ -51,11 +51,11 @@ sections:
       image: /images/2025 Photo Album/Open House 2025/IMG_8159.jpg
       alt: Image alt text
   - infopic:
-      title: Principal's Term 3 Letter
+      title: Principal's Term 4 Letter
       subtitle: ANNOUNCEMENTS
       id: infopic
       button: CLICK HERE TO READ MORE
-      url: https://blangahrisepri.moe.edu.sg/principal-s-term-3-letter/
+      url: https://blangahrisepri.moe.edu.sg/principal-s-term-4-letter/
       image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
       alt: Image alt text
   - infopic:

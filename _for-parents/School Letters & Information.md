@@ -16,6 +16,10 @@ variant: tiptap
 </p>
 <p><a href="/files/P Letter 2025/2025_02_Principal.pdf" rel="noopener nofollow" target="_blank">Principal's March Letter 2025</a>
 </p>
+<p><a href="/files/P Letter 2025/2025_03_Principal_Term_3_Letter__1_.pdf" rel="noopener nofollow" target="_blank">Principal's June Letter 2025</a>
+</p>
+<p><a href="/files/P Letter 2025/2025_04_Principal.pdf" rel="noopener nofollow" target="_blank">Principal's September Letter 2025</a>
+</p>
 </li>
 </ul>
 <p></p>
