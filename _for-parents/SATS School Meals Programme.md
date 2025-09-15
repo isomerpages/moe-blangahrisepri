@@ -61,7 +61,7 @@ and make payment.”</p>
 <p>Welcome to the future of the school canteen!
 <br>To sign up for SATS School Meals Subscription Programme or Request for
 an account to place Lunch Orders, click&nbsp;<strong><a href="https://go.gov.sg/schoolmeals" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-<br>To view the Year 2025 Term 3 SATS menu, click<strong> <a href="/files/SATS Menu 2025/2025_Term_3_BRPS_Final.pdf" rel="noopener nofollow" target="_blank">here</a><br></strong>To
+<br>To view the Year 2025 Term 4 SATS menu, click<strong> <a href="/files/SATS Menu/2025_Term_4_Final.pdf" rel="noopener nofollow" target="_blank">here</a><br></strong>To
 place your orders, visit&nbsp;<strong><a href="https://apc01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.sats-schoolmeals.sg%2F&amp;data=02%7C01%7CJinLe_Tan%40sats.com.sg%7Cb3307a1bf393426199f508d826c44f91%7C5af395c7bcfc43ac98faa57dd56b8796%7C0%7C0%7C637301971897727661&amp;sdata=TdrYQgvfh4MVBin3GJJAKdYXPQVaPvf4biKiyP3LIM4%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank"><u>www.sats-schoolmeals.sg</u></a><u><br></u></strong>To
 view our BRPS healthy Kids Newsletter, click&nbsp;<strong><a href="/2020/03/29/be-bright-eat-right/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <div class="iframe-wrapper">
