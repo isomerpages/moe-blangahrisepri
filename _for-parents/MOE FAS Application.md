@@ -19,6 +19,5 @@ wish to apply for the financial assistance by 30 Oct 2024.</p>
 </div>
 <p>If you have any enquiries, please contact the school General Office at
 6721 7387.</p>
-<p>To apply via e-FAS, click <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>To apply DigitalAccess@Home, click <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
