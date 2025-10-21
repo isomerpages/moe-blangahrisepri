@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 Orientation 2025.md
+      - P1 Orientation 2026.md
       - School Calendar.md
       - Guideline On Parents Communication.md
       - Virtual School Tour.md
@@ -13,4 +13,5 @@ collections:
       - SATS School Meals Programme.md
       - The Growing Years.md
       - Our School Rules and Regulations.md
+      - MOE’s Engagement Charter.md
       - MOE FAS Application.md

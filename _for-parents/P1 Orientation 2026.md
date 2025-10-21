@@ -1,22 +1,21 @@
 ---
-title: P1 Orientation 2025
-permalink: /p1-orientation-2025/
+title: P1 Orientation 2026
+permalink: /p1-orientation-2026/
 variant: tiptap
 description: ""
 ---
-<p><strong>P1 Orientation for 2025 Cohort</strong>
-</p>
-<p></p>
+<p>P1 Orientation for 2026 Cohort</p>
+<p>&nbsp;</p>
 <p>Dear Parents/Guardians,</p>
 <p>Greetings from Blangah Rise Primary School. Our orientation details are:</p>
-<p>Date: Thurs, 7 Nov 2024</p>
-<p>Time: 2.30pm to 5 pm</p>
+<p>Date: Fri, 21 Nov 2025</p>
+<p>Time: 8.00am to 10.30am</p>
 <p>Venue: School Hall</p>
 <p>We look forward to seeing you and your child/ward at our Primary 1 Orientation.</p>
-<p></p>
+<p>&nbsp;</p>
 <p><strong>Completion of Administration Forms (Online)</strong>
 </p>
-<p>For the 2025 P1 cohort, all parents are requested to complete the following
+<p>For the 2026 P1 cohort, all parents are requested to complete the following
 forms online:</p>
 <p></p>
 <table style="minWidth: 75px">
@@ -77,7 +76,7 @@ GIRO application.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Complete the following form:
-<br><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School</a>
+<br><a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School</a>
 </p>
 <p>&nbsp;Website with details on usage of Edusave funds. Refer to&nbsp;
 <a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener noreferrer nofollow" target="_blank">link</a>
@@ -106,7 +105,9 @@ local and overseas enrichment charges.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Please submit this by 6 Nov 2024.<br>For International Students only.</strong>
+<p>Please submit this by<strong> 14 Nov 2025.<br></strong>
+</p>
+<p><strong>For International Students only.</strong>
 </p>
 </td>
 </tr>
@@ -121,9 +122,10 @@ local and overseas enrichment charges.</p>
 <td rowspan="1" colspan="1">
 <p>More details will be provided via PG for the completion on the final compulsory
 form.
-<br>Submission&nbsp;<strong><u>starts</u></strong>&nbsp;from 25 Nov 2024,
-10am.
-<br>Submission <strong><u>ends</u></strong> on 31 Dec 2024</p>
+<br>
+</p>
+<p>Submission starts from 1 Dec 2025, 10am.</p>
+<p>Submission ends on 31 Dec 2025.</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +154,7 @@ form.
 </td>
 <td rowspan="1" colspan="1">
 <p>(Please note that parents of International students would only be able
-to onboard PG in early Dec 23)</p>
+to onboard PG in early Dec 25)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -164,21 +166,13 @@ to onboard PG in early Dec 23)</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme (FAS)</a>
 </p>
-<p>&nbsp;Link for 2025 e-FAS application:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p>&nbsp;Link for 2026 e-FAS application:
+<br><a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
-<p>&nbsp;Pamphlets:</p>
-<p><a href="/files/P1 Orientation 2025/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">Einglish Language</a>
-</p>
-<p><a href="/files/P1 Orientation 2025/Document_4b_MOE_FAS_pamphlet__CL_.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
-</p>
-<p><a href="/files/P1 Orientation 2025/Document_4c_MOE_FAS_pamphlet__ML_.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
-</p>
-<p><a href="/files/P1 Orientation 2025/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
-</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*If you intend to apply for FAS for your child for 2025, please&nbsp;<strong>do not buy books and/or uniforms before the outcome of the FAS application.</strong> No
+<p>*If you intend to apply for FAS for your child for 2026, please&nbsp;<strong>do not buy books and/or uniforms before the outcome of the FAS application.</strong> No
 refund will be provided.
 <br>
 <br><strong>Please submit this as soon as possible as processing of applications will take time.</strong>
@@ -192,7 +186,7 @@ refund will be provided.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">DAS - Infocomm Media Development Authority</a>
+<p><a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">DAS - Infocomm Media Development Authority (imda.gov.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,15 +228,16 @@ refund will be provided.
 </p>
 <p><strong>Sale dates:</strong>
 </p>
-<p>P1 only: 5 Dec 2024</p>
-<p>All levels: 6, 11, 12, 13, 27 Dec 2024</p>
+<p>Sale dates:</p>
+<p>P1 only: 9 Dec 2025</p>
+<p>All levels: 10, 11, 17, 18 Dec 2025</p>
+<p></p>
 <p><strong>Booklist:</strong>
 </p>
-<p><a href="/files/Booklist 2025/BR_Booklist_2025_P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
-</p>
+<p>Will be provided in November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ordering starts from 18 Nov 2024</p>
+<p>Ordering starts from 18 Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -254,11 +249,22 @@ refund will be provided.
 </p>
 <p><strong>Sale dates:</strong>
 </p>
-<p>P1 only: 5 Dec 2024</p>
-<p>All levels: 6, 11, 13, 27 Dec 2024</p>
+<p>P1 only: 9 Dec 2025</p>
+<p>All levels: 10, 11, 17, 18 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online ordering of uniform will be available from 15 Dec.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gourmetz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More information will be shared during P1 Orientation</p>
 </td>
 </tr>
 <tr>
@@ -266,15 +272,13 @@ refund will be provided.
 <p>DKJ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DKJ School Bus Service</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqEdE5Lzor4vs37CXzC1uoEmy1ICHepVotJoYhDmUmEdB4xw/viewform" rel="noopener nofollow" target="_blank">DKJ School Bus Service</a>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/P1_Orientation_2025_QR_Code_.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please register your interest via the link. DKJ staff will contact you
-in early Dec 2024.</p>
+in early Dec 2025.</p>
 </td>
 </tr>
 <tr>
@@ -282,11 +286,11 @@ in early Dec 2024.</p>
 <p>COMMIT LEARNING SCHOOLHOUSE (CLS) – Student Care Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.jotform.com/242731071192450" rel="noopener nofollow" target="_blank">Enquiry Form</a>
+<p><a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=97" rel="noopener nofollow" target="_blank">Enquiry Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please indicate your interest by 8 Nov 2024.</p>
+<p>Please indicate your interest by 5 Nov 2025.</p>
 <p></p>
 <p>Email: <a href="mailto:admission_cls_brps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_brps@commitlearning.com.sg</a>
 </p>
