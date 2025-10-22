@@ -30,14 +30,14 @@ sections:
       description: "On 5 August 2025, our school came together to celebrate EAS Day:
         Our Everyday Heroes."
   - infopic:
-      title: Mother Tongue Language (MTL) Fortnight 2025
-      subtitle: Highlights
+      title: PAT & OYEA 2026
+      subtitle: Announcements
       id: infopic
-      description: The beauty of our Mother Tongue Languages and the rich cultural
-        heritage they embody came alive during MTL Fortnight 2025!
+      description: The PAT and the OYEA are given out to teachers in Singapore to
+        recognise their professional excellence.
       button: Button Text
-      url: https://blangahrisepri.moe.edu.sg/mother-tongue-language-mtl-fortnight-2025-celebrating-language-culture-and-identity/
-      image: /images/2025 Photo Album/ML Fortnight/P2_Pic_1_Kompang.jpg
+      url: https://blangahrisepri.moe.edu.sg/president-s-award-for-teachers-pat-and-the-outstanding-youth-in-education-award-oyea-2026/
+      image: /images/2025 Photo Album/PAT & OYEA/PAT_OYEA.jpg
       alt: Image alt text
   - infopic:
       title: "Open House 2025: Growing Future Ready Leaders!"
