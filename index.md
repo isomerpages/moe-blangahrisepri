@@ -21,14 +21,14 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: "EAS Day 2025: Celebrating Our Everyday Heroes"
-      subtitle: HIGHLIGHTS
+      title: Caring Teacher Award (CTA) 2026
+      subtitle: Announcements
       button: Click here to read more
       alt: Image alt text
-      image: /images/2025 Photo Album/EAS Day/Screenshot_2025_09_01_112524.png
-      url: /eas-day-2025-celebrating-our-everyday-heroes/
-      description: "On 5 August 2025, our school came together to celebrate EAS Day:
-        Our Everyday Heroes."
+      image: /images/2025 Photo Album/CTA/CTA.jpg
+      url: https://blangahrisepri.moe.edu.sg/caring-teacher-award-cta-2026/
+      description: The Caring Teacher Awards (CTA) celebrate educators who exemplify
+        care and compassion in their teaching.
   - infopic:
       title: PAT & OYEA 2026
       subtitle: Announcements
