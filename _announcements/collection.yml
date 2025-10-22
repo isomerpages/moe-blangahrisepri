@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - President’s Award for Teachers (PAT) and the Outstanding Youth in
+        Education Award (OYEA) 2026.md
       - Principal's Term 4 Letter.md
       - Principal's Term 3 Letter.md
       - Join us at our Open House on 5 July 2025!.md
