@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Caring Teacher Award (CTA) 2026.md
       - President’s Award for Teachers (PAT) and the Outstanding Youth in
         Education Award (OYEA) 2026.md
       - Principal's Term 4 Letter.md
