@@ -75,7 +75,7 @@ sections:
         of a winning entry this year.
       button: read more
       url: https://blangahrisepri.moe.edu.sg/ug-social-media-competition-ugsmc-2025/
-      image: /images/2025 Photo Album/UG Social Media/UG_2.jpg
+      image: /images/2025 Photo Album/UG Social Media/UG_3.jpg
       alt: Image alt text
   - infopic:
       title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
