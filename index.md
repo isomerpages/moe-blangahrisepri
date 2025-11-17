@@ -68,6 +68,16 @@ sections:
         teachers went on a 4-day overseas learning journey to Nanjing, China.
       subtitle: HIGHLIGHTS
   - infopic:
+      title: UG Social Media Competition (UGSMC) 2025
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Our school team, comprising Red Cross and Scouts members, was part
+        of a winning entry this year.
+      button: read more
+      url: https://blangahrisepri.moe.edu.sg/ug-social-media-competition-ugsmc-2025/
+      image: /images/2025 Photo Album/UG Social Media/UG_3.jpg
+      alt: Image alt text
+  - infopic:
       title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
       subtitle: HIGHLIGHTS
       id: infopic
