@@ -80,7 +80,7 @@ variant: tiptap
 <p>P1 only: 9 Dec 2025</p>
 <p>All levels: 10, 11, 17, 18 Dec 2025</p>
 <p>Online ordering of uniform will be available from 18 Nov.</p>
-<p>Online ordering of books will be available from 18 Nov</p>
+<p>Online ordering of books will be available from 18 Nov.</p>
 </td>
 </tr>
 <tr>
