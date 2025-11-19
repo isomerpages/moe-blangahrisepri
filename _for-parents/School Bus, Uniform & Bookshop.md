@@ -60,13 +60,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Booklist 2025</strong>
-<br><a href="/files/Booklist 2025/BR_Booklist_2025_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
-<br><a href="/files/Booklist 2025/BR_Booklist_2025_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist 2025</a>
-<br><a href="/files/Booklist 2025/BR_Booklist_2025_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2025</a>
-<br><a href="/files/Booklist 2025/BR_Booklist_2025_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2025</a>
-<br><a href="/files/Booklist 2025/BR_Booklist_2025_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2025</a>
-<br><a href="/files/Booklist 2025/BR_Booklist_2025_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2025</a>
+<p><strong>Booklist 2026</strong>
+<br><a href="/files/Booklist 2026/P1_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+</p>
+<p><a href="/files/Booklist 2026/P2_2026.pdf" rel="noopener nofollow" target="_blank">P2 Booklist 2026</a>
+</p>
+<p><a href="/files/Booklist 2026/P3_2026.pdf" rel="noopener nofollow" target="_blank">P3 Booklist 2026</a>
+</p>
+<p><a href="/files/Booklist 2026/P4_2026.pdf" rel="noopener nofollow" target="_blank">P4 Booklist 2026</a>
+</p>
+<p><a href="/files/Booklist 2026/P5_2026.pdf" rel="noopener nofollow" target="_blank">P5 Booklist 2026</a>
+</p>
+<p><a href="/files/Booklist 2026/P6_2026.pdf" rel="noopener nofollow" target="_blank">P6 Booklist 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
