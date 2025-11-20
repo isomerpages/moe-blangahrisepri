@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/UG Social Media/BRPS_UGSMC_APC_adjustment.jpg">
+</div>
 <p>Our students have done us proud at the UG Social Media Competition (UGSMC)
 2025!</p>
 <p>
