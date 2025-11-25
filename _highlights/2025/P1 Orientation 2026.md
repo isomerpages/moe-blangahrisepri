@@ -24,3 +24,20 @@ a smooth transition into Primary 1.</p>
 prepared by our vendor, Gourmetz. It was a warm and engaging start to the
 journey ahead, and we look forward to welcoming our new Primary 1 students
 in 2026.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/P1 Orientation/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/P1 Orientation/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/P1 Orientation/3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/P1 Orientation/4.jpg">
+</div>
+<p></p>
