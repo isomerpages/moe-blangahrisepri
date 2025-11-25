@@ -20,4 +20,4 @@ of togetherness.
 for their unwavering support, and our students for filling the hall with
 joy and pride. We end the year with full hearts and wonderful memories.&nbsp;
 <br>
-<br>#TogetherWeShine #SchoolCelebration #ProudMoments</p>
+</p>
