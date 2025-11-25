@@ -18,6 +18,15 @@ of togetherness.
 <br>
 <br>A heartfelt thank you to our teachers for their guidance, our parents
 for their unwavering support, and our students for filling the hall with
-joy and pride. We end the year with full hearts and wonderful memories.&nbsp;
+joy and pride. We end the year with full hearts and wonderful memories.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/BRLC Celebrates 2025/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/BRLC Celebrates 2025/2.jpg">
+</div>
+<p>
 <br>
 </p>
