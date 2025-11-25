@@ -48,15 +48,14 @@ sections:
       image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
       alt: Image alt text
   - infopic:
-      title: "Open House 2025: Growing Future Ready Leaders!"
+      title: Together, We Shine
       subtitle: HIGHLIGHTS
       id: infopic
-      description: Blangah Rise Primary School was buzzing with energy as we welcomed
-        prospective students and parents to explore what makes our school so
-        special.
+      description: Our year-end celebration was a beautiful reflection of what happens
+        when confidence, teamwork and passion come together.
       button: READ MORE
-      url: /open-house-2025-growing-future-ready-leaders/
-      image: /images/2025 Photo Album/Open House 2025/IMG_8159.jpg
+      url: https://blangahrisepri.moe.edu.sg/together-we-shine/
+      image: /images/2025 Photo Album/BRLC Celebrates 2025/27.jpg
       alt: Image alt text
   - infopic:
       title: Overseas Learning Journey to Nanjing, China
