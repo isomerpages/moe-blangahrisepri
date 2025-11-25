@@ -52,3 +52,11 @@ joy and pride. We end the year with full hearts and wonderful memories.&nbsp;</p
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/BRLC Celebrates 2025/8.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/BRLC Celebrates 2025/9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/BRLC Celebrates 2025/10.jpg">
+</div>
+<p></p>
