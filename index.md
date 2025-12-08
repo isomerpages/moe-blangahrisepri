@@ -61,7 +61,7 @@ sections:
       title: P1 Orientation 2026
       button: Read More
       alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/p1-orientation-2026/
+      url: https://blangahrisepri.moe.edu.sg/we-welcome-our-p1-cohort-for-2026/
       image: /images/2025 Photo Album/P1 Orientation/10.jpg
       description: On 21 November, we were delighted to welcome our 2026 Primary 1
         cohort for their very first visit to the school.
