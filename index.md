@@ -40,12 +40,12 @@ sections:
       image: /images/2025 Photo Album/PAT & OYEA/PAT_OYEA.jpg
       alt: Image alt text
   - infopic:
-      title: Principal's Term 4 Letter
+      title: Principal's Term 1 Letter
       subtitle: ANNOUNCEMENTS
       id: infopic
       button: CLICK HERE TO READ MORE
-      url: https://blangahrisepri.moe.edu.sg/principal-s-term-4-letter/
-      image: /images/2025 Photo Album/Principal Photo/Ms_Ng___Photo_for_Letter_.jpg
+      url: https://blangahrisepri.moe.edu.sg/principal-s-term-1-letter-2026/
+      image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
       alt: Image alt text
   - infopic:
       title: Together, We Shine
