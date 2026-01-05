@@ -9,6 +9,14 @@ variant: tiptap
 </div>
 <ul>
 <li>
+<p>2026</p>
+<p><strong>Principal's Letter</strong>
+</p>
+<p><a href="/files/P Letter 2026/2026_01_Principal_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's January Letter 2026</a>
+</p>
+<p></p>
+</li>
+<li>
 <p>2025</p>
 <p><strong>Principal's Letter</strong>
 </p>
