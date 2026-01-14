@@ -136,9 +136,7 @@ the recital of the pledge at 7.30 am every morning.</p>
 <p>2.3 Students are considered late for school if they are not in school
 by</p>
 <p>7.30 am.</p>
-<p>2.4 Students are not allowed to remain in class unattended to during any
-assemblies or recess.</p>
-<p>2.5 Late-coming without a valid reason is a breach of school rules.</p>
+<p>2.4 Late-coming without a valid reason is a breach of school rules.</p>
 <p><strong>3. Respect for the singing of the National Anthem and School Song, recital of the National Pledge and the conduct of the Assembly Programme<br></strong>
 </p>
 <p>3.1 Students who are Singapore citizens must sing the National Anthem
