@@ -9,6 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Student Leader Investiture/IMG_0034.jpg">
 </div>
+<h4><strong>Be neat. Take pride in your appearance.</strong></h4>
 <p>A) Attire and Appearance</p>
 <p><strong>1. Uniform<br></strong>
 </p>
@@ -67,8 +68,8 @@ Practice.</p>
 <p>4.1 Hair should be simply styled and kept tidy at all times.</p>
 <p>4.2 Hairstyle should not be fanciful. Dyed, tinted or coloured hair and
 hairstyles with ‘tails’ are strictly not allowed.</p>
-<p>4.3 Boys must be neat in appearance and clean-shaven. Facial hair is not
-allowed.</p>
+<p><strong>4.3 Boys must be neat in appearance and clean-shaven. Facial hair is not allowed.</strong>
+</p>
 <p>4.4 Boys’ hair should be short, properly combed and sloped at the sides
 and the rear. Hair should not touch the ears and the collar. The fringe
 should not touch the eyebrows.</p>
@@ -106,10 +107,7 @@ except when they are performing in a concert.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Existing_PE_Uniform.jpg">
 </div>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Hairstyles.jpg">
-</div>
+<h4><strong>Demonstrate the RISE values through your actions every day.</strong></h4>
 <p>B) Behaviour</p>
 <p><strong>1. General Conduct<br></strong>
 </p>
@@ -127,8 +125,8 @@ conduct and learning.</p>
 <p>1.9 Students should always be environmentally friendly and help to maintain
 the cleanliness of the school premises at all times.</p>
 <p>1.10 Students are not allowed to leave the classroom without the teachers’
-approval. Permission tags are to be worn when leaving the classroom.</p>
-<p>1.11 Food is only to be consumed in the canteen.</p>
+approval.</p>
+<p>1.11 Food is only to be consumed in the canteen except during snack breaks.</p>
 <p>1.12 Students should respect school and public property.</p>
 <p><strong>2. Punctuality<br></strong>
 </p>
