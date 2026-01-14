@@ -177,23 +177,37 @@ to take leave from school during term time, for appropriate reasons, will
 only be granted by the Principal upon advanced notice.</p>
 <p><strong>6. Possession of banned and restricted items<br></strong>
 </p>
-<p>6.1 The use of personal mobile communication devices, e.g. mobile phones
-and smart watches, by students anywhere in the school is strictly forbidden.
-The school reserves the right to confiscate these devices when they are
-being used at an inappropriate time and place.</p>
-<p>6.2 Students are not allowed to bring any electronic related devices such
-as portable music/video players, cameras, VCDs, DVDs, and CDs to school.</p>
-<p>6.3 The school will not be responsible for the loss or damage of any personal
-mobile communication or other electronic devices such as notebooks, laptops,
-iPads, etc.</p>
-<p>6.4 Students are not allowed to bring electronic games, card-games, balls,
+<p>6.1 The use of any communication or smart devices, e.g. mobile phones,
+smartphones and smartwatches, by students anywhere in the school is strictly
+forbidden (except for the POSB Smart Buddy Watch) during school hours including
+recess, CCAs and any after-school programmes. The school reserves the right
+to withhold these devices when they are being used at an inappropriate
+time and place.</p>
+<p>6.2 Students are only allowed to use a mobile phone, smartphone or other
+smart devices such as smartwatches at the sitting area outside the General
+Office after school hours. Students who bring such communication or smart
+devices must switch them off and put them in their school bags before school
+starts.</p>
+<p>6.3 Students are not allowed to use their communication or smart devices
+to play games, listen to music or watch videos at all times.</p>
+<p>6.4 Students are strictly prohibited from using any communication or smart
+devices to record or upload pictures or videos at all times. The school
+will take strict action against any violation.</p>
+<p>6.5 Students are not allowed to bring any electronic related devices such
+as cameras and electronic storage devices to school.</p>
+<p>6.6 Students are not allowed to bring electronic games, card games, balls,
 sporting equipment or toys to school.</p>
-<p>6.5 Students are not allowed to have in their possession any illegal items
-such as tobacco products, e.g. cigarettes or electronic vaporisers, weapons
-or weapon-like items that can be used or intended to be used to cause harm
-to self and others. Possession of such items is a serious offence. Disciplinary
-actions will be taken against offenders and these may include caning and/or
-suspension.</p>
+<p>6.7 Students are not allowed to sell, trade, or promote any personal items,
+merchandise, homemade crafts, food, or gifts in school. They are also not
+allowed to charge for services, or to lend or borrow money from others.
+Students who need financial assistance should approach their Form Teachers.</p>
+<p>6.8 Students should bear responsibility for the safekeeping of any personal
+communication or smart devices as well as other electronic devices such
+as notebooks, laptops, iPads, etc. The school will not be responsible for
+the loss or damage of such devices.</p>
+<p><strong>6.9</strong>  <strong>Students are not allowed to have in their possession any illegal items such as, but not limited to, tobacco products, e.g. cigarettes or vapes, weapons or weapon-like items that can be used or intended to be used to cause harm to self and others. Students should also not bring personal scissors or penknives to school. The school will provide these items when required for lessons. </strong>Possession
+of the abovementioned items is a serious offence. Disciplinary actions
+will be taken against offenders, and these may include caning and/or suspension.</p>
 <p></p>
 <p>C) Consequences of Wrong Conduct</p>
 <p><strong>1.Attire and Appearance<br></strong>
