@@ -17,27 +17,24 @@ comes to school. Any modification to the uniform is not allowed.</p>
 <p>1.2 Uniform is well-pressed, clean and neat at all times.</p>
 <p>1.3 Except for the button closest to the collar, all buttons are buttoned
 up.</p>
-<p><strong>1.4 Existing BRPS Uniform</strong>
+<p>1.4 Unless stated otherwise, the school uniform must be worn at all times
+when students report to school, even during the school holidays, for CCAs
+or enrichment classes.</p>
+<p><strong>1.5 Existing BRPS Uniform</strong>
 </p>
-<p>a. Those with leadership appointments e.g. prefects must wear the badge
-above the nametag.</p>
+<p>a. Students with leadership appointments e.g. prefects must wear their
+badge above the front pocket of their shirt.</p>
 <p>b. The blouse / shirt of the uniform must not be tucked in.</p>
 <p>c. The sleeves of the blouse / shirt should not be folded.</p>
 <p>d. Skirt is to be of knee length.</p>
-<p>e. Unless stated otherwise, the school uniform must be worn at all times
-when students report to school, even during the school holidays, for CCAs
-or enrichment classes.</p>
-<p><strong>1.5 New BRPS Uniform</strong>
+<p><strong>1.6 New BRPS Uniform</strong>
 </p>
 <p>a. Students with leadership appointments e.g. prefects must wear the badge
 between the second and third button from the top.</p>
 <p>b. The t-shirt of the uniform must not be tucked in.</p>
 <p>c. The sleeves of the t-shirt should not be folded.</p>
 <p>d. Skort is to be of knee length.</p>
-<p>e. Unless stated otherwise, the school uniform must be worn at all times
-when students report to school, even during the school holidays, for CCAs
-or enrichment classes.</p>
-<p><strong>1.6 Transition to New School Uniform</strong>
+<p><strong>1.7 Transition to New School Uniform</strong>
 </p>
 <p>a. Students are to wear either the existing uniform or the new uniform,
 but NOT a mix of both.</p>
@@ -46,17 +43,19 @@ of 2026. From 2 Jan 2027 onwards, all students are required to wear the
 new school uniform.</p>
 <p><strong>2. Shoes and socks<br></strong>
 </p>
-<p>2.1 Only covered all-black school shoes and black socks are allowed. Black
-socks are to be worn just above the ankle.</p>
+<p>2.1 Only covered <strong>all-black</strong> school shoes and black socks
+are allowed. Black socks are to be worn just above the ankle.</p>
 <p>2.2 Non-black sports shoes are only allowed to be worn during sports CCA
-or sports competitions. Sports shoes do not include sneakers, canvas shoes
-or any other form of shoes not meant for sports activities. Students must
-change back to covered all-black school shoes after their sports CCA or
-when they return to school after their sports competitions.</p>
-<p>2.3 Only on medical grounds and when school is kept informed, in writing
-and with relevant medical documents, will the school consider the approval
-of alternative footwear, e.g. proper sandals, to be worn. This approval
-is only for the period of the medical condition.</p>
+or sports competitions with permission from the school. Sports shoes do
+not include sneakers, canvas shoes or any other form of shoes not meant
+for sports activities. Students must change back to covered all-black school
+shoes after their sports CCA or when they return to school after their
+sports competitions.</p>
+<p>2.3 Students who need to wear alternative footwear, e.g. proper sandals,
+must seek permission from the Principal. Parents should submit the request
+in writing with relevant medical documents as only requests based on medical
+grounds will be considered. This approval is only valid for the period
+of the medical condition.</p>
 <p><strong>3. PE Attire for Existing School Uniform<br></strong>
 </p>
 <p>3.1 PE attire must be worn during PE lessons, PAL lessons, CCA and House
