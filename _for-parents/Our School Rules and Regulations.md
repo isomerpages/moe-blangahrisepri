@@ -107,6 +107,9 @@ except when they are performing in a concert.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Existing_PE_Uniform.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Handbook/Hairstyles.jpg">
+</div>
 <h4><strong>Demonstrate the RISE values through your actions every day.</strong></h4>
 <p>B) Behaviour</p>
 <p><strong>1. General Conduct<br></strong>
@@ -257,6 +260,9 @@ be called in for discussion with the Principal.</p>
 <p>4.4 Offences and acts of misbehaviour outlined below are not exhaustive.
 The school reserves the right to take action against other forms of misconduct
 not expressly listed:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Handbook/Offences.jpg">
+</div>
 <h4><strong><br>Examinations reflect your effort, integrity and self-discipline.</strong></h4>
 <p><strong>D) Examination Matters</strong>
 </p>
