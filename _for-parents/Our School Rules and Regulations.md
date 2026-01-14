@@ -9,6 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Student Leader Investiture/IMG_0034.jpg">
 </div>
+<h4><strong>Be neat. Take pride in your appearance.</strong></h4>
 <p>A) Attire and Appearance</p>
 <p><strong>1. Uniform<br></strong>
 </p>
@@ -17,27 +18,24 @@ comes to school. Any modification to the uniform is not allowed.</p>
 <p>1.2 Uniform is well-pressed, clean and neat at all times.</p>
 <p>1.3 Except for the button closest to the collar, all buttons are buttoned
 up.</p>
-<p><strong>1.4 Existing BRPS Uniform</strong>
+<p>1.4 Unless stated otherwise, the school uniform must be worn at all times
+when students report to school, even during the school holidays, for CCAs
+or enrichment classes.</p>
+<p><strong>1.5 Existing BRPS Uniform</strong>
 </p>
-<p>a. Those with leadership appointments e.g. prefects must wear the badge
-above the nametag.</p>
+<p>a. Students with leadership appointments e.g. prefects must wear their
+badge above the front pocket of their shirt.</p>
 <p>b. The blouse / shirt of the uniform must not be tucked in.</p>
 <p>c. The sleeves of the blouse / shirt should not be folded.</p>
 <p>d. Skirt is to be of knee length.</p>
-<p>e. Unless stated otherwise, the school uniform must be worn at all times
-when students report to school, even during the school holidays, for CCAs
-or enrichment classes.</p>
-<p><strong>1.5 New BRPS Uniform</strong>
+<p><strong>1.6 New BRPS Uniform</strong>
 </p>
 <p>a. Students with leadership appointments e.g. prefects must wear the badge
 between the second and third button from the top.</p>
 <p>b. The t-shirt of the uniform must not be tucked in.</p>
 <p>c. The sleeves of the t-shirt should not be folded.</p>
 <p>d. Skort is to be of knee length.</p>
-<p>e. Unless stated otherwise, the school uniform must be worn at all times
-when students report to school, even during the school holidays, for CCAs
-or enrichment classes.</p>
-<p><strong>1.6 Transition to New School Uniform</strong>
+<p><strong>1.7 Transition to New School Uniform</strong>
 </p>
 <p>a. Students are to wear either the existing uniform or the new uniform,
 but NOT a mix of both.</p>
@@ -46,17 +44,19 @@ of 2026. From 2 Jan 2027 onwards, all students are required to wear the
 new school uniform.</p>
 <p><strong>2. Shoes and socks<br></strong>
 </p>
-<p>2.1 Only covered all-black school shoes and black socks are allowed. Black
-socks are to be worn just above the ankle.</p>
+<p>2.1 Only covered <strong>all-black</strong> school shoes and black socks
+are allowed. Black socks are to be worn just above the ankle.</p>
 <p>2.2 Non-black sports shoes are only allowed to be worn during sports CCA
-or sports competitions. Sports shoes do not include sneakers, canvas shoes
-or any other form of shoes not meant for sports activities. Students must
-change back to covered all-black school shoes after their sports CCA or
-when they return to school after their sports competitions.</p>
-<p>2.3 Only on medical grounds and when school is kept informed, in writing
-and with relevant medical documents, will the school consider the approval
-of alternative footwear, e.g. proper sandals, to be worn. This approval
-is only for the period of the medical condition.</p>
+or sports competitions with permission from the school. Sports shoes do
+not include sneakers, canvas shoes or any other form of shoes not meant
+for sports activities. Students must change back to covered all-black school
+shoes after their sports CCA or when they return to school after their
+sports competitions.</p>
+<p>2.3 Students who need to wear alternative footwear, e.g. proper sandals,
+must seek permission from the Principal. Parents should submit the request
+in writing with relevant medical documents as only requests based on medical
+grounds will be considered. This approval is only valid for the period
+of the medical condition.</p>
 <p><strong>3. PE Attire for Existing School Uniform<br></strong>
 </p>
 <p>3.1 PE attire must be worn during PE lessons, PAL lessons, CCA and House
@@ -68,8 +68,8 @@ Practice.</p>
 <p>4.1 Hair should be simply styled and kept tidy at all times.</p>
 <p>4.2 Hairstyle should not be fanciful. Dyed, tinted or coloured hair and
 hairstyles with ‘tails’ are strictly not allowed.</p>
-<p>4.3 Boys must be neat in appearance and clean-shaven. Facial hair is not
-allowed.</p>
+<p><strong>4.3 Boys must be neat in appearance and clean-shaven. Facial hair is not allowed.</strong>
+</p>
 <p>4.4 Boys’ hair should be short, properly combed and sloped at the sides
 and the rear. Hair should not touch the ears and the collar. The fringe
 should not touch the eyebrows.</p>
@@ -107,10 +107,10 @@ except when they are performing in a concert.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Existing_PE_Uniform.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/School Uniform/Hairstyles.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Handbook/Hairstyles.jpg">
 </div>
+<h4><strong>Demonstrate the RISE values through your actions every day.</strong></h4>
 <p>B) Behaviour</p>
 <p><strong>1. General Conduct<br></strong>
 </p>
@@ -128,8 +128,8 @@ conduct and learning.</p>
 <p>1.9 Students should always be environmentally friendly and help to maintain
 the cleanliness of the school premises at all times.</p>
 <p>1.10 Students are not allowed to leave the classroom without the teachers’
-approval. Permission tags are to be worn when leaving the classroom.</p>
-<p>1.11 Food is only to be consumed in the canteen.</p>
+approval.</p>
+<p>1.11 Food is only to be consumed in the canteen except during snack breaks.</p>
 <p>1.12 Students should respect school and public property.</p>
 <p><strong>2. Punctuality<br></strong>
 </p>
@@ -139,16 +139,14 @@ the recital of the pledge at 7.30 am every morning.</p>
 <p>2.3 Students are considered late for school if they are not in school
 by</p>
 <p>7.30 am.</p>
-<p>2.4 Students are not allowed to remain in class unattended to during any
-assemblies or recess.</p>
-<p>2.5 Late-coming without a valid reason is a breach of school rules.</p>
+<p>2.4 Late-coming without a valid reason is a breach of school rules.</p>
 <p><strong>3. Respect for the singing of the National Anthem and School Song, recital of the National Pledge and the conduct of the Assembly Programme<br></strong>
 </p>
-<p>3.1 Students who are Singapore citizens must sing the National Anthem
-and take the Pledge. Students will take the Pledge with the right fist
-over the heart.</p>
-<p>3.2 Students must stand at attention throughout the singing of the National
-Anthem, the School Song and the recital of the Pledge.</p>
+<p><strong>3.1 Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</strong>
+</p>
+<p>3.2 All students, including non-citizens, must stand at attention throughout
+the singing of the National Anthem, the School Song and the recitation
+of the Pledge.</p>
 <p>3.3 Students who are on the school premises but not at the assembly area
 should stand at attention during the singing of the National Anthem and
 the recital of the Pledge.</p>
@@ -172,7 +170,9 @@ in the General Office.</p>
 </p>
 <p>5.1 A student who is absent from school must submit a Letter of Excuse
 or Medical Certificate to the Form Teacher upon return.</p>
-<p>5.2 A student who is absent from CCA / after-school classes / enrichment
+<p>5.2 The school only permits up to ten Letters of Excuse per year to explain
+the student’s absence from school.</p>
+<p>5.3 A student who is absent from CCA / after-school classes / enrichment
 lessons / after-school engagement activities must also submit a Letter
 of Excuse to the teacher concerned.</p>
 <p>5.3 All students are expected to attend school during term time. Permission
@@ -180,54 +180,67 @@ to take leave from school during term time, for appropriate reasons, will
 only be granted by the Principal upon advanced notice.</p>
 <p><strong>6. Possession of banned and restricted items<br></strong>
 </p>
-<p>6.1 The use of personal mobile communication devices, e.g. mobile phones
-and smart watches, by students anywhere in the school is strictly forbidden.
-The school reserves the right to confiscate these devices when they are
-being used at an inappropriate time and place.</p>
-<p>6.2 Students are not allowed to bring any electronic related devices such
-as portable music/video players, cameras, VCDs, DVDs, and CDs to school.</p>
-<p>6.3 The school will not be responsible for the loss or damage of any personal
-mobile communication or other electronic devices such as notebooks, laptops,
-iPads, etc.</p>
-<p>6.4 Students are not allowed to bring electronic games, card-games, balls,
+<p>6.1 The use of any communication or smart devices, e.g. mobile phones,
+smartphones and smartwatches, by students anywhere in the school is strictly
+forbidden (except for the POSB Smart Buddy Watch) during school hours including
+recess, CCAs and any after-school programmes. The school reserves the right
+to withhold these devices when they are being used at an inappropriate
+time and place.</p>
+<p>6.2 Students are only allowed to use a mobile phone, smartphone or other
+smart devices such as smartwatches at the sitting area outside the General
+Office after school hours. Students who bring such communication or smart
+devices must switch them off and put them in their school bags before school
+starts.</p>
+<p>6.3 Students are not allowed to use their communication or smart devices
+to play games, listen to music or watch videos at all times.</p>
+<p>6.4 Students are strictly prohibited from using any communication or smart
+devices to record or upload pictures or videos at all times. The school
+will take strict action against any violation.</p>
+<p>6.5 Students are not allowed to bring any electronic related devices such
+as cameras and electronic storage devices to school.</p>
+<p>6.6 Students are not allowed to bring electronic games, card games, balls,
 sporting equipment or toys to school.</p>
-<p>6.5 Students are not allowed to have in their possession any illegal items
-such as tobacco products, e.g. cigarettes or electronic vaporisers, weapons
-or weapon-like items that can be used or intended to be used to cause harm
-to self and others. Possession of such items is a serious offence. Disciplinary
-actions will be taken against offenders and these may include caning and/or
-suspension.</p>
-<p></p>
+<p>6.7 Students are not allowed to sell, trade, or promote any personal items,
+merchandise, homemade crafts, food, or gifts in school. They are also not
+allowed to charge for services, or to lend or borrow money from others.
+Students who need financial assistance should approach their Form Teachers.</p>
+<p>6.8 Students should bear responsibility for the safekeeping of any personal
+communication or smart devices as well as other electronic devices such
+as notebooks, laptops, iPads, etc. The school will not be responsible for
+the loss or damage of such devices.</p>
+<p><strong>6.9</strong>  <strong>Students are not allowed to have in their possession any illegal items such as, but not limited to, tobacco products, e.g. cigarettes or vapes, weapons or weapon-like items that can be used or intended to be used to cause harm to self and others. Students should also not bring personal scissors or penknives to school. The school will provide these items when required for lessons. </strong>Possession
+of the abovementioned items is a serious offence. Disciplinary actions
+will be taken against offenders, and these may include caning and/or suspension.</p>
+<h4><strong>Your choices shape a safe and caring school community.</strong></h4>
 <p>C) Consequences of Wrong Conduct</p>
 <p><strong>1.Attire and Appearance<br></strong>
 </p>
 <p>1.1 Students who do not observe the rules of attire, particularly the
-school uniform and PE attire, will be noted down by the Form Teachers.
-The Form Teachers will follow up with calls to parents/ guardians.</p>
+school uniform, will be noted down by the Form Teachers. The Form Teachers
+will follow up with calls to parents/ guardians.</p>
 <p>1.2 Students who do not conform to the rules with regard to accessories
 and jewellery will have their items confiscated. Parents/guardians should
-make an appointment, with the teacher, to collect the confiscated item
-in person.</p>
+make an appointment with the teacher to collect the confiscated item in
+person.</p>
 <p><strong>2. Punctuality<br></strong>
 </p>
-<p>2.1 Consequences, such as after-school detention, may be meted out to
-students who are frequently late for school. Repeated late-coming will
+<p>2.1 2.1 Consequences, such as after-school detention, may be meted out
+to students who are frequently late for school. Repeated late-coming will
 have an impact on reported conduct grade and considerations for award nominations
 and recommendations.</p>
 <p><strong>3. Possession of banned and restricted items<br></strong>
 </p>
-<p>3.1 Mobile phones, smart watches, music/video players, electronic games,
-card games, balls, sporting equipment, toys and other electronic devices
-and expensive items brought to school will be confiscated. Parents/ guardians
-should make an appointment, with the teacher, to collect the confiscated
-item in person.</p>
+<p>3.1 The use of restricted items at inappropriate times or places or the
+use of banned items is not allowed. Such items will be withheld by the
+school. Parents/guardians should make an appointment with the school to
+collect the withheld item in person.</p>
 <p></p>
 <p><strong>4. Acts of misbehaviour</strong>
 </p>
-<p><strong><br></strong> 4.1 The school does not condone acts of misbehaviour
-committed by students. To support students in learning from their mistakes,
-disciplinary actions (consequences) will be meted out according to the
-severity of the offences. Disciplinary actions may include:</p>
+<p>4.1 The school does not condone acts of misbehaviour committed by students.
+To support students in learning from their mistakes, disciplinary actions
+(consequences) will be meted out according to the severity of the offences.
+Disciplinary actions may include:</p>
 <p>(a) Personal reflection; (b) Peer apology; (c) Teacher-student conference;
 (d) Guidance / Counselling; (e) Confiscation of item; (f) Compensation
 for damaged item(s); (g) Behavioural Agreement; (h) After-school detention;
@@ -244,20 +257,29 @@ on the offence committed.</p>
 <p>4.3 Students who commit serious or repeated offences may also be liable
 for suspension or expulsion from school. Parents of such students will
 be called in for discussion with the Principal.</p>
+<p>4.4 Offences and acts of misbehaviour outlined below are not exhaustive.
+The school reserves the right to take action against other forms of misconduct
+not expressly listed:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Handbook/Offences.jpg">
+</div>
+<h4><strong><br>Examinations reflect your effort, integrity and self-discipline.</strong></h4>
 <p><strong>D) Examination Matters</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students should be punctual for all examination papers. They will not
 be given make-up time if they are late without valid reason.</p>
+<p></p>
 </li>
 <li>
-<p>Students should bring all materials needed for the examination. These
-include blue/black ink or ballpoint pens, 2B pencils, soft erasers, sharpeners
+<p>Students should bring the necessary stationery needed for the examination.
+These include blue/black ballpoint pens, 2B pencils, soft erasers, sharpeners
 and standard mathematical instruments (ruler, protractor and set-squares).
-Unauthorised materials or equipment should not be brought in. Students
-are not allowed to share materials, dictionaries and calculators with other
-students during the examination.</p>
+Unauthorised items and materials, including writing paper, electronic and
+communication devices (e.g. mobile phones and smart watches) should not
+be brought into the examination venue.</p>
+<p></p>
 </li>
 <li>
 <p>Students must follow these regulations:</p>
@@ -276,7 +298,7 @@ results imposed with a grade penalty.</p>
 <li>
 <p>If students are not feeling well and not able to sit the examination,
 they need to provide the school with a medical certificate as a valid reason.
-Otherwise, zero marks may be awarded. If they have a valid reason for not
+Otherwise, no marks will be awarded. If they have a valid reason for not
 taking the examination, their examination grade will be:</p>
 </li>
 </ol>
