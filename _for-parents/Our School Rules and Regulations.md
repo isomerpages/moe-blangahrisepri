@@ -208,37 +208,36 @@ the loss or damage of such devices.</p>
 <p><strong>6.9</strong>  <strong>Students are not allowed to have in their possession any illegal items such as, but not limited to, tobacco products, e.g. cigarettes or vapes, weapons or weapon-like items that can be used or intended to be used to cause harm to self and others. Students should also not bring personal scissors or penknives to school. The school will provide these items when required for lessons. </strong>Possession
 of the abovementioned items is a serious offence. Disciplinary actions
 will be taken against offenders, and these may include caning and/or suspension.</p>
-<p></p>
+<h4><strong>Your choices shape a safe and caring school community.</strong></h4>
 <p>C) Consequences of Wrong Conduct</p>
 <p><strong>1.Attire and Appearance<br></strong>
 </p>
 <p>1.1 Students who do not observe the rules of attire, particularly the
-school uniform and PE attire, will be noted down by the Form Teachers.
-The Form Teachers will follow up with calls to parents/ guardians.</p>
+school uniform, will be noted down by the Form Teachers. The Form Teachers
+will follow up with calls to parents/ guardians.</p>
 <p>1.2 Students who do not conform to the rules with regard to accessories
 and jewellery will have their items confiscated. Parents/guardians should
-make an appointment, with the teacher, to collect the confiscated item
-in person.</p>
+make an appointment with the teacher to collect the confiscated item in
+person.</p>
 <p><strong>2. Punctuality<br></strong>
 </p>
-<p>2.1 Consequences, such as after-school detention, may be meted out to
-students who are frequently late for school. Repeated late-coming will
+<p>2.1 2.1 Consequences, such as after-school detention, may be meted out
+to students who are frequently late for school. Repeated late-coming will
 have an impact on reported conduct grade and considerations for award nominations
 and recommendations.</p>
 <p><strong>3. Possession of banned and restricted items<br></strong>
 </p>
-<p>3.1 Mobile phones, smart watches, music/video players, electronic games,
-card games, balls, sporting equipment, toys and other electronic devices
-and expensive items brought to school will be confiscated. Parents/ guardians
-should make an appointment, with the teacher, to collect the confiscated
-item in person.</p>
+<p>3.1 The use of restricted items at inappropriate times or places or the
+use of banned items is not allowed. Such items will be withheld by the
+school. Parents/guardians should make an appointment with the school to
+collect the withheld item in person.</p>
 <p></p>
 <p><strong>4. Acts of misbehaviour</strong>
 </p>
-<p><strong><br></strong> 4.1 The school does not condone acts of misbehaviour
-committed by students. To support students in learning from their mistakes,
-disciplinary actions (consequences) will be meted out according to the
-severity of the offences. Disciplinary actions may include:</p>
+<p>4.1 The school does not condone acts of misbehaviour committed by students.
+To support students in learning from their mistakes, disciplinary actions
+(consequences) will be meted out according to the severity of the offences.
+Disciplinary actions may include:</p>
 <p>(a) Personal reflection; (b) Peer apology; (c) Teacher-student conference;
 (d) Guidance / Counselling; (e) Confiscation of item; (f) Compensation
 for damaged item(s); (g) Behavioural Agreement; (h) After-school detention;
@@ -255,20 +254,26 @@ on the offence committed.</p>
 <p>4.3 Students who commit serious or repeated offences may also be liable
 for suspension or expulsion from school. Parents of such students will
 be called in for discussion with the Principal.</p>
+<p>4.4 Offences and acts of misbehaviour outlined below are not exhaustive.
+The school reserves the right to take action against other forms of misconduct
+not expressly listed:</p>
+<h4><strong><br>Examinations reflect your effort, integrity and self-discipline.</strong></h4>
 <p><strong>D) Examination Matters</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students should be punctual for all examination papers. They will not
 be given make-up time if they are late without valid reason.</p>
+<p></p>
 </li>
 <li>
-<p>Students should bring all materials needed for the examination. These
-include blue/black ink or ballpoint pens, 2B pencils, soft erasers, sharpeners
+<p>Students should bring the necessary stationery needed for the examination.
+These include blue/black ballpoint pens, 2B pencils, soft erasers, sharpeners
 and standard mathematical instruments (ruler, protractor and set-squares).
-Unauthorised materials or equipment should not be brought in. Students
-are not allowed to share materials, dictionaries and calculators with other
-students during the examination.</p>
+Unauthorised items and materials, including writing paper, electronic and
+communication devices (e.g. mobile phones and smart watches) should not
+be brought into the examination venue.</p>
+<p></p>
 </li>
 <li>
 <p>Students must follow these regulations:</p>
@@ -287,7 +292,7 @@ results imposed with a grade penalty.</p>
 <li>
 <p>If students are not feeling well and not able to sit the examination,
 they need to provide the school with a medical certificate as a valid reason.
-Otherwise, zero marks may be awarded. If they have a valid reason for not
+Otherwise, no marks will be awarded. If they have a valid reason for not
 taking the examination, their examination grade will be:</p>
 </li>
 </ol>
