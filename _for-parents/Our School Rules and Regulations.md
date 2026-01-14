@@ -139,11 +139,11 @@ by</p>
 <p>2.4 Late-coming without a valid reason is a breach of school rules.</p>
 <p><strong>3. Respect for the singing of the National Anthem and School Song, recital of the National Pledge and the conduct of the Assembly Programme<br></strong>
 </p>
-<p>3.1 Students who are Singapore citizens must sing the National Anthem
-and take the Pledge. Students will take the Pledge with the right fist
-over the heart.</p>
-<p>3.2 Students must stand at attention throughout the singing of the National
-Anthem, the School Song and the recital of the Pledge.</p>
+<p><strong>3.1 Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</strong>
+</p>
+<p>3.2 All students, including non-citizens, must stand at attention throughout
+the singing of the National Anthem, the School Song and the recitation
+of the Pledge.</p>
 <p>3.3 Students who are on the school premises but not at the assembly area
 should stand at attention during the singing of the National Anthem and
 the recital of the Pledge.</p>
@@ -167,7 +167,9 @@ in the General Office.</p>
 </p>
 <p>5.1 A student who is absent from school must submit a Letter of Excuse
 or Medical Certificate to the Form Teacher upon return.</p>
-<p>5.2 A student who is absent from CCA / after-school classes / enrichment
+<p>5.2 The school only permits up to ten Letters of Excuse per year to explain
+the student’s absence from school.</p>
+<p>5.3 A student who is absent from CCA / after-school classes / enrichment
 lessons / after-school engagement activities must also submit a Letter
 of Excuse to the teacher concerned.</p>
 <p>5.3 All students are expected to attend school during term time. Permission
