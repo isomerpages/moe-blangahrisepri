@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-![](/images/2023%20Photos/Staff%20Photo/pe%20staff.JPG)
-
-**PE Department:** <br>
-(Left to Right) Mr Muthukumar Silvalingam Sunderraraju, Mr Leow Qin Jin, Mr John Chia, Mr Eugene Tan, Mr Shang Thian Huat
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Staff Photo/aesthetics_and_physical_education_department_2.jpg">
+</div>
+<p></p>
