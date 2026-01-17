@@ -3,11 +3,10 @@ title: Science Department
 permalink: /about-us/our-staff/science-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-<img src="/images/image22.jpg">
-
-**ROW 1 (FRONT):**<br>
-Mr Patrick Goh, Ms Athena Tang, Mdm Tan Guat Khim, Mr James Han, Ms Jasmine Gui, Mdm Stephanie Song, Mrs Jenny Quek, Mdm Nasopa Binte Naim, Ms Munirah Binte Talat Mahmood, Mr Leow Qinjin
-
-**ROW 2 (BACK):** <br> 
-Mr Shang Thian Huat, Mr Muhammad Salim Ahmad Jamil
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Staff Photo/science_department_2.jpg">
+</div>
+<p></p>
