@@ -3,14 +3,10 @@ title: Information Communications Technology Department
 permalink: /about-us/our-staff/information-communications-technology-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-<img src="/images/2023%20Photos/Staff%20Photo/ict%20department.jpg">
-
-**ROW 1 (FRONT):** <br>
-Ms Seow Wen Yi, Mrs Teresa Tay, Ms Abigail Ow, Mr Yu Zhenxue
-
-**ROW 2 (MIDDLE):** <br>
-Mdm Chong Jie Shi, Ms Mariana, Ms Nadirah Azman, Ms Jasmine Gui, Ms Magdalene Ho, Mr Mohammed Yousoff s/o Shaik Md, Mr Urwin Ng
-
-**ROW 3 (BACK):** <br>
-Ms Athena Tang, Mdm Uuchi Mashaida Virtucio, Ms Aprilene Goh, Mr Muhammad Izam Bin Saidi
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Staff Photo/info_communication_technology_department_2.jpg">
+</div>
+<p></p>
