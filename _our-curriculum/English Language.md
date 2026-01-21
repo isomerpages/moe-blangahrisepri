@@ -4,12 +4,11 @@ permalink: /departments/english-language/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/EL-DEPT2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Debate_main_image.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <blockquote>
 <p><em>"The more that you read, the more things you will know. The more that you learn, the more places you’ll go."</em>
 </p>
@@ -100,11 +99,11 @@ Our students go through training on verbal and non-verbal cues of confidence.
 They then script their presentations and present their lines in front of
 a camera. Watch our little broadcasters introduce their school below:</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lWKBZPWIADk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C8ErUK_5EaA?si=eDz3xraH0Br16c3Z"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Broadcast_Journalism.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Broadcast_Journalism_Photo__to_update_.jpg">
 </div>
 <p><strong><em>The Joy of Writing<br><br></em></strong>Our writing curriculum
 focuses on writing in authentic contexts, across a variety of purposes
@@ -178,9 +177,15 @@ other in argumentative debate on topics such as eSports, kid influencers,
 as well as the banes and boons of video games. In 2025, our school debaters
 emerged one of the Top 3 teams at the Wits &amp; Words Inter-School Debate
 Competition (Division II). Read more about their success&nbsp;<strong><a href="/2021/03/16/brps-debate-team-advances-to-quarterfinals-at-inter-school-competition/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and&nbsp;<strong><a href="/2021/04/15/brps-debate-team-advances-to-semifinals-of-inter-school-competition/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Debate-2-768x1024.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Debate_photo_1__to_update_.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Debate_photo_2__to_update_.jpg">
+</div>
+<p></p>
 <p><strong><em>Nurturing the love for creative &amp; journalistic writing</em></strong>
 </p>
 <p>2020 was a year like no other. But the challenges that Covid-19 measures
@@ -217,8 +222,9 @@ oracy and drama skills to our Primary 2 students, including understanding
 drama, locating body gestures in character, as well as building on voice
 projection and expression. Selected Primary 2 students are selected to
 stage a performance during our annual BRLC Celebrates! awards ceremony.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Drama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Drama_Photo__to_update_.jpg">
 </div>
 <p><strong>Our Support<br><br></strong>We provide language and literacy support
 to our Primary One and Two students who need the additional boost. In Middle
@@ -244,9 +250,6 @@ e-pedagogy and EdTech tools to augment our teaching and learning. We are
 well supported by MOE divisions, including by Master Teacher Mrs Jennifer
 Lui from the English Language Institute of Singapore, and external partners
 such as Apple Inc.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/MTT-Jennifer-1024x768.jpeg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Apple_Classroom.jpg">
 </div>
