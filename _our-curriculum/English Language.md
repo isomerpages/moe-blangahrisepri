@@ -2,84 +2,256 @@
 title: English Language
 permalink: /departments/english-language/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/EL-DEPT2.jpg"><br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Debate_main_image.jpg">
+</div>
+<p></p>
 <blockquote>
-<p style="text-align: center;"><span style="color: #000000;"><em>"The more that you read, the more things you will know. The more that you learn, the more places you’ll go."</em></span></p>
+<p><em>"The more that you read, the more things you will know. The more that you learn, the more places you’ll go."</em>
+</p>
 </blockquote>
-<p style="text-align: right;"><em>-Dr Seuss-</em></p>
-<p><strong><span style="color: #ff0000;">Mission&nbsp;</span>and&nbsp;<span style="color: #0000ff;">Vision</span>:<br><br></strong>We believe that every Blangahnite can and wants to excel in their learning of the English Language.<br>We want every child to develop&nbsp;<span style="color: #ff0000;">a strong foundation in the English Language.</span></p>
-<p>We&nbsp;<span style="color: #3366ff;">aspire for our students to have strong language and literacy skills, love reading and be empathetic communicators as well as confident writers.</span></p>
-<p><strong>Our Curriculum<br><br></strong>We seek to provide every Blangahnite with a joyful learning environment and inculcate the love for reading in them.</p>
-<p>The school uses&nbsp;<strong>STELLAR</strong>&nbsp;(<strong>ST</strong>rategies for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L</strong>earning&nbsp;<strong>A</strong>nd&nbsp;<strong>R</strong>eading) in our curriculum. Age-appropriate materials are used together with research-based teaching strategies to engage every Blangahnite in the learning of the English Language.</p>
-<p>Our school-based curriculum is anchored in joyful learning and designed to spark the Joy of Speaking and Writing, as well as Reading in each child.</p>
-<p><strong><em>The Joy of Speaking<br><br></em></strong>We encourage all our students to express themselves confidently, authentically and empathetically. Our oracy curriculum nurtures basic oracy skills at the lower primary level and spiral progresses through the upper primary years to nurture more complementary skills such as performance and critical thinking skills. At the heart of our oracy curriculum is the belief that oracy development should take place through authentic and experiential learning. At each level, students will experience the following learning modules:</p>
-<table style="border-style: solid;">
+<p><em>-Dr Seuss-</em>
+</p>
+<p><strong>Mission&nbsp;and&nbsp;Vision:<br><br></strong>We believe that
+every Blangahnite can and wants to excel in their learning of the English
+Language.
+<br>We want every child to develop&nbsp;a strong foundation in the English
+Language.</p>
+<p>We&nbsp;aspire for our students to have strong language and literacy skills,
+love reading and be empathetic communicators as well as confident writers.</p>
+<p><strong>Our Curriculum<br><br></strong>We seek to provide every Blangahnite
+with a joyful learning environment and inculcate the love for reading in
+them.</p>
+<p>The school uses&nbsp;<strong>STELLAR</strong>&nbsp;(<strong>ST</strong>rategies
+for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L</strong>earning&nbsp;<strong>A</strong>nd&nbsp;<strong>R</strong>eading)
+in our curriculum. Age-appropriate materials are used together with research-based
+teaching strategies to engage every Blangahnite in the learning of the
+English Language.</p>
+<p>Our school-based curriculum is anchored in joyful learning and designed
+to spark the Joy of Speaking and Writing, as well as Reading in each child.</p>
+<p><strong><em>The Joy of Speaking<br><br></em></strong>We encourage all
+our students to express themselves confidently, authentically and empathetically.
+Our oracy curriculum nurtures basic oracy skills at the lower primary level
+and spiral progresses through the upper primary years to nurture more complementary
+skills such as performance and critical thinking skills. At the heart of
+our oracy curriculum is the belief that oracy development should take place
+through authentic and experiential learning. At each level, students will
+experience the following learning modules:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="66">P1</td>
-<td width="390">Show-and-Tell</td>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Show-and-Tell</p>
+</td>
 </tr>
 <tr>
-<td width="66">P2</td>
-<td width="390"> Pick-and-Tell &amp; iDiscover Drama</td>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pick-and-Tell &amp; iDiscover Drama</p>
+</td>
 </tr>
 <tr>
-<td width="66">P3</td>
-<td rowspan="2" width="390">Broadcast Journalism</td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Broadcast Journalism</p>
+</td>
 </tr>
 <tr>
-<td width="66">P4</td>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
 </tr>
 <tr>
-<td width="66">P5</td>
-<td width="390">Debate</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate</p>
+</td>
 </tr>
 <tr>
-<td>P6</td>
-<td>PSLE Oral Booster Programme</td>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Oral Booster Programme</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>Under Viewpoints, our Middle Primary students undergo a Broadcast Journalism enrichment module, which aims to build students’ confidence in presentation. Our students go through training on verbal and non-verbal cues of confidence. They then script their presentations and present their lines in front of a camera. Watch our little broadcasters introduce their school below:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lWKBZPWIADk" title="Our favourite places in school!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p>Under Viewpoints, our Middle Primary students undergo a Broadcast Journalism
+enrichment module, which aims to build students’ confidence in presentation.
+Our students go through training on verbal and non-verbal cues of confidence.
+They then script their presentations and present their lines in front of
+a camera. Watch our little broadcasters introduce their school below:</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C8ErUK_5EaA?si=eDz3xraH0Br16c3Z"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Broadcast_Journalism_Photo__to_update_.jpg">
+</div>
+<p><strong><em>The Joy of Writing<br><br></em></strong>Our writing curriculum
+focuses on writing in authentic contexts, across a variety of purposes
+and text types including narrative texts, information texts, procedural
+texts, personal responses as well as argumentative texts. At each level,
+we also adopt an Inquiry-Based Learning (IBL) approach to teach the features
+and writing of a variety of text types.</p>
+<p><strong><em>The Joy of Reading<br><br></em></strong>Our students are exposed
+to a variety of texts and reading materials. We encourage all our students
+to make reading their passion and increase their knowledge about the world
+around them.</p>
+<p>At upper primary, we provide Blangahnites with opportunities to respond
+to children’s literature creatively and learn to appreciate their own as
+well as the culture of others. Our students learn about how authors make
+characters come alive. They also learn how to develop and share their opinions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Read_at_BRPS.jpg">
+</div>
+<p>We invite local authors to conduct talks as part of our “Authors’ Talks
+Series”. In these sessions, our students meet with the authors face-to-face
+and hear first-hand their inspiration behind their books as well as their
+personal experiences. “What do you use to draw your pictures with?”, “How
+long do you take to write a book?” and “What advice would you give me if
+I wanted to be a writer?” “Why is Sherlock Sam always wearing a shirt with
+‘Ad” on it?” These were just some of the questions that Blangahnites posed
+to our visiting local authors, Mr Quek Hong Shin, A.J. Low and Ms Sharon
+Ismail.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Authors_Talk_photo__to_update_.jpg">
+</div>
 <p>
-<img src="/images/2024%20Photos/English%20Webpage/Broadcast_Journalism.jpg"></p>
-
-
-<p><strong><em>The Joy of Writing<br><br></em></strong>Our writing curriculum focuses on writing in authentic contexts, across a variety of purposes and text types including narrative texts, information texts, procedural texts, personal responses as well as argumentative texts. At each level, we also adopt an Inquiry-Based Learning (IBL) approach to teach the features and writing of a variety of text types.</p>
-<p><strong><em>The Joy of Reading<br><br></em></strong>Our students are exposed to a variety of texts and reading materials. We encourage all our students to make reading their passion and increase their knowledge about the world around them.</p>
-<p>At upper primary, we provide Blangahnites with opportunities to respond to children’s literature creatively and learn to appreciate their own as well as the culture of others. Our students learn about how authors make characters come alive. They also learn how to develop and share their opinions, including mounting storytelling sessions for their juniors during recess.</p>
-
-<p>
-<img src="/images/2024%20Photos/English%20Webpage/Read_at_BRPS.jpg"></p>
-
-<p>We invite local authors to conduct talks as part of our “Authors’ Talks Series”. In these sessions, our students meet with the authors face-to-face and hear first-hand their inspiration behind their books as well as their personal experiences. “What do you use to draw your pictures with?”, “How long do you take to write a book?” and “What advice would you give me if I wanted to be a writer?” “Why is Sherlock Sam always wearing a shirt with ‘Ad” on it?” These were just some of the questions that Blangahnites posed to our visiting local authors, Mr Quek Hong Shin, A.J. Low and Ms Sharon Ismail.</p>
-
-<img src="/images/el1.jpg"><br>
-
-<p>We also organise Dr Seuss Day in March to celebrate the authorial legacy of Dr Seuss and his widely-loved children books. Our MOE Kindergarten preschoolers, primary one, two and three students are introduced to Dr. Seuss and his zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>. Read more about our Dr Seuss Day celebrations&nbsp;<a href="/2022/03/18/junior-primary-and-moe-kindergartens-journey-to-dr-seuss-fantastical-worlds/"><strong>here</strong></a>&nbsp;and&nbsp;<a href="/2021/03/26/dr-seuss-day/"><strong>here</strong></a>.</p>
-<img src="/images/english2.png">
-<p><strong>Our Stretch Programmes</strong><br><strong><em>Reaching the sky through Scrabble &amp; debate competitions</em></strong></p>
-<p>Our students are given opportunities to enhance their love for the English Language through Scrabble and debating. They get a chance to participate in national competitions such as Wits &amp; Words (Debating) and Scrabble. With their memorised Latin, Greek roots and two-letter words, our Scrabblers rose to the challenge against students from many other schools. In 2022, two students, Lea Stroe (4 Topaz) and Leo Yang (3 Opal) have also attained medals at the 2nd National Schools Scrabble Game e-Series 2022. . In 2023, on top of individual accolades, our Scrabblers brought home the Team Championship for the Junior Division, Bowl Category. Read more about our scrabble achievements over the years&nbsp;<a href="/2021/08/20/two-brps-students-advance-to-finals-of-2021-scrabble-tournament-for-beginners-by-mattel/">here</a>&nbsp;(2021) and&nbsp;<a href="/2022/05/18/brps-scrabblers-win-bronze-medals-at-national-schools-scrabble-game-e-series-nssges-2022/">here</a>&nbsp;(2022) and&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/2023/05/30/champion-scrabbles/">here</a>&nbsp;(2023).</p>
-
-<p><img src="/images/2024%20Photos/English%20Webpage/Scrabblers.jpg"></p>
-<img src="/images/el2.jpg">
-<p>Debating is a strategy we employ for our High Ability English Learners to stretch their oracy and critical thinking skills. At the upper primary levels, students are given the opportunity to pit their wits against each other in argumentative debate on topics such as eSports, kid influencers, as well as the banes and boons of video games. In 2021, our Primary five debaters emerged one of the Top 4 teams at the Wits &amp; Words Inter-School Debate Competition (Divison II). Read more about their success&nbsp;<strong><a href="/2021/03/16/brps-debate-team-advances-to-quarterfinals-at-inter-school-competition/">here</a></strong>&nbsp;and&nbsp;<strong><a href="/2021/04/15/brps-debate-team-advances-to-semifinals-of-inter-school-competition/">here</a></strong>.</p>
-<img src="/images/Debate-2-768x1024.jpeg">
-<p><strong><em>Nurturing the love for creative &amp; journalistic writing</em></strong></p>
-<p>2020 was a year like no other. But the challenges that Covid-19 measures brought about, especially the Home-based Learning (HBL), did nothing to dampen our students’ spirits in coming together to pen down their stories and experiences during that period at home. Our students on the English APEX programe met weekly via Zoom to pen our inaugural issue of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;– our BRPS student e-newsletter, for the students, by the students. Guided by Mr Roger Jenkins, a renowned Singaporean storyteller and drama coach, our APEX students shared tips on surviving HBL, lessons learnt from Covid-19, anecdotes of their fondest memories of the unprecedented year and creative acoustic poems of a pandemic. Read our recent issues of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;<a href="/files/Bravo-Issue-2021.pdf"><strong>here</strong>&nbsp;</a>and&nbsp;<a href="/files/BRAVO_final_13Jan2020_FINAL-1.pdf"><strong>here</strong></a>.</p>
-
-<p><strong><em>Staging the performing arts</em></strong></p>
-<p>Beyond writing, we also use drama, music and movement to inculcate in each child the importance of creativity, excellence and confidence in using the English Language. The importance of drama and the performing arts in education is significant as it can be the agent through which a variety of emotions can be learned, rehearsed and practised. At times, our students can find it challenging to express their emotions, so drama provides the outlet for them to explore a wide range of feelings.</p>
-<p>To further expose our students to theatre, we organize learning journeys to watch staged theatre of musical performances at the Esplanade or Victoria Theatre. In 2022, our Primary 3 students had a chance to watch one Julia Donaldson’s Gruffalo come to live on stage! In 2023, our Primary 3 students journeyed to Capitol Theatre to watch Sherlock Sam: The Musical!</p>
-<img src="/images/el3.jpg">
-<p>Our Primary 2 students also learn speech and drama skills through our i-Discover programme. Spanning 10 weeks, the programme seeks to impart oracy and drama skills to our Primary 2 students, including understanding drama, locating body gestures in character, as well as building on voice projection and expression. Selected Primary 2 students are selected to stage a performance during our annual BRLC Celebrates! awards ceremony.</p>
-<img src="/images/2024%20Photos/English%20Webpage/Drama.jpg">
-<p><strong>Our Support<br><br></strong>We provide language and literacy support to our Primary One and Two students who need the additional boost. In Middle Primary, selected students are also supported under the&nbsp;<strong>S</strong>chool-based&nbsp;<strong>D</strong>yslexia&nbsp;<strong>R</strong>emediation Programme (SDR) as well as the&nbsp;<strong>R</strong>eading&nbsp;<strong>R</strong>emediation&nbsp;<strong>P</strong>rogramme (RRP) so that the students can acquire reading, spelling and comprehension skills.</p>
+<br>
+</p>
+<p>We also organise Dr Seuss Talks to celebrate the authorial legacy of Dr
+Seuss and his widely-loved children books. Our MOE Kindergarten preschoolers,
+primary one, two and three students are introduced to Dr. Seuss and his
+zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>.
+Read more about our Dr Seuss Day celebrations&nbsp;<strong><a href="/2022/03/18/junior-primary-and-moe-kindergartens-journey-to-dr-seuss-fantastical-worlds/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and&nbsp;<strong><a href="/2021/03/26/dr-seuss-day/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/english2.png">
+</div>
+<p><strong>Our Stretch Programmes</strong>
+<br><strong><em>Reaching the sky through Scrabble &amp; debate competitions</em></strong>
+</p>
+<p>Our students are given opportunities to enhance their love for the English
+Language through Scrabble and debating. They get a chance to participate
+in national competitions such as Wits &amp; Words (Debating) and Scrabble.
+With their memorised Latin, Greek roots and two-letter words, our Scrabblers
+rose to the challenge against students from many other schools. In 2022,
+two students, Lea Stroe (4 Topaz) and Leo Yang (3 Opal) have also attained
+medals at the 2nd National Schools Scrabble Game e-Series 2022. In 2023,
+on top of individual accolades, our Scrabblers brought home the Team Championship
+for the Junior Division, Bowl Category. Read more about our scrabble achievements
+over the years&nbsp;<a href="/2021/08/20/two-brps-students-advance-to-finals-of-2021-scrabble-tournament-for-beginners-by-mattel/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2021)
+and&nbsp;<a href="/2022/05/18/brps-scrabblers-win-bronze-medals-at-national-schools-scrabble-game-e-series-nssges-2022/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2022)
+and&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/2023/05/30/champion-scrabbles/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2023).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Scrabble_photo_1__to_update_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Scrabble_photo_2__to_update_.jpg">
+</div>
+<p>Debating is a strategy we employ for our High Ability English Learners
+to stretch their oracy and critical thinking skills. At the upper primary
+levels, students are given the opportunity to pit their wits against each
+other in argumentative debate on topics such as eSports, kid influencers,
+as well as the banes and boons of video games. In 2025, our school debaters
+emerged one of the Top 3 teams at the Wits &amp; Words Inter-School Debate
+Competition (Division II). Read more about their success&nbsp;<strong><a href="/2021/03/16/brps-debate-team-advances-to-quarterfinals-at-inter-school-competition/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and&nbsp;<strong><a href="/2021/04/15/brps-debate-team-advances-to-semifinals-of-inter-school-competition/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Debate_photo_1__to_update_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Debate_photo_2__to_update_.jpg">
+</div>
+<p></p>
+<p><strong><em>Nurturing the love for creative &amp; journalistic writing</em></strong>
+</p>
+<p>2020 was a year like no other. But the challenges that Covid-19 measures
+brought about, especially the Home-based Learning (HBL), did nothing to
+dampen our students’ spirits in coming together to pen down their stories
+and experiences during that period at home. Our students on the English
+APEX programe met weekly via Zoom to pen our inaugural issue of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;–
+our BRPS student e-newsletter, for the students, by the students. Guided
+by Mr Roger Jenkins, a renowned Singaporean storyteller and drama coach,
+our APEX students shared tips on surviving HBL, lessons learnt from Covid-19,
+anecdotes of their fondest memories of the unprecedented year and creative
+acoustic poems of a pandemic. Read our recent issues of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;<strong><a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+<a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>and&nbsp;<strong><a href="/files/Bravo/BRavo 2026/BRavo_Newsletter_2025_compressed.pdf" rel="noopener nofollow" target="_blank">here.</a></strong>
+</p>
+<p><strong><em>Staging the performing arts</em></strong>
+</p>
+<p>Beyond writing, we also use drama, music and movement to inculcate in
+each child the importance of creativity, excellence and confidence in using
+the English Language. The importance of drama and the performing arts in
+education is significant as it can be the agent through which a variety
+of emotions can be learned, rehearsed and practised. At times, our students
+can find it challenging to express their emotions, so drama provides the
+outlet for them to explore a wide range of feelings.</p>
+<p>To further expose our students to theatre, we organize learning journeys
+to watch staged theatre of musical performances at the Esplanade or Victoria
+Theatre. In 2022, our Primary 3 students had a chance to watch one Julia
+Donaldson’s Gruffalo come to live on stage! In 2023, our Primary 3 students
+journeyed to Capitol Theatre to watch Sherlock Sam: The Musical!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/el3.jpg">
+</div>
+<p>Our Primary 2 students also learn speech and drama skills through our
+i-Discover programme. Spanning 10 weeks, the programme seeks to impart
+oracy and drama skills to our Primary 2 students, including understanding
+drama, locating body gestures in character, as well as building on voice
+projection and expression. Selected Primary 2 students are selected to
+stage a performance during our annual BRLC Celebrates! awards ceremony.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Drama_Photo__to_update_.jpg">
+</div>
+<p><strong>Our Support<br><br></strong>We provide language and literacy support
+to our Primary One and Two students who need the additional boost. In Middle
+Primary, selected students are also supported under the&nbsp;<strong>S</strong>chool-based&nbsp;<strong>D</strong>yslexia&nbsp;<strong>R</strong>emediation
+Programme (SDR) as well as the&nbsp;<strong>R</strong>eading&nbsp;<strong>R</strong>emediation&nbsp;<strong>P</strong>rogramme
+(RRP) so that the students can acquire reading, spelling and comprehension
+skills.</p>
 <p><strong>Professional Development of Teachers<br><br></strong>
-<img src="/images/2024%20Photos/English%20Webpage/EL_Dept.jpg">
-</p><p>Our English Language teachers form an enthusiastic and mission-driven team who strives to help every child meet their potential in literacy standards. Through Professional Learning Teams and professional dialogues, the team endeavors to develop a robust school-based curriculum, deepen our teaching practice and innovate pedagogically. We believe strongly that every students’ learning needs should be met. To that end, we differentiate our instruction and think sharply about formative assessment to evaluate learning gaps. To prepare our students to be future-ready and digitally literate, we incorporate e-pedagogy and EdTech tools to augment our teaching and learning. We are well supported by MOE divisions, including by Master Teacher Mrs Jennifer Lui from the English Language Institute of Singapore, and external partners such as Apple Inc.</p>
-<img src="/images/MTT-Jennifer-1024x768.jpeg">
-<p><img src="/images/2024%20Photos/English%20Webpage/Apple_Classroom.jpg"></p>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/EL_Dept.jpg">
+</div>
+<p></p>
+<p>Our English Language teachers form an enthusiastic and mission-driven
+team who strives to help every child meet their potential in literacy standards.
+Through Professional Learning Teams and professional dialogues, the team
+endeavors to develop a robust school-based curriculum, deepen our teaching
+practice and innovate pedagogically. We believe strongly that every students’
+learning needs should be met. To that end, we differentiate our instruction
+and think sharply about formative assessment to evaluate learning gaps.
+To prepare our students to be future-ready and digitally literate, we incorporate
+e-pedagogy and EdTech tools to augment our teaching and learning. We are
+well supported by MOE divisions, including by Master Teacher Mrs Jennifer
+Lui from the English Language Institute of Singapore, and external partners
+such as Apple Inc.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Apple_Classroom.jpg">
+</div>
+<p></p>
