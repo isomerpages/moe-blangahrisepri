@@ -75,16 +75,8 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
-<p><strong>Primary 5</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Growing%20Years/Pri_5_Growing_Years.jpg">
-</div>
-<p><strong>Primary 6</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Growing%20Years/Pri_6_Growing_Years.jpg">
-</div>
+<p></p>
+<p></p>
 <p><strong>Please Note:</strong>
 </p>
 <p><strong>*For&nbsp;<u>2025</u>, the Primary 5 lesson “<em>Did You Know</em>?” will also be conducted for the Primary 6 cohort.&nbsp;</strong>
