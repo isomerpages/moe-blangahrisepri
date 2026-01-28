@@ -76,29 +76,27 @@ themselves safe from sexuality-related risks.</p>
 <p><strong>At Blangah Rise Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/The Growing Years/P5.jpg">
+</div>
 <p></p>
-<p><strong>Please Note:</strong>
-</p>
-<p><strong>*For&nbsp;<u>2025</u>, the Primary 5 lesson “<em>Did You Know</em>?” will also be conducted for the Primary 6 cohort.&nbsp;</strong>
-</p>
-<p><strong>Information for Parents</strong>
-</p>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p>Parents may opt their children out of the Growing Years programme, and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme&nbsp;</strong>need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<strong><a href="/files/Growing%20Years/Parents__Letter___Opt_out_Form_2025__Signed_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-A hardcopy of the form, duly completed and signed, is to be submitted to
-the school office by&nbsp;<strong>16/02/2025</strong>.</p>
-</li>
-<li>
-<p>Parents can contact the school at&nbsp;<strong>brps@moe.edu.sg&nbsp;</strong>or&nbsp;<strong>6271 7387</strong>&nbsp;for
-discussion or to seek clarification about the school’s sexuality education
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/The Growing Years/P5a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/The Growing Years/P6.jpg">
+</div>
+<p>INFORMATION FOR PARENTS</p>
+<p>8. Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <strong><a href="https://form.gov.sg/6979a26af6730843c588df7c" rel="noopener nofollow" target="_blank">here</a></strong>.
+The completed opt-out form is to be submitted by <strong>19/02/2026</strong>.</p>
+<p>10. Parents can contact the school at <strong><a href="mailto:brps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brps@moe.edu.sg</a></strong> or <strong>62717387</strong> for
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-</li>
-</ol>
+<p></p>
 <p></p>
