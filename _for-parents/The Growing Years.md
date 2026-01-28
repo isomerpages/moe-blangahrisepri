@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>BLANGAH RISE PRIMARY SCHOOL</strong>
 </p>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>1) Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
