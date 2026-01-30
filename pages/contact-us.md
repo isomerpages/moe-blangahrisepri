@@ -17,4 +17,10 @@ contacts:
       - email: brps@moe.edu.sg
       - other: "Fax: 6-276-3037"
     title: "Tel:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: "General Office Operating hours: 7am-5pm"
+feedback: ""
 ---
