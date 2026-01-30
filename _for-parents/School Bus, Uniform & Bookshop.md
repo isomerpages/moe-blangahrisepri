@@ -204,25 +204,47 @@ variant: tiptap
 <p>
 <br><strong>School Dental Clinic</strong>
 </p>
-<table style="minWidth: 75px">
+<p>The roving dental clinic is now open and will operate in Term 1/2026.
+Parents interested in scheduling a dental check-up for their children can
+call 9389 4928 to make an appointment.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p>We wish to inform you that the <strong>Roving Dental Clinic 8 (RDC 8)</strong> have
-moved out from the school on <strong>28th March 2025.</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon - Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8am - 5pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Closed from 9 Feb – 27 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>In the event that your child requires urgent dental treatment, please
-contact our staff at any of the following clinics:</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>If you require any urgent dental treatment and the clinic is closed, parents
+can contact the following BUDDY clinics for assistance.</p>
+<p>For general enquiry, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -246,13 +268,13 @@ contact our staff at any of the following clinics:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roving Dental Clinic 8 (RDC 8)</p>
+<p>Radin Mas Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(please contact clinic for address)</p>
+<p>1 Bukit Purmei Avenue S(099840)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9838 9102</p>
+<p>8909 2397</p>
 </td>
 </tr>
 <tr>
@@ -264,17 +286,6 @@ contact our staff at any of the following clinics:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8764 7603</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Alexandra Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2A Prince Charles Cres, S(159016)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8764 5584</p>
 </td>
 </tr>
 </tbody>
