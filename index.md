@@ -9,7 +9,7 @@ notification: <a href="https://www.youtube.com/watch?v=gQJzCkGm-yk"
   their First Day of School.
 sections:
   - hero:
-      background: /images/bannerv2.gif
+      background: /images/2026 Photo Album/Homepage GIF/1200x630_2026_r1.gif
       key_highlights:
         - title: Junior Primary
           description: ""
