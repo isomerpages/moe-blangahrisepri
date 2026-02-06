@@ -225,18 +225,14 @@ call 9389 4928 to make an appointment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon - Fri</p>
+<p>Closed on the following dates:</p>
+<p>9 – 20 Feb , 25 Feb</p>
+<p>2, 3, 23 Mar</p>
+<p>9 – 20 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am - 5pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Closed from 9 Feb – 27 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
