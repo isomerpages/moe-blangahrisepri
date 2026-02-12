@@ -60,9 +60,9 @@ when the teachers regularly put up their good work done in class!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Learning_6.jpg">
 </div>
-<p><strong>LEVEL PROGRAMMES IN 2024</strong>
+<p><strong>LEVEL PROGRAMMES </strong>
 </p>
-<p><strong>P4 Discovery Camp 2024<br></strong>A fun-filled after school programme
+<p><strong>P4 Discovery Camp<br></strong>A fun-filled after school programme
 which helps our students to enjoy their schooling experience, develop skills
 and forge strong bonds / relationships with their school mates.</p>
 <p>Welcome to our Discovery Camp, where students acquire essential life skills
@@ -109,9 +109,6 @@ which are essential for overcoming challenges and developing their skills.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_5.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_6.png">
-</div>
 <p>Overall, the excitement and enthusiasm displayed by students during the
 showcase highlight their enjoyment and pride in sharing their talents with
 others, creating memorable and enriching experiences for all involved.</p>
