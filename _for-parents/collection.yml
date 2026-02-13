@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Use of Photos and Videos in BRPS.md
       - P1 Orientation 2026.md
       - School Calendar.md
+      - Use of Photos and Videos in BRPS.md
       - Guideline On Parents Communication.md
       - MOE’s Engagement Charter.md
       - Virtual School Tour.md
