@@ -4,10 +4,9 @@ permalink: /parent-support-group/our-school-rules-and-regulations/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Student Leader Investiture/IMG_0034.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/School Rules/Screenshot_2026_02_13_084136.png">
 </div>
 <h4><strong>Be neat. Take pride in your appearance.</strong></h4>
 <p>A) Attire and Appearance</p>
