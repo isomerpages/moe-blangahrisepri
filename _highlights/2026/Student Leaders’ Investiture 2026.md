@@ -56,6 +56,7 @@ lead with heart and purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Leader Investiture/Screenshot_2026_02_13_094604.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Leader Investiture/Screenshot_2026_02_13_094912.png">
 </div>
