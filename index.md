@@ -21,6 +21,18 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Student Leaders’ Investiture 2026
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: On 3 February, our school proudly held the Student Leaders’
+        Investiture, marking a significant milestone in the leadership journey
+        of our students.
+      button: Read More
+      url: /student-leaders-investiture-2026/
+      image: /images/2026 Photo Album/Student Leader
+        Investiture/Screenshot_2026_02_13_084136.png
+      alt: Image alt text
+  - infopic:
       title: Caring Teacher Award (CTA) 2026
       subtitle: Announcements
       button: Click here to read more
@@ -66,16 +78,6 @@ sections:
       description: On 21 November, we were delighted to welcome our 2026 Primary 1
         cohort for their very first visit to the school.
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: UG Social Media Competition (UGSMC) 2025
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Our school team, comprising Red Cross and Scouts members, was part
-        of a winning entry this year.
-      button: read more
-      url: https://blangahrisepri.moe.edu.sg/ug-social-media-competition-ugsmc-2025/
-      image: /images/2025 Photo Album/UG Social Media/UG_3.jpg
-      alt: Image alt text
   - infopic:
       title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
       subtitle: HIGHLIGHTS
