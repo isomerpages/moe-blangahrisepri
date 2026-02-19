@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Build A Bridge Challenge.md
       - Animals & Plants in Telok Blangah Hill Park.md
       - Learning about Science.md
       - The Green Snapshots (TGS).md
