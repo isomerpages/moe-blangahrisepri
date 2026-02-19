@@ -4,9 +4,6 @@ permalink: /parent-support-group/school-letters-information/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/For-Parents-General-Information2.png">
-</div>
 <ul>
 <li>
 <p>2026</p>
