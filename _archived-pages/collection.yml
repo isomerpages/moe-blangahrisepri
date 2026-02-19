@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - The Green Snapshots (TGS).md
       - Co Curricular Experiences.md
       - School Advisory Committee.md
       - Aesthetics Department.md
