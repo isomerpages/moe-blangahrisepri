@@ -4,7 +4,7 @@ permalink: /co-curricular-experiences/
 variant: tiptap
 description: ""
 ---
-<h4>Co-Curricular (CC) Experiences – the 8th Habit way</h4>
+<h4>Co-Curricular (CC) Experiences</h4>
 <p>As a school that embraces Stephan Covey’s <a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/the-leader-in-me/" rel="noopener noreferrer nofollow" target="_blank">7-Habits </a>of
 Happy Kids, we adopt a whole-person approach in designing the co-curricular
 learning experiences that will develop our students’ 8th Habit - discovering
