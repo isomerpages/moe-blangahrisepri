@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee.md
       - Principal's Message.md
       - Our Leadership.md
       - Our Staff/.keep
@@ -16,6 +15,7 @@ collections:
       - Our Staff/Aesthetics and PE Department.md
       - Our Staff/Student Management Department.md
       - Our Staff/Executive and Administrative Team.md
+      - School Advisory Committee.md
       - "Our Alumni: Making a Difference in Society.md"
       - Our Identity.md
       - Our History.md
