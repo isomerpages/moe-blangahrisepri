@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Learning about Science.md
       - The Green Snapshots (TGS).md
       - Co Curricular Experiences.md
       - School Advisory Committee.md
