@@ -2,9 +2,8 @@
 title: Animals & Plants in Telok Blangah Hill Park
 permalink: /animals-plants-in-telok-blangah-hill-park/
 description: ""
-third_nav_title: The Green Snapshots
 ---
-<p>As you walk around the Stream Garden or up to the top of Telok Blangah Hill Park, you would come across more plants. If you are lucky, you could also spot animals which call the park their home. Let&rsquo;s find out more about these plants and animals!</p>
+<p>As you walk around the Stream Garden or up to the top of Telok Blangah Hill Park, you would come across more plants. If you are lucky, you could also spot animals which call the park their home. Let’s find out more about these plants and animals!</p>
 <img src="/images/Map-for-Animals-and-Plants-in-TBHP-1024x632.jpg">
 <h4><strong>Plants</strong></h4>
 <img src="/images/plant.jpg">

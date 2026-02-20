@@ -10,7 +10,7 @@ links:
       - title: Our Staff
         url: /about-us/our-staff/
       - title: School Advisory Committee
-        url: /about-us/school-advisory-committee/
+        url: https://blangahrisepri.moe.edu.sg/about-us/school-advisory-committee/
       - title: Our Alumni
         url: /about-us/alumni/
       - title: Our Identity
@@ -57,8 +57,6 @@ links:
   - title: Distinctive Programmes
     url: /our-distinctive-programmes/applied-learning-programme-alp/
     sublinks:
-      - title: Co Curricular Experiences
-        url: /co-curricular-experiences/
       - title: Applied Learning Programme
         url: /our-distinctive-programmes/applied-learning-programme-alp/
       - title: APEX Programme
@@ -67,14 +65,10 @@ links:
         url: /our-distinctive-programmes/chinese-junior-reporters/
       - title: Learning for Life Programme
         url: /our-distinctive-programmes/learning-for-life-programme/
-      - title: The Green Snapshots (TGS)
-        url: /the-green-snapshots-tgs/
       - title: The Leader in Me
         url: /our-distinctive-programmes/the-leader-in-me/
       - title: Viewpoints
         url: /viewpoints/
-      - title: Young Photographers
-        url: /our-distinctive-programmes/young-photographers/
   - title: Special Projects
     url: /our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/
     sublinks:

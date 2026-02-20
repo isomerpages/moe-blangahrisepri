@@ -2,7 +2,6 @@
 title: The Green Snapshots (TGS)
 permalink: /the-green-snapshots-tgs/
 description: ""
-third_nav_title: The Green Snapshots
 ---
 <p>The Green Snapshots (TGS) is an award-winning nature and heritage trail that invites participants to appreciate the rich and green heritage of Telok Blangah District &amp; Mount Faber. For the physical version of TGS, the trail is led by our student-docents who will bring participants to different hotspots in the vicinity. During the trail, our students share interesting information about the plants and animals that can be found in the park as well as the rich history and heritage of places in the area.</p>
 <iframe width="1035" height="583" src="https://www.youtube.com/embed/qCCfMmtjEiY" title="The Green Snapshots: Welcome Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>

@@ -4,9 +4,6 @@ permalink: /about-us/our-identity/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/banner_Our-Identity.jpeg">
-</div>
 <h3><strong>Vision, Mission &amp; Thrust</strong></h3>
 <h4><strong>Our Vision</strong><br>A joyful school of&nbsp;confident learners and caring leaders.</h4>
 <h4><strong>Our Mission</strong><br>Nurturing Every Child Holistically.</h4>

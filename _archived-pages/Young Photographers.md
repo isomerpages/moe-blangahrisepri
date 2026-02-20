@@ -2,7 +2,6 @@
 title: Young Photographers
 permalink: /our-distinctive-programmes/young-photographers/
 description: ""
-third_nav_title: Young Photographers
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

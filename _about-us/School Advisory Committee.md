@@ -2,8 +2,9 @@
 title: School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
+variant: tiptap
 ---
-<img style="width: 70%;" src="/images/2023%20Photos/Staff%20Photo/sac%20photo%202.jpg">
-
-
-(Left to Right) Mr Terence Wong Mun Yip (Member), Ms Punitha D/O Ammaiyappan (Honorary Treasurer), Ms Alvina Chin (Member), Mr Chris Lum Chee Yong (Chairman), Dr Chai Siang Chew (Member), Ms Ashley Woo Su-Fang (Vice-Chairman), Mr Francis Foo (Principal)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026%20Photo%20Album/Staff%20Photo/SAC.jpg">
+</div>
+<p></p>

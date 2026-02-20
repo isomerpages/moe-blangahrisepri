@@ -3,7 +3,6 @@ title: Photojournalist of the Year 2024
 permalink: /photojournalist-of-the-year-2024/
 variant: tiptap
 description: ""
-third_nav_title: Young Photographers
 ---
 <p>Our photography competition is back for the fourth year! This is an opportunity
 for our students to apply photography skills gleaned from our school’s

@@ -3,7 +3,6 @@ title: Photojournalist of the Year 2023
 permalink: /photojournalist-of-the-year-2023/
 variant: markdown
 description: ""
-third_nav_title: Young Photographers
 ---
 <p>Our photography competition is back for the third year! This is an opportunity for our students to apply photography skills gleaned from our school’s distinctive programme, Young Photographers. The theme for this competition is “Our Environment - Save our World”.</p>
 <p>The sub-themes for each level are:</p>

@@ -2,6 +2,16 @@ collections:
   archived-pages:
     output: true
     order:
+      - Photographer of the Year 2021.md
+      - Photojournalist of the Year 2022.md
+      - Photojournalist of the Year 2023.md
+      - Photojournalist of the Year 2024.md
+      - Young Photographers.md
+      - Build A Bridge Challenge.md
+      - Animals & Plants in Telok Blangah Hill Park.md
+      - Learning about Science.md
+      - The Green Snapshots (TGS).md
+      - Co Curricular Experiences.md
       - Aesthetics Department.md
       - SATS School Meals Programme.md
       - FAQs.md

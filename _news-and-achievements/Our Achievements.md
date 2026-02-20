@@ -4,9 +4,6 @@ permalink: /news/our-achievements/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Life-In-Blangah-Rise-Our-Achievements2.png">
-</div>
 <h4><strong>2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
