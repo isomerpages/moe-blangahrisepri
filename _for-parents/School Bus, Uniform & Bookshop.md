@@ -226,10 +226,10 @@ call 9389 4928 to make an appointment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Closed on the following dates:</p>
-<p>9 – 20 Feb , 25 Feb</p>
-<p>2, 3, 23 Mar</p>
-<p>9 – 20 Mar</p>
-<p></p>
+<p>5, 6 Mar</p>
+<p>11-13 Mar</p>
+<p>19-23 Mar</p>
+<p>26-27 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am - 5pm</p>
