@@ -21,6 +21,15 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Chinese New Year Celebration 2026
+      button: Read More
+      alt: Image alt text
+      url: /chinese-new-year-celebration-2026/
+      image: /images/2026 Photo Album/CNY/Screenshot_2026_03_03_103241.png
+      description: Our school community came together for a vibrant and meaningful
+        Chinese New Year celebration.
+      subtitle: HIGHLIGHTS
+  - infopic:
       title: Student Leaders’ Investiture 2026
       subtitle: HIGHLIGHTS
       id: infopic
@@ -69,15 +78,6 @@ sections:
       url: https://blangahrisepri.moe.edu.sg/together-we-shine/
       image: /images/2025 Photo Album/BRLC Celebrates 2025/27.jpg
       alt: Image alt text
-  - infopic:
-      title: P1 Orientation 2026
-      button: Read More
-      alt: Image alt text
-      url: https://blangahrisepri.moe.edu.sg/we-welcome-our-p1-cohort-for-2026/
-      image: /images/2025 Photo Album/P1 Orientation/10.jpg
-      description: On 21 November, we were delighted to welcome our 2026 Primary 1
-        cohort for their very first visit to the school.
-      subtitle: HIGHLIGHTS
   - infopic:
       title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
       subtitle: HIGHLIGHTS
