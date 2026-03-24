@@ -61,11 +61,11 @@ sections:
       image: /images/2025 Photo Album/PAT & OYEA/PAT_OYEA.jpg
       alt: Image alt text
   - infopic:
-      title: Principal's Term 1 Letter
+      title: Principal's Term 2 Letter
       subtitle: ANNOUNCEMENTS
       id: infopic
       button: CLICK HERE TO READ MORE
-      url: https://blangahrisepri.moe.edu.sg/principal-s-term-1-letter-2026/
+      url: https://blangahrisepri.moe.edu.sg/principal-s-term-2-letter-2026/
       image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
       alt: Image alt text
   - infopic:
