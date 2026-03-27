@@ -204,7 +204,7 @@ variant: tiptap
 <p>
 <br><strong>School Dental Clinic</strong>
 </p>
-<p>The roving dental clinic is now open and will operate in Term 1/2026.
+<p>The roving dental clinic is now open and will operate in Term 2/2026.
 Parents interested in scheduling a dental check-up for their children can
 call 9389 4928 to make an appointment.</p>
 <table style="minWidth: 50px">
@@ -225,11 +225,10 @@ call 9389 4928 to make an appointment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Closed on the following dates:</p>
-<p>5, 6 Mar</p>
-<p>11-13 Mar</p>
-<p>19-23 Mar</p>
-<p>26-27 Mar</p>
+<p>Mon - Wed</p>
+<p>* Subject to change without prior notice due to unforeseen circumstances</p>
+<p></p>
+<p>Closed on: Thur, Fri and Public Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am - 5pm</p>
