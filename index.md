@@ -30,16 +30,24 @@ sections:
         Primary School’s choir, Rising Harmonies
       subtitle: HIGHLIGHTS
   - infopic:
-      title: Student Leaders’ Investiture 2026
+      title: International Friendship Day 2026
       subtitle: HIGHLIGHTS
       id: infopic
-      description: On 3 February, our school proudly held the Student Leaders’
-        Investiture, marking a significant milestone in the leadership journey
-        of our students.
+      description: We commemorated International Friendship Day with the theme
+        “Forging Friendships in a Complex World”
       button: Read More
-      url: /student-leaders-investiture-2026/
-      image: /images/2026 Photo Album/Student Leader
-        Investiture/Screenshot_2026_02_13_084136.png
+      url: https://blangahrisepri.moe.edu.sg/international-friendship-day-2026/
+      image: /images/2026 Photo Album/IFD/1ifd.jpg
+      alt: Image alt text
+  - infopic:
+      title: GREENvaganza 2026
+      subtitle: Highlights
+      id: infopic
+      description: Our students took part in GREENvaganza 2026, a vibrant school-wide
+        initiative
+      button: Read More
+      url: https://blangahrisepri.moe.edu.sg/greenvaganza-2026/
+      image: /images/2026 Photo Album/Green/1.jpg
       alt: Image alt text
   - infopic:
       title: Caring Teacher Award (CTA) 2026
