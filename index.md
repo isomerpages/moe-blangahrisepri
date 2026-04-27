@@ -21,13 +21,13 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Chinese New Year Celebration 2026
+      title: Rising Harmonies Shines with Distinction at SYF 2026
       button: Read More
       alt: Image alt text
-      url: /chinese-new-year-celebration-2026/
-      image: /images/2026 Photo Album/CNY/Screenshot_2026_03_03_103241.png
-      description: Our school community came together for a vibrant and meaningful
-        Chinese New Year celebration.
+      url: https://blangahrisepri.moe.edu.sg/rising-harmonies-shines-with-distinction-at-syf-2026/
+      image: /images/2026 Photo Album/Choir SYF/IMG_20260422_160319_1.jpg
+      description: It is our great privilege and honour to share that Blangah Rise
+        Primary School’s choir, Rising Harmonies
       subtitle: HIGHLIGHTS
   - infopic:
       title: Student Leaders’ Investiture 2026
