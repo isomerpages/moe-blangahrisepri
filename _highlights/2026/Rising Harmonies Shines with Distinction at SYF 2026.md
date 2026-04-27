@@ -40,3 +40,7 @@ proud of their accomplishment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Choir SYF/IMG_4611.jpg">
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/baS3Mn3vJQU?si=JxLExMSbdXXDerhM"></iframe>
+</div>
+<p></p>
