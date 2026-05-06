@@ -21,6 +21,16 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: MediaKids Student Featured in NAPE 2026 Exhibition
+      subtitle: Highlights
+      id: infopic
+      description: Congratulations to Kayleigh from Primary 6 Topaz, MediaKids CCA.
+      button: Read More
+      url: /mediakids-student-featured-in-nape-2026-exhibition/
+      image: /images/2026 Photo
+        Album/MediaKids/Kayleigh_Wu_Kailing___109_0511___12_x_18___Submit.jpg
+      alt: Image alt text
+  - infopic:
       title: Rising Harmonies Shines with Distinction at SYF 2026
       button: Read More
       alt: Image alt text
@@ -38,16 +48,6 @@ sections:
       button: Read More
       url: https://blangahrisepri.moe.edu.sg/international-friendship-day-2026/
       image: /images/2026 Photo Album/IFD/1ifd.jpg
-      alt: Image alt text
-  - infopic:
-      title: GREENvaganza 2026
-      subtitle: Highlights
-      id: infopic
-      description: Our students took part in GREENvaganza 2026, a vibrant school-wide
-        initiative
-      button: Read More
-      url: https://blangahrisepri.moe.edu.sg/greenvaganza-2026/
-      image: /images/2026 Photo Album/Green/1.jpg
       alt: Image alt text
   - infopic:
       title: Caring Teacher Award (CTA) 2026
