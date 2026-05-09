@@ -147,14 +147,10 @@ Read more about our Dr Seuss Day celebrations&nbsp;<strong><a href="/2022/03/18/
 Language through Scrabble and debating. They get a chance to participate
 in national competitions such as Wits &amp; Words (Debating) and Scrabble.
 With their memorised Latin, Greek roots and two-letter words, our Scrabblers
-rose to the challenge against students from many other schools. In 2022,
-two students, Lea Stroe (4 Topaz) and Leo Yang (3 Opal) have also attained
-medals at the 2nd National Schools Scrabble Game e-Series 2022. In 2023,
-on top of individual accolades, our Scrabblers brought home the Team Championship
-for the Junior Division, Bowl Category. Read more about our scrabble achievements
-over the years&nbsp;<a href="/2021/08/20/two-brps-students-advance-to-finals-of-2021-scrabble-tournament-for-beginners-by-mattel/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2021)
-and&nbsp;<a href="/2022/05/18/brps-scrabblers-win-bronze-medals-at-national-schools-scrabble-game-e-series-nssges-2022/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2022)
-and&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/2023/05/30/champion-scrabbles/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2023).</p>
+rose to the challenge against students from many other schools. Since 2023,
+on top of individual accolades, our Scrabblers have brought home the Team
+Championship for the Junior Division, Bowl Category. Read more about our
+scrabble&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/2023/05/30/champion-scrabbles/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2023).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Scrabble_photo_1__to_update_.jpg">
