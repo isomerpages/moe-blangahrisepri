@@ -54,6 +54,13 @@ tackle complex challenges beyond the classroom.</p>
 Platforms such as the Student Learning Space (SLS) and other digital tools
 provide students with varied learning, practice and assessment opportunities.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/ICT1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/ICT2.jpg">
+</div>
 <p>Every Primary 1 to 6 students is provided with a Koobit account, an interactive
 platform that reinforces concepts through engaging practice and promotes
 self-directed learning. Students’ efforts and achievements are recognised
