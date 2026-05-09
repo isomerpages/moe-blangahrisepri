@@ -69,6 +69,10 @@ student experience success and develop a positive disposition towards learning
 Mathematics.</p>
 <p><em>The table below gives an overview of our </em><strong><em>Support and Stretch Programmes</em></strong><em> which comprise both longer-term programmes and targeted short-term modules designed to meet pupils’ diverse learning needs.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/Program.jpg">
+</div>
 <p><strong>Support Programme</strong>
 </p>
 <p><strong><u>Learning Support for Mathematics (LSM) programme</u></strong>
