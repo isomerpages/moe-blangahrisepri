@@ -93,11 +93,11 @@ experience the following learning modules:</p>
 </tr>
 </tbody>
 </table>
-<p>Under Viewpoints, our Middle Primary students undergo a Broadcast Journalism
-enrichment module, which aims to build students’ confidence in presentation.
-Our students go through training on verbal and non-verbal cues of confidence.
-They then script their presentations and present their lines in front of
-a camera. Watch our little broadcasters introduce their school below:</p>
+<p>Our Middle Primary students undergo a Broadcast Journalism enrichment
+module, which aims to build students’ confidence in presentation. Our students
+go through training on verbal and non-verbal cues of confidence. They then
+script their presentations and present their lines in front of a camera.
+Watch our little broadcasters introduce their school below:</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C8ErUK_5EaA?si=eDz3xraH0Br16c3Z"></iframe>
 </div>
