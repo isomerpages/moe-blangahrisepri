@@ -157,7 +157,15 @@ Championship for the Junior Division, Bowl Category. Read more about our
 scrabble&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/2023/05/30/champion-scrabbles/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2023).</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/Scrabble_2026.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Scrabble_photo_1__to_update_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/Scabble_Photo_1__to_update_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -220,9 +228,6 @@ use varied educational technology platforms for extensive reading, literacy
 assessment and develpment.</p>
 <p><strong>Professional Development of Teachers<br><br></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/EL_Dept.jpg">
-</div>
 <p></p>
 <p>Our English Language teachers form an enthusiastic and mission-driven
 team who strives to help every child meet their potential in literacy standards.
