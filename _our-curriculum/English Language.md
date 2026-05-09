@@ -93,6 +93,10 @@ experience the following learning modules:</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/Class_Debate.jpg">
+</div>
 <p>Our Middle Primary students undergo a Broadcast Journalism enrichment
 module, which aims to build students’ confidence in presentation. Our students
 go through training on verbal and non-verbal cues of confidence. They then
