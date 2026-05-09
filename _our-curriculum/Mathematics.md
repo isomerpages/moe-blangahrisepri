@@ -39,6 +39,19 @@ Inquiry-Based Learning and Collaborative Learning. Teachers also use Concrete–
 and promote deeper thinking. These approaches encourage students to articulate
 their thinking, justify their solutions, and communicate mathematical reasoning
 clearly.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/MA_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/MA_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/MA_3.jpg">
+</div>
+<p></p>
 <p><strong><u>Question Quest (QQ)</u></strong>
 </p>
 <p>Problem solving lies at the heart of our Mathematics curriculum. Through
