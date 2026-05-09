@@ -131,6 +131,7 @@ approach, APEX (STEM) engages students in advanced problem-solving tasks
 that deepen conceptual understanding, strengthen inquiry skills, cultivate
 positive habits of mind and develop Critical, Adaptive and Inventive Thinking
 (CAIT) as part of enhanced 21st Century Competencies (21CC).</p>
+<p>_______________________________________________________________________</p>
 <p><strong>By adopting a comprehensive and differentiated approach, we empower every student to develop mathematical competencies, positive learning dispositions and 21st Century Competencies which are essential for lifelong learning and future-readiness.</strong>
 </p>
 <p></p>
