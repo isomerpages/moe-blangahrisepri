@@ -119,19 +119,13 @@ around them.</p>
 to children’s literature creatively and learn to appreciate their own as
 well as the culture of others. Our students learn about how authors make
 characters come alive. They also learn how to develop and share their opinions.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Read_at_BRPS.jpg">
-</div>
 <p>We invite local authors to conduct talks as part of our “Authors’ Talks
 Series”. In these sessions, our students meet with the authors face-to-face
 and hear first-hand their inspiration behind their books as well as their
-personal experiences. “What do you use to draw your pictures with?”, “How
-long do you take to write a book?” and “What advice would you give me if
-I wanted to be a writer?” “Why is Sherlock Sam always wearing a shirt with
-‘Ad” on it?” These were just some of the questions that Blangahnites posed
-to our visiting local authors, Mr Quek Hong Shin, A.J. Low and Ms Sharon
-Ismail.</p>
+personal experiences. In 2025, we invited author Mr Shawn Seah to share
+about his books on the pioneers of Singapore. Students learnt about his
+inspiration writing books about his ancestors Seah Liang Seah and Seah
+Eu Chin and their friends.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Authors_Talk_photo__to_update_.jpg">
@@ -140,9 +134,8 @@ Ismail.</p>
 <br>
 </p>
 <p>We also organise Dr Seuss Talks to celebrate the authorial legacy of Dr
-Seuss and his widely-loved children books. Our MOE Kindergarten preschoolers,
-primary one, two and three students are introduced to Dr. Seuss and his
-zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>.
+Seuss and his widely-loved children books. Our primary one, two and three
+students are introduced to Dr. Seuss and his zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>.
 Read more about our Dr Seuss Day celebrations&nbsp;<strong><a href="/2022/03/18/junior-primary-and-moe-kindergartens-journey-to-dr-seuss-fantastical-worlds/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and&nbsp;<strong><a href="/2021/03/26/dr-seuss-day/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/english2.png">
