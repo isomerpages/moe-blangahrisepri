@@ -57,90 +57,88 @@ provide students with varied learning, practice and assessment opportunities.</p
 platform that reinforces concepts through engaging practice and promotes
 self-directed learning. Students’ efforts and achievements are recognised
 through termly awards at each level.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Deepening our students’ learning in Mathematics<br>E2K Mathematics Programme</strong>
+<p><strong>Catering to Every Learner</strong>
 </p>
-<p>Our students in the&nbsp;<strong>A</strong>ccelerated&nbsp;<strong>P</strong>rogramme
-to&nbsp;<strong>E</strong>nhance students’ e<strong>X</strong>perience
-(APEX) attend the E2K Mathematics Programme. The materials are curated
-the MOE Gifted Education Branch. We aim to develop students’ mathematical
-reasoning skills and deepen their conceptual understanding through an inquiry
-approach.</p>
-<p>Kai Xiang, a Primary 5 student in APEX, gave positive feedback about the
-programme. “We look forward to every lesson as we get to solve challenging
-puzzles. We are happy to work with our friends to discuss and solve them.
-We present our solutions to our teachers and friends so that they can help
-us improve.”</p>
-<p></p>
-<p><strong>Mathematics Olympiad<br></strong>
+<p>We recognise that students learn Mathematics at different paces and in
+different ways. To support diverse learning needs, we offer a range of
+Support and Stretch Programmes during curriculum time and after school.</p>
+<p>These include enrichment opportunities for students with strength and
+talent in Mathematics as well as targeted interventions for students who
+require additional support. Through differentiation, we aim to help every
+student experience success and develop a positive disposition towards learning
+Mathematics.</p>
+<p><em>The table below gives an overview of our </em><strong><em>Support and Stretch Programmes</em></strong><em> which comprise both longer-term programmes and targeted short-term modules designed to meet pupils’ diverse learning needs.</em>
+</p>
+<p><strong>Support Programme</strong>
+</p>
+<p><strong><u>Learning Support for Mathematics (LSM) programme</u></strong>
+</p>
+<p>The Learning Support for Mathematics (LSM) programme provides early intervention
+for students who require additional support in foundational numeracy skills.
+Conducted in small groups during curriculum time, trained teachers provide
+targeted and individualised instruction to strengthen students’ understanding
+and confidence.</p>
+<p>LSM programme is offered from Primary 1 to Primary 4, with close monitoring
+of students’ progress to help them achieve age-appropriate competencies
+while covering the Primary Mathematics syllabus. Engaging and supportive
+learning experiences also help students develop positive beliefs about
+their ability to learn Mathematics.</p>
+<p><strong><u>Math Support (Module)</u></strong>
+</p>
+<p>The Math Support (Module) is an after-school, short-term intervention
+for selected Primary 4 to Primary 6 students who require further reinforcement
+of key mathematical concepts. Targeted instruction is delivered through
+customised SLS lessons and focused teaching to address specific learning
+gaps and strengthen foundational skills.</p>
+<p><strong>Stretch Programme</strong>
+</p>
+<p>The <strong>Accelerated Programme to Enhance students’ eXperience (APEX)</strong> is
+the school's signature Stretch Programme, providing enriched learning opportunities
+for students with academic strengths and talents. APEX (Math) includes
+E2K Math programme, Mathematics Olympiad (Module), Math Enrichment (Module)
+and STEM-related modules.</p>
+<p><strong><u>Excellence 2000 (E2K) Mathematics programme</u></strong>
+</p>
+<p>E2K Math programme aims to develop students’ mathematical reasoning skills
+and deepen conceptual understanding through an inquiry-based approach.
+Selected Primary 4 and Primary 5 students are engaged in independent and
+collaborative learning through puzzles, games and mathematical explorations
+specially designed for the programme. These rich learning experiences cultivate
+the habits of mind of mathematicians and develop key 21st Century Competencies,
+including critical , adaptive and inventive thinking and effective communication.</p>
+<p><strong><u>Math Olympiad (Module)</u></strong>
+</p>
+<p>The Math Olympiad (Module) is offered to selected Primary 4 to Primary
+6 students who demonstrate strong interest and high potential in Mathematics.
+Students are challenged with non-routine and intellectually demanding problems
+to develop perseverance, confidence and advanced problem-solving skills.</p>
+<p>Outstanding students may be selected to represent the school in external
+competitions such as the Asia-Pacific Mathematical Olympiad for Primary
+Schools (APMOPS), Raffles Mathematical Olympiad (RMO), Visual Spatial Mathlympics
+and Annual Mathlympics.</p>
+<p><strong><u>Math Enrichment (Module)</u></strong>
+</p>
+<p>The Math Enrichment (Module) caters to selected Primary 3 to Primary 6
+students with keen interest and aptitude in Mathematics. The module focuses
+on developing thinking skills through non-routine word problems while strengthening
+reasoning and systematic approaches to unfamiliar problem situations.</p>
+<p><strong><u>APEX (STEM) modules</u></strong>
+</p>
+<p>The stem-related modules include Design Thinking in Toy-Making, the Innovation
+Programme (featuring coding and the use of micro:bits), Drones Adventure
+and the Scientist-in-School Programme. Anchored in a rigorous inquiry-based
+approach, APEX (STEM) engages students in advanced problem-solving tasks
+that deepen conceptual understanding, strengthen inquiry skills, cultivate
+positive habits of mind and develop Critical, Adaptive and Inventive Thinking
+(CAIT) as part of enhanced 21st Century Competencies (21CC).</p>
+<p><strong>By adopting a comprehensive and differentiated approach, we empower every student to develop mathematical competencies, positive learning dispositions and 21st Century Competencies which are essential for lifelong learning and future-readiness.</strong>
 </p>
 <p></p>
-<p>Mathematics Olympiad workshops are organised for selected Primary 4 to
-6 students to nurture their interest and talent in Mathematics. Students
-who demonstrate exceptional performance and dedication can be selected
-to represent the school in external Mathematics competitions such as Asia-Pacific
-Mathematical Olympiad for Primary Schools (APMOPS), Raffles Mathematical
-Olympiad (RMO), Visual Spatial Mathlympics and Annual Mathlympics.</p>
-<p><strong>BRPS Math Challenge<br></strong>The BRPS Math Challenge fosters
-a love of lifelong learning by encouraging the students to explore concepts
-independently and discover the endless possibilities of math. The challenge
-isn't just about memorising formulas – it is about igniting student’s passion
-for math! Every semester, we offer exciting activities tailored to each
-grade level, challenging them with brain-teasing Sudoku puzzles that combine
-numbers or shapes, or dive into challenges that put their number operations
-skills to the test. Through these creative problem-solving challenges,
-we hope to build confidence in their abilities and develop critical thinking
-skills that extend far beyond the classroom. We encourage all students
-to participate in the challenge and embark on this exciting journey of
-mathematical discovery!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/2023%20Photos/Mathematics/photo%207.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/2023%20Photos/Mathematics/photo%208.jpeg">
-</div>
-<p></p>
-<p><strong>Math Star Award</strong>
-</p>
-<p>The Math Star Award goes beyond top scores; it celebrates the growth mindset
-of our students. Each term, we recognize those who show significant improvement
-and a determined approach to Math. We value grit, the powerful combination
-of passion and perseverance that fuels students to tackle challenges and
-achieve long-term goals. This award acknowledges students who are determined
-and resilient, sticking with Math and not giving up when faced with difficulties.
-In doing so, it fosters a love of learning that extends far beyond the
-classroom.</p>
-<p><strong>Numeracy Enrichment Program </strong>
-<br>The Numeracy Enrichment Program, conducted in partnership with the Self-help
-group and supported by our dedicated Parent Support Group (PSG), offers
-an exciting after-school experience for junior primary students who need
-an additional support in Math. This program goes far beyond traditional
-tutoring. A stimulating environment with engaging activities, including
-interactive games and captivating storytelling sessions, is created. All
-designed to provide positive learning experiences in numeracy skills. Our
-team of committed parents plays a vital role, helping students delve into
-the world of math in a fun and memorable way. Through curated games and
-activities, the program aims to boost students' confidence and motivation
-in Math. By making learning feel fun and engaging, we hope the students
-can foster a positive attitude towards Math that extends far beyond the
-classroom walls.
+<p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/2023%20Photos/Mathematics/photo%2011.jpg">
-</div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/2024%20Photos/Math%20Dept/MA_1.jpg">
-</div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/2024%20Photos/Math%20Dept/MA_2.jpg">
-</div>
 <p></p>
