@@ -226,8 +226,11 @@ Programme (SDR) as well as the&nbsp;<strong>R</strong>eading&nbsp;<strong>R</str
 skills. To support the literacy development of our students, our teachers
 use varied educational technology platforms for extensive reading, literacy
 assessment and develpment.</p>
-<p><strong>Professional Development of Teachers<br><br></strong>
+<p><strong>Professional Development of Teachers<br></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/english_language_department_i.jpg">
+</div>
 <p></p>
 <p>Our English Language teachers form an enthusiastic and mission-driven
 team who strives to help every child meet their potential in literacy standards.
