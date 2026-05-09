@@ -177,16 +177,11 @@ Competition (Division II). Read more about their success&nbsp;<strong><a href="/
 <p></p>
 <p><strong><em>Nurturing the love for creative &amp; journalistic writing</em></strong>
 </p>
-<p>2020 was a year like no other. But the challenges that Covid-19 measures
-brought about, especially the Home-based Learning (HBL), did nothing to
-dampen our students’ spirits in coming together to pen down their stories
-and experiences during that period at home. Our students on the English
-APEX programe met weekly via Zoom to pen our inaugural issue of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;–
-our BRPS student e-newsletter, for the students, by the students. Guided
-by Mr Roger Jenkins, a renowned Singaporean storyteller and drama coach,
-our APEX students shared tips on surviving HBL, lessons learnt from Covid-19,
-anecdotes of their fondest memories of the unprecedented year and creative
-acoustic poems of a pandemic. Read our recent issues of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;<strong><a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+<p>Each year, our students come together to pen <strong><em>BRavo!</em></strong>&nbsp;–
+our BRPS student e-newsletter, for the students, by the students. Through
+the years, our APEX students generated ideas for their student newsletter
+and penned them, sharing tips on how to manage examination stress and HBL,
+as well as reviews on books, movies and games! Read our recent issues of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;<strong><a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 <a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>and&nbsp;<strong><a href="/files/Bravo/BRavo 2026/BRavo_Newsletter_2025_compressed.pdf" rel="noopener nofollow" target="_blank">here.</a></strong>
 </p>
 <p><strong><em>Staging the performing arts</em></strong>
@@ -198,11 +193,6 @@ education is significant as it can be the agent through which a variety
 of emotions can be learned, rehearsed and practised. At times, our students
 can find it challenging to express their emotions, so drama provides the
 outlet for them to explore a wide range of feelings.</p>
-<p>To further expose our students to theatre, we organize learning journeys
-to watch staged theatre of musical performances at the Esplanade or Victoria
-Theatre. In 2022, our Primary 3 students had a chance to watch one Julia
-Donaldson’s Gruffalo come to live on stage! In 2023, our Primary 3 students
-journeyed to Capitol Theatre to watch Sherlock Sam: The Musical!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/el3.jpg">
 </div>
@@ -221,7 +211,9 @@ to our Primary One and Two students who need the additional boost. In Middle
 Primary, selected students are also supported under the&nbsp;<strong>S</strong>chool-based&nbsp;<strong>D</strong>yslexia&nbsp;<strong>R</strong>emediation
 Programme (SDR) as well as the&nbsp;<strong>R</strong>eading&nbsp;<strong>R</strong>emediation&nbsp;<strong>P</strong>rogramme
 (RRP) so that the students can acquire reading, spelling and comprehension
-skills.</p>
+skills. To support the literacy development of our students, our teachers
+use varied educational technology platforms for extensive reading, literacy
+assessment and develpment.</p>
 <p><strong>Professional Development of Teachers<br><br></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -236,10 +228,10 @@ practice and innovate pedagogically. We believe strongly that every students’
 learning needs should be met. To that end, we differentiate our instruction
 and think sharply about formative assessment to evaluate learning gaps.
 To prepare our students to be future-ready and digitally literate, we incorporate
-e-pedagogy and EdTech tools to augment our teaching and learning. We are
-well supported by MOE divisions, including by Master Teacher Mrs Jennifer
-Lui from the English Language Institute of Singapore, and external partners
-such as Apple Inc.</p>
+e-pedagogy and EdTech tools to augment our teaching and learning. Our teachers
+are skilled in using SLS, Apple Technology, Google Classroom as well as
+other tech platforms to enable personalization of learning, support differentiated
+instruction and engender greater student engagement in our classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Apple_Classroom.jpg">
 </div>
