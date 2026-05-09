@@ -66,11 +66,23 @@ tackle complex challenges beyond the classroom.</p>
 <p>ICT is thoughtfully integrated into Mathematics teaching and learning.
 Platforms such as the Student Learning Space (SLS) and other digital tools
 provide students with varied learning, practice and assessment opportunities.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/ICT_1.jpg">
+</div>
 <p>Every Primary 1 to 6 students is provided with a Koobit account, an interactive
 platform that reinforces concepts through engaging practice and promotes
 self-directed learning. Students’ efforts and achievements are recognised
 through termly awards at each level.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/ICT_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update MA Dept/ICT_3.jpg">
+</div>
+<p></p>
 <p><strong>Catering to Every Learner</strong>
 </p>
 <p>We recognise that students learn Mathematics at different paces and in
