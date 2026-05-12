@@ -21,6 +21,16 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Education and Career Guidance
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Through our recent Education and Career Guidance (ECG) activities,
+        our students were given meaningful opportunities to discover themselves
+      button: Read More
+      url: https://blangahrisepri.moe.edu.sg/education-and-career-guidance/
+      image: /images/2026 Photo Album/ECG/ECG_1.jpg
+      alt: Image alt text
+  - infopic:
       title: MediaKids Student Featured in NAPE 2026 Exhibition
       subtitle: Highlights
       id: infopic
