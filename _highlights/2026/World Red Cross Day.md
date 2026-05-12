@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2026"
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/WRCD/WRCD_Cover_Photo__1_.png">
+</div>
 <p>Our school commemorated World Red Cross Day through a series of meaningful
 and engaging activities aimed at raising awareness of the humanitarian
 efforts of the Red Cross Movement.</p>
@@ -19,3 +23,17 @@ a deeper appreciation of the importance of helping those in need and contributin
 positively to the community. The event provided an enriching and memorable
 learning experience that reinforced the values of empathy, care, and active
 citizenship.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/WRCD/WRCD_1__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/WRCD/WRCD_2__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/WRCD/WRCD_4__1_.jpg">
+</div>
+<p></p>
+<p></p>
