@@ -31,6 +31,16 @@ sections:
       image: /images/2026 Photo Album/ECG/ECG_1.jpg
       alt: Image alt text
   - infopic:
+      title: World Red Cross Day 2026
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Our school commemorated World Red Cross Day through a series of
+        meaningful and engaging activities
+      button: Read More
+      url: https://blangahrisepri.moe.edu.sg/world-red-cross-day/
+      image: /images/2026 Photo Album/WRCD/WRCD_Cover_Photo__1_.png
+      alt: Image alt text
+  - infopic:
       title: MediaKids Student Featured in NAPE 2026 Exhibition
       subtitle: Highlights
       id: infopic
