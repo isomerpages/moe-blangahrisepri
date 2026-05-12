@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: "2026"
 ---
-<h4><strong>Education and Career Guidance</strong></h4>
 <p>Through our recent Education and Career Guidance (ECG) activities, our
 students were given meaningful opportunities to discover more about themselves,
 explore various career pathways, and understand the importance of lifelong
