@@ -7,6 +7,15 @@ variant: tiptap
 <h4><strong>2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>“Follow Your Passion!” shortlisted for exhibition at the 21st Ngee Ann
+Photographic Exhibition 2026 (NAPE) - Kayleigh Wu Kailing (6T)</p>
+</li>
+<li>
+<p>Certificate of Distinction at the 2026 Singapore Youth Festival Arts Presentation
+- Blangah Rise Primary School’s Choir, <em>Rising Harmonies</em>
+</p>
+</li>
+<li>
 <p>National Primary Schools Sport Climbing Championship 2025 (Top Rope 8th)
 - Natalie Elise Garde (6T)</p>
 </li>
