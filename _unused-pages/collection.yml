@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Parent Support Group Executive Committee.md
       - MOE Kindergarten @ Blangah Rise.md
       - Character & Citizenship Education.md
       - P1 Orientation for 2023 Cohort.md

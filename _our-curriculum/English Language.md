@@ -93,11 +93,15 @@ experience the following learning modules:</p>
 </tr>
 </tbody>
 </table>
-<p>Under Viewpoints, our Middle Primary students undergo a Broadcast Journalism
-enrichment module, which aims to build students’ confidence in presentation.
-Our students go through training on verbal and non-verbal cues of confidence.
-They then script their presentations and present their lines in front of
-a camera. Watch our little broadcasters introduce their school below:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/Class_Debate.jpg">
+</div>
+<p>Our Middle Primary students undergo a Broadcast Journalism enrichment
+module, which aims to build students’ confidence in presentation. Our students
+go through training on verbal and non-verbal cues of confidence. They then
+script their presentations and present their lines in front of a camera.
+Watch our little broadcasters introduce their school below:</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C8ErUK_5EaA?si=eDz3xraH0Br16c3Z"></iframe>
 </div>
@@ -119,19 +123,13 @@ around them.</p>
 to children’s literature creatively and learn to appreciate their own as
 well as the culture of others. Our students learn about how authors make
 characters come alive. They also learn how to develop and share their opinions.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Read_at_BRPS.jpg">
-</div>
 <p>We invite local authors to conduct talks as part of our “Authors’ Talks
 Series”. In these sessions, our students meet with the authors face-to-face
 and hear first-hand their inspiration behind their books as well as their
-personal experiences. “What do you use to draw your pictures with?”, “How
-long do you take to write a book?” and “What advice would you give me if
-I wanted to be a writer?” “Why is Sherlock Sam always wearing a shirt with
-‘Ad” on it?” These were just some of the questions that Blangahnites posed
-to our visiting local authors, Mr Quek Hong Shin, A.J. Low and Ms Sharon
-Ismail.</p>
+personal experiences. In 2025, we invited author Mr Shawn Seah to share
+about his books on the pioneers of Singapore. Students learnt about his
+inspiration writing books about his ancestors Seah Liang Seah and Seah
+Eu Chin and their friends.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Authors_Talk_photo__to_update_.jpg">
@@ -140,9 +138,8 @@ Ismail.</p>
 <br>
 </p>
 <p>We also organise Dr Seuss Talks to celebrate the authorial legacy of Dr
-Seuss and his widely-loved children books. Our MOE Kindergarten preschoolers,
-primary one, two and three students are introduced to Dr. Seuss and his
-zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>.
+Seuss and his widely-loved children books. Our primary one, two and three
+students are introduced to Dr. Seuss and his zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>.
 Read more about our Dr Seuss Day celebrations&nbsp;<strong><a href="/2022/03/18/junior-primary-and-moe-kindergartens-journey-to-dr-seuss-fantastical-worlds/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and&nbsp;<strong><a href="/2021/03/26/dr-seuss-day/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/english2.png">
@@ -154,17 +151,21 @@ Read more about our Dr Seuss Day celebrations&nbsp;<strong><a href="/2022/03/18/
 Language through Scrabble and debating. They get a chance to participate
 in national competitions such as Wits &amp; Words (Debating) and Scrabble.
 With their memorised Latin, Greek roots and two-letter words, our Scrabblers
-rose to the challenge against students from many other schools. In 2022,
-two students, Lea Stroe (4 Topaz) and Leo Yang (3 Opal) have also attained
-medals at the 2nd National Schools Scrabble Game e-Series 2022. In 2023,
-on top of individual accolades, our Scrabblers brought home the Team Championship
-for the Junior Division, Bowl Category. Read more about our scrabble achievements
-over the years&nbsp;<a href="/2021/08/20/two-brps-students-advance-to-finals-of-2021-scrabble-tournament-for-beginners-by-mattel/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2021)
-and&nbsp;<a href="/2022/05/18/brps-scrabblers-win-bronze-medals-at-national-schools-scrabble-game-e-series-nssges-2022/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2022)
-and&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/2023/05/30/champion-scrabbles/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2023).</p>
+rose to the challenge against students from many other schools. Since 2023,
+on top of individual accolades, our Scrabblers have brought home the Team
+Championship for the Junior Division, Bowl Category. Read more about our
+scrabble&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/2023/05/30/champion-scrabbles/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2023).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/Scrabble_2026.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Scrabble_photo_1__to_update_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/Scabble_Photo_1__to_update_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -188,16 +189,11 @@ Competition (Division II). Read more about their success&nbsp;<strong><a href="/
 <p></p>
 <p><strong><em>Nurturing the love for creative &amp; journalistic writing</em></strong>
 </p>
-<p>2020 was a year like no other. But the challenges that Covid-19 measures
-brought about, especially the Home-based Learning (HBL), did nothing to
-dampen our students’ spirits in coming together to pen down their stories
-and experiences during that period at home. Our students on the English
-APEX programe met weekly via Zoom to pen our inaugural issue of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;–
-our BRPS student e-newsletter, for the students, by the students. Guided
-by Mr Roger Jenkins, a renowned Singaporean storyteller and drama coach,
-our APEX students shared tips on surviving HBL, lessons learnt from Covid-19,
-anecdotes of their fondest memories of the unprecedented year and creative
-acoustic poems of a pandemic. Read our recent issues of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;<strong><a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+<p>Each year, our students come together to pen <strong><em>BRavo!</em></strong>&nbsp;–
+our BRPS student e-newsletter, for the students, by the students. Through
+the years, our APEX students generated ideas for their student newsletter
+and penned them, sharing tips on how to manage examination stress and HBL,
+as well as reviews on books, movies and games! Read our recent issues of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;<strong><a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 <a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>and&nbsp;<strong><a href="/files/Bravo/BRavo 2026/BRavo_Newsletter_2025_compressed.pdf" rel="noopener nofollow" target="_blank">here.</a></strong>
 </p>
 <p><strong><em>Staging the performing arts</em></strong>
@@ -209,11 +205,6 @@ education is significant as it can be the agent through which a variety
 of emotions can be learned, rehearsed and practised. At times, our students
 can find it challenging to express their emotions, so drama provides the
 outlet for them to explore a wide range of feelings.</p>
-<p>To further expose our students to theatre, we organize learning journeys
-to watch staged theatre of musical performances at the Esplanade or Victoria
-Theatre. In 2022, our Primary 3 students had a chance to watch one Julia
-Donaldson’s Gruffalo come to live on stage! In 2023, our Primary 3 students
-journeyed to Capitol Theatre to watch Sherlock Sam: The Musical!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/el3.jpg">
 </div>
@@ -232,11 +223,13 @@ to our Primary One and Two students who need the additional boost. In Middle
 Primary, selected students are also supported under the&nbsp;<strong>S</strong>chool-based&nbsp;<strong>D</strong>yslexia&nbsp;<strong>R</strong>emediation
 Programme (SDR) as well as the&nbsp;<strong>R</strong>eading&nbsp;<strong>R</strong>emediation&nbsp;<strong>P</strong>rogramme
 (RRP) so that the students can acquire reading, spelling and comprehension
-skills.</p>
-<p><strong>Professional Development of Teachers<br><br></strong>
+skills. To support the literacy development of our students, our teachers
+use varied educational technology platforms for extensive reading, literacy
+assessment and develpment.</p>
+<p><strong>Professional Development of Teachers<br></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/EL_Dept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/english_language_department_i.jpg">
 </div>
 <p></p>
 <p>Our English Language teachers form an enthusiastic and mission-driven
@@ -247,10 +240,10 @@ practice and innovate pedagogically. We believe strongly that every students’
 learning needs should be met. To that end, we differentiate our instruction
 and think sharply about formative assessment to evaluate learning gaps.
 To prepare our students to be future-ready and digitally literate, we incorporate
-e-pedagogy and EdTech tools to augment our teaching and learning. We are
-well supported by MOE divisions, including by Master Teacher Mrs Jennifer
-Lui from the English Language Institute of Singapore, and external partners
-such as Apple Inc.</p>
+e-pedagogy and EdTech tools to augment our teaching and learning. Our teachers
+are skilled in using SLS, Apple Technology, Google Classroom as well as
+other tech platforms to enable personalization of learning, support differentiated
+instruction and engender greater student engagement in our classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/English%20Webpage/Apple_Classroom.jpg">
 </div>
