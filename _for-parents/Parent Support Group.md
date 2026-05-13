@@ -64,12 +64,12 @@ Day.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/PSG_Form___2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/PSG/PSG_12.png">
 </div>
 <p>We would like to encourage all fathers to connect and be actively involved
 in their children’s lives both at home and in school.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/PSG/WhatsApp_Image_2024_03_25_at_11_10_48_AM.jpg">
-</div>
 <p></p>
