@@ -13,4 +13,7 @@ Ann Photographic Exhibition 2026 (NAPE).</p>
 1 McNally St, Singapore 187940, from 13 June, Saturday, to 23 June 2026,
 Tuesday&nbsp; (closed on Sundays).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MediaKids/Mediakids.jpg">
+</div>
 <p></p>
