@@ -14,6 +14,6 @@ Ann Photographic Exhibition 2026 (NAPE).</p>
 Tuesday&nbsp; (closed on Sundays).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MediaKids/Mediakids.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MediaKids/Media_kids.jpg">
 </div>
 <p></p>
