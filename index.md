@@ -47,8 +47,7 @@ sections:
       description: Congratulations to Kayleigh from Primary 6 Topaz, MediaKids CCA.
       button: Read More
       url: /mediakids-student-featured-in-nape-2026-exhibition/
-      image: /images/2026 Photo
-        Album/MediaKids/Kayleigh_Wu_Kailing___109_0511___12_x_18___Submit.jpg
+      image: /images/2026 Photo Album/MediaKids/Mediakids.jpg
       alt: Image alt text
   - infopic:
       title: Rising Harmonies Shines with Distinction at SYF 2026
