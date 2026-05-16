@@ -49,7 +49,7 @@ sections:
         Sapphire.
       button: Read More
       url: /mediakids-student-featured-in-nape-2026-exhibition/
-      image: /images/2026 Photo Album/MediaKids/Mediakids.jpg
+      image: /images/2026 Photo Album/MediaKids/Media_kids.jpg
       alt: Image alt text
   - infopic:
       title: Rising Harmonies Shines with Distinction at SYF 2026
