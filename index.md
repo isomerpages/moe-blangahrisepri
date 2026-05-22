@@ -44,11 +44,12 @@ sections:
       title: MediaKids Student Featured in NAPE 2026 Exhibition
       subtitle: Highlights
       id: infopic
-      description: Congratulations to Kayleigh from Primary 6 Topaz, MediaKids CCA.
+      description: Congratulations to our MediaKids CCA students - Kayleigh from
+        Primary 6 Topaz, Leann Marissa David from 6 Opal and Tan Sin Un from 5
+        Sapphire.
       button: Read More
       url: /mediakids-student-featured-in-nape-2026-exhibition/
-      image: /images/2026 Photo
-        Album/MediaKids/Kayleigh_Wu_Kailing___109_0511___12_x_18___Submit.jpg
+      image: /images/2026 Photo Album/MediaKids/Media_kids.jpg
       alt: Image alt text
   - infopic:
       title: Rising Harmonies Shines with Distinction at SYF 2026
