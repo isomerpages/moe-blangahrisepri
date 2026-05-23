@@ -184,7 +184,27 @@ in advanced problem-solving tasks that deepen conceptual understanding,
 strengthen scientific inquiry skills, cultivate positive habits of mind
 and develop Critical, Adaptive and Inventive Thinking (CAIT) as part of
 enhanced 21st Century Competencies (21CC).</p>
-<p>&nbsp;<strong><u>Science Olympiad Training</u></strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_14.jpg">
+</div>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_15.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_18.jpg">
+</div>
+<p><strong><u>Science Olympiad Training</u></strong>
 </p>
 <p>Selected Primary 4 to Primary 5 students with strong interest and potential
 in Science are offered enriched learning experiences to develop creative,
