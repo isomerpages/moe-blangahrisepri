@@ -51,6 +51,10 @@ in active and meaningful learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_3.jpg">
+</div>
 <p>
 <br><strong><u>Outdoor Experiential Learning and Enrichment Activities</u></strong>
 </p>
