@@ -148,6 +148,7 @@ energy into electrical energy, powering LED bulbs through practical applications
 </table>
 <p></p>
 <p></p>
+<p></p>
 <p><strong><u>Recess Activities</u><br></strong>Our Science Department partners
 with teachers and the Parent Support Group (PSG) to bring Science beyond
 the classroom. Through fun, hands-on activities such as interactive games,
@@ -189,6 +190,10 @@ of projects and complete a series of engaging challenges.</p>
 key scientific concepts. Targeted instruction is delivered through customised
 SLS lessons and focused teaching, addressing specific learning gaps while
 strengthening foundational skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_13.png">
+</div>
 <p>
 <br>
 </p>
@@ -208,11 +213,11 @@ and develop Critical, Adaptive and Inventive Thinking (CAIT) as part of
 enhanced 21st Century Competencies (21CC).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_14.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_14.jpg">
 </div>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_16.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_16.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
