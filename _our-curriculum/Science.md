@@ -148,7 +148,22 @@ energy into electrical energy, powering LED bulbs through practical applications
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_6.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_7.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_11.jpg">
+</div>
 <p><strong><u>Recess Activities</u><br></strong>Our Science Department partners
 with teachers and the Parent Support Group (PSG) to bring Science beyond
 the classroom. Through fun, hands-on activities such as interactive games,
