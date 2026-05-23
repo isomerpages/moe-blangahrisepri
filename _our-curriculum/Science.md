@@ -51,56 +51,24 @@ in active and meaningful learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_2.jpg">
 </div>
-<p></p>
-<p><strong>Our Goal:<br></strong>We put together a suite of Science programmes
-with the aim of providing students with experiences to nurture students
-to have a curious and rational mind, a loving heart, and an innovative
-spirit.</p>
-<p><strong>Inquiry-based Learning using Science Kits<br></strong>The integration
-of science kits into the science classroom not only transforms the roles
-of both teachers and students but also fosters the development of self-directed
-learners. These kits serve as effective classroom tools to support hands-on
-curriculum supplements, shifting the learning environment from traditional,
-didactic methods to dynamic, hands-on approaches. This encourages exp loration
-and experimentation, which in turn, engage all students in active and meaningful
-learning.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sceicne1.png">
-</div>
 <p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Photo-5-2-1536x710.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/Science%20Webpage/Photo_2.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Photos/Science%20Webpage/Photo_3.jpg">
-</div>
-<p><em>“It is fun to experience new things. When my Science teacher asks questions in class, I can use the experiment to remember how to answer.”</em>
-</p>
-<p><em>Lucas, Primary 6 (2023)</em>
+<br><strong><u>Outdoor Experiential Learning and Enrichment Activities</u></strong>
 </p>
 <p>
-<br><strong>Outdoor Experiential Learning Experience</strong>
-<br>The outdoor classroom fosters active, hands-on, inquiry-based learning
-in a real world setting; making learning a multi-sensory experience to
-retain knowledge more effectively. Learning in a less-structured environment,
-students are provided with a different learning experience from that of
-the classroom. Learning Journeys are also integral to enriching the learning
-experience of students. They help to make real and concrete what has been
-learnt in the classrooms and broaden the mental horizons of our students.</p>
-<table style="minWidth: 75px">
+<br>Our outdoor classroom lessons and school garden trails provide hands-on,
+inquiry-based learning in authentic settings, enhancing understanding of
+concepts taught through multi-sensory experiences. Students explore plants,
+habitats and sustainability features firsthand, applying Science concepts
+beyond classroom walls whilst developing curiosity, inquiry skills and
+environmental understanding. Learning Journeys further connect theory to
+practice, broadening students' perspectives.</p>
+<p>External partnerships further enrich Science education through year-round
+collaborations. Students engage with rare animal and plant specimens, comparing
+organisms beyond their usual environment. They also demonstrate energy
+conversion principles by designing wind turbines that transform kinetic
+energy into electrical energy, powering LED bulbs through practical applications.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -111,11 +79,7 @@ learnt in the classrooms and broaden the mental horizons of our students.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Learning Journey</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Description</strong>
+<p><strong>Learning Journey / Enrichment Activities</strong>
 </p>
 </th>
 </tr>
@@ -124,16 +88,8 @@ learnt in the classrooms and broaden the mental horizons of our students.</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gardens by the Bay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collaborating with the ICT Department’s signature programme, Young Photographer,
-students delve deeper into the ecology of plants and the environment through
-discovery and experiential learning. At Gardens by the Bay, students get
-to apply photography skills to capture plants with different shapes and
-edges.</p>
-<p>Click&nbsp;<strong><a href="/our-distinctive-programmes/young-photographers/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
-find out more about our Young Photographers Programme.</p>
+<p>Sustainability Workshop</p>
+<p>Garden Trail (Tranquil Garden @ BRPS)</p>
 </td>
 </tr>
 <tr>
@@ -141,21 +97,7 @@ find out more about our Young Photographers Programme.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Centre</p>
-<p>Gardens by the Bay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students participate in hands-on activities, gallery trail and science
-demonstrations on energy as they embark on an experiential journey to learn
-how to harness energy from different sources. They will learn the fundamentals
-of energy and its importance. The activities also encourage character building
-through teamwork, time management and strategic problem solving.</p>
-<p>Collaborating with the Young Photographers programme, students took photographs
-of water bodies during their visit to Gardens by the Bay. This activity
-serves as an extension of the World Water Day activities that were conducted
-in school to advocate the importance of water conservation in Singapore.</p>
-<p>Click&nbsp;<strong><a href="/our-distinctive-programmes/young-photographers/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
-find out more about our Young Photographers Programme.</p>
+<p>Sustainability Workshop – Plastic Recycling Workshop</p>
 </td>
 </tr>
 <tr>
@@ -163,12 +105,19 @@ find out more about our Young Photographers Programme.</p>
 <p>P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marina Barrage Gallery</p>
-</td>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
-<p>This interactive learning journey takes students through the gallery at
-Marina Barrage. Students will learn more about water sustainability in
-Singapore.</p>
+<p>Seed Dispersal Workshop</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Garden Trail (Garden of Hope @ BRPS)</p>
 </td>
 </tr>
 <tr>
@@ -176,16 +125,25 @@ Singapore.</p>
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sungei Buloh Wetland Reserve</p>
-</td>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
-<p>The focus of this trip is on the diversity, ecology and dynamics of an
-ecosystem. Students will learn about food chains, food webs, adaptation
-and Man’s impact on the environment.</p>
+<p>LJ to Sungei Buloh Wetland Reserve</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Constructing a circuit for LED bulb</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p><strong>Enrichment Activities<br></strong>To further enrich students’
 learning in Science, the school partners with external agencie s such as,
 Science Centre, Infocomm Media Development Authority (IMDA), Junior Achievement
