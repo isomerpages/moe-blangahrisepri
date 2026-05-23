@@ -36,6 +36,22 @@ inventive thinking, collaboration and self-directed learning — key aspects
 of 21st Century Competencies.
 <br>
 </p>
+<p><strong><u>Inquiry-based Learning using Science Kits</u></strong>
+</p>
+<p>The integration of science kits into the science classroom not only transforms
+the roles of both teachers and students but also fosters the development
+of self-directed learners. These kits serve as effective classroom tools
+to support hands-on curriculum supplements, shifting the learning environment
+from traditional, didactic methods to dynamic, hands-on approaches. This
+encourages exploration and experimentation, which in turn, engage all students
+in active and meaningful learning.
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_2.jpg">
+</div>
+<p></p>
 <p><strong>Our Goal:<br></strong>We put together a suite of Science programmes
 with the aim of providing students with experiences to nurture students
 to have a curious and rational mind, a loving heart, and an innovative
