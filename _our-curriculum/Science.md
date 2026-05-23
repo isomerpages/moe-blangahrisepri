@@ -151,6 +151,19 @@ iPad-based challenges, experiment demonstrations, and STEM Champion tasks,
 students deepen their understanding of scientific concepts while developing
 social-emotional skills. These engaging recess sessions spark curiosity
 and nurture a love for Science through meaningful experiential learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_9.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_10.jpg">
+</div>
 <p><strong><u>Young Einstein Challenge</u></strong>
 </p>
 <p>Mirroring the objective of the Young Scientist Card—to encourage curiosity,
@@ -158,6 +171,10 @@ exploration, and self-directed learning—this challenge-based approach fosters
 scientific inquiry, resilience and a love for Science through purposeful,
 hands-on experiences. Students from each level select from a curated list
 of projects and complete a series of engaging challenges.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_12.png">
+</div>
 <p>
 <br><strong>Support Programme and Stretch Programmes</strong>
 </p>
@@ -167,7 +184,8 @@ of projects and complete a series of engaging challenges.</p>
 4 to Primary 6 students who require short-term intervention to reinforce
 key scientific concepts. Targeted instruction is delivered through customised
 SLS lessons and focused teaching, addressing specific learning gaps while
-strengthening foundational skills.
+strengthening foundational skills.</p>
+<p>
 <br>
 </p>
 <p><strong>Stretch Programme - (APEX:&nbsp; Accelerated Programme to Enhance students’ eXperience)</strong>
