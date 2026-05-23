@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo1.jpg">
+</div>
 <p><strong>Vision:&nbsp;</strong>Every child is imbued with a life-long curiosity
 and love for Science.
 <br><strong>Mission:&nbsp;</strong>To develop the innovative and creative
@@ -147,6 +150,10 @@ energy into electrical energy, powering LED bulbs through practical applications
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_4.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Sci Dept/Photo_6.jpg">
