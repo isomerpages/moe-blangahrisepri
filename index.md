@@ -61,14 +61,15 @@ sections:
         Primary School’s choir, Rising Harmonies
       subtitle: HIGHLIGHTS
   - infopic:
-      title: International Friendship Day 2026
+      title: Piala Cendekia Sahibba 2026
       subtitle: HIGHLIGHTS
       id: infopic
-      description: We commemorated International Friendship Day with the theme
-        “Forging Friendships in a Complex World”
+      description: Congratulations to our students for emerging as Champions in the
+        Primary School Category (South Zone) at the Piala Cendekia Sahibba 2026
+        competition.
       button: Read More
-      url: https://blangahrisepri.moe.edu.sg/international-friendship-day-2026/
-      image: /images/2026 Photo Album/IFD/1ifd.jpg
+      url: /piala-cendekia-sahibba-2026/
+      image: /images/2026 Photo Album/Sahibba/photo_6107034545765945507_y.jpg
       alt: Image alt text
   - infopic:
       title: Caring Teacher Award (CTA) 2026
