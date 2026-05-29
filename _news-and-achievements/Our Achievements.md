@@ -14,6 +14,12 @@ Photographic Exhibition 2026 (NAPE) - Kayleigh Wu Kailing (6T)</p>
 <p>Certificate of Distinction at the 2026 Singapore Youth Festival Arts Presentation
 - Blangah Rise Primary School’s Choir, <em>Rising Harmonies</em>
 </p>
+</li>
+<li>
+<p>Piala Cendekia Sahibba 2026 (South Zone - 1st Place) - Fuadah Qasrina
+Binti Mohamed Fazil (6 Topaz), Nur Rizqah Alisha Binte Isham (6 Sapphire),
+Altair Ezio Bramanto (5 Sapphire), Nurul Basyirah Binti Mohd Firdaus (6
+Topaz)</p>
 <p></p>
 </li>
 </ul>
