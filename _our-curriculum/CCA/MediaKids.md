@@ -51,7 +51,7 @@ the functions is vital to capturing a good photograph. They extend their
 skills in school&nbsp;through creative photography with props.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_8.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_8.jpg">
 </div>
 <p>Zoe, a Primary 4 student says, “It feels great to be using a professional
 camera as part of our CCA. I have learnt how to hold the camera properly
@@ -88,10 +88,15 @@ we can all get better at our skills and techniques,” says Jiu Ting, a Primary
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/Toys_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media%20collage_1.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_17.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_18.jpg">
+</div>
 <p><strong>Zoom Effect</strong>
 </p>
 <p></p>
@@ -122,15 +127,15 @@ we can all get better at our skills and techniques,” says Jiu Ting, a Primary
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_9.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_9.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_7.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_12.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_12.jpg">
 </div>
 <p></p>
 <p>MediaKids also have the opportunity to hone their photography skills through
@@ -160,11 +165,11 @@ took place out of the classroom.</p>
 <p><strong>Creating a Virtual Gallery with Augmented Reality and Coding</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_10.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_10.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_11.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_11.jpg">
 </div>
 <p>Our students used CoSpaces to design a virtual gallery showcasing their
 own photographs. This interactive exhibit invites visitors to explore each
@@ -302,7 +307,7 @@ slow down, take care of our surroundings and work healthily by balancing
 effort with rest instead of overworking ourselves.</p>
 <p>Come Join Us!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_4.jpg">
 </div>
 <p>Mdm&nbsp;Uuchi, teacher in charge of MediaKids, shared, “MediaKids provides
 students with opportunities to explore creative photography as a form of
