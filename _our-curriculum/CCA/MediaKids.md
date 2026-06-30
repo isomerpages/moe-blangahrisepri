@@ -6,35 +6,62 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Media Kids/BR_Webpage_20240318_IMG_3500__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_5.jpg">
 </div>
-<p>MediaKids is an extension of our <a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/young-photographers/" rel="noopener noreferrer nofollow" target="_blank">Young Photographers</a> programme,
-where our students acquire advanced photography skills and work on school
-publications. It is also a platform to develop 21st century competencies
-in our students through leveraging photography to communicate their ideas.</p>
-<p>As an opportunity to hone their photography skills, our MediaKids take
-on the role of official photographers for school events and participate
-in national competitions. Through these platforms, our MediaKids develop
-their creativity, interpersonal skills and collaboration skills.</p>
+<p>MediaKids is a photography-based CCA designed to develop students’ 21st
+Century Competencies through creative visual communication.</p>
+<p>Through structured and guided experiences, students acquire foundational
+and intermediate DSLR photography skills while learning to apply composition
+techniques across a range of indoor and outdoor contexts, including thematic
+shoots and school events.</p>
+<p>The programme also encourages visual storytelling through creative setups
+using props and everyday objects, while introducing students to emerging
+Artificial Intelligence (AI) tools that shape modern image creation and
+editing.</p>
+<p>Beyond photography, students gain introductory experience in virtual environment
+building, using elements of Augmented Reality (AR) and coding to showcase
+their work. Throughout the programme, students document, reflect on, and
+share their learning on a digital platform that supports writing, curation,
+and peer feedback.</p>
+<p>Through MediaKids, students grow into confident, creative, and digitally
+literate individuals who are equipped to express themselves meaningfully
+and contribute positively in an increasingly visual and technology-driven
+world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_14.jpg">
+</div>
+<p>MediaKids gain real-world experience as official photographers for school
+events, participants in national competitions, and contributors to exhibitions.
+These opportunities allow students to showcase their creativity while strengthening
+their collaboration, communication, and interpersonal skills, preparing
+them to express their ideas confidently through photography.</p>
 <p><strong>Telling Their Own Stories</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_6.jpg">
 </div>
 <p>These are some of the composition techniques which our MediaKids have
 learnt in photography. During their weekly CCA, they have the opportunity
 to handle a DSLR, as well as learn about its functions and how each of
 the functions is vital to capturing a good photograph. They extend their
 skills in school&nbsp;through creative photography with props.</p>
-<p>Carys, a Primary 4 student says, “We get to take photographs using the
-DSLR, and learn about the different functions and buttons!”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_8.jpg">
+</div>
+<p>Zoe, a Primary 4 student says, “It feels great to be using a professional
+camera as part of our CCA. I have learnt how to hold the camera properly
+to capture images.”</p>
 <p>Our MediaKids’ works are reviewed by their trainer, who gives them constructive
 feedback on their photographs. This provides our MediaKids an insight on
 what they did well and how they can improve in their photographs.</p>
-<p>“I learn that sharing and reviewing each other’s work help us to become
-better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
-<p></p>
+<p>“I learnt that when we share our work and give feedback to one another,
+we can all get better at our skills and techniques,” says Jiu Ting, a Primary
+5 student.</p>
 <p><strong>Creative Photography</strong>
 </p>
 <p><strong>2024 Paris Olympics</strong>
@@ -93,34 +120,35 @@ better in our skills and techniques,” says Rishi, a Primary 4 student.</p>
 <p></p>
 <p><strong>Outdoor Shoots</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_9.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/IMG_8860.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_12.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/IMG_8858__1_.jpg">
-</div>
-<p></p>
 <p></p>
 <p>MediaKids also have the opportunity to hone their photography skills through
 outdoor shoots at locations such as Telok Blangah Hill Park, Mount Faber,
-HortPark, Labrador Nature Reserve, Fort Canning Park and Keppel Bay Bridge.
-They apply composition techniques as such Rule of Thirds, Leading Lines
-and Framing. Their works are proudly displayed at our photo gallery in
-school and used in our publications! At the same time, MediaKids get to
-learn more about the environment and explore environmental issues through
-their lenses. “The outdoor shoots are a lot of fun. We get to compare composition
-techniques and share ideas. We learn how each of us have different stories
-in our photographs. Different people look at the same object differently,”
-says Ka Shing, a Primary 5 student.</p>
+HortPark, Labrador Nature Reserve, Hill Street and Keppel Bay Bridge. They
+apply composition techniques as such Rule of Thirds, Leading Lines and
+Framing.</p>
+<p>Their works are proudly displayed at our photo gallery in school and used
+in our publications! At the same time, MediaKids get to learn more about
+the environment and explore environmental issues through their lenses.
+“Our CCA lessons are conducted by a professional photographer. Through
+him, we learn more than just taking photographs. Our outdoor shoots include
+understanding the environment and nature.” says Carys, a Primary 6 student.</p>
+<p>Marissa, a Primary 6 student, added that she enjoyed the outdoor shoots
+as she was able to apply the photography skills that she had learnt during
+CCA to real life experiences. Besides photography skills, she had also <strong>learnt about the history of the places </strong>such
+as Fort Canning Park. In this way, her knowledge had grown and learning
+took place out of the classroom.</p>
 <p><strong>Through the lenses of our MediaKids</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -132,7 +160,11 @@ says Ka Shing, a Primary 5 student.</p>
 <p><strong>Creating a Virtual Gallery with Augmented Reality and Coding</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_11.jpg">
 </div>
 <p>Our students used CoSpaces to design a virtual gallery showcasing their
 own photographs. This interactive exhibit invites visitors to explore each
@@ -146,14 +178,6 @@ and inspirations behind each image in a vibrant, virtual space.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_3.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/VR_5.jpg">
-</div>
 <p>After completing their virtual galleries, students held a sharing session
 with fellow MediaKids members, where they discussed the creative process
 behind their work. They shared the thought and intention behind each aesthetic
@@ -162,46 +186,26 @@ to enhance the mood and meaning of their photographs. This session allowed
 students not only to showcase their creations but also to reflect on and
 celebrate the choices that shaped their unique virtual galleries, fostering
 inspiration and mutual support among peers.</p>
-<p></p>
 <p><strong>Bicentennial-Themed Coffee Table Book</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Photo-8-2-1024x576.jpg">
-</div>
 <p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed
 coffee table book, “Singapore Through Children’s Eyes” which was presented
 to President Halimah Yacob on 28 July 2019. President Halimah had written
 a foreword for the book, which was supported by the Singapore Bicentennial
-Office. Click here&nbsp;<a href="/our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/" rel="noopener noreferrer nofollow" target="_blank">bicentennial coffee table book</a>&nbsp;to
+Office. Click here&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/bicentennial-coffee-table-book/" rel="noopener noreferrer nofollow" target="_blank">bicentennial coffee table book</a>&nbsp;to
 find out more about the book.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/1.png">
-</div>
-<p><strong>Here Comes The Storm Now: Our Covid-19 Diary</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/Covid-19-274x300.jpg">
-</div>
-<p>MediaKids’ photographs taken during their e-CCA sessions were featured
-in our book, “Here Comes The Storm Now: Our Covid-19 Diary”. It documents
-our Covid-19 experiences through the eyes of our educators, children and
-parents. This book is dedicated to frontline heroes who have kept Singapore
+<p>MediaKids’ photographs taken during their e-CCA sessions in 2020 were
+featured in our book, “Here Comes The Storm Now: Our Covid-19 Diary”. It
+documents our Covid-19 experiences through the eyes of our educators, children
+and parents. This book is dedicated to frontline heroes who have kept Singapore
 safe so that our children can continue learning in school. Please click&nbsp;
-<a href="https://www.blangahrisepri.moe.edu.sg/our-covid-19-diary/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read our Covid-19 Diary.</p>
-<p><strong>Special Event with Local Sportsmen and Sportswomen</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Photo-7-1.jpg">
-</div>
-<p>In line with the Tokyo Olympics, our students embarked on a project to
-gather inspirational stories and messages from our local sportsmen and
-sportswomen. In September 2019, we invited Singapore’s very own football
-legend, Mr Fandi Ahmad to our school. Our MediaKids took photographs of
-him being interviewed by our student leaders and conducting a football
-clinic for our boys in the Football CCA group.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/For-Website-MK-Page.jpg">
-</div>
+<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/02/BRPS-Our-Covid19-Diary.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read our Covid-19 Diary.</p>
+<p>In line with Tokyo Olympics, our students embarked on a project to gather
+inspirational stories and messages from our local sportsmen and sportswomen.
+In September 2019, we invited Singapore’s very own football legend, Mr
+Fandi Ahmad to our school. Our MediaKids took photographs of him being
+interviewed by our student leaders and conducting a football clinic for
+our boys in the Football CCA group.</p>
 <p>There were other platforms which gave our MediaKids opportunities to hone
 their photography skills. In 2020, we met our nation’s World Number 1 Para
 Archer, Ms Nur Syahidah Alim. Aqeel, our Primary 4 MediaKid, not only captured
@@ -211,55 +215,16 @@ and pursue his dreams and goals.</p>
 a coffee table book titled “A Bowl of Nature”. Our MediaKids applied their
 photography skills and captured biodiversity through their lenses. Click
 here to read more about “<a href="https://blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/" rel="noopener noreferrer nofollow" target="_blank">A Bowl of Nature</a>”</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media_25.JPG">
-</div>
-<p>Our MediaKids photographs were featured in our book publication “In Pursuit
-of a Dream”. Click <a href="https://www.blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener nofollow" target="_blank">here</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Update Media Kids/MK_11.jpg">
-</div>
-<p></p>
-<p><strong>Other Platforms to extend our MediaKids’ Learning</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/Media%20Kids/media_19.JPG">
-</div>
-<p><strong>Photography Exhibition</strong>
-</p>
-<p>Titled Virtues of Creativity and Flexibility, this photograph was taken
-at Labrador Nature Reserve by Ser Yen. It was selected to be exhibited
-at the 18th Ngee Ann Photographic Exhibition for the Student Category.</p>
-<p>Accompanying her photograph was a write-up: I like to experiment and try
-new things. This is my first time capturing the landscape by using a lensball.
-The landscape of Labrador Nature Reserve appears as an inverted image in
-the lensball. This image resonates with me as it reminds me of being creative,
-flexible and looking at things from different perspectives, especially
-when we are facing difficulties.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Media%20Kids/Ser_Yen___1_12x16.jpg">
-</div>
-<p>For the 19th Ngee Ann Photographic Exhibition, Ser Yen has leveraged photography
-to depict Virtues of Excellence and Determination. Out of 700 submissions,
-Ser Yen’s photograph was one of the 158 photographs selected for exhibition.</p>
-<p>Accompanying her photograph was a write-up: In our daily lives, we are
-running a race to reach the finishing line, and striving to be the best
-versions of ourselves. We should always put our best foot forward for excellence,
-persevere whenever we encounter any challenges and not give up.</p>
-<p>In our daily journey, we aim to reach our potential. In the process of
-doing so, we face challenges with perseverance and determination. It is
-crucial to always strive for excellence, never faltering in our efforts
-to overcome obstacles and achieve our goals.</p>
-<p>Ser Yen said, “Our CCA lessons are conducted by a professional photographer.
-Through him, we learn more than just taking photographs. Our outdoor shoots
-include understanding the environment and nature, and how our cameras can
-capture how nature interacts.”</p>
+<p>MediaKids depicted each Olympic sport and values of friendship, excellence
+and respect through creative photography and props in another publication
+titled “<a href="https://www.blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener noreferrer nofollow" target="_blank">In Pursuit of a Dream</a>”
+Through process, they had learnt how to leverage photography to depict
+a sport creatively.</p>
 <p><strong>20th Ngee Ann Photographic Exhibition</strong>
 </p>
 <p>Three of our MediaKids’ works were shortlisted for exhibition from 14
-to 24 June 2025 (Closed on Saturdays) at LASALLE College of the Arts. There
-were over 1020 submissions from more than 570 participants.&nbsp;</p>
+to 24 June 2025 at LASALLE College of the Arts. There were over 1020 submissions
+from more than 570 participants.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Ang_Zi_Ning__Carys_101_7924_12x18.jpg">
 </div>
@@ -295,19 +260,52 @@ a new life. Just like the chick, Singapore is also looking forward to new
 beginnings as it turns 60. I hope this photograph helps us think about
 how far Singapore has come. Since Singapore became independent in 1965,
 everyone worked hard together and never gave up.</p>
-<p><strong>11th National Primary School Competition Award</strong>
+<p><strong>21st Ngee Ann Photographic Exhibition</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/Media%20Kids/003__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_16.jpg">
 </div>
-<p>Photograph by Ser Yen attained Merit Award</p>
-<p><strong>Come Join Us!</strong>
+<p>Photograph taken by Sin Un</p>
+<p><strong>Stronger Together</strong>
 </p>
+<p>This photograph shows two LEGO figures working together to carry a log.
+It reminds me that asking for help is not a weakness. Working together
+can make difficult tasks easier, just like in school during group work.
+This image is meaningful to me because it reflects kindness, teamwork,
+and the idea that no one has to face challenges alone.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2023%20Photos/Media%20Kids/media_28.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_2.jpg">
 </div>
-<p>Mdm Uuchi, teacher in charge of MediaKids, shared “Through photography,
-our students develop observation skills, artistic expression and a deeper
-appreciation for the world around them. Our outdoor shoots are also very
-hands-on, providing opportunities for our students to practise their photography
-skills in real-world settings.”</p>
+<p>Photograph taken by Kayleigh</p>
+<p><strong>Follow Your Passion!</strong>
+</p>
+<p>This photograph shows a figure appearing to “hatch” from an egg, symbolising
+new beginnings. In society, people are often discouraged from pursuing
+their dreams, causing many to give up. However, breaking out of the egg
+represents courage and growth. The photograph encourages us to follow our
+passions despite negativity and doubt. It reminds us that true success
+comes from believing in ourselves and having the courage to pursue what
+we love.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_15.jpg">
+</div>
+<p>Photograph taken by Marissa</p>
+<p><strong>Work Healthily!</strong>
+</p>
+<p>This photograph shows LEGO figures carefully cleaning a keyboard like
+professionals. We often forget to clean the tools we use every day, even
+though they affect our comfort and well-being. The act of cleaning can
+be calming, offering a short break from stress. This image reminds us to
+slow down, take care of our surroundings and work healthily by balancing
+effort with rest instead of overworking ourselves.</p>
+<p>Come Join Us!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_4.jpg">
+</div>
+<p>Mdm&nbsp;Uuchi, teacher in charge of MediaKids, shared, “MediaKids provides
+students with opportunities to explore creative photography as a form of
+expression and visual storytelling. Through guided experimentation with
+composition, angles and light, students learn to communicate ideas and
+emotions through images, developing their own creative voice as young photographers.”</p>
