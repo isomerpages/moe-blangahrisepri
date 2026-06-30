@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Principal's Term 3 Letter
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      button: CLICK HERE TO READ MORE
+      url: /principal-s-term-3-letter-2026/
+      image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
+      alt: Image alt text
+  - infopic:
       title: Education and Career Guidance
       subtitle: HIGHLIGHTS
       id: infopic
@@ -78,14 +86,6 @@ sections:
       url: https://blangahrisepri.moe.edu.sg/caring-teacher-award-cta-2026/
       description: The Caring Teacher Awards (CTA) celebrate educators who exemplify
         care and compassion in their teaching.
-  - infopic:
-      title: Principal's Term 2 Letter
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      button: CLICK HERE TO READ MORE
-      url: https://blangahrisepri.moe.edu.sg/principal-s-term-2-letter-2026/
-      image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
-      alt: Image alt text
   - infopic:
       title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
       subtitle: HIGHLIGHTS
