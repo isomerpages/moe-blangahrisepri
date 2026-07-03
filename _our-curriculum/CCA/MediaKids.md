@@ -243,6 +243,10 @@ at the 18th Ngee Ann Photographic Exhibition for the Student Category.</p>
 photography to depict Virtues of Excellence and Determination. Out of 700
 submissions, Ser Yen’s photograph was one of the 158 photographs selected
 for exhibition.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MEDIAKIDS_Update/Ser_Yen_1.jpg">
+</div>
 <p>Accompanying her photograph was a write-up:</p>
 <p><em>In our daily lives, we are running a race to reach the finishing line, and striving to be the best versions of ourselves. We should always put our best foot forward for excellence, persevere whenever we encounter any challenges and not give up.</em>
 </p>
