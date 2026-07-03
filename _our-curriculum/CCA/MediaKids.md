@@ -342,6 +342,11 @@ though they affect our comfort and well-being. The act of cleaning can
 be calming, offering a short break from stress. This image reminds us to
 slow down, take care of our surroundings and work healthily by balancing
 effort with rest instead of overworking ourselves.</p>
+<p><strong>11<sup>th</sup> National Primary School Competition Award</strong>
+</p>
+<p></p>
+<p><em>Photograph by Ser Yen attained Merit Award</em>
+</p>
 <p>Come Join Us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_4.jpg">
