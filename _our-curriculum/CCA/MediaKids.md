@@ -262,9 +262,10 @@ capture how nature interacts.”</p>
 to 24 June 2025 at LASALLE College of the Arts. There were over 1020 submissions
 from more than 570 participants.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Ang_Zi_Ning__Carys_101_7924_12x18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Photograph taken by Carys" src="/images/2025 Photo Album/Mediakids/Ang_Zi_Ning__Carys_101_7924_12x18.jpg">
 </div>
-<p>Photograph taken by Carys</p>
+<p><em>Photograph taken by Carys</em>
+</p>
 <p><strong>Towards a Brighter Future</strong>
 </p>
 <p>My photograph shows some people running in a race, with one runner in
@@ -274,9 +275,10 @@ our country better. My photograph also shows what makes Singapore special
 — kindness, care for others, and a strong spirit through cheering each
 other on.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Kayleigh_110_0855_12x16.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Kayleigh_110_0855_12x16.jpg">
 </div>
-<p>Photograph taken by Kayleigh</p>
+<p><em>Photograph taken by Kayleigh</em>
+</p>
 <p><strong>Not all superheroes wear capes - scaling greater heights</strong>
 </p>
 <p>This photograph shows chips, resembling a mountain, with a superman figurine.
@@ -288,7 +290,8 @@ grow and scale to greater heights as a nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Marissa_116_1030_12x16.jpg">
 </div>
-<p>Photograph taken by Marissa</p>
+<p><em>Photograph taken by Marissa</em>
+</p>
 <p><strong>New Beginnings</strong>
 </p>
 <p>This photograph shows a baby chick hatching from its egg, ready to start
@@ -302,7 +305,8 @@ everyone worked hard together and never gave up.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_16.jpg">
 </div>
-<p>Photograph taken by Sin Un</p>
+<p><em>Photograph taken by Sin Un</em>
+</p>
 <p><strong>Stronger Together</strong>
 </p>
 <p>This photograph shows two LEGO figures working together to carry a log.
@@ -313,7 +317,8 @@ and the idea that no one has to face challenges alone.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_2.jpg">
 </div>
-<p>Photograph taken by Kayleigh</p>
+<p><em>Photograph taken by Kayleigh</em>
+</p>
 <p><strong>Follow Your Passion!</strong>
 </p>
 <p>This photograph shows a figure appearing to “hatch” from an egg, symbolising
@@ -325,9 +330,10 @@ comes from believing in ourselves and having the courage to pursue what
 we love.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_15.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_15.jpg">
 </div>
-<p>Photograph taken by Marissa</p>
+<p><em>Photograph taken by Marissa</em>
+</p>
 <p><strong>Work Healthily!</strong>
 </p>
 <p>This photograph shows LEGO figures carefully cleaning a keyboard like
