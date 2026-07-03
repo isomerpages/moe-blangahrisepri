@@ -345,9 +345,12 @@ effort with rest instead of overworking ourselves.</p>
 <p><strong>11<sup>th</sup> National Primary School Competition Award</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MEDIAKIDS_Update/National_Photograph.jpg">
+</div>
 <p><em>Photograph by Ser Yen attained Merit Award</em>
 </p>
-<p>Come Join Us!</p>
+<h4>Come Join Us!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_4.jpg">
 </div>
