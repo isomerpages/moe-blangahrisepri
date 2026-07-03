@@ -226,6 +226,11 @@ Through process, they had learnt how to leverage photography to depict
 a sport creatively.</p>
 <p><strong>Photography Exhibition</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MEDIAKIDS_Update/Ser_Yen.jpg">
+</div>
+<p></p>
 <p>Titled Virtues of Creativity and Flexibility, this photograph was taken
 at Labrador Nature Reserve by Ser Yen. It was selected to be exhibited
 at the 18th Ngee Ann Photographic Exhibition for the Student Category.</p>
