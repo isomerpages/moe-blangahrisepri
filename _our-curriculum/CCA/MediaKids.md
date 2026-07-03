@@ -123,9 +123,8 @@ we can all get better at our skills and techniques,” says Jiu Ting, a Primary
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Media%20Kids/MKids.jpg">
 </div>
 <p></p>
-<p><strong>Outdoor Shoots</strong>
-</p>
-<p></p>
+<h4><strong>Outdoor Shoots</strong></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_9.jpg">
 </div>
