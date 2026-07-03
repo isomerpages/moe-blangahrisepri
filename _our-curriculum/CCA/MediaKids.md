@@ -224,6 +224,18 @@ and respect through creative photography and props in another publication
 titled “<a href="https://www.blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener noreferrer nofollow" target="_blank">In Pursuit of a Dream</a>”
 Through process, they had learnt how to leverage photography to depict
 a sport creatively.</p>
+<p><strong>Photography Exhibition</strong>
+</p>
+<p>Titled Virtues of Creativity and Flexibility, this photograph was taken
+at Labrador Nature Reserve by Ser Yen. It was selected to be exhibited
+at the 18th Ngee Ann Photographic Exhibition for the Student Category.</p>
+<p>Accompanying her photograph was a write-up: I like to experiment and try
+new things. This is my first time capturing the landscape by using a lensball.
+The landscape of Labrador Nature Reserve appears as an inverted image in
+the lensball. This image resonates with me as it reminds me of being creative,
+flexible and looking at things from different perspectives, especially
+when we are facing difficulties.</p>
+<p></p>
 <p><strong>20th Ngee Ann Photographic Exhibition</strong>
 </p>
 <p>Three of our MediaKids’ works were shortlisted for exhibition from 14
