@@ -225,7 +225,7 @@ photography skills and captured biodiversity through their lenses. Click
 here to read more about “<a href="https://blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/" rel="noopener noreferrer nofollow" target="_blank">A Bowl of Nature</a>”</p>
 <p>MediaKids depicted each Olympic sport and values of friendship, excellence
 and respect through creative photography and props in another publication
-titled “<a href="https://www.blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener noreferrer nofollow" target="_blank">In Pursuit of a Dream</a>”
+titled “<a href="https://blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener noreferrer nofollow" target="_blank">In Pursuit of a Dream</a>”
 Through process, they had learnt how to leverage photography to depict
 a sport creatively.</p>
 <p><strong>Photography Exhibition</strong>
