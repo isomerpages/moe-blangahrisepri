@@ -234,12 +234,8 @@ a sport creatively.</p>
 <p>Titled Virtues of Creativity and Flexibility, this photograph was taken
 at Labrador Nature Reserve by Ser Yen. It was selected to be exhibited
 at the 18th Ngee Ann Photographic Exhibition for the Student Category.</p>
-<p>Accompanying her photograph was a write-up: I like to experiment and try
-new things. This is my first time capturing the landscape by using a lensball.
-The landscape of Labrador Nature Reserve appears as an inverted image in
-the lensball. This image resonates with me as it reminds me of being creative,
-flexible and looking at things from different perspectives, especially
-when we are facing difficulties.</p>
+<p>Accompanying her photograph was a write-up: <em>I like to experiment and try new things. This is my first time capturing the landscape by using a lensball. The landscape of Labrador Nature Reserve appears as an inverted image in the lensball. This image resonates with me as it reminds me of being creative, flexible and looking at things from different perspectives, especially when we are facing difficulties.</em>
+</p>
 <p><strong>19th Ngee Ann Photographic Exhibition</strong>
 </p>
 <p>For the 19<sup>th</sup> Ngee Ann Photographic Exhibition, Ser Yen has leveraged
