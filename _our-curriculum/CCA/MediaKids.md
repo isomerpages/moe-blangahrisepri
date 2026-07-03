@@ -200,14 +200,14 @@ inspiration and mutual support among peers.</p>
 coffee table book, “Singapore Through Children’s Eyes” which was presented
 to President Halimah Yacob on 28 July 2019. President Halimah had written
 a foreword for the book, which was supported by the Singapore Bicentennial
-Office. Click here&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/bicentennial-coffee-table-book/" rel="noopener noreferrer nofollow" target="_blank">bicentennial coffee table book</a>&nbsp;to
+Office. Click here&nbsp;<a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/" rel="noopener noreferrer nofollow" target="_blank">bicentennial coffee table book</a>&nbsp;to
 find out more about the book.</p>
 <p>MediaKids’ photographs taken during their e-CCA sessions in 2020 were
 featured in our book, “Here Comes The Storm Now: Our Covid-19 Diary”. It
 documents our Covid-19 experiences through the eyes of our educators, children
 and parents. This book is dedicated to frontline heroes who have kept Singapore
 safe so that our children can continue learning in school. Please click&nbsp;
-<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/02/BRPS-Our-Covid19-Diary.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read our Covid-19 Diary.</p>
+<a href="https://blangahrisepri.moe.edu.sg/2021/02/02/here-comes-the-storm-now-our-covid-19-diary/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read our Covid-19 Diary.</p>
 <p>In line with Tokyo Olympics, our students embarked on a project to gather
 inspirational stories and messages from our local sportsmen and sportswomen.
 In September 2019, we invited Singapore’s very own football legend, Mr
