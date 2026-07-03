@@ -190,6 +190,7 @@ to enhance the mood and meaning of their photographs. This session allowed
 students not only to showcase their creations but also to reflect on and
 celebrate the choices that shaped their unique virtual galleries, fostering
 inspiration and mutual support among peers.</p>
+<h4>Special Projects</h4>
 <p><strong>Bicentennial-Themed Coffee Table Book</strong>
 </p>
 <p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed
