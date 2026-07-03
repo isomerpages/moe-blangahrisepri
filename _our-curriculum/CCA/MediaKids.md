@@ -240,7 +240,21 @@ The landscape of Labrador Nature Reserve appears as an inverted image in
 the lensball. This image resonates with me as it reminds me of being creative,
 flexible and looking at things from different perspectives, especially
 when we are facing difficulties.</p>
-<p></p>
+<p><strong>19th Ngee Ann Photographic Exhibition</strong>
+</p>
+<p>For the 19<sup>th</sup> Ngee Ann Photographic Exhibition, Ser Yen has leveraged
+photography to depict Virtues of Excellence and Determination. Out of 700
+submissions, Ser Yen’s photograph was one of the 158 photographs selected
+for exhibition.</p>
+<p>Accompanying her photograph was a write-up:</p>
+<p><em>In our daily lives, we are running a race to reach the finishing line, and striving to be the best versions of ourselves. We should always put our best foot forward for excellence, persevere whenever we encounter any challenges and not give up.</em>
+</p>
+<p><em>In our daily journey, we aim to reach our potential. In the process of doing so, we face challenges with perseverance and determination. It is crucial to always strive for excellence, never faltering in our efforts to overcome obstacles and achieve our goals.</em>
+</p>
+<p>Ser Yen said, “Our CCA lessons are conducted by a professional photographer.
+Through him, we learn more than just taking photographs. Our outdoor shoots
+include understanding the environment and nature, and how our cameras can
+capture how nature interacts.”</p>
 <p><strong>20th Ngee Ann Photographic Exhibition</strong>
 </p>
 <p>Three of our MediaKids’ works were shortlisted for exhibition from 14
