@@ -93,6 +93,9 @@ we can all get better at our skills and techniques,” says Jiu Ting, a Primary
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_17.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MEDIAKIDS_Update/MK_1.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_18.jpg">
