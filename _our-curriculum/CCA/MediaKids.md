@@ -93,6 +93,9 @@ we can all get better at our skills and techniques,” says Jiu Ting, a Primary
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_17.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MEDIAKIDS_Update/MK_1.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_18.jpg">
@@ -123,9 +126,8 @@ we can all get better at our skills and techniques,” says Jiu Ting, a Primary
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Media%20Kids/MKids.jpg">
 </div>
 <p></p>
-<p><strong>Outdoor Shoots</strong>
-</p>
-<p></p>
+<h4><strong>Outdoor Shoots</strong></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_9.jpg">
 </div>
@@ -191,20 +193,21 @@ to enhance the mood and meaning of their photographs. This session allowed
 students not only to showcase their creations but also to reflect on and
 celebrate the choices that shaped their unique virtual galleries, fostering
 inspiration and mutual support among peers.</p>
+<h4>Special Projects</h4>
 <p><strong>Bicentennial-Themed Coffee Table Book</strong>
 </p>
 <p>To commemorate the Singapore Bicentennial, MediaKids worked on a Bicentennial-themed
 coffee table book, “Singapore Through Children’s Eyes” which was presented
 to President Halimah Yacob on 28 July 2019. President Halimah had written
 a foreword for the book, which was supported by the Singapore Bicentennial
-Office. Click here&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/bicentennial-coffee-table-book/" rel="noopener noreferrer nofollow" target="_blank">bicentennial coffee table book</a>&nbsp;to
+Office. Click here&nbsp;<a href="https://blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/bicentennial-coffee-table-book/" rel="noopener noreferrer nofollow" target="_blank">bicentennial coffee table book</a>&nbsp;to
 find out more about the book.</p>
 <p>MediaKids’ photographs taken during their e-CCA sessions in 2020 were
 featured in our book, “Here Comes The Storm Now: Our Covid-19 Diary”. It
 documents our Covid-19 experiences through the eyes of our educators, children
 and parents. This book is dedicated to frontline heroes who have kept Singapore
 safe so that our children can continue learning in school. Please click&nbsp;
-<a href="https://blangahrisepri.moe.edu.sg/wp-content/uploads/2021/02/BRPS-Our-Covid19-Diary.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read our Covid-19 Diary.</p>
+<a href="https://blangahrisepri.moe.edu.sg/2021/02/02/here-comes-the-storm-now-our-covid-19-diary/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read our Covid-19 Diary.</p>
 <p>In line with Tokyo Olympics, our students embarked on a project to gather
 inspirational stories and messages from our local sportsmen and sportswomen.
 In September 2019, we invited Singapore’s very own football legend, Mr
@@ -222,18 +225,51 @@ photography skills and captured biodiversity through their lenses. Click
 here to read more about “<a href="https://blangahrisepri.moe.edu.sg/special-projects/a-bowl-of-nature/" rel="noopener noreferrer nofollow" target="_blank">A Bowl of Nature</a>”</p>
 <p>MediaKids depicted each Olympic sport and values of friendship, excellence
 and respect through creative photography and props in another publication
-titled “<a href="https://www.blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener noreferrer nofollow" target="_blank">In Pursuit of a Dream</a>”
+titled “<a href="https://blangahrisepri.moe.edu.sg/special-projects/in-pursuit-of-a-dream/" rel="noopener noreferrer nofollow" target="_blank">In Pursuit of a Dream</a>”
 Through process, they had learnt how to leverage photography to depict
 a sport creatively.</p>
+<p><strong>Photography Exhibition</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MEDIAKIDS_Update/Ser_Yen.jpg">
+</div>
+<p></p>
+<p>Titled Virtues of Creativity and Flexibility, this photograph was taken
+at Labrador Nature Reserve by Ser Yen. It was selected to be exhibited
+at the 18th Ngee Ann Photographic Exhibition for the Student Category.</p>
+<p>Accompanying her photograph was a write-up:</p>
+<p><em>I like to experiment and try new things. This is my first time capturing the landscape by using a lensball. The landscape of Labrador Nature Reserve appears as an inverted image in the lensball. This image resonates with me as it reminds me of being creative, flexible and looking at things from different perspectives, especially when we are facing difficulties.</em>
+</p>
+<p><strong>19th Ngee Ann Photographic Exhibition</strong>
+</p>
+<p>For the 19<sup>th</sup> Ngee Ann Photographic Exhibition, Ser Yen has leveraged
+photography to depict Virtues of Excellence and Determination. Out of 700
+submissions, Ser Yen’s photograph was one of the 158 photographs selected
+for exhibition.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MEDIAKIDS_Update/Ser_Yen_1.jpg">
+</div>
+<p>Accompanying her photograph was a write-up:</p>
+<p><em>In our daily lives, we are running a race to reach the finishing line, and striving to be the best versions of ourselves. We should always put our best foot forward for excellence, persevere whenever we encounter any challenges and not give up.</em>
+</p>
+<p><em>In our daily journey, we aim to reach our potential. In the process of doing so, we face challenges with perseverance and determination. It is crucial to always strive for excellence, never faltering in our efforts to overcome obstacles and achieve our goals.</em>
+</p>
+<p>Ser Yen said, “Our CCA lessons are conducted by a professional photographer.
+Through him, we learn more than just taking photographs. Our outdoor shoots
+include understanding the environment and nature, and how our cameras can
+capture how nature interacts.”</p>
 <p><strong>20th Ngee Ann Photographic Exhibition</strong>
 </p>
 <p>Three of our MediaKids’ works were shortlisted for exhibition from 14
 to 24 June 2025 at LASALLE College of the Arts. There were over 1020 submissions
 from more than 570 participants.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Ang_Zi_Ning__Carys_101_7924_12x18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Photograph taken by Carys" src="/images/2025 Photo Album/Mediakids/Ang_Zi_Ning__Carys_101_7924_12x18.jpg">
 </div>
-<p>Photograph taken by Carys</p>
+<p><em>Photograph taken by Carys</em>
+</p>
 <p><strong>Towards a Brighter Future</strong>
 </p>
 <p>My photograph shows some people running in a race, with one runner in
@@ -243,9 +279,10 @@ our country better. My photograph also shows what makes Singapore special
 — kindness, care for others, and a strong spirit through cheering each
 other on.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Kayleigh_110_0855_12x16.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Kayleigh_110_0855_12x16.jpg">
 </div>
-<p>Photograph taken by Kayleigh</p>
+<p><em>Photograph taken by Kayleigh</em>
+</p>
 <p><strong>Not all superheroes wear capes - scaling greater heights</strong>
 </p>
 <p>This photograph shows chips, resembling a mountain, with a superman figurine.
@@ -257,7 +294,8 @@ grow and scale to greater heights as a nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Album/Mediakids/Marissa_116_1030_12x16.jpg">
 </div>
-<p>Photograph taken by Marissa</p>
+<p><em>Photograph taken by Marissa</em>
+</p>
 <p><strong>New Beginnings</strong>
 </p>
 <p>This photograph shows a baby chick hatching from its egg, ready to start
@@ -271,7 +309,8 @@ everyone worked hard together and never gave up.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_16.jpg">
 </div>
-<p>Photograph taken by Sin Un</p>
+<p><em>Photograph taken by Sin Un</em>
+</p>
 <p><strong>Stronger Together</strong>
 </p>
 <p>This photograph shows two LEGO figures working together to carry a log.
@@ -282,7 +321,8 @@ and the idea that no one has to face challenges alone.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_2.jpg">
 </div>
-<p>Photograph taken by Kayleigh</p>
+<p><em>Photograph taken by Kayleigh</em>
+</p>
 <p><strong>Follow Your Passion!</strong>
 </p>
 <p>This photograph shows a figure appearing to “hatch” from an egg, symbolising
@@ -294,9 +334,10 @@ comes from believing in ourselves and having the courage to pursue what
 we love.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_15.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_15.jpg">
 </div>
-<p>Photograph taken by Marissa</p>
+<p><em>Photograph taken by Marissa</em>
+</p>
 <p><strong>Work Healthily!</strong>
 </p>
 <p>This photograph shows LEGO figures carefully cleaning a keyboard like
@@ -305,7 +346,15 @@ though they affect our comfort and well-being. The act of cleaning can
 be calming, offering a short break from stress. This image reminds us to
 slow down, take care of our surroundings and work healthily by balancing
 effort with rest instead of overworking ourselves.</p>
-<p>Come Join Us!</p>
+<p><strong>11<sup>th</sup> National Primary School Competition Award</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MEDIAKIDS_Update/National_Photograph.jpg">
+</div>
+<p><em>Photograph by Ser Yen attained Merit Award</em>
+</p>
+<h4>Come Join Us!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Mediakids/M_4.jpg">
 </div>
