@@ -11,6 +11,14 @@ variant: tiptap
 Photographic Exhibition 2026 (NAPE) - Kayleigh Wu Kailing (6T)</p>
 </li>
 <li>
+<p>“Work Healthily!” shortlisted for exhibition at the 21st Ngee Ann Photographic
+Exhibition 2026 (NAPE) - Leann Marissa David (6O)</p>
+</li>
+<li>
+<p>“Stronger Together” shortlisted for exhibition at the 21st Ngee Ann Photographic
+Exhibition 2026 (NAPE) - Tan Sin Un (5S)</p>
+</li>
+<li>
 <p>Certificate of Distinction at the 2026 Singapore Youth Festival Arts Presentation
 - Blangah Rise Primary School’s Choir, <em>Rising Harmonies</em>
 </p>
