@@ -53,8 +53,8 @@ communication.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/IMG_20260701_WA0018.jpg">
 </div>
-<p>View the journalism broadcast on Channel Dian Dian Di Di Chinese Junior
-Reporters.</p>
+<p>Click here to view the journalism broadcast on Channel Dian Dian Di Di
+Chinese Junior Reporters.</p>
 <p></p>
 <p></p>
 <p></p>
