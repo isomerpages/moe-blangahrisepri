@@ -62,11 +62,11 @@ and balanced digital citizens ready for an ever-changing world.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image6.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image7.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image7.jpg">
 </div>
 <p>We nurture confident, resilient learners who are equipped to navigate
 life's challenges with strength and purpose. Through reflective activities,
@@ -87,7 +87,7 @@ of the learning process, they become more independent, adaptable, and confident
 learners.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image8.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image8.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -112,7 +112,7 @@ their own potential.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image11.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image11.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -138,7 +138,7 @@ triggers, and return to the “Green Zone” — a calm, focused state where
 they are ready to learn.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image16.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image16.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -175,7 +175,7 @@ to their school community.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image20.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image20.jpg">
 </div>
 <p>Peer Support Leaders play a key role in this, guiding their classmates
 through peer helping, peer bonding, and peer influencing. They plan and
