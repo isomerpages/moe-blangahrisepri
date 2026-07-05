@@ -12,9 +12,9 @@ variant: tiptap
 <blockquote>
 <p><strong><em>“ The more I wonder, the more I love.”</em></strong>
 </p>
+</blockquote>
 <p><strong>-Alice Walker-</strong>
 </p>
-</blockquote>
 <p><strong>A</strong>ccelerated <strong>P</strong>rogramme to <strong>E</strong>nhance
 students’ e<strong>X</strong>perience (<strong>APEX</strong>) is designed
 to stretch Primary 3 to Primary 6 students with academic strengths and
