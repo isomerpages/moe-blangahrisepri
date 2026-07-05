@@ -6,8 +6,47 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image001.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image1.jpg">
 </div>
+<p><strong>Student Well-Being at Blangah Rise Primary School</strong>
+</p>
+<p>At Blangah Rise Primary School, we believe that student well-being is
+holistic — a child thrives when the Body, Heart, Mind, and Spirit are nurtured
+in balance. In partnership with students, teachers, parents, and community
+partners, we cultivate a caring and enabling environment where every child
+feels valued, heard, and empowered to grow. Through meaningful and joyful
+learning experiences, we nurture confidence in every learner and inspire
+our students to care deeply for others — equipping them to thrive and contribute
+positively in an ever-changing world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image2.jpg">
+</div>
+<p><strong>Well-Being of the Body</strong>
+</p>
+<p><strong>Healthy Habits, Digital Balance, and Cyber Wellness</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image3.jpg">
+</div>
+<p>Digital well-being is an integral part of every child's holistic development
+at Blangah Rise Primary School. Understanding its close connection to physical
+health, we equip students with the knowledge and habits to navigate the
+digital world responsibly and healthily.</p>
+<p>Through our Cyber Wellness programme, students learn how excessive screen
+time can affect sleep, posture, eyesight, and overall physical health.
+Across the year, they engage in structured lessons and meaningful discussions
+— including activities aligned with Safer Internet Day — where they deepen
+their understanding of online safety, responsible digital behaviour, and
+how to protect themselves from online harm.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image4.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p>The holistic well-being of our students is important to us. There are
 four guiding principles that shape our commitment to student well-being:</p>
 <p></p>
