@@ -124,4 +124,4 @@ expert guidance</p>
 and test solutions, fostering resilience, adaptability and a growth mindset.
 These authentic learning experiences strengthen 21<sup>st</sup> Century
 Competencies such as critical, adaptive and inventive thinking as well
-as communication, collaboration and information skills.</p>
+as communication, collaboration and information skills</p>
