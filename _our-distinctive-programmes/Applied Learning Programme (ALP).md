@@ -93,4 +93,8 @@ exposure to engineering concepts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_4.jpg">
 </div>
-<p></p>
+<p>At senior primary levels, students are given opportunities to interact
+with industry professionals to explore emerging trends and gain valuable
+insights into real-world applications. These partnerships also emphasise
+the cultivation of environmental awareness and responsibility through purposeful
+and engaging learning activities.</p>
