@@ -110,4 +110,14 @@ and engaging learning activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_6B.jpg">
 </div>
-<p></p>
+<p><strong>Tier 1 - Challenges</strong>
+</p>
+<p>To further nurture students’ interest in STEM, the school provides opportunities
+for all students to take on age-appropriate challenges beyond the curriculum.</p>
+<p><strong>STEM Champion Challenge</strong>
+</p>
+<p>Jointly organised with the Parent Support Group (PSG), the STEM Champion
+Challenge provides students with engaging opportunities to participate
+in termly, hands-on STEM activities conducted during recess. Through collaborative
+challenges, students work together to think critically and creatively,
+apply core STEM concepts and solve problems in meaningful contexts.</p>
