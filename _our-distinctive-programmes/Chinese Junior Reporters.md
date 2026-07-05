@@ -23,58 +23,39 @@ and build confidence as communicators.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/Junior_Reporters_2.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/Picture1.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/cl_jr%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/Pic_4.jpg">
 </div>
-<p>
-<br>
-</p>
+<p>The programme also strengthens 21st Century Competencies, including communication,
+collaboration, critical thinking and technology literacy. Through group
+reporting tasks, students learn to work as a team, practise public speaking
+and develop positive social interaction skills.</p>
+<p>Learning is delivered through a blended approach that combines classroom
+instruction, hands-on reporting activities and e-learning tasks designed
+for Higher Mother Tongue studies — providing varied experiences while keeping
+the focus on purposeful language use.</p>
+<p>Where possible, students also engage with external partners such as media
+practitioners, deepening their understanding of journalism and real-world
+communication.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/cl_jr%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/IMG_20260701_WA0016.jpg">
 </div>
-<p>Through this programme, students will be able to improve their language
-skills holistically as the platform creates opportunities for them to practise
-the four language skills – listening, speaking, reading and writing.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/cl_jr%205.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/IMG_20260701_WA0017.jpg">
 </div>
-<p>
-<br>
-</p>
-<p>This programme further promotes 21<sup>st</sup>&nbsp;century skills such
-as communication skills, collaborative skills, technology literacy and
-critical thinking skills. These skills are important as we prepare our
-students for the 21<sup>st</sup>&nbsp;century workforce. In addition, they
-will be equipped with public speaking and social interaction skills. They
-become more confident and learn the importance of teamwork. Our Junior
-Reporters also had the chance to learn from external partners such as SPH
-News Reporter and Radio Deejay!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Chinese%20Junior%20Reporters/Junior_Reporters_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/IMG_20260701_WA0018.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/cl_jr%202.jpg">
-</div>
-<p>Listen to what our students have to say about the programme!</p>
-<p>“I like the Junior Reporters programme because we have the opportunity
-to learn more things. I like interviewing people and writing articles.
-I learnt to write newsworthy articles, edit videos, interview people and
-how to be a good news anchor through the programme. I also learnt to be
-responsible, confident and diligent.” (Phua Ser Yen 6 Topaz)</p>
-<p>"After participating in the programme, my Chinese has improved. I learnt
-interviewing skills and understand the importance of being responsible.
-I could also manage my time better.” (Judith Seow, 6 Topaz)</p>
-<p>Click&nbsp;<strong><a href="https://www.blangahrisepri.moe.edu.sg/publications/dian-dian-di-di" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
-read our Dian Dian Di Di, a publication by our Chinese Junior Reporters
-and&nbsp;<strong><a href="/chinese-junior-reporters-videos/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
-view the journalism broadcast on Channel Dian Dian Di Di Chinese Junior
+<p>View the journalism broadcast on Channel Dian Dian Di Di Chinese Junior
 Reporters.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tGSSuluDmMw?si=MPYiF9sZJdju2VJe"></iframe>
-</div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/foqUzwzeYVQ?si=InznMTNkAdioeY_N"></iframe>
-</div>
+<p></p>
+<p></p>
 <p></p>
