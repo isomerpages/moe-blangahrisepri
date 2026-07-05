@@ -56,3 +56,11 @@ the Museum of Science, Boston. This structured process scaffolds students’
 thinking as they plan, design, test, improve and reflect on solutions to
 real-world problems.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/ALP.jpg">
+</div>
+<p><strong>A Tiered Approach to Learning</strong>
+</p>
+<p>We adopt a two-tiered approach to cater to students’ diverse learning
+needs, interests and aptitudes.</p>
+<p></p>
