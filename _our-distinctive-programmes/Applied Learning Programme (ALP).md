@@ -184,3 +184,16 @@ to real-world STEM applications.</p>
 with authentic, hands-on STEM learning experiences. Through age-appropriate
 activities, students engage in problem solving, teamwork and sustainability-related
 themes on STEM Day.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_14.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_15.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_16.jpg">
+</div>
+<p></p>
