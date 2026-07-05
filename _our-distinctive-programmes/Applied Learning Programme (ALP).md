@@ -196,4 +196,16 @@ themes on STEM Day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_16.jpg">
 </div>
+<p>As part of STEM Day, the school also conducts a STEM Fair, which provides
+students with a platform to showcase innovation projects, robotics work
+and applied learning experiences. The STEM Fair celebrates students’ creativity
+and effort while fostering a school culture that values curiosity and innovation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_18.jpg">
+</div>
 <p></p>
