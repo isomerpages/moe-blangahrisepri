@@ -15,4 +15,32 @@ variant: tiptap
 </blockquote>
 <p><strong><em>-Galileo Galilei-</em></strong>
 </p>
-<p></p>
+<p>Our Applied Learning Programme (ALP) anchors on STEM (Science, Technology,
+Engineering, and Mathematics) Education to empower students with hands-on,
+project-based learning. By investigating and solving problems within real-world
+contexts, our students grow into <strong>Aspiring Confident Engineers (ACE)</strong>.</p>
+<h4><strong>Purpose</strong></h4>
+<p>We aim to cultivate the next generation of innovators by focusing on four
+key pillars:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Student Growth:</strong> Igniting a genuine interest, confidence,
+and enthusiasm for lifelong learning;</p>
+</li>
+<li>
+<p><strong>21st Century Competencies:</strong> Nurturing 21<sup>st</sup> CC
+skills, including critical, adaptive and inventive thinking, collaboration,
+and effective communication;</p>
+</li>
+<li>
+<p><strong>Integrated Learning:</strong> Designing meaningful and engaging
+experiences that weave engineering and technology within Mathematics and
+Science;</p>
+</li>
+<li>
+<p><strong>Character Building:</strong> Inculcating core values such as resilience,
+perseverance, self-discipline, and the ability to embrace and learn from
+failure.</p>
+</li>
+</ul>
+<p>Big Ideas Underpinning ALP<strong> </strong>is guided by three key ideas:</p>
