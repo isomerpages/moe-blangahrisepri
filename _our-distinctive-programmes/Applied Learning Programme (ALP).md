@@ -98,3 +98,16 @@ with industry professionals to explore emerging trends and gain valuable
 insights into real-world applications. These partnerships also emphasise
 the cultivation of environmental awareness and responsibility through purposeful
 and engaging learning activities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_6A.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_6B.jpg">
+</div>
+<p></p>
