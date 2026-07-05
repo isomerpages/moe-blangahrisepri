@@ -121,3 +121,16 @@ Challenge provides students with engaging opportunities to participate
 in termly, hands-on STEM activities conducted during recess. Through collaborative
 challenges, students work together to think critically and creatively,
 apply core STEM concepts and solve problems in meaningful contexts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_9.jpg">
+</div>
+<p></p>
