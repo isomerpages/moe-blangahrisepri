@@ -44,3 +44,15 @@ failure.</p>
 </li>
 </ul>
 <p>Big Ideas Underpinning ALP<strong> </strong>is guided by three key ideas:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo.jpg">
+</div>
+<h4><strong>Teaching and Learning Approach</strong></h4>
+<p><strong>The Engineering Design Process</strong>
+</p>
+<p>The programme is structured around the Engineering Design Process adapted
+from the <em>Engineering is Elementary (EiE)</em> framework developed by
+the Museum of Science, Boston. This structured process scaffolds students’
+thinking as they plan, design, test, improve and reflect on solutions to
+real-world problems.</p>
+<p></p>
