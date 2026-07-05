@@ -64,3 +64,13 @@ real-world problems.</p>
 <p>We adopt a two-tiered approach to cater to students’ diverse learning
 needs, interests and aptitudes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/T1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_2.png">
+</div>
+<p><strong>Tier 1 - ERLA and Robotics</strong>
+</p>
+<p>The table below shows the Tier 1 plan for all the students.</p>
