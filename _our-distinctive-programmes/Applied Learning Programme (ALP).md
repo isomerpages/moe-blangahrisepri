@@ -133,4 +133,54 @@ apply core STEM concepts and solve problems in meaningful contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_9.jpg">
 </div>
+<p><strong>STEM Playground Challenge</strong>
+</p>
+<p>BRPS consistently participates in the biannual STEM Playground Challenge
+organised by Science Centre Singapore and the James Dyson Foundation.</p>
+<p>The challenge invites students to engage in independent, hands-on problem-solving
+through creative and applied activities that bring science, technology,
+engineering and mathematics to life. Performance in the challenge is evaluated
+using student participation rates and social media engagement. In the most
+recent challenge, the school was recognised as one of the top five primary
+schools in Singapore for achieving one of the highest student participation
+rates.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_11.jpg">
+</div>
+<p><strong>Tier 2 - STEM Club CCA &amp; Accelerated Programme to Enhance Students' eXperience APEX (STEM)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_12.jpg">
+</div>
+<p>Tier 2 provides specialised learning opportunities for a selected group
+of students who demonstrate positive learning dispositions and a strong
+passion for STEM. Through participation in the STEM Club CCA and/or the
+APEX, these students engage in deeper and more challenging learning experiences
+through STEM-related projects.</p>
+<p>The STEM Club CCA offers sustained, interest-driven learning through hands-on
+projects, collaborative tasks and mentorship opportunities. Students deepen
+their engineering and robotics skills while nurturing their passion for
+STEM.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_13.jpg">
+</div>
+<p>APEX (STEM) further extends students’ learning through structured training
+and participation in competitions/events that require higher-order thinking,
+problem solving and application of knowledge.</p>
+<p>Through these programmes, students develop critical, adaptive and inventive
+thinking, as well as problem-solving and decision-making skills, while
+benefiting from enriched learning experiences that broaden their exposure
+to real-world STEM applications.</p>
+<p><strong>ACE in Action: STEM Day</strong>
+</p>
+<p>An annual STEM Day is organised as part of the ALP to provide students
+with authentic, hands-on STEM learning experiences. Through age-appropriate
+activities, students engage in problem solving, teamwork and sustainability-related
+themes on STEM Day.</p>
