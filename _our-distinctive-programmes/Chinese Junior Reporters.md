@@ -4,18 +4,26 @@ permalink: /our-distinctive-programmes/chinese-junior-reporters/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/cl_jr%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/Pic_1.jpg">
 </div>
-<p>“准备好，开始！“(Ready, standby, start!)</p>
-<p>“早安您好，我是布兰雅坡小记者陈心搏，请问我可以访问您吗？” (Good morning, Sir. I am Junior Reporter,
-Mills, from Blangah Rise Primary School. May I interview you please?)</p>
-<p>Our Chinese Junior Reporters were getting ready to report on the latest
-school event. The programme provides a platform for students to hone their
-Chinese Language skills by using the language in an authentic setting.
-It aims to equip students with basic news-reporting skills, such as conducting
-interviews, writing news reports, filming and editing news reports and
-basic photography.</p>
+<p>The Junior Reporter Programme is integrated into the Higher Mother Tongue
+Language (HMTL) curriculum at Primary 4 and Primary 5, providing students
+with authentic opportunities to use Chinese in meaningful, real-world contexts.
+Through the programme, students develop essential communication skills
+— conducting interviews, reporting on school events, and presenting information
+clearly and confidently in Chinese.</p>
+<p>Students are guided to acquire foundational news-reporting skills, including
+interviewing, filming, editing and photography. By applying their language
+learning beyond the classroom, they strengthen their Chinese proficiency
+and build confidence as communicators.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/Junior_Reporters_2.png">
+</div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20Photos/cl_jr%204.jpg">
 </div>
@@ -63,10 +71,10 @@ and&nbsp;<strong><a href="/chinese-junior-reporters-videos/" rel="noopener noref
 view the journalism broadcast on Channel Dian Dian Di Di Chinese Junior
 Reporters.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tGSSuluDmMw?si=MPYiF9sZJdju2VJe"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tGSSuluDmMw?si=MPYiF9sZJdju2VJe"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/foqUzwzeYVQ?si=InznMTNkAdioeY_N"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/foqUzwzeYVQ?si=InznMTNkAdioeY_N"></iframe>
 </div>
 <p></p>
