@@ -74,3 +74,23 @@ needs, interests and aptitudes.</p>
 <p><strong>Tier 1 - ERLA and Robotics</strong>
 </p>
 <p>The table below shows the Tier 1 plan for all the students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/T2.jpg">
+</div>
+<p>As part of the Tier 1 curriculum, all students participate in project-based
+learning focused on ERLA (Engineering-related Learning Activities) and
+Robotics. Through ERLA and Robotics, students apply STEM concepts in authentic
+contexts. Building and programming robots enable students to bridge classroom
+theory and real-world application while developing logical reasoning, computational
+thinking and creativity. These hands-on experiences provide early and meaningful
+exposure to engineering concepts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_4.jpg">
+</div>
+<p></p>
