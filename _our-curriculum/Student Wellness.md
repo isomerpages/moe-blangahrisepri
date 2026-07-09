@@ -6,251 +6,196 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image001.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image1.jpg">
 </div>
-<p>The holistic well-being of our students is important to us. There are
-four guiding principles that shape our commitment to student well-being:</p>
+<p><strong>Student Well-Being at Blangah Rise Primary School</strong>
+</p>
+<p>At Blangah Rise Primary School, we believe that student well-being is
+holistic — a child thrives when the Body, Heart, Mind, and Spirit are nurtured
+in balance. In partnership with students, teachers, parents, and community
+partners, we cultivate a caring and enabling environment where every child
+feels valued, heard, and empowered to grow. Through meaningful and joyful
+learning experiences, we nurture confidence in every learner and inspire
+our students to care deeply for others — equipping them to thrive and contribute
+positively in an ever-changing world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image002.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image2.jpg">
 </div>
-<p><strong>Principle 1: Total Wellness</strong>
+<p><strong>Well-Being of the Body</strong>
 </p>
-<p><em>Nurturing a Healthy Body and a Curious Mind</em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image003.jpg">
-</div>
-<p>Encouraging an active lifestyle is important in building physical well-being.
-Our students are encouraged to prioritise regular exercise, enough rest,
-and a balanced diet. We encourage our students to be curious and pursue
-an area of interest or find their passion. We create opportunities through
-House practice to learn a new sport and new skills.</p>
-<p>Hannah from Primary 4 shared about her House Practice experience. "Joining
-the House Practice sessions makes me feel strong and happy! When I play
-and exercise, I feel better and can pay more attention in class."</p>
-<p>Therefore, engaging in physical activities boosts overall fitness and
-helps our students be more attentive and participative in class.</p>
-<p><em>Fostering Intellectual Strengths</em>
+<p><strong>Healthy Habits, Digital Balance, and Cyber Wellness</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image3.jpg">
 </div>
-<p>We believe in nurturing bold learners—students are not afraid to dive
-deep into exploration and questioning. We believe it is important to foster
-a growth mindset, where setbacks are viewed as stepping stones for personal
-growth.</p>
-<p>We design our learning experiences to make students curious and help them
-think on their own. We encourage them to be brave in their learning, exploring
-new ideas without fear. This way, they become better at handling challenges
-and adapting to changes in the world.</p>
-<p><em>Building Social Connections</em>
+<p>Digital well-being is an integral part of every child's holistic development
+at Blangah Rise Primary School. Understanding its close connection to physical
+health, we equip students with the knowledge and habits to navigate the
+digital world responsibly and healthily.</p>
+<p>Through our Cyber Wellness programme, students learn how excessive screen
+time can affect sleep, posture, eyesight, and overall physical health.
+Across the year, they engage in structured lessons and meaningful discussions
+— including activities aligned with Safer Internet Day — where they deepen
+their understanding of online safety, responsible digital behaviour, and
+how to protect themselves from online harm.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/Image_5.jpg">
+</div>
+<p>Complementing this is CAPE (Cyber Addiction Prevention and Education),
+our school-based programme that helps students develop healthy boundaries
+with technology and prevent excessive use. Through guided self-assessments,
+mentoring conversations, and data-informed support, students build greater
+self-awareness, self-management, and responsible decision-making skills.</p>
+<p>Together, these efforts nurture students who are not only digitally savvy,
+but also mindful of their well-being — growing into confident, responsible,
+and balanced digital citizens ready for an ever-changing world.</p>
+<p><strong>Well-Being of the Mind</strong>
+</p>
+<p><strong>Cognitive and Psychological Well-Being, Self-Belief, and Confidence</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image007.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image011.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image7.jpg">
 </div>
-<p>We firmly believe in the power of nurturing strong social connections
-among our students. We understand that fostering these bonds is essential
-for their overall development and success. By encouraging collaboration
-and teamwork, we instill in them the value of working together towards
-common goals. Through these interactions, students learn to appreciate
-diversity and respect differing viewpoints, essential skills for their
-future endeavors. Additionally, these social connections provide them with
-a support system, contributing to their emotional well-being and resilience.
-We design our learning environment to facilitate these connections, creating
-opportunities for students to engage with one another, build friendships,
-and grow together. Just as we cultivate a growth mindset in academics,
-we also strive to cultivate a culture of connection and camaraderie, where
-every student feels valued and supported in their educational journey.</p>
-<p><em>Developing Inner Resilience</em>
+<p>We nurture confident, resilient learners who are equipped to navigate
+life's challenges with strength and purpose. Through reflective activities,
+problem-solving tasks, and mentorship, students develop practical strategies
+to manage stress and anxiety — learning to plan effective study routines,
+break tasks into manageable steps, and practise positive self-talk. These
+skills are explicitly taught and reinforced through Form Teacher Guidance
+Period (FTGP) and Character and Citizenship Education (CCE) lessons, the
+7 Habits Leader-in-Me modules, and the Programme for Active Learning (PAL).
+Through these structured learning experiences, students build resilience,
+develop positive learning habits, and strengthen their social-emotional
+competencies.</p>
+<p>Central to our approach is the intentional nurturing of a growth mindset.
+Students are encouraged to view setbacks as opportunities for learning
+and improvement, developing the confidence to persevere through challenges.
+By learning to reflect on their experiences and embrace mistakes as part
+of the learning process, they become more independent, adaptable, and confident
+learners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image10.jpg">
+</div>
+<p>Through Be Yourself @ BRPS, students are encouraged to discover their
+unique strengths, interests, and talents while building confidence in who
+they are. They are given opportunities to express themselves, celebrate
+their individuality, and appreciate the diverse strengths of others. Authentic
+platforms, such as voluntary recess performances, allow students to step
+out of their comfort zones and showcase their talents in a safe and supportive
+environment. These experiences build confidence, resilience, and a willingness
+to embrace new challenges, while inspiring others to discover and develop
+their own potential.</p>
+<p><strong>Well-Being of the Heart</strong>
+</p>
+<p><strong>Emotional Well-Being, Stress Management, and Resilience</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image009.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image11.jpg">
 </div>
-<p>We want to nurture students to be strong and focused, even when things
-get tough. We believe this comes from taking care of our emotions and staying
-mindful. We engage in activities such as mindfulness exercises and self-reflection
-to foster this strength, alongside supporting others in their journey.
-Overall, we want our students to do well in school and become a disciplined
-learner, that is one who is able to balance his physical, mental, social
-and emotional well-being.</p>
-<p><strong>Principle 2: Every Student Matters</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image14.jpg">
+</div>
+<p>Emotional well-being is central to students’ ability to learn and thrive.
+We create a safe environment where students feel comfortable expressing
+emotions, seeking help, and supporting one another.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image15.jpg">
+</div>
+<p>Students use the Zones of Regulation to recognise their emotions, understand
+triggers, and return to the “Green Zone” — a calm, focused state where
+they are ready to learn.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image17.jpg">
+</div>
+<p>On a regular basis, students practise building one another up through
+the Emotional Bank Account, where they intentionally deposit positive messages
+and words of appreciation for their peers. This simple yet powerful routine
+fosters gratitude, affirmation, and a strong culture of care within each
+class.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/Image_23.jpg">
+</div>
+<p>During assessment periods such as the PSLE, the entire school community
+comes together to cheer on the Primary 6 cohort, writing encouraging messages
+and showing collective support to uplift and motivate them.</p>
+<p>Daily Teacher-Student Relationship (TSR) time and Heart-to-Heart Conversations
+also provide dedicated opportunities for teachers to check in with each
+student. Through these consistent efforts, students develop emotional resilience,
+empathy, and confidence, learning to support both their own well-being
+and that of their classmates.</p>
+<p><strong>Well-Being of the Spirit</strong>
 </p>
-<p><em>Empowering Students</em>
+<p><strong>Purpose, Leadership, and Service</strong>
 </p>
+<p>Students grow their sense of purpose by actively supporting and caring
+for their school community. They are encouraged to share their ideas and
+perspectives, giving them a voice in shaping activities and contributing
+to their school community.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image015.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image19.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image010.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image20.jpg">
 </div>
-<p>We highly value the voices of our students and thus actively encourage
-them to share their thoughts and ideas. One key opportunity we create for
-our students is the Class-based monthly Student Wellness Day. We invite
-students to contribute their suggestions for activities for this day. By
-doing so, we ensure that the activities reflect their interests and promotes
-total wellness effectively. Additionally, in-house practices and inter-house
-games offer another avenue for student voices to be heard. By allowing
-students to form their own teams, they learn to make decisions, fostering
-autonomy and empowerment. Furthermore, during the daily pre-assembly Heart-to-Heart
-Conversations, teachers make a deliberate effort to reach out to individual
-students, seeking to understand more about their needs. This personalised
-approach underscores our dedication to supporting each student's academic
-and personal development journey, ensuring that they feel heard, valued,
-and supported in their endeavours.</p>
-<p>Viewpoints (Link to the page), a tiered modular programme, plays a crucial
-role in encouraging the student voice within the school community. These
-programmes provide dedicated platforms for students to share their perspectives,
-opinions, and experiences with their peers through print, photo and broadcast
-journalism as well as public speaking. Through these programs, students
-not only express themselves but also learn to listen to and respect the
-viewpoints of their peers, contributing to a more inclusive and vibrant
-school environment.</p>
-<p><em>Forging friendships</em>
+<p>Peer Support Leaders play a key role in this, guiding their classmates
+through peer helping, peer bonding, and peer influencing. They plan and
+lead activities during Student Wellness periods, creating meaningful experiences
+that promote social, emotional, and digital well-being.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image21.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Wellness/image22.jpg">
+</div>
+<p>Through service and leadership, students develop responsibility, strengthen
+community connections, and cultivate a culture of care, resilience, and
+purpose.</p>
+<p><strong>Working Together for Student Well-Being</strong>
 </p>
-<p>We create opportunities for students to form meaningful relationships
-with both their peers and teachers. The monthly Student Wellness Day is
-eagerly anticipated by all students! These wellness experiences not only
-encourage positive contributions to the class community but also foster
-a sense of connection and appreciation for the world around them. The experiences
-are design also to provide opportunities for our students to practice the
-7-habits and virtues they have learnt.</p>
+<p>Student well-being is a shared responsibility. Teachers, parents, and
+community partners collaborate to <strong>support every child</strong>.
+Open communication ensures that students feel guided, encouraged, and empowered
+both in and beyond the classroom.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image008.jpg">
-</div>
-<p>As shared by Ms. Maddie Wong, during the morning exploration of the Garden
-of Hope, students engaged in relaxing walks while not only sharing their
-observations of plants and animals but also offering each other support
-and assistance along the way. These immersive experiences serve to not
-only promote well-being but also cultivate close bonds and long-lasting
-friendships among students.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image019.jpg">
-</div>
-<p>As Alicia from Primary 2 beautifully expressed, "The Fukkuwarai game which
-we played during Student Wellness Day was fun! I learnt teamwork and active
-listening from the activity." Such firsthand experiences highlight the
-effectiveness of interactive and engaging activities in fostering not only
-academic growth but a lasting sense of camaraderie among students, enriching
-their school experience and fostering a supportive community spirit.</p>
-<p><em>Level Ambassadors: Advocates for Student Wellness</em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_2.png">
-</div>
-<p>Our Level Ambassadors are more than just student leaders; they are dedicated
-advocates for student wellness. Equipped with empathy, trustworthiness,
-and patience, they undergo comprehensive training, both online and face-to-face,
-to fully understand their roles. These ambassadors play a vital part in
-fostering a sense of belonging and inclusivity within our school community,
-welcoming new students, befriending those who may feel excluded, and promoting
-a culture of care in every classroom and peer group.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_3.png">
-</div>
-<p></p>
-<p>Our Level Ambassadors actively help teachers in planning and conducting
-Student Wellness Day activities, garnering ideas from their classmates
-to ensure relevance and engagement. They take charge of conducting assembly
-talks, imparting practical handles to students on various topics such as
-cyber wellness and emotional well-being during exam periods. Additionally,
-they work with teachers to organize recess activities aimed at promoting
-wellness among students, such as cyber wellness pledge card writing, and
-activities that promote emotional and mental well-being. Through their
-dedication and proactive initiatives, our Level Ambassadors contribute
-significantly to creating a safe, inclusive, and supportive learning environment
-where every student can thrive.</p>
-<p><strong>Principle 3: Every Teacher a Mentor - Guiding, Supporting, and Celebrating Success</strong>
-</p>
-<p>Our Teacher Mentoring Programme supports our efforts to promote the holistic
-well-being of our students. Every teacher is a mentor, guiding students
-through their personal growth journey. Our teachers wear multiple hats
-at our school, serving as coaches, counselors, and cheerleaders for our
-students.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_4.png">
-</div>
-<p><strong>Coach:</strong> Our teachers act as coaches, guiding students through
-their learning journey. With a focus on support and guidance, they help
-students by providing encouragement and resources.</p>
-<p><strong>Counselor:</strong> Recognizing the importance of emotional well-being,
-our teachers also serve as counselors. They create a safe space for personal
-discussions where students can share their challenges and joys. By actively
-listening, they help students build emotional resilience and grow.</p>
-<p><strong>Cheerleader:</strong> Celebrating success is a big part of our
-culture. Our teachers act as cheerleaders, celebrating achievements and
-reinforcing positive behavior. By celebrating both big and small milestones,
-we help build students' confidence and create a positive environment for
-learning.</p>
-<p><em>Teacher Mentors (TM) in action</em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/image018.jpg">
-</div>
-<p>One of the many opportunities for teachers to mentor students is the daily
-Teacher-Student Relationship (TSR) time which helps our students start
-the day right. The time is dedicated to short activities that build bonds,
-small group mentoring, and Heart-to-Heart Talks, where form teachers connect
-with students through open and meaningful conversations. These interactions
-create connections that last beyond the classroom.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_5.png">
-</div>
-<p>Additionally, our students also look forward to group mentoring sessions
-led by CCA teachers. These sessions not only provide personalized guidance
-but also create an enjoyable atmosphere for students to connect with their
-peers and mentors. These sessions offer a supportive space for students
-to discuss challenges, set goals, and receive valuable advice on both academic
-and personal development. Our TM guide students in pursuing their passion
-projects and guide those interested in DSA. By combining mentorship with
-fun bonding activities, we foster a vibrant community where students feel
-supported, empowered, and connected to their peers and mentors.</p>
-<p><strong>Principle 4: Working Together</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_6.png">
-</div>
-<p>The school works in partnership with our parents and the community to
-support our students.</p>
-<p>Our teachers connect and work with parents to ensure every child feels
-seen, heard, and supported. Teachers tap on various class communication
-platforms to keep our students informed about their progress and successes.</p>
-<p>Our parents volunteer their time and effort to support school activities.
-This includes festive and commemorative events as well as recess art and
-science activities.</p>
-<p>Our community partners include A* Agency, Junior Achievement Singapore
-and Telok Blangah Community Club who support our teachers in various student
-programmes. We also have established partnerships with secondary schools
-and higher institutions to mentor and motivate our students during <a href="https://www.blangahrisepri.moe.edu.sg/departments/ccas/" rel="noopener noreferrer nofollow" target="_blank">CCA</a> as
-well as support our talent development efforts.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/Student Wellness/SW_7.png">
-</div>
-<p>In our Blangahnite Family, every student matters, and every success is
-shared. Our parents and community partners share our belief that each child
-is like a treasure chest full of talents just waiting to be discovered.
-We make it a point to acknowledge and celebrate the individual strengths
-and talents of each student in our vibrant community. Whether it is a gift
-for creativity, a love for science, or a talent in sports, we take the
-time to uncover and honor the unique qualities that make each student stand
-out. With our hearts and hands joined, we ensure each child reaches their
-full potential and shines brightly.</p>

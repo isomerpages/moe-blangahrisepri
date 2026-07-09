@@ -4,349 +4,208 @@ permalink: /our-distinctive-programmes/applied-learning-programme-alp/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/alp%20-%20banner.JPG">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_1.jpg">
 </div>
-<h4><strong>Aspiring Confident Engineers (ACE) @ BRPS</strong></h4>
+<p></p>
 <blockquote>
-<p>"You cannot teach a man anything; you can only help him discover it in
-himself."</p>
-<p><em>-Galileo Galilei-</em>
+<p><strong>"You cannot teach a man anything; you can only help him discover it in himself."</strong>
 </p>
 </blockquote>
-<p>Our Applied Learning Programme (ALP), also known as&nbsp;<strong>Aspiring Confident Engineers (<em>ACE</em>) @ BRPS</strong>,
-anchors on STEM (Science, Technology, Engineering and Mathematics) Education
-to provide our students with opportunities to work on STEM-related projects.
-Students explore, investigate and ask questions through analysing problems
-and solving them through real world examples.</p>
-<p>This programme aims to:</p>
+<p><strong><em>-Galileo Galilei-</em></strong>
+</p>
+<p>Our Applied Learning Programme (ALP) anchors on STEM (Science, Technology,
+Engineering, and Mathematics) Education to empower students with hands-on,
+project-based learning. By investigating and solving problems within real-world
+contexts, our students grow into <strong>Aspiring Confident Engineers (ACE)</strong>.</p>
+<h4><strong>Purpose</strong></h4>
+<p>We aim to cultivate the next generation of innovators by focusing on four
+key pillars:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>leverage on STEM to create more meaningful and engaging activities that
-integrate engineering and technology in Mathematics and Science;</p>
+<p><strong>Student Growth:</strong> Igniting a genuine interest, confidence,
+and enthusiasm for lifelong learning;</p>
 </li>
 <li>
-<p>build students’ enthusiasm in learning;</p>
+<p><strong>21st Century Competencies:</strong> Nurturing 21<sup>st</sup> CC
+skills, including critical, adaptive and inventive thinking, collaboration,
+and effective communication;</p>
 </li>
 <li>
-<p>promote 21<sup>st</sup>&nbsp;century skills ̶ critical thinking, decision-making,
-collaboration, communication, creativity; and</p>
+<p><strong>Integrated Learning:</strong> Designing meaningful and engaging
+experiences that weave engineering and technology within Mathematics and
+Science;</p>
 </li>
 <li>
-<p>inculcate values – resilience, learning from failure, respect, self-discipline.</p>
+<p><strong>Character Building:</strong> Inculcating core values such as resilience,
+perseverance, self-discipline, and the ability to embrace and learn from
+failure.</p>
 </li>
 </ul>
-<p><strong>Process Cycle</strong>
-</p>
-<p>The school uses the ‘Engineering Design Process’ in STEM lessons to provide
-structures for learning in order to scaffold children’s thinking. The process
-is adopted from the Engineering is Elementary (EiE) project that was developed
-by the Museum of Science in Boston.</p>
+<p>Big Ideas Underpinning ALP<strong> </strong>is guided by three key ideas:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Capture-7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo.jpg">
 </div>
-<p>STEM activity platforms, specifically those dedicated to Robotics and
-Engineering-related Learning Activities (ERLA), offer valuable educational
-experiences. By constructing their own robots, students engage in hands-on
-applications of STEM principles, solidifying the connection between classroom
-theory and real-world implementation. This process fosters innovation as
-students seek to bridge the gap between theoretical concepts and their
-practical uses. Additionally, learning programming enhances linguistic
-and logical reasoning skills. Robotics-focused education provides an engaging
-and accessible introduction to fundamental engineering concepts at an early
-stage in student development.</p>
-<p><strong>A Tiered Approach</strong>
+<h4><strong>Teaching and Learning Approach</strong></h4>
+<p><strong>The Engineering Design Process</strong>
+</p>
+<p>The programme is structured around the Engineering Design Process adapted
+from the <em>Engineering is Elementary (EiE)</em> framework developed by
+the Museum of Science, Boston. This structured process scaffolds students’
+thinking as they plan, design, test, improve and reflect on solutions to
+real-world problems.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/ALP.jpg">
+</div>
+<p><strong>A Tiered Approach to Learning</strong>
+</p>
+<p>We adopt a two-tiered approach to cater to students’ diverse learning
+needs, interests and aptitudes.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/T1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_2.png">
+</div>
+<p><strong>Tier 1 - ERLA and Robotics</strong>
+</p>
+<p>The table below shows the Tier 1 plan for all the students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/T2.jpg">
+</div>
+<p>As part of the Tier 1 curriculum, all students participate in project-based
+learning focused on ERLA (Engineering-related Learning Activities) and
+Robotics. Through ERLA and Robotics, students apply STEM concepts in authentic
+contexts. Building and programming robots enable students to bridge classroom
+theory and real-world application while developing logical reasoning, computational
+thinking and creativity. These hands-on experiences provide early and meaningful
+exposure to engineering concepts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_4.jpg">
+</div>
+<p>At senior primary levels, students are given opportunities to interact
+with industry professionals to explore emerging trends and gain valuable
+insights into real-world applications. These partnerships also emphasise
+the cultivation of environmental awareness and responsibility through purposeful
+and engaging learning activities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_6A.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_6B.jpg">
+</div>
+<p><strong>Tier 1 - Challenges</strong>
+</p>
+<p>To further nurture students’ interest in STEM, the school provides opportunities
+for all students to take on age-appropriate challenges beyond the curriculum.</p>
+<p><strong>STEM Champion Challenge</strong>
+</p>
+<p>Jointly organised with the Parent Support Group (PSG), the STEM Champion
+Challenge provides students with engaging opportunities to participate
+in termly, hands-on STEM activities conducted during recess. Through collaborative
+challenges, students work together to think critically and creatively,
+apply core STEM concepts and solve problems in meaningful contexts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_9.jpg">
+</div>
+<p><strong>STEM Playground Challenge</strong>
+</p>
+<p>BRPS consistently participates in the biannual STEM Playground Challenge
+organised by Science Centre Singapore and the James Dyson Foundation.</p>
+<p>The challenge invites students to engage in independent, hands-on problem-solving
+through creative and applied activities that bring science, technology,
+engineering and mathematics to life. Performance in the challenge is evaluated
+using student participation rates and social media engagement. In the most
+recent challenge, the school was recognised as one of the top five primary
+schools in Singapore for achieving one of the highest student participation
+rates.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_11.jpg">
+</div>
+<p><strong>Tier 2 - STEM Club CCA &amp; Accelerated Programme to Enhance Students' eXperience APEX (STEM)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/ALP Webpage/ALP_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_12.jpg">
 </div>
-<p>The Applied Learning Program (ALP) is designed based on a two-tiered structure.
-Tier 1 offers a comprehensive curriculum designed for all students. Tier
-2 provides advanced learning opportunities for those demonstrating exceptional
-aptitude and engagement in STEM disciplines. Specialised STEM activities
-are conducted within our dedicated discovery spaces: Da Vinci's Workbench
-and Edison's Hub.</p>
-<p><strong>Tier 1 - Robotics &amp; STEM-related Project Work</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/ALP Webpage/ALP_4.png">
-</div>
-<p>As part of the Tier 1 curriculum, all students will participate in project-based
-learning focused on robotics and engineering-related activities (ERLA).
-In collaboration with Junior Achievement (JA) Singapore, the school provides
-enriching learning experiences for students. Students will interact with
-industry professionals, exploring emerging trends and gaining valuable
-industry exposure. This partnership also emphasises the cultivation of
-environmental awareness and responsibility through engaging activities.</p>
+<p>Tier 2 provides specialised learning opportunities for a selected group
+of students who demonstrate positive learning dispositions and a strong
+passion for STEM. Through participation in the STEM Club CCA and/or the
+APEX, these students engage in deeper and more challenging learning experiences
+through STEM-related projects.</p>
+<p>The STEM Club CCA offers sustained, interest-driven learning through hands-on
+projects, collaborative tasks and mentorship opportunities. Students deepen
+their engineering and robotics skills while nurturing their passion for
+STEM.</p>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Robotics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>STEM-related Project Work</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>i-Discover:</p>
-<p>Let’s Move It!</p>
-<p>(integrated with KUBO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>i-Discover:</p>
-<p>Material Engineering</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>i-Discover:</p>
-<p>Let’s Move It! (integrated with LEGO EDUCATION SPIKE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>i-Discover:</p>
-<p>Material Engineering</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Let’s Cool It!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transport Engineering</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Let’s Recycle!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Environmental Engineering</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AR / VR Coding</p>
-<p>(Collaboration with JA Singapore)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Electrical Engineering</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Green Engineering</p>
-<p>(Collaboration with JA Singapore)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>For more information on the various activities, please click on the following
-links:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/2021/10/06/a-taste-of-robotics-engineering-for-our-primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/robotics-recycle-robot/" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/building-a-solar-buddy-motivation-camp-and-ja-singapore-partnership/" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a> (Collaboration
-with JA Singapore)</p>
-</li>
-</ul>
-<p><strong>Tier 2 - STEM Club &amp; APEX</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/alp%20-%206.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_13.jpg">
 </div>
-<p>Tier 2 students are identified for participation in the STEM Club and/or
-APEX program, where they receive specialised training in engineering-related
-learning activities (ERLA) and robotics. The program includes competitive
-events designed to develop creativity, critical thinking, problem-solving,
-and decision-making skills. Additionally, students benefit from learning
-journeys and mentorship opportunities.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/departments/ccas/stem/" rel="noopener noreferrer nofollow" target="_blank">STEM Club</a>
+<p>APEX (STEM) further extends students’ learning through structured training
+and participation in competitions/events that require higher-order thinking,
+problem solving and application of knowledge.</p>
+<p>Through these programmes, students develop critical, adaptive and inventive
+thinking, as well as problem-solving and decision-making skills, while
+benefiting from enriched learning experiences that broaden their exposure
+to real-world STEM applications.</p>
+<p><strong>ACE in Action: STEM Day</strong>
 </p>
-</li>
-<li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/accelerated-programme-to-enhance-students-experience-apex/" rel="noopener noreferrer nofollow" target="_blank">APEX</a>
-</p>
-</li>
-</ul>
-<p><strong>Competitions</strong>
-</p>
-<p><strong>STEM Champion (jointly organised with Parent Support Group)</strong>
-</p>
+<p>An annual STEM Day is organised as part of the ALP to provide students
+with authentic, hands-on STEM learning experiences. Through age-appropriate
+activities, students engage in problem solving, teamwork and sustainability-related
+themes on STEM Day.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/ALP Webpage/ALP_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_14.png">
 </div>
-<p>In 2024, with the enthusiastic support of our Parent Support Group (PSG),
-we introduced our STEM Champion Challenge. This program invites students
-to participate in termly sessions focused on collaborative, hands-on STEM
-activities. The challenges are designed to promote creative thinking, teamwork,
-and the application of core STEM concepts during recess.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/building-towers-and-teamwork/" rel="noopener noreferrer nofollow" target="_blank">STEM Champion</a>
-</p>
-</li>
-</ul>
-<p><strong>STEM Challenge</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Photos/alp%20-%207.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_15.jpg">
 </div>
-<p>The school consistently participates in the biannual STEM Playground Challenge,
-a collaborative initiative organised by the Science Centre Singapore and
-the James Dyson Foundation. This program challenges students to engage
-in independent problem-solving through a series of STEM-based activities.
-School performance is evaluated based on two key metrics: student participation
-rates and social media engagement. The school achieved recognition as one
-of the top five primary schools in Singapore for demonstrating the highest
-student participation rate in the recent challenge.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/2023/03/30/stem-playground-satay-stick-challenge/" rel="noopener noreferrer nofollow" target="_blank">Satay Stick Bridge</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.instagram.com/p/CvPkF8LBemc/" rel="noopener noreferrer nofollow" target="_blank">Sea-Rious Challenger</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.blangahrisepri.moe.edu.sg/highlights/2024/stem-challenge/" rel="noopener noreferrer nofollow" target="_blank">Cotton Reel Tank</a>
-</p>
-</li>
-</ul>
-<p><strong>Partnerships</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/ALP Webpage/ALP_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_16.jpg">
 </div>
-<p>BRPS aims to enhance students' learning experiences by connecting them
-and educators with industry and community partners. This approach offers
-specialised programs, fosters collaboration, and creates a diverse learning
-environment to equip students with essential skills, knowledge, and real-world
-experiences critical for future-ready individuals.</p>
-<p><strong>A*Star Agency</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Scientist-in-School: Utilising micro:bits and Huskylens technology to
-develop a face recognition system in collaboration with A*Star.</p>
-</li>
-</ul>
-<p><strong>Junior Achievers (JA) Singapore</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Solar Buddy: Constructing solar-powered LED lights to share with children
-from developing countries.</p>
-</li>
-<li>
-<p>Fun with AR/VR: Addressing United Nations Sustainability Development Goals
-through augmented reality (AR) and virtual reality (VR) technologies.</p>
-</li>
-<li>
-<p>Cue Robots: Introducing basic programming concepts to selected students
-as an after-school enrichment programme.</p>
-</li>
-<li>
-<p>JA It's My Business: Cultivating entrepreneurship skills relevant to education,
-career development, and community service.</p>
-</li>
-</ul>
-<p><strong>Infocomm Media Development Authority (IMDA)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Code for Fun: Acquiring coding and computational thinking skills using
-visual/syntax-based programming and hardware.</p>
-</li>
-<li>
-<p>Social Robotics: Exploring artificial intelligence (AI) concepts, social
-robotics applications in various fields and developing community outreach
-projects.</p>
-</li>
-<li>
-<p>Drones Adventures: Acquiring advanced drone piloting skills and fundamental
-Python programming for autonomous flight.</p>
-</li>
-<li>
-<p>Game Development with MICROSOFT: Utilising Minecraft Education and Microsoft
-Makecode Arcade to create single and multiplayer games.</p>
-</li>
-</ul>
-<p><strong>School of Science and Technology (SST)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Student Mentoring (Astronomy): Collaboration with SST students on designing
-and launching water rockets, observing the sun, and learning about telescopes.</p>
-</li>
-<li>
-<p>Student Mentoring (Programming): Learning about Python programming from
-SST students after school.</p>
-</li>
-</ul>
-<p><strong>Parent Support Group (PSG)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>STEM Champion: A termly three-day recess competition series focused on
-STEM activities.</p>
-</li>
-<li>
-<p>Science Demonstrations: A termly hands-on session for students to engage
-with STEM activities during recess.</p>
-</li>
-</ul>
+<p>As part of STEM Day, the school also conducts a STEM Fair, which provides
+students with a platform to showcase innovation projects, robotics work
+and applied learning experiences. The STEM Fair celebrates students’ creativity
+and effort while fostering a school culture that values curiosity and innovation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/ALP 2026/Photo_18.jpg">
+</div>
 <p></p>
