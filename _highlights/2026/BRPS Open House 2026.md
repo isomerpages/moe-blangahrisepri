@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2026"
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/Cover_Image.jpg">
+</div>
 <p>BRPS welcomed prospective families to its annual Open House, offering
 parents and children an opportunity to experience the school's vibrant
 learning environment and discover the many opportunities available to every
@@ -33,4 +37,48 @@ giving families an authentic glimpse into everyday life at BRPS.</p>
 and vibrant BRPS community. We look forward to welcoming our new Primary
 1 students and partnering with their families as they embark on this exciting
 educational journey.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/IMG_5898.jpg">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/IMG20260704102920.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/photo_6230938330711396292_w.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/photo_6230938330711396301_w.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/photo_6231175709258878835_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/photo_6231175709258878839_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/photo_6231175709258878843_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/photo_6231175709258878866_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/photo_6231175709258878881_y.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/Students.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Open house 2026/WhatsApp_Image_2026_07_07_at_12_48_15.jpg">
+</div>
+<p></p>
