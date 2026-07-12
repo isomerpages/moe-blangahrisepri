@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2026"
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/House day/Cover_Image.jpg">
+</div>
 <p>The new term began with excitement as students across all levels came
 together for House Day, taking part in a variety of meaningful and engaging
 activities that fostered teamwork, resilience, creativity, and school spirit.</p>
@@ -34,4 +38,24 @@ belonging within each House.</p>
 - through play, collaboration, exploration, and shared experiences. It
 was an inspiring start to the new term, bringing our school community together
 while nurturing confident, caring, and resilient learners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/House day/P1.jpg">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/House day/P2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/House day/P3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/House day/P5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/House day/P6.jpg">
+</div>
+<p></p>
