@@ -2,64 +2,126 @@
 title: Character and Citizenship Education
 permalink: /our-curriculum/characterandcitizenshipeducation/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**Empowering Students with 21st Century Competencies**
-
-![](/images/2024%20Photos/CCE/CCE1.jpg)
-
-In the fast-paced world we live in, change is the only constant. At Blangah Rise Primary School, we stand firm in our commitment not only to support students in navigating these changes but also to empower them to take on challenges and seize new opportunities. 
-
-![](/images/2024%20Photos/CCE/CCE2.jpg)
-
-Our educational philosophy revolves around providing our students with a well-rounded education that equips them with skills crucial for their future endeavours. We believe in instilling future-ready skills   that prepare them for their future. Through partnering our parents, we work hand in hand to reinforce these essential skills and values, ensuring our students receive 	a forward-looking education.
-
-**Our Values**
-
-Here at Blangah Rise Pri school, values are not just taught but are woven into the very fabric of our curriculum. Our Character and Citizenship Education (CCE) programme is dedicated to cultivating students of integrity, empathy, and excellence.   We prioritize building strong character, fostering critical thinking and ethical decision-making. We cherish the partnership with parents, recognizing that together, we can truly make a meaningful impact. 
-
-![](/images/2024%20Photos/CCE/CCE3.jpg)
-
-In our school, we wholeheartedly embrace the Virtues Project, a global initiative promoting the daily practice of virtues. Through the implementation of the Five Strategies, we actively guide our students towards discovering deeper meaning and happiness in their lives. 
-
-Clara Chu, a Primary 4 student, shares, "Ms Teo always talks about virtues like kindness in class. It makes our classroom environment very positive and kind." 
-
-This project serves as a powerful tool for parents and teachers alike, empowering students to embody virtues such as kindness and honesty in their daily school life.
-
-![](/images/2024%20Photos/CCE/CCE4.jpg)
-
-<br>**Building a strong sense of community and belonging**<br>
-
-Our school-based CCE curriculum integrates the 7-Habits   . Learning Experiences, programmes to benefit the community and opportunities to practice and demonstrate these habits are specially designed for our students. By working alongside partners such as Lion Befrienders, People’s Association, and Sports SG, as well as through our Values in Action initiatives, we actively demonstrate these habits to support those in need.
-
-Click [here](https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/the-leader-in-me/) to read more about our 7-Habits curriculum!
-
-![](/images/2024%20Photos/CCE/CCE5.jpg)
-
-We aim to develop students who are aware of community issues and are also equipped with the skills and drive to tackle them. Through community projects, discussions, or awareness initiatives, we aim to empower our students to step forward with courage and make a meaningful impact, no matter how small it may seem. Khush   Pareek, a Primary 6 student, reflects, "I've discovered that being proactive means not only taking initiative for myself but also reaching out to support others in our community. It's about making a positive difference in the lives of those around me."
-
-![](/images/2024%20Photos/CCE/CCE6.jpg)
-
-![](/images/2024%20Photos/CCE/CCE7.jpg)
-
-![](/images/2024%20Photos/CCE/CCE8.jpg)
-
-**Student Wellness**
-
-In our school, we prioritize the holistic well-being o f our students -  academic success, physical health, mental clarity, and emotional resilience. Just as physical fitness sharpens the mind, nurturing mental and emotional health is crucial for a child's holistic development. Beyond academics, we foster opportunities for students to engage with others and contribute meaningfully to their community. Initiatives like Student Wellness Day and collaborative projects encourage teamwork and empathy. Explore our Student Wellness page for more details on how we nurture student well-being. 
-
-**Charting their Future**
-
-![](/images/2024%20Photos/CCE/CCE9.jpg)
-
-Our Enhanced Education and Career Guidance (ECG) program goes beyond traditional classroom learning. We provide numerous hands-on opportunities for students to delve into their values, interests, and skills. This not only equips them with the mindset and abilities essential for lifelong learning but also prepares them to make informed decisions about their secondary school education and beyond.
-
-![](/images/2024%20Photos/CCE/CCE10.jpg)
-
-**Cyber Wellness**   
-
-![](/images/2024%20Photos/CCE/CCE11.jpg)
-
-In today's interconnected world, technology is in every part of our lives. Yet, alongside these benefits come risks that are addressed by our Cyber Wellness education. At our school, we recognise technology has the potential to greatly support our students’ learning and growth. We take proactive steps to educate our students to use technology for positive purposes, staying safe online, and becoming responsible digital citizens.  We also offer our BRPS CAPE cyber wellness programme, which includes specially designed lessons, curated resources and additional support to help students manage their digital engagement. By promoting healthy online habits, we empower them to lead balanced lives.
-
-Click [here](https://www.blangahrisepri.moe.edu.sg/departments/infocomm-technology/) to read more about our Cyber Wellness Ambassadors in action!
+<p>Character and Citizenship Education (CCE) is at the heart of our school’s
+efforts to develop every child holistically. We believe that <strong>every school experience is a CCE lesson</strong>, <strong>every student is a peer supporter</strong>,
+and <strong>every teacher is a CCE teacher</strong>. Through intentional
+teaching, authentic experiences, and daily interactions, we nurture students
+to grow in character, care for others, and contribute meaningfully to the
+community.</p>
+<p>In Blangah Rise Primary School, CCE is enacted through a rich combination
+of lessons, programmes, and authentic experiences:</p>
+<p><strong><u>CCE Curriculum</u></strong>
+</p>
+<p>The CCE curriculum content is conducted through the Form Teacher Guidance
+Period (FTGP), CCE in Mother Tongue Languages (MTL), and the Programme
+for Active Learning (PAL). These weekly lessons provide structured opportunities
+for explicit teaching, reflection, and guided discussions to support the
+development of good character, resilience and social-emotional well-being,
+future readiness, and active citizenship, enabling students to apply values
+and skills meaningfully in their learning and daily interactions. Students
+are also equipped with the knowledge, skills and healthy habits to navigate
+the digital world safely, responsibly and confidently through our structured
+cyber wellness lessons and programmes.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/CCE_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_2_PAL.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Values and 7 Habits</u></strong>
+</p>
+<p>At Blangah Rise Pri school, values are not just taught but are woven into
+the very fabric of holistic learning experiences. Our Character and Citizenship
+Education (CCE) programme is committed to nurturing students who live out
+the school values of RISE – Respect, Integrity, Self-discipline, and Empathy,
+empowering them to make thoughtful choices and care for others. Anchored
+in our school values and the 7 Habits, our Peer Support Programme nurtures
+a safe, caring and supportive school culture where students develop empathy,
+responsibility and confidence as they look out for one another.</p>
+<p>As a 7 habits school, Leaders in Me is a key platform through which students
+learn and apply the 7 Habits of Happy Kids. Through explicit teaching and
+daily practice, students learn to take ownership of their actions, manage
+themselves proactively, work collaboratively with others, and make values-driven
+choices. The 7 Habits are intentionally embedded across lessons, school
+programmes, and authentic experiences, and are further strengthened through
+strong partnerships with parents to ensure home–school consistency. By
+working closely with families and using a common language of leadership
+and values, the school supports students in applying the 7 Habits meaningfully
+both in school and at home, enabling them to grow into confident, resilient,
+and caring leaders of self and others.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_4_7_Habits.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Key Student Development Experiences</u></strong>
+</p>
+<p>Students develop character and citizenship through a wide range of rich
+and authentic experiences that extend learning beyond the classroom. These
+include Co-Curricular Activities (CCAs), Education and Career Guidance
+(ECG) experiences, and Values in Action (VIA) projects, which provide meaningful
+opportunities for students to practise teamwork, responsibility, and service
+to others, while developing the skills, dispositions, and mindsets to be
+future-ready.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_5_VIA.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/CCE_6.png">
+</div>
+<p>Through National Education Commemorative Days, students deepen their appreciation
+of our shared past and gain a better understanding of Singapore’s current
+realities. Cohort learning journeys for museum-based learning provide students
+with opportunities to explore their Singaporean identity through the arts,
+culture, and heritage. Together, these experiences support students in
+applying values in real-life contexts and growing as confident, caring,
+and responsible citizens.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_9_MBL.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/CCE_8.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_7_National_Day.jpg">
+</div>
+<p></p>
