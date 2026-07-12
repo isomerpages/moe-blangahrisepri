@@ -109,3 +109,7 @@ initiatives.</p>
 and confidence to make a difference — for the environment, for others,
 and for life.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/LLP/Photo_19.png">
+</div>
+<p></p>
