@@ -3,68 +3,79 @@ title: Tamil Language
 permalink: /departments/mother-tongue/tamil-language/
 description: ""
 third_nav_title: Mother Tongue
-variant: markdown
+variant: tiptap
 ---
-![](/images/2024%20Photos/TL%20Webpage/P5_LG3.jpg)
-
-“The ancient Tamil language is a window into our glorious past and a source of
- inspiration for the future.” – **Subramania Bharathi**
-
-“In the sweetness of our Tamil language, there is beauty and grace.” – **Bharathidasan**
-
-<p><strong>Tamil Language Fortnight</strong></p>
-
-Tamil Language Fortnight creates an immersive and meaningful environment for the students to learn and appreciate Tamil Language. It provides platforms with authentic settings for the students to associate and experience the Indian culture. 
-
-Students’ participation in the activities such as Poetry Recitation, Storytelling and Language Activities help to develop their interest and deepen their knowledge in Tamil Language. The fortnight activities help to instill in students the Joy of Learning Tamil Language and knowing its rich tradition and culture.
-
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_121013__3_.jpg" style="width:50%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230717_115625__2_.jpg" style="width:80%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_085644__1_.jpg" style="width:80%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230712_130208__1_.jpg" style="width:60%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_20230717_141353__2_.jpg" style="width:80%"></p>
-
-Through these activities, I got to know more about the Tamil language culture. – Krithivik, Primary 2.
-<p>I eagerly participate in Tamil Language games which are very interesting.</p><p> – Deeksha, Primary 4. </p>
-
-
-<p><strong>Tamil Language Camps</strong></p>
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_2836.jpg" style="width:60%"></p>
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_2832.jpg" style="width:60%"></p>
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IMG_2823.jpg" style="width:60%"></p>
-
-Cultural camps provide students with more opportunities to speak and learn their Mother Tongue Language in an authentic setting that is rich in the culture. These activities help students to appreciate their roots and learn the rationale and value in the various customary practices.
-
-During this camp, I got to know more about the heritage of Tamilians. 
-<p>– Dave, Primary 5. </p>
-
-<p><strong>Learning Journey to Indian Heritage Centre</strong></p>
-
-The Primary 3 and 4 students went for a learning journey to the Indian Heritage Centre. They understood how the different cultures have shaped Singapore’s multi-cultural heritage and they also recognised the contributions made by the Indian community in the development of Singapore. 
-
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21_1__2_.jpg" style="width:100%"></p><p><img src="/images/2024%20Photos/TL%20Webpage/TL_PHOTO_2023_08_29_16_13_21__2_.jpg" style="width:100%"></p>
-
-Through this learning journey, I have learnt a lot about the contribution of our Indian pioneers to the development of Singapore. – Saathvika, Primary 5. 
-
-<p><strong>Inquiry Based Learning in Tamil</strong></p>
-
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IBL_Pic1.jpg" style="width:80%"></p>
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IBL_Pic2.jpg" style="width:80%"></p>
-<p><img src="/images/2024%20Photos/TL%20Webpage/TL_IBL_Pic3.jpg" style="width:80%"></p>
-
-Inquiry Based Learning (IBL) engaged our students in self-directed and collaborative learning. With the authentic learning experience, IBL also promotes critical and inventive thinking skills in our students to solve real-world problems. In Tamil Language lessons, students carry out Inquiry-Based Learning in Tamil on a given topic. 
-
-They gather information and data based on the topic, and discuss with their peers to gain a better understanding. Teachers, as facilitators, provide the platform and guidance for students support them in their learning process. 
-
-Through this learning, I understood very well that we must keep our country clean. I also learnt more about how to navigate around the relevant websites to enhance my learning – Rishi, Primary 4.
-
-**Composition Workshop – ‘Writing the Storm Out’**
-
-Our Tamil Language teacher, Mr Yousoff conducted a Composition Workshop which was specifically designed for our Primary 5 and Primary 6 students. The workshop aimed to enhance students' writing skills, focusing on creative expressions, structures, and the effective use of the Tamil Language.
-
-During the session, students learnt various techniques to brainstorm ideas, develop engaging storylines, and organise their compositions coherently. Mr Yousoff provided hands-on guidance, helping students craft compelling introductions, build strong plots, and conclude their stories effectively.
-
-Interactive activities and peer-sharing sessions were incorporated to make the learning process more engaging. Students were encouraged to express their thoughts creatively and received constructive feedback on their work.
-The workshop was a valuable opportunity for students to sharpen their writing skills, applying language skills in an authentic manner and preparing our students for their future writing tasks.
-
-![](/images/2024%20Photos/TL%20Compo%20Workshop/Picture_1.jpg)
-
-![](/images/2024%20Photos/TL%20Compo%20Workshop/Picture_2.jpg)
-
-![](/images/2024%20Photos/TL%20Compo%20Workshop/Picture_3.jpg)
+<p><strong>Teaching and Learning</strong>
+</p>
+<p>Tamil Language lessons are designed to engage students in meaningful and
+authentic learning experiences that promote active participation, collaboration
+and independent learning. Students explore topics by gathering information,
+discussing ideas with their peers and sharing their understanding through
+speaking and writing. These learning experiences help students develop
+critical and creative thinking skills, while strengthening their ability
+to communicate clearly and confidently in the Tamil Language.</p>
+<p>A variety of learning approaches and resources are used to support students’
+learning, including hands-on activities and ICT tools. ICT tools are thoughtfully
+integrated to support discussion, idea generation and presentation of learning,
+and to provide timely feedback where appropriate. Teachers design and facilitate
+learning experiences that guide students in using the language meaningfully,
+encourage interaction among peers and support students in deepening their
+understanding and application of the Tamil Language in authentic contexts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MTL/TL_Pic_1.jpg">
+</div>
+<p><strong>Tamil Language Fortnight and Camp</strong>
+</p>
+<p>Tamil Language Fortnight creates an immersive and meaningful environment
+for the students to learn and appreciate Tamil Language. It provides platforms
+with authentic settings for the students to associate and experience the
+Indian culture.</p>
+<p>Students’ participation in the activities such as Poetry Recitation, Storytelling
+and Language Activities help to develop their interest and deepen their
+knowledge in Tamil Language. The fortnight activities help to instill in
+students the joy of learning the Tamil Language and knowing its rich tradition
+and culture.</p>
+<p>P4 Tamil Language camp provides students with more opportunities to speak
+and learn their Tamil Language in an authentic setting that is rich in
+the culture. These activities help students to appreciate their roots and
+learn the rationale and value in the various customary practices.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MTL/TL_Pic_5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MTL/TL_Pic_7.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MTL/TL_Pic_8.jpg">
+</div>
+<p><strong>MTL Challenge (Tamil Language)</strong>
+</p>
+<p>Learning takes place when students can apply what they have learnt in
+the classroom. As such, the MTL Challenge (Tamil Language) is organised
+for our students every semester. These internal competitions include a
+range of activities from speaking to writing, providing students with meaningful
+opportunities to use the Tamil Language, showcase their creativity and
+apply their language knowledge in authentic contexts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/MTL/TL_Pic_6.jpg">
+</div>
+<p></p>
