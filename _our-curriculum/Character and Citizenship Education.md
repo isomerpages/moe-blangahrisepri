@@ -24,28 +24,14 @@ and skills meaningfully in their learning and daily interactions. Students
 are also equipped with the knowledge, skills and healthy habits to navigate
 the digital world safely, responsibly and confidently through our structured
 cyber wellness lessons and programmes.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/CCE_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/CCE_1.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_2_PAL.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_2_PAL.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Values and 7 Habits</u></strong>
 </p>
 <p>At Blangah Rise Pri school, values are not just taught but are woven into
@@ -67,25 +53,11 @@ working closely with families and using a common language of leadership
 and values, the school supports students in applying the 7 Habits meaningfully
 both in school and at home, enabling them to grow into confident, resilient,
 and caring leaders of self and others.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_4_7_Habits.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Key Student Development Experiences</u></strong>
 </p>
 <p>Students develop character and citizenship through a wide range of rich
