@@ -31,9 +31,9 @@ sections:
       subtitle: HIGHLIGHTS
       id: infopic
       description: BRPS welcomed prospective families to its annual Open House,
-        offering parents and children an opportunity to experience the school
+        offering parents and children an opportunity to experience the school.
       button: Read More
-      url: https://blangahrisepri.moe.edu.sg/education-and-career-guidance/
+      url: https://blangahrisepri.moe.edu.sg/brps-open-house-2026/
       image: /images/2026 Photo Album/Open house 2026/Cover_Image.jpg
       alt: Image alt text
   - infopic:
