@@ -53,9 +53,15 @@ communication.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Chinese Reporters 2026/IMG_20260701_WA0018.jpg">
 </div>
-<p>Click here to view the journalism broadcast on Channel Dian Dian Di Di
-Chinese Junior Reporters.</p>
+<p>Click <a href="https://youtu.be/IcCxsJoFHzI?si=pBAwOIq5jCpGx8lm" rel="noopener nofollow" target="_blank">here</a> and
+<a href="https://youtu.be/awN0KFRhDdg?si=_a_9hLgvdimG3ieY" rel="noopener nofollow" target="_blank">here</a>to view the journalism broadcast on Channel Dian Dian Di Di Chinese
+Junior Reporters.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IcCxsJoFHzI?si=DnH4AVkLM_H6U14Y"></iframe>
+</div>
 <p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/awN0KFRhDdg?si=kLpmwvkE1YaXCDXI"></iframe>
+</div>
 <p></p>
 <p></p>

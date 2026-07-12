@@ -27,24 +27,24 @@ sections:
       image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
       alt: Image alt text
   - infopic:
-      title: Education and Career Guidance
+      title: BRPS Open House 2026
       subtitle: HIGHLIGHTS
       id: infopic
-      description: Through our recent Education and Career Guidance (ECG) activities,
-        our students were given meaningful opportunities to discover themselves
+      description: BRPS welcomed prospective families to its annual Open House,
+        offering parents and children an opportunity to experience the school.
       button: Read More
-      url: https://blangahrisepri.moe.edu.sg/education-and-career-guidance/
-      image: /images/2026 Photo Album/ECG/ECG_1.jpg
+      url: https://blangahrisepri.moe.edu.sg/brps-open-house-2026/
+      image: /images/2026 Photo Album/Open house 2026/Cover_Image.jpg
       alt: Image alt text
   - infopic:
-      title: World Red Cross Day 2026
+      title: House Day 2026
       subtitle: HIGHLIGHTS
       id: infopic
-      description: Our school commemorated World Red Cross Day through a series of
-        meaningful and engaging activities
+      description: The new term began with excitement as students across all levels
+        came together for House Day.
       button: Read More
-      url: https://blangahrisepri.moe.edu.sg/world-red-cross-day/
-      image: /images/2026 Photo Album/WRCD/WRCD_Cover_Photo__1_.png
+      url: https://blangahrisepri.moe.edu.sg/house-day-brings-learning-teamwork-and-house-spirit-to-life/
+      image: /images/2026 Photo Album/House day/Cover_Image.jpg
       alt: Image alt text
   - infopic:
       title: MediaKids Student Featured in NAPE 2026 Exhibition
