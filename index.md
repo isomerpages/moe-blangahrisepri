@@ -41,7 +41,7 @@ sections:
       subtitle: HIGHLIGHTS
       id: infopic
       description: The new term began with excitement as students across all levels
-        came together for House Day
+        came together for House Day.
       button: Read More
       url: https://blangahrisepri.moe.edu.sg/house-day-brings-learning-teamwork-and-house-spirit-to-life/
       image: /images/2026 Photo Album/House day/Cover_Image.jpg
