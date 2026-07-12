@@ -13,10 +13,12 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Dr Chai Siang Chew&nbsp;&nbsp;</p>
+<p><strong>Dr Chai Siang Chew&nbsp;&nbsp;</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>- Chairman</p>
+<p><strong>- Chairman</strong>
+</p>
 </th>
 </tr>
 <tr>
