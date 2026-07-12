@@ -188,6 +188,9 @@ play a role in raising awareness about the environment.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Management/Photo_11.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
