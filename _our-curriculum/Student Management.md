@@ -11,7 +11,7 @@ description: ""
 <blockquote>
 <p><strong>“With self-discipline, most anything is possible.”</strong>
 </p>
-<p><strong>                                                                            - Theodore Roosevelt</strong>
+<p><strong>- Theodore Roosevelt</strong>
 </p>
 </blockquote>
 <p></p>
@@ -147,13 +147,124 @@ in action through service and appreciation.</p>
 <p>In the spirit of gratitude and appreciation, the prefects plan and execute
 a range of activities under the guidance of their teachers-in-charge, making
 the day a meaningful and memorable one for all teachers.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Management/Photo_9.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Management/Photo_10.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Environment-themed Projects – Students are empowered to take the lead
+in influencing others, shaping habits, and creating impact. Through authentic
+roles and initiatives, students learn to communicate clearly, guide peers,
+and take ownership of school-wide efforts. Check out the details of our
+<a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/learning-for-life-programme/" rel="noopener nofollow" target="_blank">Learning for Life Programme (LLP)</a>to find more about how our student
+play a role in raising awareness about the environment.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Management/Image_12.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Learning Through Collaborations </strong>– The school partners
+external organisations to develop leadership, communication, and adaptive
+skills in student leaders. Through collaborative projects, the school empowers
+them to address environmental challenges with creativity and adaptability.
+The school has collaborated with partners such as the Public Transport
+Council (PTC) and Raffles’ Girls School (RGS) . Student Leaders are provided
+with authentic learning experiences through waste contamination study within
+the school and curated learning journeys to recycling related facilities.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<p>Check out our Student Leaders sharing about our publications –<a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/" rel="noopener noreferrer nofollow" target="_blank">The Green Dragonflies and Their Swampy Friends </a>and
-<a href="https://www.blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/" rel="noopener noreferrer nofollow" target="_blank">Friends of Berlayer Creek</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Management/Photo_13.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Student Management/Photo_14.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>The student leaders front storytelling sessions beyond schools such as
+pre-school, giving them platforms to hone their communication skills &amp;
+civic literacy in an authentic manner. Following such storytelling sessions,
+our student leaders and teachers would also lead participants in a hands-on
+art and craft session where they create their own art masterpieces using
+recycled materials. Student Leaders participate enthusiastically in the
+preparatory stage – props making – and it has also sparked their interest
+to learn more about the environment and biodiversity, and how they can
+play a part in caring for Mother Earth.</p>
+<p>&nbsp;</p>
+<p>Check out our Student Leaders sharing about our publications</p>
+<p>– <u>The Green Dragonflies and Their Swampy Friends</u> (<a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/" rel="noopener noreferrer nofollow" target="_blank">https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/</a>)
+and</p>
+<p><u>Friends of Berlayer Creek</u>
+</p>
+<p>(<a href="https://www.blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/" rel="noopener noreferrer nofollow" target="_blank">https://www.blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Growing Eco-Stewardship</strong>
+</p>
+<p>Our student leaders take their environmental advocacy beyond the classroom,
+leading storytelling sessions at pre-schools and other community spaces
+to champion causes close to the earth. These sessions give them authentic
+platforms to hone their communication skills and civic literacy, inspiring
+young audiences to care for the environment and appreciate biodiversity.</p>
+<p>The Eco-Stewards also lead participants in hands-on art and craft sessions,
+where creations are made entirely from recycled materials – turning sustainability
+into a lived experience. From crafting props to preparing session materials,
+their deep involvement in every stage of the process has further ignited
+their passion for environmental stewardship and their commitment to caring
+for Mother Earth.</p>
 <p></p>
 <p></p>
 <p></p>
