@@ -55,6 +55,9 @@ communication.</p>
 </div>
 <p>Click here to view the journalism broadcast on Channel Dian Dian Di Di
 Chinese Junior Reporters.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IcCxsJoFHzI?si=DnH4AVkLM_H6U14Y"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
