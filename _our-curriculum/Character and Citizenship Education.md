@@ -54,6 +54,9 @@ and values, the school supports students in applying the 7 Habits meaningfully
 both in school and at home, enabling them to grow into confident, resilient,
 and caring leaders of self and others.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/CCE_3.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/CCE/Photo_4_7_Habits.jpg">
