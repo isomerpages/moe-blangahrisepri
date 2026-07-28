@@ -27,6 +27,16 @@ sections:
       image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
       alt: Image alt text
   - infopic:
+      title: Racial Harmony Day
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: On 21 July, our school commemorated Racial Harmony Day with the
+        theme, “Our People, Our Tapestry.”
+      button: Read More
+      url: /racial-harmony-day/
+      image: /images/2026 Photo Album/RHD/Cover_Image.jpg
+      alt: Image alt text
+  - infopic:
       title: BRPS Open House 2026
       subtitle: HIGHLIGHTS
       id: infopic
@@ -66,17 +76,6 @@ sections:
       description: It is our great privilege and honour to share that Blangah Rise
         Primary School’s choir, Rising Harmonies
       subtitle: HIGHLIGHTS
-  - infopic:
-      title: Piala Cendekia Sahibba 2026
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Congratulations to our students for emerging as Champions in the
-        Primary School Category (South Zone) at the Piala Cendekia Sahibba 2026
-        competition.
-      button: Read More
-      url: /piala-cendekia-sahibba-2026/
-      image: /images/2026 Photo Album/Sahibba/photo_6107034545765945507_y.jpg
-      alt: Image alt text
   - infopic:
       title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
       subtitle: HIGHLIGHTS
