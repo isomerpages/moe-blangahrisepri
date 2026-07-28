@@ -78,15 +78,6 @@ sections:
       image: /images/2026 Photo Album/Sahibba/photo_6107034545765945507_y.jpg
       alt: Image alt text
   - infopic:
-      title: Caring Teacher Award (CTA) 2026
-      subtitle: Announcements
-      button: Click here to read more
-      alt: Image alt text
-      image: /images/2025 Photo Album/CTA/CTA.jpg
-      url: https://blangahrisepri.moe.edu.sg/caring-teacher-award-cta-2026/
-      description: The Caring Teacher Awards (CTA) celebrate educators who exemplify
-        care and compassion in their teaching.
-  - infopic:
       title: Feature on Our Alumni Series 3 (Gail Lien Zhao Xin)
       subtitle: HIGHLIGHTS
       id: infopic
