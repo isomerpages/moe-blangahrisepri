@@ -2,7 +2,6 @@ collections:
   archived-pages:
     output: true
     order:
-      - Photographer of the Year 2021.md
       - Photojournalist of the Year 2022.md
       - Photojournalist of the Year 2024.md
       - Build A Bridge Challenge.md
