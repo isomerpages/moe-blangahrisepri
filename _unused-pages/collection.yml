@@ -2,7 +2,6 @@ collections:
   unused-pages:
     output: true
     order:
-      - Viewpoints.md
       - P1 Orientation 2026.md
       - Parent Support Group Executive Committee.md
       - Character & Citizenship Education.md
