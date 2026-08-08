@@ -33,3 +33,18 @@ the journey, they develop important qualities such as respect, determination,
 and self-discipline — growing not only as confident coders and innovators,
 but as curious, self-directed learners who are ready to tackle the challenges
 of tomorrow.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Stem Club/STEM_Club_1.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Stem Club/STEM_Club_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Stem Club/STEM_Club_3.jpg">
+</div>
+<p></p>
