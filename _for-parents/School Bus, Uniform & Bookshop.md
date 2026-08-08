@@ -179,7 +179,8 @@ variant: tiptap
 <p>Contact Person:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Theresa Ann (Centre Head)</p>
+<p>Shawn Emmanuel</p>
+<p>(Centre Head)</p>
 </td>
 </tr>
 <tr>
