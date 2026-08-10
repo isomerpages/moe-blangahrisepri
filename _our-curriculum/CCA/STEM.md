@@ -3,10 +3,48 @@ title: STEM
 permalink: /departments/ccas/stem/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-<img src="/images/photo1.jpg"><br>
-<img src="/images/STEm-1536x1152.jpg">
-<p>STEM Club provides opportunities for students to work on engineering-related activities as well as robotics using Lego WeDo 2.0 and Lego SPIKE. The students work collaboratively to build robots and acquire programming skills. These activities develop students&rsquo; creativity, critical thinking, problem-solving and decision-making skills. It also builds their enthusiasm and stimulate their interest in STEM learning.</p>
-<p>Students learn to build robots ranging from a simple car to complex machineries that can navigate through a maze. They use the engineering design process cycle to explore and try out new ideas. Students work together as a team to evaluate and improve upon their own designs, imbuing in them the virtues of resilience and collaboration. &ldquo;We work in teams to build different robots every week and code them to move. Together, we can do it!&rdquo; said Judith, a Primary 4 student excitedly.</p>
-<p>Students participate in school and external competitions such as National Robotics Competitions, Amazing Flying Competition as well as National Flying Simulation Competition. Our Primary 5 student, Yuan Xiang said, &ldquo;We share our ideas to help one another improve our design. We strive to win and do our best for the competitions.&rdquo; Values such as resilience, respect, determination and self-discipline are displayed by our students.</p>
-<img src="/images/stem.jpg">
+<p>BRPS STEM Club offers students an exciting gateway into the world of engineering
+and robotics through hands-on, collaborative learning. Using LEGO SPIKE,
+students work in teams to design, build, and programme their own robots
+— embarking on challenges that stretch their creativity and deepen their
+problem-solving abilities.</p>
+<p>From constructing simple vehicles to developing complex machines capable
+of navigating mazes, students engage in the engineering design process
+— brainstorming ideas, testing prototypes, evaluating outcomes, and refining
+their creations. This iterative approach cultivates resilience, adaptability,
+and critical thinking as students learn to embrace setbacks as opportunities
+to grow. As Sin Un and Hannah from Primary 5 put it, "We must work together
+to solve problems. We need to listen to the ideas of each other and test
+it before saying 'No'."</p>
+<p>Beyond the building table, students actively represent the school in competitions
+such as the First LEGO League and the National Robotics Competition. In
+preparation, they strengthen their coding and programming skills, learning
+to design algorithms, troubleshoot errors, and optimise their robots' performance.
+These experiences build confidence, initiative, and a sense of pride in
+their work. As Primary 6 student Lam Khai shared, "I feel very proud to
+be able to take part in the competition and represent my school. It is
+not about winning but to have fun and try out the robots. It is fun to
+present my robot to the judges and learn to improve."</p>
+<p>Through these authentic and purposeful experiences, STEM Club students
+apply both engineering and computational thinking in meaningful ways. Along
+the journey, they develop important qualities such as respect, determination,
+and self-discipline — growing not only as confident coders and innovators,
+but as curious, self-directed learners who are ready to tackle the challenges
+of tomorrow.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Stem Club/STEM_Club_1.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Stem Club/STEM_Club_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Stem Club/STEM_Club_3.jpg">
+</div>
+<p></p>
