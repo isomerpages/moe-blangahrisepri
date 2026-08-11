@@ -196,7 +196,7 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">theresa_ann_simon_joseph@commitlearning.com.sg</a>
+<p><a href="mailto:Shawn_Emmanuel_Jay_Suresh@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">Shawn_Emmanuel_Jay_Suresh@commitlearning.com.sg</a>
 </p>
 </td>
 </tr>
