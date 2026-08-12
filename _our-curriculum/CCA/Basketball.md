@@ -3,23 +3,29 @@ title: Basketball
 permalink: /departments/ccas/basketball/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-Basketball CCA (Boys and Girls) aims to equip our students with fundamental skills and impart values such as sportsmanship, teamwork, resilience, and discipline.  
-<p>Our training sessions focus on basketball drills and attack/defend concepts. Every member will be given the opportunity to take part in matches during CCA through small-sided games towards the end of each session or against other schools in friendly matches. Some of them will go on to represent the school in National School Games. We use teachable moments during game time and VIA programmes to emphasize on values.
-At the end of the programme, our students should have a good understanding of the basic rules and good mastery of fundamental skills such as dribbling, shooting, lay-up and defence. Most importantly, their character will be developed.</p>
-<p>Titus from Primary 5 shared, “I became passionate about basketball since I joined the CCA. It is very fun and exciting. I’ve learned a lot of new skills and made many friends during my time here.”</p>
-
-**Achievements:**
-<p>2022 - Junior Boys, Tier 2 Champions</p>
-<p>2023 - Senior Boys, 1st runner up in group stage &amp; Top 8 in South Zone</p> 
-
-![](/images/2024%20Photos/Basketball/Basketball_image001.jpg)
-
-![](/images/2024%20Photos/Basketball/Basketball_image002.jpeg)
-
-![](/images/2024%20Photos/Basketball/Basketball_image003.jpg)
-
-![](/images/2024%20Photos/Basketball/Basketball_image004.jpg)
-
-![](/images/2024%20Photos/Basketball/Basketball_image005.jpg)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Basketball/BB1.jpg">
+</div>
+<p>Basketball CCA provides students with a fun and engaging platform to learn
+and develop fundamental basketball skills. Through structured training,
+students gain a better understanding of the rules of the game and learn
+to apply their skills confidently during games.</p>
+<p>Beyond physical skills, students learn to communicate effectively, collaborate
+with teammates, and demonstrate respect and sportsmanship during training
+and competitions. They also build self-management and resilience as they
+learn to stay disciplined, persevere through challenges, and reflect on
+their performance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Basketball/BB2.jpg">
+</div>
+<p>Through these meaningful experiences, students develop a positive attitude
+towards learning, teamwork, and leadership, while nurturing a lasting passion
+for basketball.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Basketball/BB3.jpg">
+</div>
+<p></p>
