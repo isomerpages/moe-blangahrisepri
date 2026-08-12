@@ -27,24 +27,24 @@ sections:
       image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
       alt: Image alt text
   - infopic:
-      title: Racial Harmony Day
+      title: P2 Learning Journey - Learning Beyond the Classrooms
       subtitle: HIGHLIGHTS
       id: infopic
-      description: On 21 July, our school commemorated Racial Harmony Day with the
-        theme, “Our People, Our Tapestry.”
+      description: Our Primary 2 students embarked on an exciting learning journey to
+        the Flower Dome as part of Wise Wee and the Little Adventurers!
       button: Read More
-      url: /racial-harmony-day/
-      image: /images/2026 Photo Album/RHD/Cover_Image.jpg
+      url: /p2-learning-journey-learning-beyond-the-classrooms/
+      image: /images/2026 Photo Album/P2 LJ/Cover_Image.jpg
       alt: Image alt text
   - infopic:
-      title: BRPS Open House 2026
+      title: EAS Day 2026 - Celebrating Our Everyday Heroes
       subtitle: HIGHLIGHTS
       id: infopic
-      description: BRPS welcomed prospective families to its annual Open House,
-        offering parents and children an opportunity to experience the school.
+      description: Our school celebrated EAS Day 2026 with the theme “Celebrating Our
+        Everyday Heroes”, honouring our Executive and Administrative Staff (EAS)
       button: Read More
-      url: https://blangahrisepri.moe.edu.sg/brps-open-house-2026/
-      image: /images/2026 Photo Album/Open house 2026/Cover_Image.jpg
+      url: /eas-day-2026-celebrating-our-everyday-heroes/
+      image: /images/2026 Photo Album/EAS Day/Cover_Image.jpg
       alt: Image alt text
   - infopic:
       title: House Day 2026
