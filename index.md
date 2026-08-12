@@ -19,14 +19,6 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's Term 3 Letter
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      button: CLICK HERE TO READ MORE
-      url: /principal-s-term-3-letter-2026/
-      image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
-      alt: Image alt text
-  - infopic:
       title: P2 Learning Journey - Learning Beyond the Classrooms
       subtitle: HIGHLIGHTS
       id: infopic
@@ -47,15 +39,25 @@ sections:
       image: /images/2026 Photo Album/EAS Day/Cover_Image.jpg
       alt: Image alt text
   - infopic:
-      title: House Day 2026
+      title: Learning Beyond the Classroom - Sungei Buloh Wetland Reserve
       subtitle: HIGHLIGHTS
       id: infopic
-      description: The new term began with excitement as students across all levels
-        came together for House Day.
+      description: Our Primary 6 students recently embarked on an enriching Science
+        Learning Journey to Sungei Buloh Wetland Reserve.
       button: Read More
-      url: https://blangahrisepri.moe.edu.sg/house-day-brings-learning-teamwork-and-house-spirit-to-life/
-      image: /images/2026 Photo Album/House day/Cover_Image.jpg
+      url: /learning-beyond-the-classroom-at-sungei-buloh-wetland-reserve/
+      image: /images/2026 Photo Album/P6 Sungei Buloh/P6_LJ.jpg
       alt: Image alt text
+  - infopic:
+      title: Primary 4 Museum-Based Learning Journey
+      subtitle: HIGHLIGHTS
+      id: infopic
+      button: CLICK HERE TO READ MORE
+      url: /primary-4-museum-based-learning-journey-to-the-national-gallery-singapore/
+      image: /images/2026 Photo Album/National Gallery/Cover_Image.jpg
+      alt: Image alt text
+      description: Our P4 students recently stepped out of the classroom and into a
+        world of creativity at the National Gallery Singapore!
   - infopic:
       title: MediaKids Student Featured in NAPE 2026 Exhibition
       subtitle: Highlights
