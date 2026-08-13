@@ -19,43 +19,45 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
-      title: Principal's Term 3 Letter
-      subtitle: ANNOUNCEMENTS
+      title: P2 Learning Journey - Learning Beyond the Classrooms
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Our Primary 2 students embarked on an exciting learning journey to
+        the Flower Dome as part of Wise Wee and the Little Adventurers!
+      button: Read More
+      url: /p2-learning-journey-learning-beyond-the-classrooms/
+      image: /images/2026 Photo Album/P2 LJ/Cover_Image.jpg
+      alt: Image alt text
+  - infopic:
+      title: EAS Day 2026 - Celebrating Our Everyday Heroes
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Our school celebrated EAS Day 2026 with the theme “Celebrating Our
+        Everyday Heroes”, honouring our Executive and Administrative Staff (EAS)
+      button: Read More
+      url: /eas-day-2026-celebrating-our-everyday-heroes/
+      image: /images/2026 Photo Album/EAS Day/Cover_Image.jpg
+      alt: Image alt text
+  - infopic:
+      title: Learning Beyond the Classroom - Sungei Buloh Wetland Reserve
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Our Primary 6 students recently embarked on an enriching Science
+        Learning Journey to Sungei Buloh Wetland Reserve.
+      button: Read More
+      url: /learning-beyond-the-classroom-at-sungei-buloh-wetland-reserve/
+      image: /images/2026 Photo Album/P6 Sungei Buloh/P6_LJ.jpg
+      alt: Image alt text
+  - infopic:
+      title: Primary 4 Museum-Based Learning Journey
+      subtitle: HIGHLIGHTS
       id: infopic
       button: CLICK HERE TO READ MORE
-      url: /principal-s-term-3-letter-2026/
-      image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
+      url: /primary-4-museum-based-learning-journey-to-the-national-gallery-singapore/
+      image: /images/2026 Photo Album/National Gallery/Cover_Image.jpg
       alt: Image alt text
-  - infopic:
-      title: Racial Harmony Day
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: On 21 July, our school commemorated Racial Harmony Day with the
-        theme, “Our People, Our Tapestry.”
-      button: Read More
-      url: /racial-harmony-day/
-      image: /images/2026 Photo Album/RHD/Cover_Image.jpg
-      alt: Image alt text
-  - infopic:
-      title: BRPS Open House 2026
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: BRPS welcomed prospective families to its annual Open House,
-        offering parents and children an opportunity to experience the school.
-      button: Read More
-      url: https://blangahrisepri.moe.edu.sg/brps-open-house-2026/
-      image: /images/2026 Photo Album/Open house 2026/Cover_Image.jpg
-      alt: Image alt text
-  - infopic:
-      title: House Day 2026
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: The new term began with excitement as students across all levels
-        came together for House Day.
-      button: Read More
-      url: https://blangahrisepri.moe.edu.sg/house-day-brings-learning-teamwork-and-house-spirit-to-life/
-      image: /images/2026 Photo Album/House day/Cover_Image.jpg
-      alt: Image alt text
+      description: Our P4 students recently stepped out of the classroom and into a
+        world of creativity at the National Gallery Singapore!
   - infopic:
       title: MediaKids Student Featured in NAPE 2026 Exhibition
       subtitle: Highlights
