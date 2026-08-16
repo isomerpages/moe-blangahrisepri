@@ -53,11 +53,10 @@ when the teachers regularly put up their good work done in class!</p>
 </div>
 <p><strong>LEVEL PROGRAMMES</strong>
 </p>
-<p><strong>P3 Discovery Camp – Learning For Life</strong>
-</p>
-<p><strong><br></strong>A fun-filled after school programme which helps our
-students to enjoy their schooling experience, develop skills and forge
-strong bonds / relationships with their school mates.</p>
+<p><strong>P3 Discovery Camp – Learning For Life<br></strong>A fun-filled
+after school programme which helps our students to enjoy their schooling
+experience, develop skills and forge strong bonds / relationships with
+their school mates.</p>
 <p>Welcome to our Discovery Camp, where students acquire essential life skills
 beyond the classroom.</p>
 <p></p>
