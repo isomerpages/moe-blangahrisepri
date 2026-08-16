@@ -96,6 +96,21 @@ cultural awareness and empathy. By connecting classroom learning with real-world
 experiences, this learning journey cultivates critical thinking, empathy,
 and appreciation for diversity, empowering our students to become informed
 and respectful global citizens.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P3LJ01.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P3LJ02.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P3LJ03.jpg">
+</div>
+<p></p>
 <p><strong>P4 Learning Journey to Kreta Ayer</strong>
 </p>
 <p>Students role-played as junior reporters who are interested in learning
