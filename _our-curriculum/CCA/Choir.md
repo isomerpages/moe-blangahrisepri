@@ -27,4 +27,7 @@ and Singapore Youth Festival, connecting with the broader choral community.&nbsp
 a sense of shared purpose. The friendships forged and the pride of performing
 together make Rising Harmonies not just a musical experience, but a deeply
 personal and memorable one.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LKId7z_mcOs?si=zyXoZoiQbwA2i6gs"></iframe>
+</div>
 <p>&nbsp;</p>
