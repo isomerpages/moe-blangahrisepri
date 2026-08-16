@@ -98,24 +98,37 @@ and learning journeys.</p>
 </div>
 <p><strong>Opportunities for Confidence Building</strong>
 </p>
-<p>Healthy self-esteem should be inculcated from young, and the Junior Primary
-(JP) Team believes every child can be nurtured and learn. Since 2020, we
-reinforce self-confidence and resilience in our students when we present
-them with the opportunities to showcase their talents while they immerse
-themselves in the joy of learning. Teachers teach the skillset necessary
-for performance during Music, English Language and Programme for Active
-Learning (PAL) lessons. In 2023, through iDiscover Programme, our P1 and
-P2 students had the chance to also showcase their talents in both choir
-and drama performances during school events.</p>
-<p>Some of the highlights from the past years include BRLC Celebrates! Reader
-Theatre performance, a handbell performance to commemorate Beethoven’s
-250th Anniversary and a virtual choir on National Day.</p>
-<p>You can watch some of the videos here.</p>
+<p>Healthy self-esteem is best nurtured from a young age. Since 2020, the
+Junior Primary (JP) Team has intentionally built self-confidence and resilience
+by giving students opportunities to showcase their talents and experience
+the joy of learning. Foundational performance skills are explicitly taught
+through Music, English Language and Programme for Active Learning (PAL)
+lessons.</p>
+<p>In 2023, the iDiscover Programme extended these opportunities further,
+enabling Primary 1 and Primary 2 students to present their talents through
+choir and drama performances at school events.</p>
+<p></p>
+<p></p>
+<p>Introduced in 2025, Be Yourself @ JP places confidence-building at the
+heart of the Junior Primary experience. Primary 1 and Primary 2 students
+were given platforms to showcase their musical talents through instrument
+performances during recess and lunch breaks. These informal, authentic
+settings encouraged young learners to step forward, express themselves
+and build confidence in a supportive environment — and were met with warm
+responses from students and the school community alike. We are grateful
+to our parents for their partnership in making this a meaningful experience
+for our children.</p>
+<p></p>
+<p></p>
+<p>Other platforms for showcasing talents include BRLC Celebrates! Reader's
+Theatre performances, a handbell performance commemorating Beethoven's
+250th Anniversary, and a National Day virtual choir — each offering our
+youngest learners a stage to grow in confidence and find their voice.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WBuRg4x_uYM?si=oJRl7M2cr-VDUl9w"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WBuRg4x_uYM?si=oJRl7M2cr-VDUl9w"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qVM8nTdcbOE?si=-IC9-ahgVusDldmm"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qVM8nTdcbOE?si=-IC9-ahgVusDldmm"></iframe>
 </div>
 <p></p>
