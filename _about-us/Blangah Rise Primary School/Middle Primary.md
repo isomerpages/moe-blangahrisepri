@@ -121,6 +121,36 @@ Students had fun participating in various traditional cultural art forms
 such as nanyin music, Chinese puppetry and Chinese calligraphy. They also
 will be exploring how the Chinese community has contributed to Singapore
 on this journey.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ01.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ02.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ03.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ04.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ06.jpg">
+</div>
+<p></p>
 <p><strong><br>P4 Traffic Games</strong>
 </p>
 <p>Students will learn road safety tips and how to be a responsible road-user
