@@ -19,6 +19,16 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Majulah Singapura, Go Beyond!
+      subtitle: HIGHLIGHTS
+      id: infopic
+      button: CLICK HERE TO READ MORE
+      url: https://blangahrisepri.moe.edu.sg/majulah-singapura-go-beyond/
+      image: /images/2026 Photo Album/National Day/Cover_Image.jpg
+      alt: Image alt text
+      description: On 7 August, our school came together to celebrate Singapore’s 61st
+        birthday with this year’s theme, “Majulah Singapura, Go Beyond!”
+  - infopic:
       title: P2 Learning Journey - Learning Beyond the Classrooms
       subtitle: HIGHLIGHTS
       id: infopic
@@ -48,16 +58,6 @@ sections:
       url: /learning-beyond-the-classroom-at-sungei-buloh-wetland-reserve/
       image: /images/2026 Photo Album/P6 Sungei Buloh/P6_LJ.jpg
       alt: Image alt text
-  - infopic:
-      title: Majulah Singapura, Go Beyond!
-      subtitle: HIGHLIGHTS
-      id: infopic
-      button: CLICK HERE TO READ MORE
-      url: https://blangahrisepri.moe.edu.sg/majulah-singapura-go-beyond/
-      image: /images/2026 Photo Album/National Day/Cover_Image.jpg
-      alt: Image alt text
-      description: On 7 August, our school came together to celebrate Singapore’s 61st
-        birthday with this year’s theme, “Majulah Singapura, Go Beyond!”
   - infopic:
       title: MediaKids Student Featured in NAPE 2026 Exhibition
       subtitle: Highlights
