@@ -60,27 +60,16 @@ when the teachers regularly put up their good work done in class!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Learning_6.jpg">
 </div>
-<p><strong>LEVEL PROGRAMMES </strong>
+<p><strong>LEVEL PROGRAMMES</strong>
 </p>
-<p><strong>P4 Discovery Camp<br></strong>A fun-filled after school programme
-which helps our students to enjoy their schooling experience, develop skills
-and forge strong bonds / relationships with their school mates.</p>
+<p><strong>P3 Discovery Camp – Learning For Life</strong>
+</p>
+<p><strong><br></strong>A fun-filled after school programme which helps our
+students to enjoy their schooling experience, develop skills and forge
+strong bonds / relationships with their school mates.</p>
 <p>Welcome to our Discovery Camp, where students acquire essential life skills
-beyond the classroom. Our 'Managing Distractions' activity focuses on navigating
-distractions at school or home. Students explore personal triggers and
-practical coping strategies. The highlight of our camp is the collaborative
-poster-making session, where students join forces to visually represent
-effective distraction management techniques. This hands-on activity not
-only fosters creativity and teamwork but also reinforces their understanding
-of the strategies discussed.</p>
+beyond the classroom.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_2.png">
-</div>
 <p><strong>P4 Passion Project Showcase</strong>
 </p>
 <p>This showcase, where students exhibit their interests and talents, provides
