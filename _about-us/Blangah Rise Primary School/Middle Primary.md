@@ -26,7 +26,7 @@ We look forward to an exciting year of learning and growth for your child.</p>
 <img style="width: 80%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/MP_YH.jpg">
 </div>
 <p></p>
-<p><strong>Click <a href="https://youtu.be/GRx_SejKMqA" rel="noopener nofollow" target="_blank">here</a> to view our Middle Primary Level video</strong>
+<p><strong>Click <a href="https://youtu.be/GRx_SejKMqA" rel="noopener nofollow" target="_blank">here</a> to view our Middle Primary (MP) Level video.</strong>
 </p>
 <p></p>
 <p><strong>LEARNING ENVIRONMENT<br></strong>Our students love to come to
