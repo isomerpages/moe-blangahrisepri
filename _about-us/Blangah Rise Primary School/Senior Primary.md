@@ -131,7 +131,7 @@ coming together to wish our country a heartfelt Happy Birthday!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/SP Page/IMG_3955.jpg">
 </div>
-<p><strong>P5 Camp </strong>
+<p><strong>P5 Camp</strong>
 </p>
 <p>This year, our Primary 5 Outdoor Adventure Camp was held at the MOE Labrador
 Adventure Centre. Over three days and two nights, students spent meaningful
