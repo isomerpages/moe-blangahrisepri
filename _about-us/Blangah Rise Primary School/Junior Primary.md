@@ -129,4 +129,7 @@ for our children.</p>
 Theatre performances, a handbell performance commemorating Beethoven's
 250th Anniversary, and a National Day virtual choir — each offering our
 youngest learners a stage to grow in confidence and find their voice.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hLjVYn909nQ?si=ihC8v2K_uZYnhu2g"></iframe>
+</div>
 <p></p>
