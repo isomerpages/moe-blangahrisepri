@@ -70,38 +70,29 @@ strong bonds / relationships with their school mates.</p>
 <p>Welcome to our Discovery Camp, where students acquire essential life skills
 beyond the classroom.</p>
 <p></p>
-<p><strong>P4 Passion Project Showcase</strong>
+<p><strong>P4 Discovery Camp – Passion Project Showcase</strong>
 </p>
 <p>This showcase, where students exhibit their interests and talents, provides
 a platform for students to express their unique abilities, passions, and
 creativity in front of their peers and teachers.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_3.png">
-</div>
 <p>Through showcasing their talents, students gain confidence, self-esteem
 and a sense of achievement as they receive recognition and appreciation
 for their efforts. Additionally, participating in such events fosters a
 supportive and inclusive school community where students feel valued and
 celebrated for their individuality.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_4.png">
-</div>
 <p>Moreover, the showcase encourages collaboration, teamwork, and leadership
 skills as students work together to organise and present their performances
 or projects. To develop their passions and talents, students cultivate
 virtues such as perseverance, resilience, determination, and discipline,
 which are essential for overcoming challenges and developing their skills.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_5.png">
-</div>
 <p></p>
 <p>Overall, the excitement and enthusiasm displayed by students during the
 showcase highlight their enjoyment and pride in sharing their talents with
 others, creating memorable and enriching experiences for all involved.</p>
-<p><strong>P4 Learning Journey to Geylang Serai Heritage Gallery</strong>
+<p><strong>P3 Learning Journey to Geylang Serai Heritage Gallery</strong>
 </p>
 <p>This learning journey has provided our P4 students a transformative experience
 by immersing them in the vibrant cultural community of Geylang Serai. Through
@@ -114,70 +105,27 @@ cultural awareness and empathy. By connecting classroom learning with real-world
 experiences, this learning journey cultivates critical thinking, empathy,
 and appreciation for diversity, empowering our students to become informed
 and respectful global citizens.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_7.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_8.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_9.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_10.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_11.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_12.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_13.png">
-</div>
+<p><strong>P4 Learning Journey to Kreta Ayer</strong>
+</p>
+<p>Students role-played as junior reporters who are interested in learning
+about the Chinese Heritage and culture. They embarked on a museum-based
+heritage learning journey to Kreta Ayer to discover the historical significance
+of the place as it is now considered a cultural heartland of Chinatown.
+Students had fun participating in various traditional cultural art forms
+such as nanyin music, Chinese puppetry and Chinese calligraphy. They also
+will be exploring how the Chinese community has contributed to Singapore
+on this journey.</p>
 <p><strong><br>P4 Traffic Games</strong>
 </p>
 <p>Students will learn road safety tips and how to be a responsible road-user
 at our community road safety park.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Road_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Road_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Road_3.jpg">
-</div>
 <p><strong>P3 Swimsafer Programme<br></strong>Students learn basic swimming,
 survival and lifesaving skills. Takes place during curriculum lessons in
-Term 1 (3S) and 2 (3T).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Swim_1.jpg">
-</div>
+Term 1 (3S) and (3T) and Term 2 (3O).</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Swim_2.jpg">
-</div>
+<p><strong>Awards and Recognition</strong>
+</p>
+<p><strong><br></strong>Students who have demonstrated virtues actions, are
+good role models and have demonstrated good habits would be recognsed.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Swim_3.jpg">
-</div>
-<p></p>
-<p><strong>AWARDS AND RECOGNITION<br></strong>Students who have demonstrated
-virtues actions, are good role models and have demonstrated good habits
-would be recognsed.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Award_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Award_2.jpg">
-</div>
 <p></p>
