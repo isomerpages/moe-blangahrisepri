@@ -155,6 +155,28 @@ on this journey.</p>
 </p>
 <p>Students will learn road safety tips and how to be a responsible road-user
 at our community road safety park.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG04.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG05.jpg">
+</div>
+<p></p>
 <p><strong>P3 Swimsafer Programme<br></strong>Students learn basic swimming,
 survival and lifesaving skills. Takes place during curriculum lessons in
 Term 1 (3S) and (3T) and Term 2 (3O).</p>
