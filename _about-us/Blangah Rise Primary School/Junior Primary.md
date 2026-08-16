@@ -108,6 +108,9 @@ lessons.</p>
 enabling Primary 1 and Primary 2 students to present their talents through
 choir and drama performances at school events.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Junior Primary/BeYourself.jpg">
+</div>
 <p></p>
 <p>Introduced in 2025, Be Yourself @ JP places confidence-building at the
 heart of the Junior Primary experience. Primary 1 and Primary 2 students
@@ -119,7 +122,9 @@ responses from students and the school community alike. We are grateful
 to our parents for their partnership in making this a meaningful experience
 for our children.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Junior Primary/dramaP2.jpg">
+</div>
 <p>Other platforms for showcasing talents include BRLC Celebrates! Reader's
 Theatre performances, a handbell performance commemorating Beethoven's
 250th Anniversary, and a National Day virtual choir — each offering our
