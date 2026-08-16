@@ -164,4 +164,15 @@ Term 1 (3S) and (3T) and Term 2 (3O).</p>
 <p><strong><br></strong>Students who have demonstrated virtues actions, are
 good role models and have demonstrated good habits would be recognsed.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/A01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/A02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/A03.jpg">
+</div>
 <p></p>
