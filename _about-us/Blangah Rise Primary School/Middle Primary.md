@@ -26,18 +26,9 @@ We look forward to an exciting year of learning and growth for your child.</p>
 <img style="width: 80%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/MP_YH.jpg">
 </div>
 <p></p>
-<p><strong>Click on the following links to view our P3 and P4 Level videos:</strong>
+<p><strong>Click <a href="https://youtu.be/GRx_SejKMqA" rel="noopener nofollow" target="_blank">here</a> to view our Middle Primary (MP) Level video.</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://youtu.be/XCs26PknOz4" rel="noopener" target="_blank">P3 Level Video</a>
-</p>
-</li>
-<li>
-<p><a href="https://youtu.be/Csq1j8rstqM" rel="noopener" target="_blank">P4 Level Video</a>
-</p>
-</li>
-</ol>
+<p></p>
 <p><strong>LEARNING ENVIRONMENT<br></strong>Our students love to come to
 school and enjoy learning because our teachers create a non-threatening
 and conducive environment that welcomes them. Our students beam with pride
@@ -60,59 +51,38 @@ when the teachers regularly put up their good work done in class!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Learning_6.jpg">
 </div>
-<p><strong>LEVEL PROGRAMMES </strong>
+<p><strong>LEVEL PROGRAMMES</strong>
 </p>
-<p><strong>P4 Discovery Camp<br></strong>A fun-filled after school programme
-which helps our students to enjoy their schooling experience, develop skills
-and forge strong bonds / relationships with their school mates.</p>
+<p><strong>P3 Discovery Camp – Learning For Life<br></strong>A fun-filled
+after school programme which helps our students to enjoy their schooling
+experience, develop skills and forge strong bonds / relationships with
+their school mates.</p>
 <p>Welcome to our Discovery Camp, where students acquire essential life skills
-beyond the classroom. Our 'Managing Distractions' activity focuses on navigating
-distractions at school or home. Students explore personal triggers and
-practical coping strategies. The highlight of our camp is the collaborative
-poster-making session, where students join forces to visually represent
-effective distraction management techniques. This hands-on activity not
-only fosters creativity and teamwork but also reinforces their understanding
-of the strategies discussed.</p>
+beyond the classroom.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_2.png">
-</div>
-<p><strong>P4 Passion Project Showcase</strong>
+<p><strong>P4 Discovery Camp – Passion Project Showcase</strong>
 </p>
 <p>This showcase, where students exhibit their interests and talents, provides
 a platform for students to express their unique abilities, passions, and
 creativity in front of their peers and teachers.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_3.png">
-</div>
 <p>Through showcasing their talents, students gain confidence, self-esteem
 and a sense of achievement as they receive recognition and appreciation
 for their efforts. Additionally, participating in such events fosters a
 supportive and inclusive school community where students feel valued and
 celebrated for their individuality.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_4.png">
-</div>
 <p>Moreover, the showcase encourages collaboration, teamwork, and leadership
 skills as students work together to organise and present their performances
 or projects. To develop their passions and talents, students cultivate
 virtues such as perseverance, resilience, determination, and discipline,
 which are essential for overcoming challenges and developing their skills.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_5.png">
-</div>
 <p></p>
 <p>Overall, the excitement and enthusiasm displayed by students during the
 showcase highlight their enjoyment and pride in sharing their talents with
 others, creating memorable and enriching experiences for all involved.</p>
-<p><strong>P4 Learning Journey to Geylang Serai Heritage Gallery</strong>
+<p><strong>P3 Learning Journey to Geylang Serai Heritage Gallery</strong>
 </p>
 <p>This learning journey has provided our P4 students a transformative experience
 by immersing them in the vibrant cultural community of Geylang Serai. Through
@@ -125,70 +95,129 @@ cultural awareness and empathy. By connecting classroom learning with real-world
 experiences, this learning journey cultivates critical thinking, empathy,
 and appreciation for diversity, empowering our students to become informed
 and respectful global citizens.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_7.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P3LJ01.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_9.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P3LJ02.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_11.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P3LJ03.jpg">
 </div>
 <p></p>
+<p><strong>P4 Learning Journey to Kreta Ayer</strong>
+</p>
+<p>Students role-played as junior reporters who are interested in learning
+about the Chinese Heritage and culture. They embarked on a museum-based
+heritage learning journey to Kreta Ayer to discover the historical significance
+of the place as it is now considered a cultural heartland of Chinatown.
+Students had fun participating in various traditional cultural art forms
+such as nanyin music, Chinese puppetry and Chinese calligraphy. They also
+will be exploring how the Chinese community has contributed to Singapore
+on this journey.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Photos/MP/MP_13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ01.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ02.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ03.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ04.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4LJ06.jpg">
+</div>
+<p></p>
 <p><strong><br>P4 Traffic Games</strong>
 </p>
 <p>Students will learn road safety tips and how to be a responsible road-user
 at our community road safety park.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Road_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG01.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Road_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG02.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Photos/Middle%20Primary/Road_3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG03.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG04.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/P4TG05.jpg">
+</div>
+<p></p>
 <p><strong>P3 Swimsafer Programme<br></strong>Students learn basic swimming,
 survival and lifesaving skills. Takes place during curriculum lessons in
-Term 1 (3S) and 2 (3T).</p>
+Term 1 (3S) and (3T) and Term 2 (3O).</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Swim_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Swim_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/2.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Swim_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/S3.jpg">
 </div>
 <p></p>
-<p><strong>AWARDS AND RECOGNITION<br></strong>Students who have demonstrated
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/S5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/6.jpg">
+</div>
+<p></p>
+<p><strong>Awards and Recognition<br></strong>Students who have demonstrated
 virtues actions, are good role models and have demonstrated good habits
 would be recognsed.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Award_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/A01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/2024%20Photos/Middle%20Primary/Award_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/A02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Middle Primary/A03.jpg">
 </div>
 <p></p>
