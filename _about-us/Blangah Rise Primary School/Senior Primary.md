@@ -29,18 +29,8 @@ and events at the Senior Primary level. Thank you for your continued support
 and commitment to your child’s education.</p>
 <p>Mdm Stephanie Song – Year Head Senior Primary</p>
 <p>Ms Munirah – Assistant Year Head Senior Primary</p>
-<p><strong>Click on the following links to view our P5 and P6 Level videos:</strong>
+<p><strong>Click <a href="https://youtu.be/3ccsrCIEEvo" rel="noopener nofollow" target="_blank">here</a> to view our Senior Primary Level video.</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://youtu.be/kMVUIlRurwk?si=Zm6B27Hk4S9oPbT0" rel="noopener noreferrer nofollow" target="_blank">P5 Level Video</a>
-</p>
-</li>
-<li>
-<p><a href="https://youtu.be/XYeY2lS7BAs?si=7VcFMA93zDOVQQVD" rel="noopener noreferrer nofollow" target="_blank">P6 Level Video</a>
-</p>
-</li>
-</ol>
 <p><strong>TSR Time in Senior Primary</strong>
 </p>
 <p>Teachers and students begin a typical school day by engaging in fun-filled
