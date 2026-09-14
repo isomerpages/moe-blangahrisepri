@@ -4,8 +4,6 @@ permalink: /parent-support-group/school-letters-information/
 description: ""
 variant: tiptap
 ---
-<ul>
-<li>
 <p>2026</p>
 <p><strong>Principal's Letter</strong>
 </p>
@@ -15,6 +13,4 @@ variant: tiptap
 </p>
 <p><a href="/files/P Letter 2026/2026_04_Principal.pdf" rel="noopener nofollow" target="_blank">Principal's September Letter 2026</a>
 </p>
-</li>
-</ul>
 <p></p>
