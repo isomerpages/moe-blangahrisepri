@@ -23,14 +23,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Healthy%20Kids%20Newsletter/brps%20health%20kids%20newsletter_nov%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">BRPS Healthy Kids Newsletter - Nov 2023</a>
 </p>
-</li>
-<li>
-<p><strong>2022</strong>
-</p>
-<p><a href="/files/BRPS-Healthy-Kids-Newsletter-May-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">BRPS Healthy Kids Newsletter - May 2022</a>
-</p>
-<p><a href="/files/BRPS-Healthy-Kids-Newsletter-Nov-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">BRPS Healthy Kids Newsletter - Nov 2022</a>
-</p>
+<p></p>
 <p></p>
 </li>
 </ul>
