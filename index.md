@@ -29,14 +29,12 @@ sections:
       description: On 7 August, our school came together to celebrate Singapore’s 61st
         birthday with this year’s theme, “Majulah Singapura, Go Beyond!”
   - infopic:
-      title: P2 Learning Journey - Learning Beyond the Classrooms
-      subtitle: HIGHLIGHTS
+      title: Principal's Term 4 Letter 2026
+      subtitle: ANNOUNCEMENTS
       id: infopic
-      description: Our Primary 2 students embarked on an exciting learning journey to
-        the Flower Dome as part of Wise Wee and the Little Adventurers!
       button: Read More
-      url: /p2-learning-journey-learning-beyond-the-classrooms/
-      image: /images/2026 Photo Album/P2 LJ/Cover_Image.jpg
+      url: https://blangahrisepri.moe.edu.sg/principal-s-term-4-letter-2026/
+      image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
       alt: Image alt text
   - infopic:
       title: EAS Day 2026 - Celebrating Our Everyday Heroes
