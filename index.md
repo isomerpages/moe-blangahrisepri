@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /departments/senior-primary/
   - infopic:
+      title: Principal's Term 4 Letter 2026
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      button: Read More
+      url: https://blangahrisepri.moe.edu.sg/principal-s-term-4-letter-2026/
+      image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
+      alt: Image alt text
+  - infopic:
       title: Majulah Singapura, Go Beyond!
       subtitle: HIGHLIGHTS
       id: infopic
@@ -28,14 +36,6 @@ sections:
       alt: Image alt text
       description: On 7 August, our school came together to celebrate Singapore’s 61st
         birthday with this year’s theme, “Majulah Singapura, Go Beyond!”
-  - infopic:
-      title: Principal's Term 4 Letter 2026
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      button: Read More
-      url: https://blangahrisepri.moe.edu.sg/principal-s-term-4-letter-2026/
-      image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
-      alt: Image alt text
   - infopic:
       title: EAS Day 2026 - Celebrating Our Everyday Heroes
       subtitle: HIGHLIGHTS
