@@ -13,7 +13,8 @@ variant: tiptap
 </p>
 <p><a href="/files/P Letter 2026/2026_02_Principal_s_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's March Letter 2026</a>
 </p>
-<p></p>
+<p><a href="/files/P Letter 2026/2026_04_Principal.pdf" rel="noopener nofollow" target="_blank">Principal's September Letter 2026</a>
+</p>
 </li>
 </ul>
 <p></p>
