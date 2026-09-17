@@ -27,6 +27,16 @@ sections:
       image: /images/2026 Photo Album/Principal_Termly_Letter.jpg
       alt: Image alt text
   - infopic:
+      title: Teachers' Day 2026
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Our school came together to celebrate Teachers’ Day and express our
+        heartfelt appreciation to our teachers.
+      button: Read More
+      url: /learning-beyond-the-classroom-at-sungei-buloh-wetland-reserve/
+      image: /images/2026 Photo Album/Teacher's Day/T_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Majulah Singapura, Go Beyond!
       subtitle: HIGHLIGHTS
       id: infopic
@@ -45,16 +55,6 @@ sections:
       button: Read More
       url: /eas-day-2026-celebrating-our-everyday-heroes/
       image: /images/2026 Photo Album/EAS Day/Cover_Image.jpg
-      alt: Image alt text
-  - infopic:
-      title: Learning Beyond the Classroom - Sungei Buloh Wetland Reserve
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Our Primary 6 students recently embarked on an enriching Science
-        Learning Journey to Sungei Buloh Wetland Reserve.
-      button: Read More
-      url: /learning-beyond-the-classroom-at-sungei-buloh-wetland-reserve/
-      image: /images/2026 Photo Album/P6 Sungei Buloh/P6_LJ.jpg
       alt: Image alt text
   - infopic:
       title: MediaKids Student Featured in NAPE 2026 Exhibition
