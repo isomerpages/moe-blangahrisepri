@@ -33,7 +33,7 @@ sections:
       description: Our school came together to celebrate Teachers’ Day and express our
         heartfelt appreciation to our teachers.
       button: Read More
-      url: /learning-beyond-the-classroom-at-sungei-buloh-wetland-reserve/
+      url: https://blangahrisepri.moe.edu.sg/teacher-s-day-2026/
       image: /images/2026 Photo Album/Teacher's Day/T_1.jpg
       alt: Image alt text
   - infopic:
