@@ -139,8 +139,7 @@ Eu Chin and their friends.</p>
 </p>
 <p>We also organise Dr Seuss Talks to celebrate the authorial legacy of Dr
 Seuss and his widely-loved children books. Our primary one, two and three
-students are introduced to Dr. Seuss and his zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>.
-Read more about our Dr Seuss Day celebrations&nbsp;<strong><a href="/2022/03/18/junior-primary-and-moe-kindergartens-journey-to-dr-seuss-fantastical-worlds/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and&nbsp;<strong><a href="/2021/03/26/dr-seuss-day/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+students are introduced to Dr. Seuss and his zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/english2.png">
 </div>
@@ -153,8 +152,7 @@ in national competitions such as Wits &amp; Words (Debating) and Scrabble.
 With their memorised Latin, Greek roots and two-letter words, our Scrabblers
 rose to the challenge against students from many other schools. Since 2023,
 on top of individual accolades, our Scrabblers have brought home the Team
-Championship for the Junior Division, Bowl Category. Read more about our
-scrabble&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/2023/05/30/champion-scrabbles/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(2023).</p>
+Championship for the Junior Division, Bowl Category.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/Update EL Dept/Scrabble_2026.jpg">
@@ -177,7 +175,7 @@ levels, students are given the opportunity to pit their wits against each
 other in argumentative debate on topics such as eSports, kid influencers,
 as well as the banes and boons of video games. In 2025, our school debaters
 emerged one of the Top 3 teams at the Wits &amp; Words Inter-School Debate
-Competition (Division II). Read more about their success&nbsp;<strong><a href="/2021/03/16/brps-debate-team-advances-to-quarterfinals-at-inter-school-competition/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and&nbsp;<strong><a href="/2021/04/15/brps-debate-team-advances-to-semifinals-of-inter-school-competition/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+Competition (Division II).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Debate_photo_1__to_update_.jpg">
@@ -193,9 +191,7 @@ Competition (Division II). Read more about their success&nbsp;<strong><a href="/
 our BRPS student e-newsletter, for the students, by the students. Through
 the years, our APEX students generated ideas for their student newsletter
 and penned them, sharing tips on how to manage examination stress and HBL,
-as well as reviews on books, movies and games! Read our recent issues of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;<strong><a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-<a href="/files/Bravo-Issue-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>and&nbsp;<strong><a href="/files/Bravo/BRavo 2026/BRavo_Newsletter_2025_compressed.pdf" rel="noopener nofollow" target="_blank">here.</a></strong>
-</p>
+as well as reviews on books, movies and games!</p>
 <p><strong><em>Staging the performing arts</em></strong>
 </p>
 <p>Beyond writing, we also use drama, music and movement to inculcate in
