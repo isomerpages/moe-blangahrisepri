@@ -246,7 +246,7 @@ to learn more about the environment and biodiversity, and how they can
 play a part in caring for Mother Earth.</p>
 <p>&nbsp;</p>
 <p>Check out our Student Leaders sharing about our publications</p>
-<p><u>The Green Dragonflies and Their Swampy Friends </u>
+<p><u>The Green Dragonflies and Their Swampy Friends</u>
 </p>
 <p><u>Friends of Berlayer Creek</u>
 </p>
