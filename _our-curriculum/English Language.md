@@ -134,9 +134,7 @@ Eu Chin and their friends.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photo Album/English Dept/Authors_Talk_photo__to_update_.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p>We also organise Dr Seuss Talks to celebrate the authorial legacy of Dr
 Seuss and his widely-loved children books. Our primary one, two and three
 students are introduced to Dr. Seuss and his zany writings, from&nbsp;<em>Horton Hears A Who</em>&nbsp;to&nbsp;<em>Yertle The Turtle</em>.</p>
