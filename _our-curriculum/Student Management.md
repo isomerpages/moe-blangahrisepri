@@ -246,11 +246,11 @@ to learn more about the environment and biodiversity, and how they can
 play a part in caring for Mother Earth.</p>
 <p>&nbsp;</p>
 <p>Check out our Student Leaders sharing about our publications</p>
-<p>– <u>The Green Dragonflies and Their Swampy Friends</u> (<a href="https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/" rel="noopener noreferrer nofollow" target="_blank">https://www.blangahrisepri.moe.edu.sg/our-distinctive-programmes/special-projects/the-green-dragonflies-and-their-swampy-friends/</a>)
-and</p>
+<p><u>The Green Dragonflies and Their Swampy Friends </u>
+</p>
 <p><u>Friends of Berlayer Creek</u>
 </p>
-<p>(<a href="https://www.blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/" rel="noopener noreferrer nofollow" target="_blank">https://www.blangahrisepri.moe.edu.sg/friends-of-berlayer-creek/</a>)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
