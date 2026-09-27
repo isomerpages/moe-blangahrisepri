@@ -50,9 +50,7 @@ creative and journalistic skills. As part of their in-curriculum stretch,
 our High Ability English Learners come together in the classroom to pen <strong><em>BRavo!</em></strong>&nbsp;–
 our BRPS student e-newsletter, for the students, by the students. Guided
 their EL teachers, our APEX students share their creative writing, book
-reviews, and thoughts about contemporary issues they care about. Read our
-latest issue of&nbsp;<strong><em>BRavo!</em></strong>&nbsp;<a href="https://www.blangahrisepri.moe.edu.sg/announcements/publications/bravo/" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+reviews, and thoughts about contemporary issues they care about.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photo Album/APEX 2026/Image_2.jpg">
